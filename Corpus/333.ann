@@ -1,0 +1,16 @@
+T1	Claim 51 150	Man sieht das du bei der Ausarbeitung der Aufgabenstellung viel Aufwand und Sorgfalt betrieben hast
+T2	Premise 152 206	Ja du hast sogar!! ein Bild eines Prototyps integriert
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 208 333	Ich finde deine Idee spannend und sehe speziell im Bereich Reisebuchung und Ferienplanung Potential bei integrierten Lösungen
+T4	Claim 413 553	Beim Punkt Softwareeinsatz Anwendungsbereich und Zielgruppe könntest du meiner Meinung nach noch detaillierter auf deine Zielgruppe eingehen
+T5	Premise 555 634	Du sprichst lediglich von Kunden, resp. vom Nutzer im Sinne eines Reisewilligen
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 636 761	Ich bin mir aber nicht sicher, ob bspw. reisewillige Menschen ab einem Alter von 60 auch wirklich zu deiner Zielgruppe zählen
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 777 966	stellt meiner Ansicht nach die Tatsache, dass deine Plattform durch einen Algorithmus den Kunden kennenlernt und ihm entsprechend Tipps und Empfehlungen unterbreitet, eher eine Funktion dar
+T8	Premise 968 1018	Diese sollte in Punkt 3 unbedingt erläutert werden
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 1141 1190	das Lastenheft zuhanden eines Auftragnehmers geht
+T10	Claim 1192 1303	sollten meiner Meinung nach vermehrt Soll und MussSätze formuliert werden, die den Inhalt auf den Punkt bringen
+R5	supports Arg1:T9 Arg2:T10	
+T11	Claim 1305 1610	Einleitungen wie Da man meistens gemeinsam in die Ferien oder auf Reisen geht, wäre es von Vorteil wenn man die verschiedenen Ideen auf einer Plattform abspeichern könnte, um diese im Planungsprozess nicht zu vergessen. erklären zwar deine zugrunde liegende Idee, doch sind sie für mich Teil des Punktes 3

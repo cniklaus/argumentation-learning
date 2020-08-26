@@ -1,0 +1,9 @@
+T1	Claim 69 145	Die Analyse deiner Zielgruppen war die beste, die ich bis anhin gelesen habe
+T2	Premise 153 198	werden meistens nur die Nutzer selbst erwähnt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 206 239	Gute kurze Beschreibung vorne weg
+T4	Claim 239 302	Saubere Differenzierung der Funktionalitäten nach Nutzergruppen
+T5	Claim 413 467	ist nur der erste Satz von Punkt 1 das Ziel deiner App
+T6	Premise 469 539	Die drei Bulletpoints beschreiben teilweise bereits die Funktionalität
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 681 831	Im Anwendungsbereich könntest du gegebenenfals noch weitere Szenarien ausserhalb des Modebereichs aufzeigenVerbesserung der Kritikpunkte unter Punkt 2

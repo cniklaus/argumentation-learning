@@ -1,0 +1,14 @@
+T1	Claim 70 135	Die Tabelle im Abschnitt 3 ist sehr übersichtlich und detailliert
+T2	Claim 137 202	Sehr gut finde ich die Auflistung der Attribute für die Anmeldung
+T3	Claim 204 279	Die Unterteilung im Abschnitt 2 wurde sinnvoll nach Zielgruppen vorgenommen
+T4	Claim 281 344	Mir gefällt auch die genaue Beschreibung der beiden Anmeldungen
+T5	Premise 346 363	User und Anbieter
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 365 425	Wurde bei anderen Plattformlösungen schlechter ausgearbeitet
+R2	supports Arg1:T6 Arg2:T4	
+T7	Claim 658 722	Vielleicht kannst du noch die benötigten Schnittstellen erwähnen
+T8	Premise 728 751	API von Google Maps etc
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 752 821	Detail Im Word Doc kannst du glaube ich die letzte Seite löschen leer
+T10	Claim 821 883	Ansonsten sehe ich keine Schwächen oder Verbesserungspotenzial
+T11	Claim 885 899	Super Leistung

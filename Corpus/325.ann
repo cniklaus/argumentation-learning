@@ -1,0 +1,20 @@
+T1	Claim 15 49	eine interessante Lösung finde ich
+T2	Premise 51 147	Nicht so mainstream wie die meisten anderen Lösungen, die ich bisher zur Bewertung bekommen habe
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 148 243	Die Ziele, den Anwendungsbereich und die Zielgruppen hast du ausführlich und sauber beschrieben
+T4	Premise 245 298	Hierzu habe ich keine grossen Verbesserungsvorschläge
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 385 461	Ich finde es gut, dass du in FrontEnd und BackEnd Funktionen unterteilt hast
+T6	Claim 494 677	Beim Einrichten der Betriebsmittellandschaft schreibst du, dass die Betriebsmittel zuerst manuell eingetragen werden müssen und die Daten dann durch die Backendfunktion ergänzt werden
+T7	Premise 678 785	Wäre es nicht einfacher wenn man die Betriebsmittel mit einer einzigen Funktion vollständig erfassen könnte
+T8	Premise 792 886	scannt an einen QR Code oder macht einfach ein Foto der Maschine und der Rest geht automatisch
+R3	supports Arg1:T7 Arg2:T6	
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 887 1077	Damit die Backendfunktion die Angaben zu den Betriebsmittel vervollständigen kann, muss auch der Zugriff auf eine Datenbank gewährleistet sein und eine geeignete Schnittstelle vorhanden sein
+T10	Premise 1079 1165	Diese Datenbank und Schnittstellenfunktion fehlt momentan noch in deinem Pflichtenheft
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1166 1281	So wie ich deine Lösung verstehe, hat dies auch viel mit Product Lifycycle Management und internet of things zu tun
+T12	Claim 1283 1428	Wäre eine Funktion, die per Internet of things auf Informationen, Nutzungsdaten usw. von anderen ähnlichen Maschinen zugreift nicht noch sinnvoll
+R6	supports Arg1:T11 Arg2:T12	
+T13	Premise 1430 1521	Diese Informationen können dann genutzt werden, um deinen Wartungsalgorithmus zu verbessern
+R7	supports Arg1:T13 Arg2:T12	

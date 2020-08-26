@@ -1,0 +1,32 @@
+T1	Claim 17 74	Insgesamt eine gute Leistung und die Idee finde ich super
+T2	Premise 76 132	Die Prozesse sind grundsätzlich verständlich dargestellt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 139 192	wird in der Diskussion Verbesserungspotential erkannt
+T4	Premise 198 248	Automatisierung bei der Auswertung von Kommentaren
+R2	supports Arg1:T4 Arg2:T3	
+R3	supports Arg1:T3 Arg2:T1	
+T5	Premise 253 414	Kundenprozess Veranstaltungen  Wie ich das verstehe, tritt der Schritt Wenn nötig Anpassungen vornehmen aufgrund bestimmter Bewertungen/Kommentare der Nutzer ein
+T6	Claim 429 517	müsste der Schritt meines Erachtens oberhalb der Order Penetration Line sein bei Support
+R4	supports Arg1:T5 Arg2:T6	
+T7	Claim 522 580	Der Schritt Auswertung der Daten stellt keine Facility dar
+T8	Premise 582 673	Ich sehe den Schritt eher bei Preparation sofern er unabhängig von Kunden durchgeführt wird
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 675 852	Da die zwei Pfeile, die darauf verweisen jedoch von einer Kundeninteraktion stammen, könnte man den Schritt jedoch allenfalls sogar oberhalb der Order Penetration Linie einfügen
+R6	supports Arg1:T9 Arg2:T7	
+T10	Claim 855 919	Der Schritt Download App würde ich oberhalb der Linie platzieren
+T11	Premise 924 1075	diese in einem App Store Apple oder Android heruntergeladen wird und entsprechend kein Kontakt mit dem Unternehmen besteht nicht einmal mit der Website
+R7	supports Arg1:T11 Arg2:T10	
+T12	Claim 1077 1197	Falls man Technologie wie z.B. die App Oberfläche oder eine Homepage als visible machen die anderen Schritte jedoch sinn
+T13	Claim 1202 1345	Den Schritt Filterung der Veranstaltungen anhand der verfüg. Daten könnte man vielleicht auch unterhalb der Internal Interaction Line einsetzen
+T14	Premise 1350 1405	dieser nicht direkt mit einer Interaktion zusammenhängt
+R8	supports Arg1:T14 Arg2:T13	
+T15	Claim 1408 1495	Kundenprozess online und offline Spiele  Bei ähnlichen Schritten, siehe Kommentare oben
+T16	Claim 1501 1587	en Schritt Recherche würde ich ebenfalls oberhalb der Linie bei Preparation darstellen
+T17	Claim 1590 1682	Diskussion  Ich weiss nicht, inwiefern hier wirklich von Postponement gesprochen werden kann
+T18	Premise 1684 1825	Der ganze Content, also alle Spiele und Anleitungen werden ja zu Beginn, nicht Kundenspezifisch entwickelt und sind dann in der App vorhanden
+R9	supports Arg1:T18 Arg2:T17	
+T19	Premise 1827 1941	Bei der spezifischen Ausrichtung handelt es sich ja rein um eine Filterfunktion, nicht um einen Produktionsschritt
+R10	supports Arg1:T19 Arg2:T18	
+T20	Premise 1943 2059	Bin mir da aber auch nicht sicher, finde es Schwierig, das Konzept des Postponenment im Plattformgeschäft anzuwenden
+R11	attacks Arg1:T20 Arg2:T19	
+T21	Claim 2066 2222	Generell würde ich bei der Überarbeitung nochmals genau überlegen, welche Schritte genau oberhalb oder unterhalb welcher Linie gehören Vorschläge siehe oben

@@ -1,0 +1,25 @@
+T1	Premise 18 92	Der Auftrag wurde korrekt erfüllt und beinhaltet alle notwendigen Elemente
+T2	Claim 100 149	wurde das Instrument Lastenheft korrekt angewandt
+R1	supports Arg1:T1 Arg2:T2	
+T3	Premise 213 265	Ich habe einige kleinere Rechtschreibefehler gesehen
+T4	Claim 267 293	Korrigiere diese doch noch
+R2	supports Arg1:T3 Arg2:T4	
+T5	Claim 294 434	Du sagst, dass der Prozess die Kleider einzutragen viel Aufwand bedeutet und das Ganze vereinfacht wird und der Aufwand dafür reduziert wird
+T6	Premise 436 493	Wie kann ich mir diese Vereinfachung im Detail vorstellen
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 495 581	Denn ich weiss momentan immernoch nicht, wie mir diese mühsame Prozes vereinfacht wird
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 582 654	Beim Anwendungsbereich fehlt mir der Aspekt mit den Kleidungsvorschlägen
+T9	Premise 661 737	die Erfassung der Kleidungsstücke stellt nicht den primären Kundennutzen dar
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 738 873	Bei der Zielgruppe wird einerseits gesagt, dass alle User der Applikation die Zielgruppe sind und dann wiederum wieder junge Erwachsene
+T11	Claim 875 910	Schaffe Klarheit in dieser Hinsicht
+R6	supports Arg1:T10 Arg2:T11	
+T12	Claim 919 1048	fehlt mir die Funktion um die erfassten Kleidungsstücke wieder zu löschen, falls die Kleider kaputt, verkauft oder verloren gehen
+T13	Claim 1068 1173	Korrigiere Rechtschreibefehler wie arbeiten in der Kurzbeschreibung, ein Komma im ersten Satz von 1. usw.
+T14	Claim 1173 1249	Führe den Aspekt der Einfachtheit der Vereinfachung der Kleidererfassung aus
+T15	Claim 1250 1308	Ergänze den Anwendungsbereich mit den Kleidungsvorschlägen
+T16	Claim 1309 1344	Entscheide dich für eine Zielgruppe
+T17	Premise 1346 1430	Hierbei macht es wahrscheinlich am meisten Sinn, wenn du alle User der App entfernst
+T18	Claim 1431 1520	Füge die Funktion Kleidungsstücke entfernen in der Liste ein und erläutere diese Funktion
+R7	supports Arg1:T17 Arg2:T16	

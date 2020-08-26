@@ -1,0 +1,22 @@
+T1	Claim 33 145	Die Unterteilung der Freitextbeschreibung in Problemstellung und Plattform, fand ich beim Thema Spenden sinnvoll
+T2	Claim 147 339	Ganz im Sinne von Österle und Senger integriert die SpendeApplikation verschiedene Spendeorganisationen auf einer einzigen Plattform, die dem Kunden als Assistenzlösung das Spenden vereinfacht
+T3	Claim 341 408	Das Business Model Canvas wurde ausführlich und sinnvoll ausgefüllt
+T4	Premise 410 528	Insbesondere der Teil des Modells, der mit dem Angebot und der Unternehmung zu tun hat, wurde sehr gut vervollständigt
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 530 670	ich finde allgemein die Idee der MikroSpenden verteilt auf mehrere Projekteund die Möglichkeit bessere Insights zu gewinnen sehr interessant
+T6	Claim 731 818	Als Schwachpunkte der Lösung sehe ich die Channels und Customer Segments bzw. Relations
+T7	Premise 820 935	Bei den Channels werden zwar PushNachrichten erwähnt, allerdings fehlt die Applikation als wichtigster Kanal selbst
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 937 1018	Eventuell sollte noch eine SpendeHotline als möglicher Kanal dazu genommen werden
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 1025 1175	könnte man die Spender noch in weitere Segmente aufteilen und aufgrund deren Spendeverhalten massgeschneiderte Spendeangebote je nach Segment anbieten
+R4	supports Arg1:T9 Arg2:T6	
+T10	Premise 1177 1307	Es wird nicht ganz klar welche Beziehung zum Spender aufbaut wird, sprich wie weit personalisiert eine Kundenbeziehung möglich ist
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 1433 1509	sollte der Kommilitone oder die Kommilitonin die Kundensicht weiter ausbauen
+T12	Premise 1511 1636	Konkret würde ich den Kanal Applikation als Benutzeroberfläche hinzunehmen und die Beziehung zu den Kunden besser beschreiben
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 1637 1843	Vielleicht könnte man die Lösung mit der Idee der Gamification ergänzen und beispielsweise ein Punktesystem entwickeln, welches bei jeder Spende eine gewisse Anzahlan Punkten auf das Konto des Spenders lädt
+R7	supports Arg1:T13 Arg2:T11	
+T14	Premise 1845 2059	So können sich Spender untereinander vergleichen und haben neben der intrinsischen Motivation auch einen extrinsischen Anreiz immer wieder zu Spenden, um bei der Community einen höheren sozialen Status zu erreichen
+R8	supports Arg1:T14 Arg2:T13	

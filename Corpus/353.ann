@@ -1,0 +1,37 @@
+T1	Claim 19 96	Intelligente und unaufdringliche B2B oder B2CAssistenzlösung ,WellbeingLösung
+T2	Premise 98 259	Integrierte, möglichst umfassende Lösungen, die vorhandene Angebote nutzen und ggf. durch neue Leistungen ergänzen, dem Kunden aber wie aus einer Hand erscheinen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 273 344	Erfüllt, Freitextbeschreibung sinnvoll und wesentliche Punkte erläutert
+T4	Claim 346 373	Gesamteindruck ist sehr gut
+T5	Claim 386 433	Ein simples Konzept, dass klar verständlich ist
+T6	Claim 435 532	Die Lösung scheint nicht aufdringlich, intelligent und adressiert viele potenzielle Couchpotatoes
+T7	Claim 534 629	Die grundlegenden Elemente eines Geschäftsmodells wie WERT, WIE, WAS und WER werden beschrieben
+T8	Claim 631 716	Die Lösung scheint Wellbeing Rating, Netzwerk, Swipe, alle Informationen strukturiert
+T9	Claim 718 765	Die Länge 1/2 Seite wurde ebenfalls eingehalten
+T10	Claim 831 886	erfüllt die Kurzbeschreibung alle mir bekannten Aspekte
+T11	Claim 992 1026	Erfüllt, sehr umfangreiches CANVAS
+T12	Claim 1028 1060	Gesamteindruck ist ausgezeichnet
+T13	Claim 1073 1134	Das Canvas ist bereits sehr durchdacht und in sich konsistent
+T14	Premise 1136 1192	Die einzelnen Dimensionen scheinen sorgfältig erarbeitet
+R2	supports Arg1:T14 Arg2:T13	
+T15	Claim 1194 1293	Inhaltlich bin ich der Meinung, dass alles zutreffend ist und keine Fehlallokationen gemacht wurden
+T16	Claim 1315 1367	ist die Aufteilung nach Kunden und Anbieter sinnvoll
+T17	Claim 1374 1432	im CANVAS in der VP sind die Wellbeing Ansätze ersichtlich
+T18	Claim 1448 1494	Es ist schwierig effektive Schwächen zu finden
+T19	Claim 1496 1588	Ein kleines Detail, wo optimiert werden könnte, wäre die technische und visuelle Darstellung
+T20	Premise 1590 1642	Ich hätte die Dimension Partner anders interpretiert
+R3	supports Arg1:T20 Arg2:T19	
+T21	Premise 1653 1858	wären darin bloss Zulieferer wie die AppEntwickler und möglicherweise nicht bidirektionale Informationslieferanten von Events aus dem Dimensionen Politik, Rechtlich, Ökonomie, Technologie, Ökologie, Sozial
+R4	supports Arg1:T21 Arg2:T20	
+T22	Claim 1874 1951	Evtl wären innovative PricingModelle ein interessanterer Ansatz als Payperuse
+T23	Claim 2007 2071	Möglicherweise könnten die Begrifflichkeiten ausgetauscht werden
+T24	Premise 2073 2212	Damit würde bei anschliessender Ausarbeitung kein Chaos zwischen Kunden als Dimension im Canvas und bspw. Konsumenten als AppUser entstehen
+R5	supports Arg1:T24 Arg2:T23	
+T25	Claim 2213 2311	Möglicherweise können die einzelnen Sätze/Wortketten immer nach dem selben Muster gestaltet werden
+T26	Premise 2318 2349	UseCase mässig, adj. Nom. verb.
+R6	supports Arg1:T26 Arg2:T25	
+T27	Claim 2351 2422	Und die BulletPoints wären ideal, wenn Sie ganz Links an der Linie sind
+T28	Premise 2424 2459	dadurch könnte Platz gespart werden
+R7	supports Arg1:T28 Arg2:T27	
+T29	Claim 2522 2557	Die inhaltliche Lösung ist sehr gut
+T30	Claim 2579 2641	wären Kunden und Eventanbieter beides Kunden und nicht Partner

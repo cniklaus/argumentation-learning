@@ -1,0 +1,12 @@
+T1	Claim 20 96	Deine ausführliche Ausarbeitung zeigt dass du dir viele Gedanken gemacht hat
+T2	Claim 130 179	ist vor allem der erste Teil ein bisschen zu lang
+T3	Premise 181 232	Du könntest mit etwas weniger Worten dasselbe sagen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 304 446	Die Aufteilung in Front und Back  End macht natürlich Sinn, nichtsdestotrotz wäre es gut den ein oder anderen Punkt explizieter zu beschreiben
+T5	Claim 461 521	Eventuell auch noch Betriebsmittelkategorien zuordnen lassen
+T6	Claim 524 565	Worauf basiert die Berechnung der Wartung
+T7	Claim 567 643	Bzw was genau zeigt die dann dem Nutzer alles a in der graphischen Übersicht
+T8	Premise 645 664	Terminierung und...
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 674 798	unkt 5 Vielleicht kannst du hier noch spezifizieren welche Fenster bereitgestellt werden müssen um die Messwerte einzutragen
+T10	Claim 804 941	Vielleicht kann man hier erwähnen das man zum Beispiel Kategorien von Abweichungen bildet in und darauf basierend Maßnahmen anzeigen kann

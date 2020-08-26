@@ -1,0 +1,36 @@
+T1	Claim 35 85	deine Geschäftsmodellidee den Nerv der Zeit trifft
+T2	Premise 87 149	FoodWaste ist nun auch für die breite Masse zum Thema geworden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 151 236	Deine Geschäftsmodellidee geht genau auf diese Problematik ein und bietet eine Lösung
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 251 314	wird der Lifestyle Trend der gesunden Ernährung gut illustriert
+T5	Claim 316 383	Der Nutzer kann diese seinen persönlichen Bedürfnissen gut anpassen
+T6	Premise 385 465	Die impulsgetriebene Satisfaktion von Konsumentenbedürfnissen ist m.E. vorhanden
+T7	Premise 470 573	die Informationen über das TouchscreenDisplay oder die MobiltelefonApplikation aufgerufen werden können
+R3	supports Arg1:T6 Arg2:T5	
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 575 662	Ich finde den HomeGourmetkoch für die Nutzer äusserst nützlich und einfach zum bedienen
+T9	Claim 671 730	können Nutzer Kontroll und Einflussmöglichkeiten wahrnehmen
+T10	Claim 732 864	Dein Produkt führt verschiedene Applikationen Nährwerterrechnung, Verfallsdaten, Rezeptvorschläge, usw. auf einer Plattform zusammen
+T11	Premise 866 921	Dies war ein weiterer wichtiger Punkt von ÖsterleSenger
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 960 1037	Ich erachte es als suboptimal Google mit ins Boot zu holen GoogleHealthKonten
+T13	Premise 1042 1096	diese schlimmstenfalls dein Produkt akquirieren würden
+R6	supports Arg1:T13 Arg2:T12	
+T14	Premise 1104 1159	würde ich keine Applikation fix an dein Produkt knüpfen
+R7	supports Arg1:T14 Arg2:T12	
+T15	Claim 1161 1253	Falls du aus einem gewissen Grund Google gewählt hast, würde ich diesen Grund noch aufzeigen
+T16	Premise 1271 1367	die Lebensmittelproduzenten ihre Produkte in nächster Zeit nicht mit RFID Chips ausrüsten werden
+T17	Claim 1369 1450	Ich würde einen Sensor einbauen, welcher die Strichcodes auf den Produkten scannt
+R8	supports Arg1:T16 Arg2:T17	
+T18	Premise 1452 1548	Diese wäre günstiger, sofort einsetzbar aber würde nicht die gleiche Datenmenge speichern können
+R9	supports Arg1:T18 Arg2:T17	
+T19	Claim 1550 1628	Ich finde den Gedanken gut dein Produkt der breiten Masse zugänglich zu machen
+T20	Premise 1638 1757	kann ich mir nicht vorstellen, dass das Produkt so günstig wie ein Kühlschrank ist aufgrund der technischen Komplexität
+T21	Premise 1759 1815	Wieso ordnest du dein Produkt nicht als ein Luxusgut ein
+R10	supports Arg1:T20 Arg2:T21	
+R11	attacks Arg1:T21 Arg2:T19	
+T22	Premise 1817 1939	In der heutigen Hochleistungsgesellschaft gibt es genügend gutverdienende, die von deinem Produkt hellauf begeistert wären
+R12	supports Arg1:T22 Arg2:T21	
+T23	Premise 1941 2036	So können sie sich gut ernähren und müssen nicht mehr auf ungesunde Lieferdienste zurückgreifen
+R13	supports Arg1:T23 Arg2:T22	

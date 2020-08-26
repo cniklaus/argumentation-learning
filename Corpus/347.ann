@@ -1,0 +1,7 @@
+T1	Claim 69 288	Freitextbeschreibung des Geschäftsmodells sehr verständlich formuliertGeschäftsmodell ist realistisch und technisch realisierbarName ist gut gewähltGeschäftsmodell wirkt durchdachtBusiness Model Canvas ist übersichtlich
+T2	Claim 379 384	Keine
+T3	Claim 500 619	Evtl. Marketingaktivitäten bei Key Activities und Cost Structure aufführenEvtl. Mitarbeiter bei Key Resources aufführen
+T4	Premise 619 658	Woher kommt das Wissen der Fitnesspläne
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 660 782	Ist es ein internes Wissen, dann stellt es eine Key Resource dar oder kommt es von extern, wodurch es ein Key Partner wäre
+R2	supports Arg1:T5 Arg2:T4	

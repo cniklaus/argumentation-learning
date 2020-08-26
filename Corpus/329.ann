@@ -1,0 +1,16 @@
+T1	Claim 19 84	Die Aufgabe wurde bereits gut gelöst und entsprechen den Vorgaben
+T2	Claim 86 160	Zielgruppen wurden gut beschrieben Funktionalitäten wurden gut beschrieben
+T3	Claim 169 212	Grundsätzlich gibt es nicht viele Schwächen
+T4	Claim 245 266	WordDatei anstatt PDF
+T5	Premise 290 406	Zielbeschreibung Wenn ich diesen Satz lese weiss ich immer noch nicht genau für was eine Softwarelösung gesucht wird
+T6	Claim 408 557	Ich denke es wäre sinnvoll, wenn du schreibst welche Kernfunktionen diese Lösung haben sollte und inwiefern dies deinem Unternehmen weiterhelfen kann
+R1	supports Arg1:T5 Arg2:T6	
+T7	Claim 557 630	Anwendungsbereich Müsste dort nicht stehen wo der Anwendungsbereich liegt
+T8	Premise 650 697	Erfassen von Kundendaten, Feedbackfunktion etc.
+R2	supports Arg1:T8 Arg2:T7	
+T9	Premise 698 740	Hierbei bin ich mir aber nicht 100  sicher
+R3	attacks Arg1:T9 Arg2:T7	
+T10	Claim 741 794	Dein Dokument als PDF speichern und als PDF hochladen
+T11	Claim 816 939	Vielleicht könntest Du noch etwas zum Unternehmen abspeichern, sodass der Leser weiss welches deine Geschäftsmodellidee ist
+T12	Premise 795 815	Vorgabe vom Dozenten
+R4	supports Arg1:T12 Arg2:T10	

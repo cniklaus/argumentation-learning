@@ -1,0 +1,20 @@
+T1	Claim 71 148	An deiner Lösung gefällt mir der Beschrieb der Funktionalitäten besonders gut
+T2	Premise 150 277	Die Aufteilung in FontEnd und BackEnd finde ich sehr sinnvoll und zeigt die Funktionalitäten übersichtlich und verständlich dar
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 279 333	Du gehst detailliert auf die verschiedenen Aspekte ein
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 335 369	Auch den ersten Teil finde ich gut
+T5	Premise 371 476	Man versteht, für was die Software entwickelt werden soll und was der Kunde für einen Nutzen daraus trägt
+R3	supports Arg1:T4 Arg2:T1	
+R4	supports Arg1:T5 Arg2:T4	
+T6	Claim 575 657	Beim ersten Teil fehlt meiner Meinung nach die Perspektive des Unternehmens selber
+T7	Premise 659 763	Du gehst grundsätzlich nur auf das Ziel für den Kunden ein und beschreibst auch nur den Kunden von Equip
+R5	supports Arg1:T7 Arg2:T6	
+T8	Claim 765 843	Bei dem Beschrieb der Zielgruppen, fehlen für mich ebenfalls die internen User
+T9	Premise 845 976	Bei Equip selber gibt es aber bestimmt auch Zielgruppen, die auf der anderen Anwenderseite der App mit der Software arbeiten werden
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 1123 1231	Du könntest den Teil 1 noch ergänzen und aufzeigen, was das Ziel der Software für das Unternehmen selber ist
+T11	Premise 1233 1321	Was sind die Vorteile, die sich das Unternehmen für sich selber von der Software erhofft
+R7	supports Arg1:T11 Arg2:T10	
+T12	Claim 1323 1414	Im Teil 2 könntest du wie oben erklärt noch auf die Zielgruppe innerhalb von Equip eingehen
+T13	Claim 1416 1493	Allgemein würde ich versuchen den ganzen Beschrieb auf 2 Seiten zu reduzieren

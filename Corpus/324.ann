@@ -1,0 +1,21 @@
+T1	Claim 115 204	Du hast den Anwendungsbereich und die Zielgruppen extrem präzise definiert und abgegrenzt
+T2	Claim 206 257	Primärziel gut definiert und auf den Punkt gebracht
+T3	Claim 258 314	Die Funktionen hast du auch sehr übersichtlich dargelegt
+T4	Premise 316 383	Man versteht relativ schnell was deine Software konkret können muss
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 476 563	Gewissen Punkte die du als Sekundarziele definiert hast sehe ich bereits als Funktionen
+T6	Claim 565 682	Teilweise sind die Funktionen ein wenig zu oberflächlich, dass man nicht richtig versteht was jetzt damit gemeint ist
+T7	Premise 824 864	Folgende punkte sind für mich Funktionen
+T8	Premise 864 1023	Automatische Integration der aktuellen freien Termine der lokalen Dienstleistung in das System Erstellung von Schnittstellen zu den Kalendern von den Anbietern
+T9	Premise 1025 1124	Verknüpfung mit Datenbank, die Ratings und Informationen über die Dienstleistungsanbieter speichert
+T10	Premise 1126 1153	Userfreundliche Darstellung
+T11	Claim 1153 1203	Ich würde diese deshalb in den dritten teil packen
+R2	supports Arg1:T7 Arg2:T11	
+R3	supports Arg1:T8 Arg2:T7	
+R4	supports Arg1:T9 Arg2:T7	
+R5	supports Arg1:T10 Arg2:T7	
+T12	Claim 1224 1287	würde ich die Funktionen noch ein wenig detaillierter ausführen
+T13	Premise 1294 1413	bei Ratingdarstellung und Ratingberechnung versteht man nicht richtig was das jetzt heissen soll für die Softwarelösung
+R6	supports Arg1:T13 Arg2:T12	
+T14	Premise 1415 1528	Du musst bedenken ein Programmieren müsste jetzt genau verstehen was er codieren muss damit das auch funktioniert
+R7	supports Arg1:T14 Arg2:T13	

@@ -1,0 +1,7 @@
+T1	Claim 11 65	Ich finde Deine Beschreibung gut und klar verständlich
+T2	Claim 68 147	ie ist aber wohl eher für einen Business Student, wie wir es sind, ausgerichtet
+T3	Premise 149 255	Für einen Programmierer müssten Deine Ausführungen wohl ein wenig mehr detaillierter und mechanischer sein
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 257 392	Oft interessiert es den ITler nicht was das Geschäfts Modell ist, sondern nur die konkreten/spezifischen Funktionen sowie Anforderungen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 405 446	alles in allem sonst ein gutes Lastenheft

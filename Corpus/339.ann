@@ -1,0 +1,40 @@
+T1	Claim 11 70	Gute Ausarbeitung des Lastenheftes und schöne Geschäftsidee
+T2	Claim 74 205	Ziel der Softwarelösung     Hier könntest du den Fokus stärker auf die Software legen anstatt auf deine Geschäftsmodellidee an sich
+T3	Premise 207 300	Du könntest die Ziele z.B in strategische, wirtschaftliche und technologische Ziele aufteilen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 304 379	So könntest du bei strategischen Zielen eng an deiner Geschäftsidee bleiben
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 386 442	Aufbau einer Plattform um Mobilität zu vereinfachen usw.
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 447 551	Bei wirtschaftlichen Zielen kannst du darauf eingehen wie die Software die Gewinngenerierung unterstützt
+R4	supports Arg1:T6 Arg2:T3	
+T7	Premise 559 680	Umsatzgenerierung mit Hilfe von In App Purchases, Userbindung und Neugewinnund durch einfache und effiziente Systemlösung
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 685 838	Bei technologischen Zielen könntest du beispielsweise darauf eingehen, dass die geschäftsidee als Android IOS und Web Apllikation funktionieren soll usw.
+R6	supports Arg1:T8 Arg2:T3	
+T9	Claim 844 945	oftwareeinsatz   Als Zielgruppe der Software würde ich hier noch den Betreiber der Plattform erwähnen
+T10	Premise 947 1015	Dieser wird die Plattform ebenso nutzen um Daten zu analysieren etc.
+R7	supports Arg1:T10 Arg2:T9	
+T11	Claim 1020 1134	Funktionalitäten der Softwarelösung   Ich würde hier etwas spezifischer die allgemeinen Funktionalitäten aufzählen
+T12	Premise 1162 1279	Registrierung Kunde   Anlegen eines Nutzerkontos Festlegung von Username, Email Adresse, Telefonnummer, Passwort etc.
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 1282 1341	Nach Registrierung Zuweisung der Rolle Registrierter Nutzer
+T14	Premise 1344 1402	Senden einer Email zur Verifizierung des angelegten Kontos
+T15	Premise 1407 1437	Bearbeitung des Benutzerkontos
+T16	Premise 1439 1474	Bearbeiten der Kontaktinformationen
+T17	Premise 1476 1496	Ändern des Passworts
+T18	Premise 1501 1515	Administration
+T19	Premise 1518 1561	Zugriff auf die allgemeine Nutzerverwaltung
+T20	Premise 1564 1618	Anlegen neuer Parameter und Kategorien für Suchauswahl
+T21	Premise 1621 1669	Hinzufügen von Profilen neuer Partnerrestaurants
+T22	Premise 1672 1695	Zugriff auf Systemdaten
+R9	supports Arg1:T16 Arg2:T11	
+R10	supports Arg1:T13 Arg2:T11	
+R11	supports Arg1:T14 Arg2:T11	
+R12	supports Arg1:T15 Arg2:T11	
+R13	supports Arg1:T17 Arg2:T11	
+R14	supports Arg1:T18 Arg2:T11	
+R15	supports Arg1:T19 Arg2:T11	
+R16	supports Arg1:T20 Arg2:T11	
+R17	supports Arg1:T21 Arg2:T11	
+R18	supports Arg1:T22 Arg2:T11	

@@ -1,0 +1,25 @@
+T1	Claim 69 99	Du hast die Aufgabe gut gelöst
+T2	Premise 99 144	Das Geschäftsmodell ist klar und verständlich
+T3	Premise 144 224	Die Softwareeinbettung in das Geschäftsmodell ist gut ersichtlich und macht Sinn
+T4	Premise 225 320	inde es gut, wie du 3 verschiedene Use Cases als Anwendungsbereiche der Lösung beschrieben hast
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T1	
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 411 519	Die Zielgruppenformulierung ist noch schwammig, bzw. erlaubt es nicht sich einen typischen User vorzustellen
+T6	Premise 521 615	Evt. wäre hier eine weitere Differenzierung oder Charakterisierung des Beispielusers hilfreich
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 615 740	Die Funktionalitäten sind schon klar, aber dennoch wäre eine differenziertere Auflistung der Funktionalitäten übersichtlicher
+T8	Claim 806 899	Evt. kannst du durch eine Negativ Definition herausfinden, wer alles die Zielgruppe darstellt
+T9	Premise 900 1006	Indem du bestimmst, wer NICHT user ist wegen Risikoappetit o.ä. kannst du vielleicht das besser definieren
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1007 1065	Erstelle doch eine Auflistung mit den einzelnen Funktionen
+T11	Premise 1067 1174	Du kannst dir vorstellen, was der User machen muss,w enn er die Applikation öffnet und schrittweise bedient
+T12	Premise 1176 1214	Dann kannst du die Funktionen ableiten
+R6	supports Arg1:T11 Arg2:T10	
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 1222 1338	Login, Kundenkonto/Kundendaten bearbeiten, Risikoprofil erstellen, Tipps anzeigen, Aktientitel suchen, WikiAufsuchen
+R8	supports Arg1:T13 Arg2:T12	
+T14	Claim 1371 1448	Ansonsten find eich das Lastenheft nachvollziehbar und alles in allem stimmig
+T15	Claim 1450 1541	Versuche eben einfach noch ein wenig BulletPoint mässiger im Funktionalitätsbereich zu sein
+T16	Premise 1543 1631	Dies würde auch bei der Kommunikation mit Entwicklern hilfreich sein, als ein Prosa Text
+R9	supports Arg1:T16 Arg2:T15	

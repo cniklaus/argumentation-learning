@@ -1,0 +1,10 @@
+T1	Claim 11 127	Die Idee alle möglichen Transportmittel auf einer Plattform zu vereinen bietet für die Nutzer einen grosses Mehrwert
+T2	Premise 132 212	sie so Zeit sparen und nicht selbst mögliche Kombinationen mühsahm suchen müssen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 214 443	Ich würde ergänzen, dass die Nutzer in der App hinterlegen können, ob sie ein GA, Halbtax, Gleis7 oder sonstige Vergünstigungen besitzen, damit diese bei der Planung eingerechnet werden können, um die bestmögliche Reise zu planen
+T4	Claim 476 655	du als Pain Auftreten von unerwarteten Verspätungen genannt hast, dann sollte aber Handlungsempfehlungen bei unerwarteten Verspätungen ein Pain Reliever sein und kein Gain Creator
+T5	Claim 656 762	Bei der weiteren Ausarbeitung würde ich mich zuerst auf ein paar einzelne Mobilitätsanbieter konzentrieren
+T6	Premise 767 800	es sonst zu komplex werden könnte
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 802 881	Und dann erst in weiteren Schritten immer weitere Mobilitätsanbieter hinzunimmt
+R3	supports Arg1:T7 Arg2:T5	

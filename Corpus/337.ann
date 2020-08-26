@@ -1,0 +1,17 @@
+T1	Claim 19 59	Funktionalitäten sind für mich schlüssig
+T2	Claim 60 157	Sehr interessantes Feature an deiner Idee finde ich, dass alles auf einer Rechnung kumuliert wird
+T3	Claim 191 251	Beim Ziel der Softwarelösung erklärst du deine Geschäftsidee
+T4	Premise 253 288	Das ist jedoch nicht Sinn der Sache
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 290 395	Es geht darum, dass die Software isoliert betrachtest und beschreibst, was genau die Software machen soll
+T6	Premise 402 539	Die Software SelfEating soll Usern ermöglichen augrund ihrer angegebenen Essensräferenzen, die passenden Lieferservices zusammenzustellen
+R2	supports Arg1:T6 Arg2:T5	
+R3	supports Arg1:T5 Arg2:T4	
+T7	Claim 541 685	Alle wertenden Aussagen wie Zudem können dem Kunden Wartezeiten erspart werden... helfen wenig, das eigentliche Ziel der Software zu beschreiben
+T8	Claim 687 761	Deine Ausführungen beim Teil Anwendungsbereich finde ich wenig überzeugend
+T9	Premise 763 883	Für mich wäre hier der Anwendungsbereich die App für die Smartphones, in welcher die eigentliche Software integriert ist
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 885 925	new generation würde ich etwas ausführen
+T11	Claim 927 993	Gesundheitsbewusste Personen leuchtet mir als Zielgruppe nicht ein
+T12	Premise 997 1027	Kochen die nicht gleich selber
+R5	supports Arg1:T12 Arg2:T11	

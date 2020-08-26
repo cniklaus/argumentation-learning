@@ -1,0 +1,2 @@
+review1586
+Ich finde Deine Beschreibung gut und klar verständlich. Sie ist aber wohl eher für einen Business Student, wie wir es sind, ausgerichtet. Für einen Programmierer müssten Deine Ausführungen wohl ein wenig mehr detaillierter und mechanischer sein. Oft interessiert es den ITler nicht was das Geschäfts Modell ist, sondern nur die konkreten/spezifischen Funktionen sowie Anforderungen. Wie gesagt alles in allem sonst ein gutes Lastenheft.

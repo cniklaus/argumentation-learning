@@ -1,0 +1,25 @@
+T1	Claim 11 57	Die Arbeit ist in meiner Meinung nach gelungen
+T2	Premise 76 151	du ein eindeutiges, zeitaufwendiges Problem mit deinem Geschäftsmodell löst
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 152 202	Ich kann dein strukturiertes Modell nachvollziehen
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 204 299	Es ist definitiv eine Assistenzlösung gemäss Oesterle, welche das Leben seiner User vereinfacht
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 343 391	Was bindet die Konsumentensegmente an dieses App
+T6	Premise 393 462	Nach einmaliger Vermittlung, könnten sie sich auch selber austauschen
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 463 519	Warum willst du dein Wäscherpersonal monatlich auszahlen
+T8	Premise 521 620	Wäre es nicht einiges attraktiver, wenn die Bezahlung sofort stattfindet nach erfolgreichem Auftrag
+R5	supports Arg1:T8 Arg2:T7	
+T10	Claim 709 793	Hast du dir Gedanken darüber gemacht, ob du nicht ein System à la Uber machen willst
+T11	Premise 795 885	Dann könntest du dir die Versicherung sparen und evtl. fällt sogar der Transportdienst weg
+R7	supports Arg1:T11 Arg2:T10	
+T12	Claim 886 965	Hast du dir Gedanken darüber gemacht Werbung in dein Geschäft zu implementieren
+T13	Premise 967 1044	Du hast eindeutige Kundensegmente, welche gezielt angesprochen werden könnten
+R8	supports Arg1:T13 Arg2:T12	
+T14	Claim 1045 1189	Für die Lösung wünsche ich mir, dass du dich damit auseinandersetzt, wie sich deine Idee von anderen vorhandenen Ideen erfolgreich absetzen kann
+T15	Premise 1191 1254	Schau dir doch mal tickwash.ch an, um dir Inputs zu verschaffen
+R9	supports Arg1:T15 Arg2:T14	
+T16	Claim 1255 1322	Ich bin überzeugt, dass du mit deiner Idee grosses erreichen kannst
+T9	Premise 663 708	die Attraktivität gesteigert wird für Wäscher
+R6	supports Arg1:T9 Arg2:T8	

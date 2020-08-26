@@ -1,0 +1,12 @@
+T1	Claim 18 56	Klar strukturierter Aufbau des Ablaufs
+T2	Claim 58 95	Deine Diskussion finde ich angemessen
+T3	Claim 105 191	Mir fehlt ein wenig der Input Was wie wo damit ich deine Geschäftsidee verstehen würde
+T4	Premise 193 226	So habe ich nur ganz wenige Infos
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 228 316	Bei deiner Diskussion komme ich auch nicht so ganz draus was jetzt dabei diskutiert wird
+T6	Claim 318 380	Ich würde dir empfehlen die Rechtschreibung nochmals zu prüfen
+T7	Claim 383 471	ch verstehe den Zusammenhang zwischen den NFC Chips und den Sportgeräten noch nicht ganz
+T8	Premise 473 517	In wiefern hängt das mit deiner APp zusammen
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 519 549	Wie generiert deine App Umsatz
+T10	Claim 550 607	AnpassungenWas Wie Wo ergänzen und Rechtschreibung prüfen

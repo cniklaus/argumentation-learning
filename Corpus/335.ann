@@ -1,0 +1,17 @@
+T1	Claim 18 110	Die Kurzbeschreibung im ersten Teil beschreibt deine Geschäftsidee bereits sehr verständlich
+T2	Claim 112 246	Du hast für mich spannende, erfolgsversprechende Komponenten von bekannten Marken wie Zalando oder Outfittery vereint in deiner Lösung
+T3	Premise 248 377	Das Problem des zeitaufwändigen Eintragens der Garderobe nimmst du bereits vorweg, indem du monetäre Benefits in Aussicht stellst
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 379 412	Den 3. Teil finde ich bereits gut
+T5	Claim 453 708	Als möglicher Tipp, um die Kleidereintragung zu vereinfachen, könntest du dich beispielsweise auch nur auf Grössenangaben Körpergrösse, Brustumfang etc. beschränken und den Kunden dann StyleTypen und Marken auswählen lassen, um den Prozess zu vereinfachen
+T6	Claim 710 837	Teil 1 Hier würden dann die Überlegungen zum Geschäftsmodell rein spielen, falls du dich entscheidest, den Vorschlag umzusetzen
+T7	Claim 839 982	In diesem Bereich würde ich nicht nur auf den Kleidereintragungsprozess eingehen sondern noch weitere Ausführungen machen zum Ziel der Software
+T8	Premise 984 1056	Es wird ja auch noch Werbefläche vermietet, InAppKäufe sind möglich etc.
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 1064 1110	Bei der Zielgruppe versteht man, was du meinst
+T10	Premise 1112 1152	Allerdings ist der Text etwas verwirrend
+R3	attacks Arg1:T10 Arg2:T9	
+T11	Premise 1159 1219	du den Begriff Zielgruppe zwei Mal deckungsgleich verwendest
+R4	supports Arg1:T11 Arg2:T10	
+T12	Claim 1221 1346	Den Anwendungsbereich würde ich noch etwas spezifizieren auf Markt eingehen und alle Funktionalitäten der App berücksichtigen
+T13	Claim 1348 1488	Teil 3 Hier könntest du allenfalls von den einzelnen UserInterfaceReitern die Funktionen ableiten, um das Ganze übersichtlicher zu gestalten

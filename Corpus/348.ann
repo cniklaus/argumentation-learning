@@ -1,0 +1,16 @@
+T1	Claim 11 64	Die Idee finde ich cool, aber teilweise auch veraltet
+T2	Premise 66 180	Es gibt im AppStores schon viele Apps, die personalisierte Fitnesspläne mit Videoclip für das HomeWorkout anbieten
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 182 364	Die Möglichkeit, Nahtungsergänzungsmittel finde ich aber innovativ und neu man muss einfach auf die bekanntesten Apps anschauen, ob etwas in dieser Richtung nicht schon vorhanden ist
+T4	Claim 366 477	Beim Nahrungsmittelbestellung muss man die Gesundheit der Kunden Allegien,Intoleranz,... überprüfen und sichern
+T5	Claim 479 602	Stärken freie App, Einnahemquellen aus der Nahrungsmittelbestellung und Zusatzfunktionen generell Revenue Stream als Stärke
+T6	Claim 614 685	Das Dreh des Videoclips nimmt viel Zeit und kann zu hohe Kosten bringen
+T7	Premise 690 739	die Qualität sehr hoch sein muss, Datensicherheit
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 740 815	Sind Kunden bereit, gesundheitliche Daten in eine App  Online  zu speichern
+T9	Claim 842 996	Key Parners Payment providers fehlen als Partner für die OnlineBezahlungen, Customer segments Wieso nicht alte Leute  4050 Jahre alt  mit einfache Übungen
+T10	Premise 1003 1029	Stretching, Mobilität, ...
+R3	supports Arg1:T10 Arg2:T9	
+T11	Premise 1031 1083	Ich finde dieses Kundensegment wichtig und attraktiv
+R4	supports Arg1:T11 Arg2:T9	
+T12	Claim 1085 1172	Customer relationships Grundsätzlich mass customized, App sind für alle Leute verfügbar

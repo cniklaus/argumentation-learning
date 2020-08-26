@@ -1,0 +1,32 @@
+T1	Claim 11 38	Die Idee klingt interessant
+T2	Premise 40 127	Man sieht den WellBeingGedanken mit der Integration der Navigationsfunktion im Gehstock
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 129 258	Wenn das wirklich reibungslos funktionieren würde, wäre das für Personen mit Sehbehinderung sicher eine Erleichterung des Alltags
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 260 360	Mir gefällt, dass du auch gewisse Fakten eingebaut und dich mit der Thematik auseinandergesetzt hast
+T5	Claim 367 430	mit der Ertrags und Kostensicht hast du dich auseinandergesetzt
+T6	Claim 432 535	Je nach Aufwendungen am Beginn wird das Geschäftsmodell in der ersten Zeit wohl kaum kostendeckend sein
+T7	Claim 537 611	Ob eine Umsetzung heute bereits so möglich ist, kann ich nicht einschätzen
+T8	Premise 642 676	Das Ganze scheint sehr umfangreich
+T9	Claim 686 757	denke ich, dass in einem ersten Schritt auf Uber verzichtet werden kann
+R3	supports Arg1:T8 Arg2:T9	
+T10	Premise 759 906	Wenn die Umsetzung zuerst sowieso nur auf die Schweiz beschränkt wird, ist Uber heute eh noch irrelevant und könnte womöglich später geaddet werden
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 907 1043	Zu den Key Activities gehört meines Erachtens auch die Erstellung einer solch detaillierten Karte inkl. Informationen zu Kreuzungen etc.
+T12	Claim 1053 1113	lohnt sich vielleicht jemand wie Google Maps als Key Partner
+T13	Premise 1115 1183	Diese Karte würde dann vielleicht auch zu den Key Ressources gehören
+R5	supports Arg1:T11 Arg2:T12	
+R6	supports Arg1:T13 Arg2:T12	
+T14	Claim 1184 1242	Vielleicht wäre es einfacher, mit einer Sprache zu starten
+T15	Premise 1266 1414	Nur in Deutsch und nach gewisser Zeit könnte man bereits den Schritt nach Deutschland und/oder Österreich wagen, ohne eine neue Sprache zu benötigen
+R7	supports Arg1:T15 Arg2:T14	
+T16	Premise 1415 1447	Vieles klingt für mich nach Siri
+T17	Claim 1449 1562	Vielleicht liesse sich deshalb auch eine App programmieren, die sprachgesteuert funktioniert und mit dem Gehstock
+R8	supports Arg1:T16 Arg2:T17	
+T18	Premise 1568 1595	via Bluetooth verbunden ist
+R9	supports Arg1:T18 Arg2:T17	
+T19	Premise 1597 1746	Das würde das Ganze wohl einfacher machen ich kann schlecht einschätzen, wie aufwendig die Herstellung von einem internetfähigen Navigationsstock ist
+R10	supports Arg1:T19 Arg2:T18	
+T20	Premise 1771 1904	Ich empfinde das Lesen eines Fliesstextes in einer Tabelle mit so schmalen Spalten und dann noch im Blocksatz nicht als sehr angenehm
+T21	Claim 1921 2025	Der Beschrieb am Anfang ist super im Fliesstext, für die Tabelle wenn möglich stichwortartiges Ausfüllen
+R11	supports Arg1:T20 Arg2:T21	
