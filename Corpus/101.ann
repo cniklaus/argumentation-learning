@@ -1,0 +1,16 @@
+T1	Claim 10 26	Tiptop umgesetzt
+T2	Claim 73 203	Relativ viele Tippfehler und fehlende Worte quer durch das gesamte Storyboard mich persönlich fällt das auf, stört mich aber nicht
+T3	Premise 205 227	Andere vlt. dann schon
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 229 378	Was in meinen Augen im Storyboard aktuell noch fehlt ist die Möglichkeit, dass der Benutzer Produkte und Produktmengen auch ohne Rezept abbuchen kann
+T5	Premise 385 451	eine Tasse Milch zum Frühstück und drei Brötchen mit Käse am Abend
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 453 611	Wenn er diese nicht manuell Rezept gibt es dafür ja keines aber vielleicht könnte man Favoriten definieren, wenn man eh immer was ähnliches zum Frühstück isst
+R3	supports Arg1:T6 Arg2:T4	
+T7	Claim 615 825	in der App streichen kann weil verbraucht, gibt es immer Fehlbestände d.h. die App meint, es habe noch genug Milch fürs Rezept wohingegen die MIlch effektiv leer ist weil man 4 Mal am Morgen davon getrunken hat
+T8	Premise 894 970	Ich hätte den Beginn des Kundenzyklus beim Kochen/Rezept intuitiver gefunden
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 977 1087	beim Kochen beginnts, dann nächstes Rezept suchen, Fehlmengen werden angezeigt, man kauft ein und kocht wieder
+R5	supports Arg1:T9 Arg2:T7	
+T10	Claim 1087 1111	Ansonsten aber wunderbar
+T11	Claim 1113 1130	Coole Zeichnungen

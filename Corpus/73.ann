@@ -1,0 +1,24 @@
+T1	Claim 10 111	Customer Jobs  Es wird sehr schnell deutlich, dass es um den Umzug geht und somit wer die Kunden sind
+T2	Claim 118 184	deren Tätigkeiten beim Umzug werden gut und vollständig aufgezeigt
+T3	Premise 186 250	Vielleicht könntest du hier noch Abwicklung Kaution mit ergänzen
+T4	Premise 255 309	dies sicherlich auch zu einer wichtigen Aufgabe gehört
+R1	attacks Arg1:T3 Arg2:T2	
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 322 434	könntest du eventuell falls es zur Geschäftsidee passt noch die Abwicklung mit Umzugsunternehmen mit einbeziehen
+R3	attacks Arg1:T5 Arg2:T2	
+T6	Claim 446 496	Alle Pains im Zuge eines Umzugs werden gut genannt
+T7	Premise 498 683	Du könntest jedoch noch einbringen, dass es sehr viele Ansprechpersonen bzw. Kontaktpunkte gibt die fast simultan kontaktiert werden müssen, sodass auch hier Verwirrtheit entstehen kann
+R4	attacks Arg1:T7 Arg2:T6	
+T8	Claim 688 724	Gains  Gut und vollständig angegeben
+T9	Premise 729 819	Products  Services  Du gibst hier sehr viele Tätigkeiten an, die dein Unternehmen anbietet
+T10	Claim 827 917	könntest du vielleicht noch deutlicher herausstellen, dass alles durch eine Hand geschieht
+R5	supports Arg1:T9 Arg2:T10	
+T11	Claim 930 1086	könntest du noch angeben, ob du beispielsweise diesen Service über deine Webseite zum Buchen anbietest oder ob ein telefonischer Kontakt notwendig ist, o.ä.
+R6	supports Arg1:T9 Arg2:T11	
+T12	Premise 1090 1188	Pain Relievers  Hier gibst du eigentlich vielmehr an, was in den Products  Services Bereich gehört
+T13	Claim 1190 1446	Du solltest hier eher aufführen, dass du einen AllesauseinerHand Service anbietest, welcher den Umzugsstress minimiert, indem Adressänderungen und die Verfügbarkeitsmachung der neuen Bestimmungen am neuen Wohnort übersichtlich in einem Portal erfolgen kann
+R7	supports Arg1:T12 Arg2:T13	
+T14	Claim 1467 1531	Es wird gut ersichtlich, worin der Nutzen für den Kunden besteht
+T15	Claim 1541 1717	Insgesamt wie ich finde eine gute Ausarbeitung, bei der sehr genau sichtbar wird, was es bei den Kunden zu befriedigen gilt und wie das Unternehmen dies erfolgreich tuen möchte
+T16	Premise 1719 1927	Lediglich die Abgrenzung zwischen Products  Services sowie Pain Relievers solltest du noch etwas schärfen und für eine bessere Abstimmung von beispielsweise den Pain Relievers auf die angegebenen Pains sorgen
+R8	attacks Arg1:T16 Arg2:T15	

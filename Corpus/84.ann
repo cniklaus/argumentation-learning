@@ -1,0 +1,20 @@
+T1	Claim 17 48	Gute Idee mit den Ladestationen
+T2	Premise 50 89	Dafür gäbe es sicherlich eine Nachfrage
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 91 160	Heute hat fast jeder sein Ladegerät immer dabei was extrem mühsam ist
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 167 227	gehen die Ladegeräte und speziell die Stecker schnell kaputt
+R3	supports Arg1:T4 Arg2:T2	
+T5	Premise 229 311	Die Idee diese Cordless Ladestationen in Möbel einzubauen finde ich sehr innovativ
+R4	supports Arg1:T5 Arg2:T1	
+T6	Premise 313 360	Die Kabellosen Ladestationen gibt es ja bereits
+R5	supports Arg1:T6 Arg2:T5	
+T7	Claim 370 448	Ich würde das Dokument noch etwas ausschmücken und den Case besser beschreiben
+T8	Claim 450 514	die technische Umsetzung könnte auch noch etwas schwierig werden
+T9	Premise 519 603	die induktive Ladung nur funktioniert wenn das Gerät sehr nahe an de Ladestation ist
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 605 690	Zudem müsste geprüft werden wie der Austausch einer kaputten Ladestation möglich wäre
+R7	supports Arg1:T10 Arg2:T8	
+T11	Claim 725 810	as Dokument noch etwas ausschmücken und vielleicht noch einen Zusatznutzen hinzufügen
+T12	Premise 812 1008	Dies könnte z.B. eine integrierte Ladungsanzeige mit der bis zu einem vollen Akku erwarteten Ladezeit einbauen oder es ermöglichen die Ladestation auch kurzfristig an einen anderen Ort mitzunehmen
+R8	supports Arg1:T12 Arg2:T11	

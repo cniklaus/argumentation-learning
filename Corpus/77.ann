@@ -1,0 +1,23 @@
+T1	Claim 69 97	Grundsätzlich sehr gute Idee
+T2	Claim 97 174	Painpoints gut herausgearbeitet, Bedürfnis wird klar An sich stimmiger Canvas
+T3	Claim 266 351	Freitextbeschreibung etas chaotisch, könnte prägnanter und besser strukturiert werden
+T4	Claim 352 425	Geotracking ist wohl der falsche Ausdruck, eher Übermittlung der Position
+T5	Claim 426 485	Ich bezweifle, dass das Geschäftsmodell funktionieren würde
+T6	Premise 488 652	erade der Teil mit Entsprechend wird der benötigte Treibstoff an der Säule freigeschalten halte ich für unmöglich, die Tanksäule würde so für andere Fahrer gesperrt
+R1	supports Arg1:T6 Arg2:T5	
+T7	Premise 654 761	Eine Identifizierung des Benutzers an der Tanksäule wäre eine Alternative, diese halte ich für unumgänglich
+R2	supports Arg1:T7 Arg2:T5	
+T8	Premise 762 841	Ich sehe einen reativ grossen Aufwand im Vergleich zu dem Nutzen für den Kunden
+R3	supports Arg1:T8 Arg2:T5	
+T9	Premise 858 896	Ist wirkllich der Autofahrer der Kunde
+T10	Premise 898 990	Die Tankstellen sind schliesslich die, die bezahlen und die man von der Idee überzeugen muss
+T11	Claim 992 1042	Ich würde hier Customers und Key Partners tauschen
+R4	supports Arg1:T10 Arg2:T9	
+R5	supports Arg1:T9 Arg2:T11	
+T12	Claim 1044 1090	Dementsprechend die Value Proposition anpassen
+T13	Premise 1091 1208	vieles steht jetzt auch bei Revenue Streams Bei key activities würde ich den sicheren Zahlungsverkehr auch reinnehmen
+R6	supports Arg1:T13 Arg2:T12	
+T14	Claim 1209 1240	Bei Kosten fehlet das Marketing
+T15	Premise 1242 1318	Dieses ist bei einer Plattformlösung mit Netzwerkcharakter wohl auch relevan
+R7	supports Arg1:T15 Arg2:T14	
+T16	Claim 1321 1396	Bei Revenue Streams steht zuviel, dieser Punkt gehört in Value Propositions

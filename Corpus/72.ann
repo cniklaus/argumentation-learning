@@ -1,0 +1,8 @@
+T1	Claim 10 51	Die Value Proposition ist in sich stimmig
+T2	Premise 64 163	aus meiner Sicht decken sich Pain Relievers resp. Gain Creators mit den Pains resp Gains der Kunden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 165 268	Aus der Value Proposition wird mir nicht ganz klar, wie eine solche IT gestützte Lösung aussehen sollte
+T4	Premise 270 385	Ich könnte mir vorstellen, dass ein Kunde etwas mehr erwartet, ausser eine Datenbank die nur Adressen zusammenfasst
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 387 558	Vielleicht könnte das Geschäft dem Kunden einen grundsätzlichen Umzugsplan zukommen lassen und der Kunde kann diesen danach mutieren nach seinen induviduellen Bedürfnissen
+R3	supports Arg1:T5 Arg2:T4	

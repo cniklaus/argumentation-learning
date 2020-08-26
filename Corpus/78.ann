@@ -1,0 +1,15 @@
+T1	Claim 10 62	Die Idee hinter diesem BM finde ich sehr interessant
+T2	Premise 64 145	Ikea hat bereits erste Möbel lanciert, die über solche Induktionsplatten verfügen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 157 370	bin ich der Meinung, dass Induktion bei der Ladung von Mobilgeräten noch nicht wirklich marktreif ist, respektive die grossen Anbieter von Mobiltelefonen diese Technik schlicht noch nicht in Ihre Telefone verbauen
+T4	Premise 381 478	zweifle ich daran, dass solche in Möbel integrierte Induktionsplatten momentan nachgefragt werden
+T5	Premise 485 586	gibt es immer bessere und kleinere mobile Akkus, mit welchen die Mobilgeräte aufgeladen werden können
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T3 Arg2:T4	
+T6	Claim 604 671	finde ich die Idee spannend, wenn auch wahrscheinlich etwas zu früh
+R4	supports Arg1:T4 Arg2:T6	
+T7	Premise 673 842	Ein Problem sehe ich aber darin, dass Mobiliar sehr teuer ist und deshalb nicht sehr häufig ersetzt wird, im speziellen nicht an Universitäten und in Büros, Schulen usw.
+T8	Claim 842 1081	Wäre es deshalb nicht interessanter, solche Induktionsplatten entweder für den Heimgebrauch zu verbauen oder in Alltagsgegenstände mit einer kürzeren Lebenszeit als ein Pult, was die Wahrscheinlichkeit einer neuen Investition erhöhen würde
+T9	Premise 1107 1233	eine Tasche mit Induktionsplatte sobald das Handy oder der Laptop in der Tasche sind, werden die Geräte automatisch aufgeladen
+R5	supports Arg1:T9 Arg2:T8	
+R6	supports Arg1:T7 Arg2:T8	

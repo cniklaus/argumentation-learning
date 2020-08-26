@@ -1,0 +1,31 @@
+T1	Claim 10 17	TopIdee
+T2	Claim 19 36	Echt cool gemacht
+T3	Claim 110 256	Ich würde die Applikation nicht nur über App/PlayStores bereitstellen sondern unbedingt auch eine Desktopversion am besten browserbasiert anbieten
+T4	Premise 258 355	Es besteht ja doch die Chance, dass der eine oder andere dem Smartphone in dieser Sache misstraut
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 357 518	Entsprechend könntest du alternativ auch noch einen USBDongle bereitstellen, der an den Desktoprechner/Laptop angesteckt wird und so die Daten des Chips empfängt
+R2	supports Arg1:T4 Arg2:T5	
+T6	Premise 520 597	kostenseitig vermute ich, dass der Chip an sich nicht ganz so teuer sein wird
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 599 803	Vielmehr wird die Programmierung desselben und v.a. die Anpassung an die unterschiedlichen Schnittstellen Android, iOS, Windowsphone, Browser 1, 2, 3.... ins Gewicht fallen, was die Softwareseite betrifft
+R4	attacks Arg1:T7 Arg2:T5	
+T8	Premise 805 1052	Ansonsten werden es definitiv die Personalkosten fürs Bespannen und die Raummiete sein, die einen grossen Block als Fixkosten ausmachen vlt. könntest du ja irgendwie mit einer Behindertenorganisation zusammenarbeiten so wirds sozialer und billiger
+R5	supports Arg1:T8 Arg2:T5	
+T9	Premise 1068 1176	wäre evt. eine Funktion cool, wo man einstellen kann, wie gross die Hürde ist um das Racket neu zu bespannen
+T10	Premise 1178 1248	Ein Amateur kann ja bspw. viel länger noch damit spielen als ein Profi
+T11	Premise 1263 1391	will ich als Amateur nicht bei jedem bisschen weniger Spannkraft gleich wieder neu bespannen obwohl ich noch nicht mal was spüre
+R7	supports Arg1:T11 Arg2:T10	
+R6	supports Arg1:T10 Arg2:T9	
+T12	Claim 1406 1487	würde ich also den Schwellenwert, der eine NOtification auslöst nach unten setzen
+R8	supports Arg1:T9 Arg2:T12	
+T13	Premise 1489 1540	Diese Funktion wäre ein nicetohave aus meiner Sicht
+R9	supports Arg1:T13 Arg2:T12	
+T14	Claim 1542 1641	Ertragsseite Evt. überlegen, ob bei eher hoch eingestelltem Schwellenwert keine Grundgebühr anfällt
+T15	Premise 1648 1796	Wenn ich die Notification so eingestellt habe, dass sie sofort kommt, wenn die Spannung auch nur ein bisschen nachlässt, zahle ich keine Grundgebühr
+R10	supports Arg1:T15 Arg2:T14	
+T16	Premise 1798 1918	Unterschreitet die Einstellung einen gewissen Wert z.B. Notification ab Spannkraftverlust >50 zahle ich eine Grundgebühr
+R11	supports Arg1:T16 Arg2:T15	
+T17	Premise 1923 1961	ich ja weniger oft neu bespannen lasse
+R12	supports Arg1:T17 Arg2:T16	
+T18	Premise 1969 2070	diesen Punkt zu finden und Amateure durch die Grundgebühr nicht zu verärgern wird die Königsdisziplin
+R13	attacks Arg1:T18 Arg2:T14	

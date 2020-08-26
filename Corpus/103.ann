@@ -1,0 +1,25 @@
+T1	Claim 17 124	Du hast einen klaren Kundenprozess, welcher in der vorliegenden Form als Lückenlos betrachtet werden könnte
+T2	Claim 126 305	Die Einfachheit spricht deutlich für dein Konzept und der Wellbeing Ansatz wurde dahingehend verfolgt, dass du das mühsame Suchen und Buchen hunderter Events in einer App vereinst
+T3	Claim 329 422	Ins Konzept zum Kundenfeedback wirst du wohl noch ein Paar Gedanken einfliessen lassen müssen
+T4	Premise 424 521	Obwohl das bei amazon und Co. schon ganz super funktioniert hast du hier ein ganz anderes Produkt
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 523 720	Du bietest nicht ein Massenprodukt an, welches Kunden wieder und wieder kaufen können, sondern Events, welche von mal zu mal unterschiedlich sind und vor allem auch stark subjektiv beeinflusst sind
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 722 1097	Entweder du gestaltest das Feedback sehr simpel gut, mässig, schlecht und hinterlegst dieses mit einem Algorithmus, welcher alles Feedbacks konsolidiert und die Locations, Artists, Teilnehmerzahl etc. irgendwie zu einem sinnvollen Feedback aufbereitet, oder das Feedback gestaltet sich für den Kunden etwas umständlicher, was wohl nicht in deinem Sinne und dem des Kunden ist
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 1156 1296	würde mich interessieren, was denn meine Möglichkeiten sind, wenn ein Event bereits ausgebucht ist und ob ich das auch in der App schon sehe
+R4	supports Arg1:T7 Arg2:T3	
+T8	Premise 1298 1458	Gibt es allenfalls gelich eine Community Funktion in der ich Tickets von anderen Usern kaufen kann, welche aus irgendwelchen Gründen doch nicht zum Event können
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 1465 1575	was passiert, wenn genau in dem Moment, wo ich mein Ticket an der Kasse vorweisen will mein Handyakku leer ist
+R6	supports Arg1:T9 Arg2:T3	
+T10	Premise 1577 1640	Gibt es eine andere Möglichkeit meine Teilnahme sicherzustellen
+T11	Premise 1646 1821	hinterlegen der Userdaten in einer Datenbank, auf welche der Veranstalter zugriff hat und mich so durch das vorzeigen der ID ebenfalls als zahlenden Kunden identifizieren kann
+R7	supports Arg1:T11 Arg2:T10	
+T12	Premise 1822 1896	Gibt es während des Events interessante funktionen, die mir die App bietet
+R8	supports Arg1:T12 Arg2:T3	
+T13	Premise 1898 1952	Kann ich mich mit anderen Teilnehmern live austauschen
+R9	supports Arg1:T13 Arg2:T3	
+T14	Premise 1954 1996	Neue leute via Community kennenlernen etc.
+R10	supports Arg1:T14 Arg2:T13	
+R11	supports Arg1:T10 Arg2:T3	

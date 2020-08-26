@@ -1,0 +1,28 @@
+T1	Claim 86 145	Du hast dir eine super Geschichte als Storyboard ausgedacht
+T2	Claim 153 260	hast du eine visuelle sehr ansprechende Geschichte mit tollen und aussagekräftigen Bildern zusammengestellt
+T3	Premise 262 421	Sehr gut gefallen hat mir deine Darstellungen auf dem Handy und wie du damit schon sehr viele Optionen aufzeigst, welche mit so einer Application möglich wären
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 423 488	Du hast deine Vision klar in einzelne Unterideen aufteilen können
+T5	Claim 503 565	finde ich die Gedankenblasen im Storyboard eine brillante Idee
+T6	Premise 567 719	In deinem Storyboard trifft du es mit den Gedankenaussagen perfekt, die spezifische Situation zu umschreiben und somit den Kundennutzen zu verdeutlichen
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 731 844	geht du in deiner Beschreibung zum Kundenprozess detailliert auf die aufgelisteten Punkte des Kundenprozesses ein
+T8	Claim 846 905	Der Kundenprozess ist verständlich und einfach zu verstehen
+T9	Claim 907 1044	Sehr gut finde ich, wie du den Kundendienst als zentrales Instrument darstellst und somit durch den ganzen Prozess als Säule mit einbaust
+T10	Claim 1142 1256	Formal ist alles super aber inhaltlich hätte ich einige Fragen und Bemerkungen die du in deiner V2 einbauen kannst
+T11	Premise 1258 1288	Wie sieht es in der Praxis aus
+R3	supports Arg1:T11 Arg2:T10	
+T12	Premise 1290 1432	Das Handy hat man immer bei sich, aber wie schnell kann man das Handy aus der Hosentasche zücken, und dann die anderen Passanten fotografieren
+T13	Premise 1434 1539	Da ist noch ein Zwischenschritt der meiner Meinung nach fehlt. Muss man die Person bitte, kurz anzuhalten
+R4	supports Arg1:T12 Arg2:T13	
+R5	supports Arg1:T13 Arg2:T11	
+T14	Premise 1541 1599	Wäre es nicht gerade einfacher die Person direkt zu fragen
+R6	supports Arg1:T14 Arg2:T13	
+T15	Claim 1603 1653	Weiterhin sehe ich ein Problem mit dem Datenschutz
+T16	Premise 1656 1752	ie reagieren Personen, wenn man die Kamera auf sie richtet und somit ein Bild von ihnen schiesst
+R7	supports Arg1:T16 Arg2:T15	
+T17	Premise 1754 1888	Der Preis, das Kleidungsstück und Kleidergrösse könnten ein Problem sein, weil man solche Sachen nicht immer unbedingt preisgeben will
+R8	supports Arg1:T17 Arg2:T15	
+T18	Claim 2043 2184	denke ich, könntest du deine Lösung überarbeiten. Indem du eine kurze aber ausführlichere Erklärung lieferst, wie du Snapwish benutzen willst
+T19	Premise 2186 2249	Vor allem die Interaktion mit den Passanten und Kleidungsträger
+R9	supports Arg1:T19 Arg2:T18	

@@ -1,0 +1,9 @@
+T1	Claim 68 167	Ich finde die Prozessbeschreibung sehr Gut und auch die zeichnerische Darstellung ist sehr geglückt
+T2	Premise 169 229	Die Prozesse ist logisch aufgebaut und sehr intuitiv erklärt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 321 361	Ich finde es fehlt ein Schritt am Anfang
+T4	Premise 363 401	Wie kommen die Kunden auf die Webseite
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 534 622	Ich würde mir überlegen, ob es Sinn macht am Anfang noch einen Prozessschritt einzubauen
+T6	Premise 629 694	es interessant ist wie die Kunden diesen Service überhaupt finden
+R3	supports Arg1:T6 Arg2:T5	

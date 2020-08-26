@@ -1,0 +1,24 @@
+T1	Claim 85 149	Die einzelnen Schritte des Kundenprozesses wurden genau betitelt
+T2	Claim 159 207	Die Bezahlung erfolgt schon sehr früh im Prozess
+T3	Premise 209 266	Besteht die Möglichkeit, diese nach hinten zu verschieben
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 268 368	Üblicherweise ist sie immer am Schluss, und der Kunde würde damit auch sehen wofür er wirklich zahlt
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 389 492	das System mit einem QRCode oder BarCode funktioniert, welcher die Adressen und Informationen speichert
+T6	Claim 503 614	macht es Sinn, zuerst die Übergabe Konditionen bei der Zielperson zu definieren, bevor der QRCode gedruckt wird
+R3	supports Arg1:T5 Arg2:T6	
+T7	Claim 617 755	as Ausdrucken und Frankierung würde ich als letzter Schritt nehmen, nachdem alle Informationen eingegeben wurden und der Kunde bezahlt hat
+T8	Premise 779 899	Beim ersten Durchlesen hat man nicht das Gefühl, dass die Illustrationen die Wahlkästchen auf der Webseite widerspiegeln
+T9	Premise 949 1037	or allem die Wiederholung der Bilder der Deponierung und persönlichen Übergabe verwirren
+T10	Claim 1056 1116	würde ich jedem einzelnen Bild einen kleinen Titel verleihen
+R4	supports Arg1:T8 Arg2:T10	
+R5	supports Arg1:T9 Arg2:T8	
+T11	Premise 1117 1140	Anmeldung einer Sendung
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 1142 1257	Vor allem bei der Anmeldung der Sendung kann die Lösung durch Usability punkten, welcher der Kunde direkt wahrnimmt
+T13	Premise 1259 1328	Der Versand an sich wird nicht wahrgenommen, ausser die Pünktlichkeit
+R7	supports Arg1:T13 Arg2:T12	
+T14	Premise 1330 1416	Als Verbesserung könnte die Anmeldung der Sendung als zwei Schritte dargestellt werden
+R8	supports Arg1:T14 Arg2:T12	
+T15	Premise 1418 1534	1. Abhol und Zieladresse eingeben und 2. Gewicht und Grösse. Dieser Vorschlag soll als eine mögliche Variante dienen
+R9	supports Arg1:T15 Arg2:T14	

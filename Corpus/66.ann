@@ -1,0 +1,30 @@
+T1	Claim 30 92	ist dein Business Model Canvas gut verständlich und durchdacht
+T2	Premise 94 212	Die verschiedenen Beispiele im Einleitungstext zeigen deutlich mögliche Kundensegmente, und den Nutzern der Lösung auf
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 214 293	Entscheidend ist es wohl, dass du auf namhafte Technologiepartner wie KABA setz
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 296 472	da dieser Umstand eine höhere Wahrnehmung an Sicherheit und somit eine höhere Wahrscheinlichkeit der Technologieakzeptanz mit sich bringen wird vgl. Technology Acceptance Model
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 474 583	Erfolgsweisend ist zudem die Idee des SelfServices über die Applikation, um die Betriebskosten tief zu halten
+T6	Claim 584 770	Ich würde in einem weiteren Schritt unbedingt über die reine SchlossLösung hinaus gehen InterneRoadmap und das Schloss mit anderen Lösungen im Bereich der Heimautomatisierung kombinieren
+R4	supports Arg1:T5 Arg2:T6	
+T7	Premise 772 857	Damit schaffst du höhere Wechselkosten für Kunden, indem du einen Mehrwert generierst
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 872 1006	ist der Endkunde daran interessiert, möglichst nur eine App und somit ein Dominant Design lernen zu müssen, um seine Jobs zu erledigen
+R6	supports Arg1:T8 Arg2:T7	
+T9	Premise 1014 1059	erhält er nur eine Rechnung von einem Partner
+R7	supports Arg1:T9 Arg2:T7	
+T10	Claim 1229 1335	Ich persönlich würde den zweiten Teil noch stärker hervorheben welche Effekte werden beim Kunden generiert
+T11	Premise 1060 1227	Der erste Teil deiner Value Proposition ist eher funktional ausgedrückt, der zweite Teil geht dann mit dem RundumPaket in die Richtung Convenience/Usability der Lösung
+R8	supports Arg1:T11 Arg2:T10	
+T12	Premise 1337 1433	Einfachheit, Risikoreduktion muss zum Beispiel keinen Schlüssel legen, der geklaut werden könnte
+R9	supports Arg1:T12 Arg2:T10	
+T13	Premise 1435 1511	Convenience.Sicherheit und Trust sind bei deinem Business Model entscheidend
+T14	Claim 1513 1671	Ich würde zusätzlich hervorheben, wie ein potentieller Kunde davor geschützt ist, dass das Schloss nicht missbräuchlich durch KeyShare freigegeben werden kann
+R10	supports Arg1:T13 Arg2:T14	
+T15	Premise 1688 2029	kann im Backend nur ein neuer Code generiert werden, wenn ein MasterKey verfügbar ist  sonst muss das Schloss komplett ausgewechselt werden  oder sonst eine Argumentation in diese Richtung vgl. Apple Fingerabdruckdaten werden nur Lokal und verschlüsselt gespeichert, BoxCryptor Passwort kann durch BoxCryptor nicht zurückgesetzt werden, usw.
+R11	supports Arg1:T15 Arg2:T14	
+T16	Claim 2030 2135	In der Value Proposition könntest du zudem noch spezifischer auf die einzelnen Customer Segments eingehen
+T17	Premise 2137 2188	Welche Lösungen werden genau für wen gebundelt, etc
+R12	supports Arg1:T17 Arg2:T16	
+T18	Claim 2270 2336	Insgesamt finde ich die Idee spannend und die Argumentation solide

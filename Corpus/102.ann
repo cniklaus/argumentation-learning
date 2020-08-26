@@ -1,0 +1,10 @@
+T1	Claim 21 63	Ich finde dein Storyboard sehr detailreich
+T2	Premise 66 177	Jeder einzelne Schritt wurde ausführlich beschrieben und dargestellt und ist demnacht sehr gut nachzuvollziehen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 193 290	Es ist nicht ganz ersichtlich inwiefern der grüne Prozessverlauf mit dem Storyboard zusammenhängt
+T4	Premise 293 368	Schritte aus der grünen Prozessgrafik finden sich in der Story nicht wieder
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 374 404	Rezepte in die Community laden
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 432 677	Vielleicht kannst du noch besser herausarbeiten, dass die App zwei Hauptfeatures liefert, nämlich zum einen die intelligenten Rezeptvorschläge und zum anderen die Möglichkeit sich einen individualisierten Ernährungsplan zusammenstellen zu lassen
+T7	Claim 681 861	Den Punkt Rezept in Community hochladen könntest du noch in die Story miteinbauen bzw. den grünen Prozessverlauf so abändern, dass Story und Prozessdarstellung etwas homogener sind

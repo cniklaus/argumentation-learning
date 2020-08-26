@@ -1,0 +1,15 @@
+T1	Claim 10 30	Super Komplettlösung
+T2	Premise 32 62	ich persönlich wäre dein Kunde
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 64 157	Du hast dich mit deinem Geschäftsfeld intensiv auseinandergesetzt und ausreichend beschrieben
+T4	Claim 302 502	wünschte ich mir eine genauere Beschreibung bei den kritischen Erfolgsfaktoren, wie du gedenkst, die kritische Masse in einer frühen Phase zu erreichen kurze Beschreibung der Marketingaktivitäten, etc
+T5	Premise 205 292	Die einzelnen Punkte sind aus meiner Sicht ausnahmslos so beschrieben, wie auch gefragt
+R2	attacks Arg1:T5 Arg2:T4	
+T6	Premise 504 592	Zudem stellt der wahre Nutzen deiner Plattform der Aufbau eines PartneringNetzwerkes dar
+T7	Premise 594 712	Um insbesondere in den Anfängen genügend User zu generieren, sollte deine Plattform bereits einen Kernnutzen aufweisen
+T8	Claim 714 813	Überlege dir welches dein Kernnutzen darstellt und ergänze ihn unter den kritischen Erfolgsfaktoren
+R3	supports Arg1:T6 Arg2:T7	
+R4	supports Arg1:T7 Arg2:T8	
+T9	Premise 814 896	Genauere Ausführungen wünschte ich mir ausserdem bei den Lieferanten/Wettbewerbern
+T10	Claim 899 1045	rläutere noch genauer, wo der Vorteil für deine Wettbewerber sein soll insbesondere auch in den frühen Phasen, sich deinem Netzwerk anzuschliessen
+R5	supports Arg1:T9 Arg2:T10	

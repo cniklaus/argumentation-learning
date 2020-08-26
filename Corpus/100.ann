@@ -1,0 +1,20 @@
+T1	Claim 71 186	Sehr gute Idee die Zahlungsabwicklung des Tankens über die App zu machen, spart sicherlich Zeit und zum Teil Nerven
+T2	Claim 188 291	Die App bietet eine Lösung aus einer Hand von der Tankstellensuche bis hin zum Zahlen und der Übersicht
+T3	Premise 391 441	Wieso sollen die Tankstellen als Partner mitmachen
+T4	Premise 443 496	Ich nehme an, die sollten als Partner gewonnen werden
+T5	Premise 498 575	Im Moment machen diese meiner Meinung nach einen ziemlich Umsatz mit dem Shop
+T6	Premise 577 652	Wenn die Kunden nicht mehr reingehen, dann kaufen die auch bestimmt weniger
+T7	Claim 708 836	Vlt kann hier noch eine Lösung gefunden werden, kann dir aber leider auch nicht gerade eine Lösung auf die Schnelle präsentieren
+R1	supports Arg1:T3 Arg2:T7	
+R2	supports Arg1:T6 Arg2:T3	
+R3	supports Arg1:T4 Arg2:T3	
+R4	supports Arg1:T5 Arg2:T3	
+T8	Premise 654 706	Oder konzentrierst du dich auf Tankstellen ohne Shop
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 838 996	Evt. eine Premium an die Tankstellenbetreiber oder wirklich nur Fokus auf ohne Shop und dann wird Druck auf andere vlt genügend gross, um sich auch anzupassen
+R6	supports Arg1:T9 Arg2:T7	
+T10	Claim 1120 1202	Versuche die App noch besser mit Angeboten deiner Partner zu vernetzen integrieren
+T11	Premise 1207 1237	Migros oder Coop App, Avia, BP
+R7	supports Arg1:T11 Arg2:T10	
+T12	Premise 1239 1335	So könnten Vlt von den Shops Aktionen oder so ebenfalls eingeblendet werden und Kunden angezogen
+R8	supports Arg1:T12 Arg2:T10	

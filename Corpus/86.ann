@@ -1,0 +1,60 @@
+T1	Claim 29 67	ES ist klar und auf den Punkt gebracht
+T2	Premise 69 103	Revenue Model ist klar ersichtlich
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 105 215	Ich würde nicht auf Spotify im ersten Satz verweisen, sondern gezielter die Funktion des Produktes hervorheben
+T4	Premise 217 398	Evtl. kann mit dem Problem begonnen werden, das gelöst warden muss Vorbei sind die Zeiten in denen am Kiosk 3 verschiedene Zeitungen gekauft werden müssen wegen 3 einzelnen Artikeln
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 398 471	Business Model Canvas BMC ist in sich geschlossen und macht generell Sinn
+T6	Claim 473 512	Graue englische Sätze würde ich löschen
+T7	Premise 514 562	Gibt mehr Platz für Ausformulierung von Lösungen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 564 662	Zu den Key Activities gehört für mich die Pflege der Beziehungen zu den Partners bzw. deren Aufbau
+T9	Premise 664 777	Ohne gute Beziehungen werden sich die Medienhäuser niemals dazu bereit erklären, Inhalte zur Verfügung zu stellen
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 779 812	Revenue Streams ist zu vielfältig
+T11	Premise 814 844	Was ist das Zahlungsmodell nun
+R5	supports Arg1:T11 Arg2:T10	
+T12	Premise 846 885	Werbung, Flatrate oder separate Zahlung
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 887 959	Ich würde mich höchstens auf zwei fokusieren Das wären Werbung  Flatrate
+R7	supports Arg1:T13 Arg2:T10	
+T14	Premise 961 993	Ansonsten wird es zu kompliziert
+R8	supports Arg1:T14 Arg2:T13	
+T15	Premise 995 1070	So funktioniert es bei Spotify auch um den Bogen zur Einleitung zu schlagen
+R9	supports Arg1:T15 Arg2:T13	
+T16	Claim 1072 1111	Cost Structure Würde ich konkretisieren
+T17	Premise 1113 1169	Aufgrund welcher Kennzahlen werden die Publisher bezahlt
+R10	supports Arg1:T17 Arg2:T16	
+T18	Premise 1171 1200	Aufgrund aufgerufener Artikel
+R11	supports Arg1:T18 Arg2:T17	
+T19	Premise 1202 1210	Flatrate
+R12	supports Arg1:T19 Arg2:T17	
+T20	Premise 1212 1241	Verbrachter Zeit auf Artikeln
+R13	supports Arg1:T20 Arg2:T17	
+T21	Claim 1243 1299	Customer Relationships Gemeint ist die Kundenbeziehungen
+T22	Premise 1301 1352	Du hast jedoch die Kundenbedürfnisse hingeschrieben
+R14	supports Arg1:T22 Arg2:T21	
+T23	Claim 1371 1404	s ist sicherlich Bedarf vorhanden
+T24	Premise 1406 1434	Ich würde das Angebot nutzen
+R15	supports Arg1:T24 Arg2:T23	
+T25	Claim 1436 1530	Ich frage mich, ob Medienhäuser sich dazu bereit erklären, bei einem solchen Model mitzumachen
+T26	Premise 1532 1611	Wie die Lösung beschrieben wird, scheint ihr Stück vom Kuchen kleiner zu werden
+T27	Premise 1613 1643	Was ist ihr Vorteil der Lösung
+T28	Premise 1645 1707	Der von dir genannte Punkt im ES scheint mir zu kurz gegriffen
+T29	Premise 1712 1749	es nach Kanibalisierungseffekt riecht
+R16	supports Arg1:T26 Arg2:T25	
+T30	Premise 1751 1809	Mein NZZAbo würde ich kündigen, gebe es eine solche Lösung
+R17	supports Arg1:T30 Arg2:T24	
+R18	supports Arg1:T27 Arg2:T26	
+R19	supports Arg1:T28 Arg2:T25	
+R20	supports Arg1:T29 Arg2:T28	
+T31	Claim 1871 1959	Bei der Überarbeitung würde ich noch präzisier auf die Differenzierungsmerkmale eingehen
+T32	Premise 1811 1869	Die Ähnlichkeit zur FacebookTimeline scheint gross zu sein
+R21	supports Arg1:T32 Arg2:T31	
+T33	Premise 1967 2057	Könnte der Nutzer gewisse Suchfunktionen haben Artikel aus England zu Sport oder ähnliches
+R22	supports Arg1:T33 Arg2:T31	
+T34	Premise 2059 2114	Es wird nicht ganz klar, worauf der Algorithmus aufbaut
+T35	Premise 2115 2222	Gibt der Nutzer Präferenzen an oder werden aufgrund der gelesenen Artikel wieder neue Artikel vorgeschlagen
+T36	Claim 2224 2290	Das würde ich unbedingt beim Überarbeiten der Lösung verdeutlichen
+R23	supports Arg1:T35 Arg2:T34	
+R24	supports Arg1:T34 Arg2:T36	

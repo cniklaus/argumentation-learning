@@ -1,0 +1,43 @@
+T1	Claim 18 44	Interessante Geschäftsidee
+T2	Claim 46 95	Kundenprozess erster Teil interessant dargestellt
+T3	Claim 129 220	Ich glaube du hast nicht ganz verstanden, was ein Storyboard ist bzw. was damit gemeint ist
+T4	Premise 222 353	Eine simple GoogleSuche sollte dir aufzeigen, dass damit graphische Illustrationen des Prozesses gemeint sind, evtl. inklusive Text
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 355 418	Du hast jedoch bloss die Kundenprozesse in Textform abgehandelt
+R2	supports Arg1:T5 Arg2:T3	
+T6	Premise 420 519	Kundenprozesse stellen die Prozesse dar, welche dem Kunden zugeordnet sind sichtbar oder unsichtbar
+R3	supports Arg1:T6 Arg2:T3	
+T7	Premise 521 596	Potentielle Segmente identifizieren sehe ich eher als strategischen Prozess
+T8	Premise 604 746	nennst du auch die Wichtigkeit von Parnterschaften zu Möbelherstellern etc. Alles nicetoknow, hat jedoch nichts mit den Kundenprozessen zu tun
+R4	supports Arg1:T8 Arg2:T6	
+R5	supports Arg1:T7 Arg2:T6	
+T9	Premise 748 822	Ein Kundenprozess wäre hier bspw. Auswahl der Möbel von Partnerunternehmen
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 892 960	Durch die Visuallisierung der Prozesse sollte genau dies klar werden
+T11	Premise 828 848	dann ist wichtig wie
+T12	Premise 850 856	Online
+T13	Premise 858 869	Per Telefon
+T14	Premise 871 890	Im Ausstellungsraum
+R7	supports Arg1:T12 Arg2:T11	
+R8	supports Arg1:T13 Arg2:T11	
+R9	supports Arg1:T14 Arg2:T11	
+R10	supports Arg1:T11 Arg2:T6	
+R11	supports Arg1:T10 Arg2:T6	
+T15	Premise 1203 1306	Kundenprozess erster Teil Kunde entscheidet sich für Zusammenarbeit kling als wäre der Kunde in Partner
+T16	Premise 1308 1350	Eine Formulierung wäre Kunde bestellt Ware
+R12	supports Arg1:T16 Arg2:T15	
+T17	Claim 1352 1429	Allgemein würde ich die Formulierung der Kundenprozesse nochmals überarbeiten
+R13	supports Arg1:T15 Arg2:T17	
+T18	Premise 1431 1498	Auftragsausführung würde ich bspw. zu Warenauslieferung präzisieren
+R14	supports Arg1:T18 Arg2:T17	
+T19	Claim 1500 1539	Das Storyboard lässt viele Fragen offen
+T20	Premise 1547 1606	Wo und wann hat ein Kunde das Bedürfnis nach deinem Produkt
+R15	supports Arg1:T20 Arg2:T19	
+T21	Premise 1608 1732	Du hast die Uni zwar genannt, aber verbildliche das doch gleich Prof. Bieger bei der Bestellung zu 200 neune Tischen oder so
+R16	supports Arg1:T21 Arg2:T20	
+T22	Premise 1734 1808	Dann kannst du anhand dieses Beispiels das Storyboard nämlich gut ausbauen
+R17	supports Arg1:T22 Arg2:T21	
+T23	Premise 1810 1961	llgemeine Food for Thought Mobilar ist ja etwas relativ langlebiges  Wie gehtst du damit um, dass bspw. Apple alle 2 Jahre die iPhoneKabelform wechselt
+R18	supports Arg1:T23 Arg2:T19	
+T24	Premise 1963 2087	Allgemein würde ich dem Kunden mehr Entscheidungen abnehmen, und mit einigen Standardlösungen modifizierbar auf Ihn zukommen
+R19	supports Arg1:T24 Arg2:T23	

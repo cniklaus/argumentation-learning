@@ -1,0 +1,12 @@
+T1	Claim 17 85	Der Kundenprozess ist gut ausgearbeitet und verständlich beschrieben
+T2	Premise 87 197	Die Zeichnungen des Storyboards ergänzen den Kundenprozess gut und verdeutlichen die Idee des Geschäftsmodells
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 207 308	Beim Kundenprozess ist nicht klar wie die Kunden auf die Webseite gelangen oder die App herunterladen
+T4	Premise 368 454	Es fehlt eine Erklärung was für weitere Services nach einem Umzug noch benötigt werden
+T5	Claim 456 499	Ein paar Beispiele würden Klarheit schaffen
+R2	supports Arg1:T4 Arg2:T5	
+T6	Premise 526 579	Storyboard wird die Reinigung als Beispiel aufgezeigt
+T7	Premise 581 640	Im Geschäftsprozess geht es aber hauptsächlich um den Umzug
+T8	Claim 642 937	Man könnte noch ein Bild einfügen, dass den Umzug zeigt zur Vervollständigung des Storyboards.Im Kundenprozess könnte noch ein Schritt eingefügt werden der zeigt, wie die Kunden auf die Webseite gelangen Werbung, Empfehlungen, durch die Unternehmen welche die Umzugsdienstleistung anbieten, etc.
+R3	supports Arg1:T7 Arg2:T6	
+R4	supports Arg1:T6 Arg2:T8	

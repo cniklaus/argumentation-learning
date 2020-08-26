@@ -1,0 +1,42 @@
+T1	Claim 18 60	Ganzes Geschäftsmodell geht vom Kunden aus
+T2	Claim 62 116	Man sieht das Erfahrung hinter dem Geschriebenen steht
+T3	Premise 118 173	Das Angebot kann als äusserst spontan bezeichnet werden
+T4	Premise 178 214	der Kunden jederzeit reparieren kann
+T5	Premise 216 264	Die Usability und der WellBeing Effekt sind hoch
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T4 Arg2:T3	
+R3	supports Arg1:T5 Arg2:T2	
+T6	Premise 269 346	der Kunde alles aus einer Hand, sehr einfach und zeitsparend konsumieren kann
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 348 409	Das Business Model Canvas ist äusserst detailliert ausgefüllt
+R5	supports Arg1:T7 Arg2:T2	
+T8	Premise 411 459	Es sind richtig viel Informationen hineingepackt
+R6	supports Arg1:T8 Arg2:T7	
+T9	Claim 470 517	Eigene Erfahrungen sind auf der einen Seite gut
+T10	Premise 519 596	Auf der anderen Seite musst Du sicherstellen, dass es trotzdem alle Verstehen
+R7	attacks Arg1:T10 Arg2:T9	
+T11	Premise 598 665	Eventuell brauchst Du Investoren die nichts mit Tennis zu tun haben
+T12	Premise 667 698	Was ist zum Beispiel in Dämpfer
+T13	Premise 700 736	Wie wichtig sind die Saitendicke etc
+R8	supports Arg1:T11 Arg2:T10	
+R9	supports Arg1:T12 Arg2:T10	
+R10	supports Arg1:T13 Arg2:T10	
+T14	Premise 738 864	Es ist mir bewusst, dass es unter Umständen schwierig ist im jetzigen Stadion konkrete Angaben zu gewissen Bereichen zu machen
+R11	attacks Arg1:T14 Arg2:T10	
+T15	Premise 866 910	Zudem ist vieles schon detailliert Angegeben
+R12	attacks Arg1:T15 Arg2:T10	
+T16	Premise 1003 1099	wie teuer wird der Chip für die Konsumenten wenigsten ungefähr in welchem Bereich, zentrale Info
+R13	supports Arg1:T16 Arg2:T10	
+T17	Claim 1101 1140	Ich würde das GM um ein Punkt erweitern
+T18	Premise 1142 1199	Momentan denke ich, dass Du relativ viele Kunden brauchst
+T19	Premise 1201 1218	Möglichst schnell
+T20	Premise 1225 1253	Du hast grosse Investitionen
+R15	supports Arg1:T20 Arg2:T19	
+T21	Premise 1255 1365	Du wirst wahrscheinlich aus diesem Grund nicht darum herum kommen zumindest am Anfang massiv Werbung zu machen
+R14	supports Arg1:T19 Arg2:T18	
+R16	supports Arg1:T18 Arg2:T21	
+T22	Claim 1477 1544	Was Du versuchen kannst, ist die Ausbaufähigkeit des App anzudeuten
+T23	Premise 1559 1635	könnte es man die App erweitern mit einem Tenniskalender, wer wann wo spielt
+R17	supports Arg1:T23 Arg2:T22	
+T24	Premise 1643 1797	ventuell könnte man etwas ähnliches daraus entwickeln wie die RunningChips von Nike, dass man seine Spiele auf FB teilen und mit Freunden vergleichen kann
+R18	supports Arg1:T24 Arg2:T22	

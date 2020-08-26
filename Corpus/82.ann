@@ -1,0 +1,13 @@
+T1	Claim 13 96	Industrie 4.0 ist zweifelsohne ein Trend, der unaufhaltsam die Fabrikhallen erobert
+T2	Premise 98 242	Die Rolle des Lieferanten wird dabei oft vernachlässigt, wobei die Verfügbarkeit der Materialien ein essentieller Bestandteil dieses Systems ist
+T3	Premise 244 388	Der direkteZugang des Lieferanten zu dem ERPSystems des Kunden ermöglicht eine noch schnellere Bestellaufnahme und verbessert den Prozess weiter
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T2 Arg2:T1	
+T4	Premise 393 542	Eine mögliche Schwäche des Systems könnte sein, dass der Kunde gar nicht möchte, dass der Lieferant direkten Zugang zu den Daten des Unternehmens hat
+T5	Claim 544 662	An dieser Stelle muss daher noch erwähnt werden, dass diese Aspekte vorab mit dem Kunden durchgesprochen werden müssen
+R3	supports Arg1:T4 Arg2:T5	
+T6	Premise 664 790	Ebenso verhält es sich, falls der Kunde den Mindestbestand für sich ändert, der Lieferant aber ab einer gewissen Menge liefert
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 792 919	Der Mechanismus dieser automatischen Bestellungen muss deshalb auch Änderungen der Anforderungen automatisch integrieren können
+R5	supports Arg1:T6 Arg2:T7	
+T8	Claim 924 1224	Bei der Überarbeitung sollte vor allem darauf geachtet werden, dass der added value dieses Systems, im Vergleich zu dem herkömmlichen Industrie 4.0 System Lager sendet Auftragi.V.m. Lieferant erkennt Mangel deutlich aufgezeigt wird und das mögliche Gefahren dieses Systems kritisch reflektiert werden

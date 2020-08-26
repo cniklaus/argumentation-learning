@@ -1,0 +1,18 @@
+T1	Claim 10 73	Insgesamt finde ich dein Storyboard schön ausführlich gestaltet
+T2	Claim 80 117	die Zeichnungen sind gut verständlich
+T3	Premise 173 215	Der Text unter den Bildern ist recht klein
+T4	Claim 218 293	alls du das schnell beheben kannst, würde ich weniger auf eine Slide packen
+R1	supports Arg1:T3 Arg2:T4	
+T5	Premise 295 337	Dann kann der Text etwas grösser ausfallen
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 340 399	Den Text würde ich aus der Perspektive des Kunden schreiben
+T7	Premise 401 483	Im ersten Absatz machst du das gut, im zweiten würde ich darauf noch mehr eingehen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 494 622	Schon vor der Reise wird der Kunde von der App informiert... oder Schon vor der Reise informiert sich der Kunde mithilfe der App
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 626 702	Ich halte das für wichtig da man den Prozess aus Kundensicht modelieren soll
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 704 760	Punkt zwei würde ich auch unter den Zeichnungen anwenden
+T11	Premise 762 847	Ich bin jedoch nicht sicher, ob du dort die Beschreibung überhaupt nochmals nötig ist
+T12	Claim 849 948	Ich würde mich auf einen reinen Lauftext oder auf die Kommentare unter den Zeichnungen einschränken
+R6	supports Arg1:T11 Arg2:T12	

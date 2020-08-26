@@ -1,0 +1,7 @@
+T1	Claim 70 159	Dein Storyboard ist sehr ausführlich beschrieben und die Zeichnungen sind fast Kunstwerke
+T2	Premise 161 263	Nicht nur der Kundeprozess wurde erklärt sondern auch ein LowFidelity Prototype der Website aufgezeigt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 265 330	Die Pre, During und Post Aktivitäten wurden gründlich beschreiben
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 429 444	Keine Schwächen
+T5	Claim 569 635	Evtl. noch die andere Varianten für die Schlüsselübergabe erklären

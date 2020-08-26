@@ -1,0 +1,3 @@
+T1	Premise 37 168	Zum einen handelt es sich um rechtliche Themen HR, Rechtsform, etc und zum anderen um organisatorische oder auch Marketing Aufgaben
+T2	Claim 170 320	Ich würde deshalb das Kundenbedürfnis etwas anders einschätzen und behaupte, dass Kunden eine Kombination dieser verschiedenen Elemente nicht wünschen
+R1	supports Arg1:T1 Arg2:T2	

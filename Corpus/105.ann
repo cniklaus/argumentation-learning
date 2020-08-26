@@ -1,0 +1,10 @@
+T1	Claim 68 111	Bildliche Darstellung ist gut mit den Icons
+T2	Claim 113 165	Das Geschäftsmodell wird ebenfalls sehr verständlich
+T3	Claim 166 233	Der Einstieg des Kunden ist ebenfalls beschrieben, was sehr gut ist
+T4	Claim 325 394	Der Kundenprozess ist sehr stark mit den internen Prozessen vermischt
+T5	Premise 396 429	Ich würde diese ganz klar trennen
+T6	Claim 733 814	Bessere Trennung des Kundenprozesses vom internen Prozess durch visuelle Trennung
+T7	Claim 815 887	Welcher beschriebene Schritt zu welchem Icon gehört wird nicht ganz klar
+T8	Premise 889 999	Ich würde den Kundenprozess einmal als Prozess aufschreiben, und nachher pro Schritt das Icon wieder verwenden
+R2	supports Arg1:T8 Arg2:T7	
+R1	supports Arg1:T5 Arg2:T4	

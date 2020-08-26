@@ -1,0 +1,9 @@
+T1	Claim 34 76	eine klar ausformulierte Value Proposition
+T2	Premise 78 212	Stark finde ich den roten Faden und die Bezugnahme der Gain Creators auf die Gains und Pain Relievers auf die Pains ProblemSolutionFit
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 220 272	wurden auch emotionale Elemente bei Pains adressiert
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 282 499	Die Products  Services nehmen meiner Meinung nach noch zu wenig Bezug auf die Pain Relivers/ Gain creators Gemäss den angebotenen DL beinhaltet die Lösung noch viel mehr, als beiPain Relivers/ Gain creators aufgezählt
+T5	Claim 648 742	Ein weiterer Gain creator und ev. auch ein Gain könnte weniger Planungsaufwand beim Umzug sein
+T6	Premise 747 808	einige der beschriebenen Tätigkeiten schon im Voraus erfolgen
+R3	supports Arg1:T6 Arg2:T5	

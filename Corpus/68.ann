@@ -1,0 +1,49 @@
+T1	Claim 21 221	Das Umzugsportal reduziert die Komplexitaet eines Wohnungswechsels und nimmt einem saemtliche Taetigkeiten ab, die Zeit benoetigen, nicht gerne macht und durchaus auch in Vergessenheit geraten koennen
+T2	Claim 226 288	Eine einheitliche Plattform vereinfacht die einzelnen Prozesse
+T3	Premise 290 363	Fuer den Kunden ist es einfach und komfortabel, den Umzug zu organisieren
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 365 490	Man muss nicht mit mehreren Firmen in Kontakt treten, sondern nur alle notwendigen Informationen auf einer Plattform erfassen
+R2	supports Arg1:T4 Arg2:T2	
+T5	Premise 495 592	Zusammenarbeit mir Partnern ist billiger, als wenn man diese Vorgaenge selber durchfuehren wuerde
+T6	Claim 595 619	an kann so Kosten sparen
+R3	supports Arg1:T5 Arg2:T6	
+T7	Claim 624 681	Sehr gut ist, dass alles ueber einen Account bezahlt wird
+T8	Claim 699 772	Viele Adressaenderungen muessen noch immer persoenlich vorgenommen werden
+T9	Premise 790 843	fuer Kreditkarten, Banken, Post, Telefonanbieter etc.
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 948 1090	man koennte bspw. dem Kunden eine Liste erstellen, mit saemtlichen Adressaenderungen die er vornehmen muss und den enstprechenden Kontaktdaten
+T11	Premise 844 941	Aufgrund von sensitiven Kundendaten ist es wohl schwierig, diese Prozesse komplett zu uebernehmen
+R5	attacks Arg1:T11 Arg2:T10	
+T12	Premise 1097 1192	die Suche nach Adressen, Telefonnummern und Ansprechspersonen ist meist der zeitraubendste task
+R6	supports Arg1:T12 Arg2:T10	
+T13	Claim 1197 1287	Ein Thema ist auch immer wieder die Schluesseluebergabe, die hier nicht genau geregelt ist
+T14	Premise 1289 1356	Wie stellt man sicher, dass das Umzugsportal den Schluessel erhaelt
+R7	supports Arg1:T14 Arg2:T13	
+T15	Premise 1358 1505	Dies koennte man ganz einfach mit einem Brief regeln, indem man den Kunden bittet saemtliche unterschriebene Dokumente inkl. Schluessel zuzustellen
+R8	supports Arg1:T15 Arg2:T13	
+T16	Claim 1510 1609	Das Umzugsportal spricht keine Unternehmen an, die ueberdurchschnittlich viele Expats beschaeftigen
+T17	Premise 1617 1679	koennte diese Applikation auch als B2BLoesung angeboten werden
+R9	supports Arg1:T17 Arg2:T16	
+T18	Premise 1681 1779	Wodurch Unternehmen ihre Mitarbeiter, die berufsbedingt umziehen muessen, beim Umzug unterstuetzen
+R10	supports Arg1:T18 Arg2:T17	
+T19	Claim 1781 1851	Dabei muessten auch international taetige Partner miteinbezogen werden
+T20	Premise 1853 1927	So wuerde die Umzugsplattform auch lediglich als Vermittlung taetig werden
+R11	supports Arg1:T20 Arg2:T19	
+T21	Claim 1932 1989	Die crowd und social medias werden zu wenig miteinbezogen
+T22	Premise 1991 2161	Via social media koennte man vermehrt auf die Taetigkeiten vom Umzugsportal hinweisen und an Freunde, Communities etc weiterleiten, die auch oft gezwungen sind umzuziehen
+R12	supports Arg1:T22 Arg2:T21	
+T23	Claim 2229 2296	Einrichtungsdienstleistungen wuerde ich nicht ins Angebot aufnehmen
+T24	Premise 2301 2375	sich die Geschmaecker und Vorstellungen von Person zu Person unterscheiden
+R13	supports Arg1:T24 Arg2:T23	
+T25	Premise 2377 2457	Oftmals vergroessert oder verkleinert sich der zur Verfuegung stehende Raum auch
+R14	supports Arg1:T25 Arg2:T23	
+T26	Claim 2462 2631	Ich wuerde versuchen, nicht nur Privatpersonen mit der Loesung anzusprechen, sondern auch global taetige Unternehmen, die ihre Mitarbeiter of auf sog. Assignments senden
+T27	Premise 2636 2723	erreicht man schnell eine kritische Groesse, ein breites Netzwerk und wichtiges knowhow
+R15	supports Arg1:T27 Arg2:T26	
+T28	Claim 2725 2874	Dabei sollte man vor allem als Vermittlungs und Koordinationsstelle taetig sein, die die einzelnen services in den verschiedenen Laendern koordiniert
+T29	Premise 2879 2944	Persoenlicher Kontakt, gerade beim Umzug ist oftmals sehr wichtig
+T30	Premise 2946 3014	So dass Personen sagen koenne, welche Gegenstaende wertvoll etc sind
+R17	supports Arg1:T30 Arg2:T29	
+T31	Claim 3016 3183	Deshalb sollte man vielleicht nicht nur einen Kundendienst errichten, sondern auch gewaerhleisten, dass eine Person vom Umzugsportal bei Bedarf immer vor Ort sein kann
+R16	supports Arg1:T29 Arg2:T28	
+R18	supports Arg1:T29 Arg2:T31	

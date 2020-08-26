@@ -1,0 +1,26 @@
+T1	Claim 11 117	Das Geschäftsmodell ist sehr gut präsentiert und detailliert und man versteht sehr gut das Ziel dieser App
+T2	Claim 119 199	Das Konzept ist auch sehr interessant und wird sicherlich viele Kunden betreffen
+T3	Premise 201 293	Es gibt zum Beispiel im App Store viele Applikationen, die nicht oder nur wenig notiert sind
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 296 392	ür Benutzer von Applikationen ist es etwa sehr wichtig zu wissen, ob eine App gut ist oder nicht
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 394 439	Also die Idee ist auf den Kunden konzentriert
+R3	supports Arg1:T5 Arg2:T2	
+T6	Premise 442 577	rofiler ist eine Anwendung, die für viele verschiedene Kundentypen benutzt werden kann und auch via verschiedene Channels verfügbar ist
+T7	Premise 579 611	Sachen, die die App stark machen
+T8	Claim 613 724	Eine solche Applikation hätte ich auch gern, damit ich Einkaufsratschläge von anderen Anwendungen erhalten kann
+R4	supports Arg1:T6 Arg2:T8	
+R5	supports Arg1:T7 Arg2:T6	
+T9	Claim 776 809	gibt es auch nur wenige Schwächen
+T10	Premise 734 774	das Konzept wirklich gut beschrieben ist
+R6	supports Arg1:T10 Arg2:T9	
+T11	Claim 810 895	Wenn ein Benutzer eine App notieren will, muss er vorher ein paar Personaldaten geben
+T12	Premise 897 989	Manchmal sind die Leute ein bisschen skeptisch, wenn sie so viele Informationen geben müssen
+T13	Premise 991 1143	Für den Kunden ist es wichtig das Recht auf Privatsphäre und Datenschutz zu gewähren, damit er sicher sein kann, dass alle Infos anonym behandelt werden
+T14	Claim 1148 1220	Es gibt im Geschäftsmodell sehr viele Partners, die hohe Kosten erzeugen
+T15	Premise 1222 1338	Es wäre zum Beispiel möglich Marketing innerhalb des Unternehmens zu machen mit Mitarbeitern, die nur dafür arbeiten
+R7	supports Arg1:T15 Arg2:T14	
+T16	Premise 1340 1476	Ich habe den Eindruck, dass das Unternehmen einen sehr grossen Teil seiner Arbeit weitergibt und nur ein Minimum der Arbeit selbst macht
+R8	supports Arg1:T16 Arg2:T14	
+R9	supports Arg1:T13 Arg2:T12	
+R10	supports Arg1:T12 Arg2:T11	

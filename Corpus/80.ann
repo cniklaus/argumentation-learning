@@ -1,0 +1,10 @@
+T1	Claim 10 58	Stärken kurz und prägnant dargestellt, gute Idee
+T2	Claim 68 146	Wenig Emotionalität beim Herausarbeiten der Pains/GainsVerbesserungsvorschläge
+T3	Claim 147 231	Abschnitt Gains Hier wird bereits Products  Services bzw. Gain Creators thematisiert
+T4	Premise 233 315	Eigentlich würde es hier darum gehen, die möglichen Gains des Kunden hervorzuheben
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 322 455	Der Kunde könnte Zeit/Aufwand sparen und hätte mehr Zeit sich auf die restlichen Aspekte der Unternehmensgründung zu fokussieren etc.
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 456 530	Pain Relievers und Gain Creators Noch nicht sehr detailliert ausgearbeitet
+T7	Premise 532 622	Hier noch mehr auf Nutzer eingehen und welche konkrete Vorteile er durch das Angebot hätte
+R3	supports Arg1:T7 Arg2:T6	

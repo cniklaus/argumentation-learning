@@ -1,0 +1,17 @@
+T1	Claim 18 109	Der Customer Job umfasst einige Aufgaben der Kunden im Bezug auf das Laden von Mobilgeräten
+T2	Claim 111 204	Product  Services sind nachvollziehbar und zeigen Ansätze von einer Assistenzlösung Wellbeing
+T3	Claim 206 363	Die Pain Relievers gehen auf die vorhin definierten Pains ein und zeigen auf, wie die negativen Emotionen und unerwünschte Situation verhindert werden können
+T4	Claim 365 446	Es ist verständlich wie durch den Gain Creator ein Nutzen für den Kunden entsteht
+T5	Premise 459 568	Die Definitionen der einzelnen Punkte wurde eher knapp gehalten und sind sehr auf das Produkt/Service bezogen
+T6	Claim 570 621	Evt. hätte man dies noch ein wenig ausführen können
+R1	supports Arg1:T5 Arg2:T6	
+T7	Premise 623 672	Bei den Customer Jobs werden nur Aufgaben genannt
+T8	Claim 674 779	Man könnte hier aber auch noch Kundenbedürfnisse oder Probleme, die gelöst werden müssen, berücksichtigen
+R2	supports Arg1:T7 Arg2:T8	
+T9	Claim 788 902	könnte der Wellbeing Ansatz des Produkts noch stärker durch Zusatzfunktionen wie einer App herausgearbeitet werden
+T10	Claim 929 1188	Überarbeitung des Customer Jobs mit einer Ergänzung von Kundenbedürfnissen und Problemen immer mobil, unterwegs, immer online, mobile Geräte als sehr wichtig im Alltag, Lademöglichkeiten immer und überall, weltweit, Nutzung der Geräte nimmt immer mehr zu etc.
+T11	Claim 1195 1338	bei den Pains könnten die direkten Konsequenzen von einem leeren Akku aufgeführt werden Erreichbarkeit, Koordination, Apps nicht brauchen, etc.
+T12	Claim 1340 1492	Bei den Gains könnte der ökonomische und emotionale Benefit noch gezeigt werden Produktivität, mit Familie telefonieren, Fotos machen, Erinnerungen etc.
+T13	Claim 1493 1575	Bei Product  Services sollte noch mehr auf den Wellbeing Ansatz eingegangen werden
+T14	Premise 1587 1722	einen Service oder App um die Möbelstücke auch zu finden, daher Standortanzeige und frühzeitige Warnung, wenn der Akku langsam leer ist
+R3	supports Arg1:T14 Arg2:T13	

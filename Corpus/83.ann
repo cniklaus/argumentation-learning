@@ -1,0 +1,14 @@
+T1	Claim 10 94	Meiner Meinung nach ist dein Value Proposition Canvasgut verständlich und durchdacht
+T2	Premise 107 244	könntest du die Bulletpoints nochausformulieren, damit sie klaren werden, vor allem wenn man den Business Model Canvas nicht vor sich hat
+T3	Premise 245 343	Bei denCustomer Jobskönntest du die Arten noch aufeinem Spektrum von trivial bis crucial einordnen
+R1	attacks Arg1:T2 Arg2:T1	
+R2	attacks Arg1:T3 Arg2:T1	
+T4	Premise 389 438	DiePainssind als Student sehr gut nachvollziehbar
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 444 706	hier wird im Video eine Kategorisierungbefore, during und aftersowie eine Einschätzung bezüglichSchweregrad des Painsempfohlen light to severe, wobei vielleicht letztere Kategorisierung in deinem Fall Sinn machen könnte, falls du die Liste der Pains noch ergänzt
+R4	supports Arg1:T5 Arg2:T4	
+T6	Premise 707 867	Die erwähntenGainssind klar verständlich, meiner Meinung nach sinnvoll, könnten aber allenfalls auch nochmalkategorisiertwerden expected, desired und surprising
+R5	supports Arg1:T6 Arg2:T1	
+T7	Premise 868 974	Sehr gut finde ich, dass du die Produkte und Services genau beschreibst und die Idee auf den Punkt bringst
+R6	supports Arg1:T7 Arg2:T6	
+T8	Claim 985 1043	finde ich die Idee spannend und die Argumentation gelungen

@@ -1,0 +1,29 @@
+T1	Claim 21 75	Dein Unternehmen ist nicht konstistent benannt im Text
+T2	Claim 105 140	finde ich die Idee sehr interessant
+T3	Premise 142 213	Auf dem Markt tut sich viel und ich finde die Technologie sehr spannend
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 220 312	finde ich es sehr schlau, dass du von Beginn an darauf abzielst einen Standard zu etablieren
+R2	supports Arg1:T4 Arg2:T2	
+T5	Premise 314 364	Die Vorzüge hat ja Prof. Leimeister gut aufgezeigt
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 365 489	Die Umsetzung der Idee finde ich aber noch verbesserungswürdig, bzw es gibt einige Schwächen, die du definitiv angehen musst
+T7	Premise 492 543	in Standard im Alleingang zu etablieren wird schwer
+T8	Premise 545 628	Evtl wäre es hier interessant dies in Zusammenarbeit mit einem Hersteller zu machen
+R5	supports Arg1:T8 Arg2:T6	
+R4	supports Arg1:T7 Arg2:T8	
+T9	Premise 630 677	So haben sich auch DVD oder BluRay durchgesetzt
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 679 771	Tiefe Wechselkosten von einem Kühlschrank zum anderen sind nicht im Interesse der Hersteller
+T11	Premise 773 873	Es stellt sich die Frage, ob die Hersteller überhaupt Interesse an einen solchen Datenstandard haben
+T12	Claim 875 991	Ich vermute, dass der Standard bei der Bemessung des Kühlschrankinhaltes sein sollte, also auf technologischer Seite
+T13	Premise 996 1065	sich hier der ganze Lebensmittelmarkt auf einen Standard einigen muss
+R7	supports Arg1:T13 Arg2:T12	
+R8	supports Arg1:T10 Arg2:T12	
+R9	supports Arg1:T11 Arg2:T12	
+T14	Premise 1068 1210	ch sehe hier auch gerade keinen Weg, um einen Datenstandard umzusetzen, ohne auch den technologischen Standard bei der Bemessung zu etablieren
+R10	supports Arg1:T14 Arg2:T12	
+T15	Premise 1215 1314	dein Revenuestream wiederum an der Verwaltung der Daten und nicht an die Technologie angebunden ist
+T16	Claim 1316 1373	sehe ich hier halt ein Problem mit der WIrtschaftlichkeit
+R11	supports Arg1:T15 Arg2:T16	
+T17	Premise 1374 1659	Willst du aber die Dienstleistungsschiene fahren, würde ich dir vorschlagen, die gesammelten Daten der Kühlschrankhersteller abzukaufen, sie dann in einen Standard zu überführen und dann anschliessend an die Supermarktketten und an die Lebensmittelindustrie kompliert weiterzuverkaufen
+R12	supports Arg1:T17 Arg2:T16	

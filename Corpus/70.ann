@@ -1,0 +1,20 @@
+T1	Claim 49 91	Die Idee finde ich persönlich wirklich gut
+T2	Premise 93 215	Bin auch gerade erst umgezogen und das nimmt ja kaum ein Ende bis man da alles richtig angemeldet hat und eingerichtet ist
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 217 292	Ich denke, dass für diese Business Idee sicherlich ein Zielpublikum besteht
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 295 367	Die Business Idee ist gut strukturiert und sehr verständlich geschrieben
+T5	Claim 369 545	Mir sind keinerlei Rechtschreibefehler habe ich bei den anderen Texten häufig gesehen aufgefallen und dies unterstreicht meiner Meinung nach noch einmal die Qualität des Textes
+T6	Claim 548 737	Die Kostenstruktur, dass der Beitrag für die Registrierung wieder gutgeschrieben wird, finde ich ebenso eine gute Idee und eine faire Möglichkeit sowohl für Anbieter als auch Nachfrageseite
+T7	Claim 978 1123	Ich bin mir bewusst, dass wir nur eine halbe Seite Platz hatten, aber ich würde beispielsweise die Thematik Internet und Telefonie noch aufnehmen
+T8	Premise 1125 1259	Die Plattform könnte bspw. über die Adresse des neuen Wohnortes direkt feststellen, ob Swisscom oder Cablecom der bessere Anbieter ist
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 1264 1326	nicht bei allen Wohnquartieren die richtigen Kabel gelegt sind
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 1342 1532	würde ich bezüglich der Adressänderung berücksichtigen, dass gerade die Banken, von denen man wohl am meisten Post bekommt, sehr hohe Sicherheitsvorkehrungen bezüglich Adressänderungen haben
+T11	Claim 1542 1761	könntest Du auf der Plattform direkt auch Adressen von Coiffeuren, Bäckereien, Autowerkstätten, AbfallSammelstellen was man halt so brauchtJ zur Verfügung stellen, sodass man beim Einzug schon weiß, wo sich was befindet
+T12	Claim 1807 1908	Ich finde sowohl die Business Idee, als auch die Ausarbeitung des Business Model Canvas sehr gelungen
+T13	Premise 1910 1956	Detailliert, aber immer noch sehr verständlich
+R5	supports Arg1:T13 Arg2:T12	
+T14	Claim 1958 2137	Ich würde Dir vorschlagen, Dich bei der Überarbeitung der Lösung noch auf die Ausarbeitung von einigen Details zu fokussieren, um dem Business Model noch die nötige Tiefe zu geben
+T15	Claim 2243 2672	Vielleicht wäre es auch hilfreich noch mit ein paar Studierenden zu reden, die in den letzten Monaten auch grad umgezogen sind, um noch ein paar Ideen zu generieren, was man alles in dieser Plattform integrieren könnte wie eben bspw. die Daten der Altpapiersammlung oder die nächststehende AbfallSammelstelle, um den neuen Mietern nicht nur den Umzug selbst, sondern auch die ersten Wochen im neuen Umfeld einfacher zu gestalten.

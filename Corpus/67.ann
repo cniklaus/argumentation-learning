@@ -1,0 +1,40 @@
+T1	Claim 21 83	Die Unterscheidung verschiedener Abonnement Typen ist sehr gut
+T2	Premise 88 183	sich die Beduerfnisse zwischen Kurzzeitvermietern und Familien doch betraechtlich unterscheiden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 252 342	Die Benutzung ist einfach und komfortabel und reduziert die Komplexitaet in gewissem Masse
+T4	Claim 359 463	Der eigentliche Vorgang, naemlich das Schluessel Legen muss immer noch eigenhaendig durchgefuehrt werden
+T5	Premise 465 590	Man muss sich noch immer selber daran erinnern, dass man den Schluessel denn auch in das Kaestchen legt und den Pin neu setzt
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 592 708	Fuer Privatpersonen koennte hierbei eine Funktion angeboten werden, die einen daran erinnert den Schluessel zu legen
+T7	Premise 710 851	Anschliessend koennte man in der App bestaetigen, dass der Schluessel gelegt wurde und gleichzeitig einen neuen Code setzen, bw. freischalten
+T8	Premise 856 970	Oftmals reicht eine einmalige Installation und Pinvergabe, vergleichbar mit einem Zahlenschloss bei einer Haustuer
+R5	supports Arg1:T8 Arg2:T7	
+R4	supports Arg1:T7 Arg2:T6	
+R3	supports Arg1:T6 Arg2:T5	
+T9	Premise 972 1020	Bei einer Familie reicht bspw. ein einziger Code
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 1022 1085	Es ist meist nicht notwendig, diesen immer wieder neu zu setzen
+R7	supports Arg1:T10 Arg2:T9	
+T11	Premise 1087 1135	Dies macht vor allem bei Kurzzeitvermietern Sinn
+R8	supports Arg1:T11 Arg2:T7	
+T12	Claim 1137 1282	Hier sollte man daher auch ein Tarifsystem, bzw. Die Kosten einer einmaligen Installation und Pinvergabe fuer Familien ermitteln und ueberpruefen
+T13	Claim 1287 1331	Man ist sehr abhaeangig von den Key Partnern
+T14	Premise 1333 1421	Die App darf keinerlei Fehler aufweisen und muss eine entsprechende Sicherheit aufweisen
+R9	supports Arg1:T14 Arg2:T13	
+T15	Premise 1423 1486	Funktioniert die App nicht, funktioniert das ganze System nicht
+R10	supports Arg1:T15 Arg2:T14	
+T16	Claim 1488 1535	Dasselbe gilt fuer den SchluesselKasten an sich
+T17	Claim 1537 1599	Diese Abhaengigkeiten muessen auf ein Minimum reduziert werden
+T18	Claim 1601 1669	Stete Qualitaetssicherung muss bei den Partnern durchgefuehrt werden
+T19	Claim 1736 1831	Das System koennte man auch als B2BLoesung an Anbieter von Schluesseln und Schloessern anbieten
+T20	Premise 1833 1892	Diese koennten dieses System potentiellen Kaeufern anbieten
+R11	supports Arg1:T20 Arg2:T19	
+T21	Premise 1895 1973	ey Share waere anschliessend nur noch fuer die Software und die App zustaendig
+R12	supports Arg1:T21 Arg2:T19	
+T22	Premise 1978 2079	Moeglicherweise sind die Kosten fuer die Installation und die Nutzung fuer Wohngemeinschaften zu hoch
+T23	Claim 2081 2148	Hier sollte man sich vielleicht noch eine andere Loesung ueberlegen
+R13	supports Arg1:T22 Arg2:T23	
+T24	Premise 2156 2319	indem man an gewissen Standorten zentrale Abholstellen errichtet und man den Pin selber kurz eingeben und an die entsprechende Person mittels App weiterleiten kann
+R14	supports Arg1:T24 Arg2:T23	
+T25	Premise 2321 2355	Wie das die Post mit Paketen macht
+R15	supports Arg1:T25 Arg2:T24	

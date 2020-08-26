@@ -1,0 +1,10 @@
+T1	Claim 10 36	Gut Tolles Geschäftsmodell
+T2	Premise 38 84	Wär cool wenn es so etwas wirklich geben würde
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 86 161	Finde es gut, dass du den Kundendienst als parallele Aktivität erkannt hast
+T4	Claim 163 208	Sehr gute Illustration der einzelnen Schritte
+T5	Premise 211 272	ann kann sich so sehr gut vorstellen, wie man die App benutzt
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 273 449	Verbesserungspotential Könntest das Downloaden/Installieren des Apps und insbesondere die Eingabe der Grössen und Adresse ev auch noch Grafisch darstellen als PreKundenprozesse
+T7	Premise 451 494	Würde das ganze noch etwas vervollständigen
+R3	supports Arg1:T7 Arg2:T6	

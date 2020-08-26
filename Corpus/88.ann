@@ -1,0 +1,32 @@
+T1	Claim 18 97	SelfEating ist eine gute Idee um den Wellbeing Ansatz im Foodbereich umzusetzen
+T2	Claim 99 179	Das Kundensegment und die Value Proposition sind gut gewählt und nachvollziehbar
+T3	Premise 181 278	Es wird auf die Situation des Kunden wenig Zeit zum Kochen trotzdem aber gesund essen eingegangen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 280 386	Die App bietet eine allumfassende Lösung von vorgeschlagenen Menus bis zum abschliessenden Zahlungsprozess
+R2	supports Arg1:T4 Arg2:T2	
+T5	Claim 388 512	Der Business Model Canvas ist ebenfalls umfangreich beschrieben und wiederspiegelt den Wellbeing Aspekt des Geschäftsmodells
+T6	Claim 531 602	Als Kundensegment wurden beschäftigte und gut verdienende Leute gewählt
+T7	Premise 604 848	Ein Aspekt, welcher vielleicht noch mehr herausgearbeitet werden kann, ist die Rolle/Nutzen von Lieferservices für diese Kunden keine Lust zum kochen, keine Zeit, keine Lebensmittel, muss schnell gehen, Spontanität, Küche nicht schmutzig machen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 850 955	Zentral für diese Kundengruppe könnte vor allem die Spontanität/Flexibilität für die Essenslieferung sein
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 957 1117	Was wenn der Kund nach dem letzten Kalendertermin spontan noch ein Bier trinken will mit Freunden, die Sitzung länger geht oder der Zug plötzlich Verspätung hat
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 1119 1227	Entsprechend während der Kunde beim Essenstermin noch nicht zu Hause, was aber der Lieferservice nicht weiss
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 1229 1335	Dies könnte ebenfalls in der Anwendung berücksichtigt werden und dem Kunden einen weiteren Mehrwert bieten
+R7	supports Arg1:T11 Arg2:T10	
+T12	Premise 1352 1523	könnte die App dem Lieferservice jeweils den Standort des Kunden übermitteln resp. mitteilen wie lange der Kunde noch nach Hause hat oder ob er überhaupt schon vor Ort ist
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 1525 1641	So würde sich der Lieferservice genau der Situation des Kunden anpassen können und spontane Aktivitäten unterstützen
+R9	supports Arg1:T13 Arg2:T12	
+T14	Premise 1643 1748	Somit würde die App noch mehr dem WellBeing Ansatz entsprechen und eine stärkere Assistenzlösung anbieten
+R10	supports Arg1:T14 Arg2:T13	
+T15	Claim 1758 1824	könnte man sich überlegen, ob die Kunden auch immer zu Hause essen
+T16	Premise 1827 2013	ielleicht könnten die präferierten Menus auch in TakeAways bereitgestellt werden und der Kunde kann auf der App sehen, wo in der Nähe ein TakeAway ist, der in seinen Ernährungsplan passt
+R11	supports Arg1:T16 Arg2:T15	
+T17	Claim 2017 2105	Keypartners könnten noch ausgebaut werden und z.B. mit Ernährungsberatern ergänzt werden
+T18	Claim 2114 2240	könnte bei der Cost Structure die AppEntwicklung und Wartung Programmierung, Fehlerbehebung etc. detailliert aufgeführt werden
+T19	Claim 2268 2468	Es könnten noch ein paar zusätzliche Angebote/Lösungen in die App integriert werden, welche noch mehr den Bedürfnissen der Kunden entsprechen und dabei noch einen umfassenderen AllinOne Service bieten
+T20	Claim 2470 2609	Zusätzlich könnten Ernährungsberater als Keypartners definiert werden, welche das Angebot bereichern und mit Expertise zur Verfügung stehen
+T21	Claim 2611 2686	Die Cost Structure könnte mit der AppEntwicklung und Wartung ergänzt werden

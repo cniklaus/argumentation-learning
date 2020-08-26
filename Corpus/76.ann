@@ -1,0 +1,12 @@
+T1	Claim 18 103	Weniger Aufwand für Autofahrer, Günstigere Preise für Autofahrer, einfach zu bedienen
+T2	Claim 113 301	Individuelle Präferenzen volltanken, halbtanken etc. werden z.T. missachtet, Kunden haben kein Tankerlebnis mehr tanken, waschen, einkaufen etc. > deshalb schlecht für Tankstellenbetreiber
+T3	Premise 325 425	Wieso sollten Tankstellenbetreiber daran interessiert sein, möglichst höhe Preistransparenz zu haben
+T4	Premise 427 492	Dies würde ja langfristig die Preise und somit den Gewinn drücken
+T5	Premise 495 592	Was ist, wenn der Kunde sein Auto gar nicht volltanken möchte, sondern nur zu einem gewissen Grad
+T6	Premise 594 727	Sind Tankstellenbetreiber nicht eher daran interessiert, dass Automobilisten nach dem Tanken noch in den Shop kommen und etwas kaufen
+T7	Claim 729 822	Ich sehe für den Tankstellenbetreiber keinen wirklichen Anreiz/Nutzen bei der App mitzumachen
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T3 Arg2:T7	
+R3	supports Arg1:T5 Arg2:T7	
+R4	supports Arg1:T6 Arg2:T7	
+T8	Claim 824 902	Wieso wird dem Kunden nur eine Tankstelle angezeigt und nicht mehrere Optionen

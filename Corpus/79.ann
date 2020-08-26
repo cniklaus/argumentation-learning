@@ -1,0 +1,15 @@
+T1	Claim 10 150	sehr interessante Idee, die den Bedarf an mobilen Auflade Bedürfnissen sehr schön beschreibt wichtige Aspekte des Modells wurden beschrieben
+T2	Claim 347 406	Das Business Modell Canvas kann noch etwas optimiert werden
+T3	Premise 406 481	Mir ist nicht klar, ob Indugration eine B2B, B2C oder B2B2C Lösung anbietet
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 483 523	Ich würde sagen, es ist eineB2B2C Lösung
+R2	supports Arg1:T4 Arg2:T2	
+T5	Premise 525 623	Du musst das etwas klarer abgrenzen, damit es dir gelingt, den Canvas etwas gezielter zu gestalten
+R3	supports Arg1:T5 Arg2:T2	
+T6	Premise 625 789	So sind also die Key Partner, diejenigen, an denen die Lademodule verkauft werden B2B und Customer Segments, diejenigen, die solche Möbel mit einem Lademodul kaufen
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 795 920	Ich würde mich nicht nur auf Möbel fokussieren, es gibt durchaus weitere Segmente für die das Produkt interessant sein könnte
+T8	Premise 927 970	in der Transportbranche, im Speziellen Züge
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 972 1069	Dafür kannst du dir die Frage stellen, wo genau Menschen das Bedürfnis haben, ohne Kabel zu laden
+R6	supports Arg1:T9 Arg2:T7	
