@@ -1,0 +1,26 @@
+T1	Claim 89 191	Finde deine Arbeit gut überlegt und du hast versucht schwierige Prozesse möglichst einfach zu erklären
+T2	Claim 203 262	ist die Syntax des Aufgabenkettenmodels durchgehend stimmig
+T3	Claim 501 580	Angebot suchen ist aus meiner Sicht ein Kundenprozess und kein Geschäftsprozess
+T4	Claim 582 641	Ebenfalls Angebot wählen / Angebot reservieren und bezahlen
+T5	Premise 657 948	Als Geschäftsprozess wird eine zielgerichtete zeitlichlogische Folge oder Vorgangskette von Tätigkeiten andere Bezeichnungen Aktivitäten, Geschäftsvorgänge definiert, die für das Unternehmen einen Beitrag zur Wertschöpfung leistet beziehungsweise aus der Unternehmensstrategie abgeleitet ist
+R1	supports Arg1:T5 Arg2:T4	
+R2	supports Arg1:T5 Arg2:T3	
+T6	Premise 950 1064	In der Regel sind diese Prozesse am Kunden orientiert, das heißt, dass sie auch für den Kunden einen Wert schaffen
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 1066 1142	Es geht zudem nicht darum, was der Kunde macht, sondern was bei dir passiert
+T8	Premise 1153 1227	Angebot wählen  Daten von Kunden werden auf Server übermittelt oder so was
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1261 1302	Abbruch Ist aus meiner Sicht kein Prozess
+T10	Premise 1304 1349	Bei Abbruch geht einfach Prozess nicht weiter
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 1356 1370	8a ist doppelt
+T12	Claim 1376 1441	11 Nach Bestätigungseingang fehlt der Link zu Leistungserbringung
+T13	Claim 1446 1572	16 Zahlungseingang Aus meiner Sicht gehört, dass zum Geschäftsprozess vom Restaurant und nicht zum Geschäftsprozess von chunch
+T14	Claim 1574 1636	Aus der gleichen Logik müssten somit Punkt 4, 5, 10, 11, 16  o
+T15	Premise 1643 1712	Meldung von Debitorenfirma, dass Transaktion nicht durchgeführt wurde
+R6	supports Arg1:T15 Arg2:T14	
+T16	Claim 1730 1873	Ich habe das Gefühl, dass du die Geschäftsprozesse von anderen Unternehmen, Kundenprozesse und die eigentlichen Geschäftsprozesse gemischt hast
+T17	Premise 1875 1974	So wie ich die Aufgabenstellung verstanden habe, sollst du nur die Kernprozesse deines Unternehmens
+R7	supports Arg1:T17 Arg2:T16	
+T18	Claim 1976 2081	So wie aus der Definition oben auch hervorgeht, sollten Geschäftsprozesse das zeigen was bei dir passiert
+T19	Claim 2083 2126	Nicht was der Kunden bzw. der Partner macht

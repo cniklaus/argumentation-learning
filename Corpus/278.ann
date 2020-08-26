@@ -1,0 +1,18 @@
+T1	Claim 69 163	Sehr umfangreiche Ideensammlung, was zeigt, dass du dich mit der Idee auseinander gesetzt hast
+T2	Claim 164 198	Gute Recherche zu den Konkurrenten
+T3	Claim 289 320	Geschäftsfelder sind noch unlar
+T4	Premise 322 408	Haben wir nur 3 Geschäftsfelder oder sind alle Kreuze unterschiedliche Geschäftsfelder
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 410 520	Eingangs würde ich zuerst die Marktleistungen, Kundensegmente, Kooperationskanäle und geogr. Lagen beschreiben
+R2	supports Arg1:T5 Arg2:T3	
+T6	Claim 538 589	Primär die Lehrer/Eltern die Zielgruppe sein sollte
+T7	Premise 591 606	Eher die Kidner
+T8	Premise 611 635	diese Spass haben müssen
+R3	supports Arg1:T8 Arg2:T7	
+R4	supports Arg1:T7 Arg2:T6	
+T9	Claim 636 718	Umwelt/Technologie Was ist mit dem Trend der Überalterung und immer weniger Kinder
+T10	Claim 719 780	Wie wird Umsatz generiert bzw. Was ist die erweiterte Version
+T11	Claim 846 964	Geschäftsfelder farblich markieren in der Tabelledie App und alles Design, User Experience auf die Kinder ausgerichtet
+T12	Premise 966 1098	Somit würde man von einem Push zu einem Pull Produkt kommen, wenn die Kinder unbedingt die Spiele wollen und die App bedienen können
+R5	supports Arg1:T12 Arg2:T11	
+T13	Claim 1099 1198	Freemium und Addons im App genauer erläutern, um den Mehrwert der kostenpflichtigen App aufzuzeigen

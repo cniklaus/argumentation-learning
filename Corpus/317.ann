@@ -1,0 +1,10 @@
+T1	Claim 19 75	Grundsätzlich guter und verständlicher Service Blueprint
+T2	Premise 86 281	finde ich gut, wie du im zweiten Teil beschreibst, wie bei deinem Blueprint die beiden Konzepte der stillen Auftragsabwicklung Informations statt Warenfluss und Automatisierung implementiert sind
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 320 466	Die 3 Ws der Modellierung sollten soweit ich weiss konkret auf das ServiceBlueprintModell bezogen werden und nicht auf das Geschäftsmodell an sich
+T4	Claim 468 595	Möglicherweise hättest du noch auf die 2 Konzepte der stillen Auftragsabwicklung eingehen können, welche du noch nicht abdeckst
+T5	Premise 597 688	Allenfalls auch darauf eingehen, warum diese Konzepte bei dir nicht sinnvoll umsetzbar sind
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 690 776	Mir fehlt in deinem Service Blueprint der Schritt, an dem der Kunde das Tanken bezahlt
+T7	Premise 778 827	Das ist meines Erachtens ein essentieller Schritt
+R3	supports Arg1:T7 Arg2:T6	

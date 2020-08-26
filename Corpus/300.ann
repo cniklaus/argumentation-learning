@@ -1,0 +1,21 @@
+T1	Claim 11 30	Ausarbeitung ist ok
+T2	Claim 37 69	die Idee finde ich sehr sinnvoll
+T3	Claim 78 157	sind mir einige Punkte aufgefallen, welche genauer ausgearbeitet werden müssten
+T4	Premise 159 243	Du beschreibst den zentralen Leistungserstellungsprozess ab dem Aufbau der Plattform
+T5	Premise 270 345	die ersten Schritte nicht zum zentralen Leistungserstellungsprozess gehören
+R1	supports Arg1:T5 Arg2:T4	
+R2	supports Arg1:T4 Arg2:T3	
+T6	Premise 347 443	Vielmehr würde dieser meiner Meinung nach beginnen, wenn das Angebot dem Kunden präsentiert wird
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 444 504	Bezüglich dem Kunden ist nicht klar welchen Kunden du meinst
+T8	Premise 505 550	Sind dies die Hilfsbedürftigen oder die Helfe
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 552 662	Dann hast du eine OderVerknüpfung, jedoch gehen die Bedingungen nicht hervor wann welches Ereignis stattfindet
+T10	Premise 664 769	In diesem Zusammenhang erschließt sich mir Punkt sechs nicht komplett, kannst du diesen genauer ausführen
+R5	supports Arg1:T9 Arg2:T3	
+R6	supports Arg1:T9 Arg2:T10	
+R7	supports Arg1:T10 Arg2:T3	
+T11	Premise 770 853	Letzter Punkt ist dass du alle Ereignisse in einer direkten zeitlichen Abfolge hast
+T12	Premise 855 1074	Hier würde ich vorschlagen genauer zu differenzieren, so denke ich das Nummer 7 und 8 nicht unbedingt direkt zeitlich auf die vorherigen Punkte folgen und daher mit einer gestrichelten Linie eingezeichnet werden müssten
+R8	supports Arg1:T11 Arg2:T12	
+R9	supports Arg1:T12 Arg2:T3	

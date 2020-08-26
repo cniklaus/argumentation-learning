@@ -1,0 +1,11 @@
+T1	Claim 11 117	Die einzelnen Schritte der Aufgabenkette sind verständlich und umfassen die relevanten Schritte im Prozess
+T2	Claim 123 219	Die Abbildung ist jedoch ziemlich überfüllt und die einzelnen Schritte sind zu nahe bei einander
+T3	Premise 221 297	Es wäre vielleicht vorteilhaft, wenn die Grafik auf zwei Seiten gemacht wird
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 299 383	Ich würde schauen, dass die Pfeile nicht wieder zurück gehen siehe Pfeil von 4a zu 5
+R2	supports Arg1:T4 Arg2:T2	
+T5	Claim 395 508	sollten meinen Erachtens die Kästchen 4a, 7a, 8b noch weitergeführt werden, mit einem Pfeil Anfrage abgeschlossen
+T6	Claim 524 556	ist 7a/b nicht ganz verständlich
+T7	Premise 558 636	Sollte dies nicht vielleicht heissen Gewünschte Option für die Route verfügbar
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 641 789	Im Grossen und Ganzen ist die Aufgabe gut erledigt worden und bedingt nur die oben genannten Punkte, die relativ schnell zu bearbeiten werden können

@@ -1,0 +1,35 @@
+T1	Claim 24 109	Cooles Geschäftsmodell und sehr präzise und meiner Meinung nach gute Kurzbeschreibung
+T2	Premise 111 308	Glaube ich habe dein Geschäftsmodell schon mal beurteilt, da war es mir nicht so klar, was du machen wolltest, aber mithilfe der Kurzbeschreibung super einleuchtend und einfach auch eine tolle Idee
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 312 363	Tolle Idee, die Value Proposition nochmal anzugeben
+T4	Claim 367 427	Präzise und kurze Beschreibung der Fragen Für wen, was, wozu
+T5	Claim 430 487	Fleiss Du hast sowohl Makro als auch Mirkoebene angegeben
+T6	Premise 489 558	Habe ich nicht gemacht, aber werde das wahrscheinlich auch noch mache
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 560 604	Man versteht dein Modell so viel viel besser
+T8	Premise 623 692	der Aufbau deiner Mikroebene auf die Makroebene ist dir toll gelungen
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 828 858	Für mich sehr sehr gut gemacht
+T10	Claim 897 1026	Was mich ein bisschen verwirrt ist auf der letzten Folie bei der Mirkoebene von 3. Synchronisation der Rechnung auf EBanking Tool
+T11	Premise 1028 1082	Das stehen ein paar mal dieselben Zahlen 2.2, 2.1 usw.
+T13	Premise 1151 1220	steht da noch derselbe Punkt genau gleich von der Makro Ebene drinnen
+T14	Premise 1222 1252	Passt das so wirklich zusammen
+T15	Premise 1254 1330	Habe eigentlich verstanden, dass die Leistung von PayDay erst danach anfängt
+R4	supports Arg1:T11 Arg2:T10	
+T12	Premise 1083 1144	Wahrscheinlich nur Flüchtigkeitsfehler, aber darauf aufpassen
+R5	supports Arg1:T12 Arg2:T11	
+R6	supports Arg1:T13 Arg2:T10	
+R7	supports Arg1:T14 Arg2:T13	
+R8	supports Arg1:T15 Arg2:T14	
+T16	Claim 1335 1410	Die Wozu Frage könnte man vielleicht auch ein bisschen anders erklären noch
+T17	Premise 1412 1494	Im Endeffekt zeigen dir solche Prozessketten immer mögliche Optimierungspotentiale
+R9	supports Arg1:T17 Arg2:T16	
+T18	Premise 1496 1571	Bei deinem Geschäftsmodell ist das jetzt wahrscheinlich eh nicht so zentral
+R10	attacks Arg1:T18 Arg2:T16	
+T19	Premise 1578 1733	es ein sehr leaner Prozess ist, aber z.B. als Logistikunternehmen werden solche Dinge erstellt, um zu sehen welchen Schritt man vielleicht weglassen könnte
+R11	supports Arg1:T19 Arg2:T18	
+T20	Claim 1738 1796	Du hättest vielleicht noch eine Legende dazu machen können
+T21	Claim 1801 1856	Die Schrift könnte man auch ein bisschen grösser machen
+T22	Premise 1858 2019	Auf dem Computer kann man das ohne weiteres lesen, aber wenn du mal CEO von dem Unternehmen bist und du willst das ausdrucken oder so, dann kann das keiner lesen
+R12	supports Arg1:T22 Arg2:T21	
+T23	Claim 2143 2161	Echt super gemacht

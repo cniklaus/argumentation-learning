@@ -1,0 +1,9 @@
+T1	Claim 11 77	Grundsätzlich finde ich Deine Idee äusserst spannend und innovativ
+T2	Claim 79 168	Ich finde es auch sehr gut, dass Du Dein Geschäftsmodell zu Beginn noch einmal erläuterst
+T3	Premise 170 204	Man versteht sofort um was es geht
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 213 279	gibt es auch an der Darstellung mit Blueprint keine grossen Macken
+T5	Claim 420 549	ie kommst Du genau darauf, dass die Filterung der Auswahlmöglichkeiten nach Präferenzen als Internal Interaction eingeteilt wurde
+T6	Premise 551 596	Wäre das nicht eher Order Penetration Support
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 605 816	finde ich persönlich, dass Speichert Buchungsdaten direkt auf Dashboard sowie auch Verbinden von Gleichgesinnten  schicken von Empfehlungen für nächste Reisen gehörte eher in die Spalte Order Penetration Support

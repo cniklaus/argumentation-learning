@@ -1,0 +1,12 @@
+T1	Claim 69 129	Lösung scheint soweit korrekt zu sein, aus technischer Sicht
+T2	Claim 221 292	Es ist für mich unklar, worin der Mehrwert für die Modeanbieter besteht
+T3	Premise 294 345	Irgendwie geht kein Pfeil von ItFits zu diesen raus
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 346 410	Wieso soll ItFits bezahlen, dass die Massangaben erstellt werden
+R2	supports Arg1:T4 Arg2:T2	
+T5	Premise 528 604	Geht der Pfeil Massangaben von den Nutzer an ItFits in die richtige Richtung
+T6	Premise 606 688	Auf Grund der Darstellung ist für mich nicht klar, wer jetzt welchen Nutzen kriegt
+T7	Claim 690 743	Schau dir die einzelnen Linien und Pfeile nochmals an
+R3	supports Arg1:T5 Arg2:T7	
+R4	supports Arg1:T6 Arg2:T5	
+T8	Claim 745 780	Eventuell braucht es auch noch mehr

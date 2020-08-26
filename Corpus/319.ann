@@ -1,0 +1,12 @@
+T1	Claim 18 107	Die vorgelegte Lösung enthält alle notwendigen Elemente und ist übersichtlich dargestellt
+T2	Claim 117 176	Die 3 Ws wurden fälschlicherweise auf den Service angewandt
+T3	Premise 178 259	Gemäss der Aufgabenstellung müssen die 3 Ws auf die Modellierung angewandt werden
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 260 352	Die Darstellungen der jeweiligen Elemente auf der 3. Eben müsste eine Ebene weiter oben sein
+T5	Premise 357 471	alle diese Darstellungen vom Kunden ersichtlich sind und dementsprechend auch oberhalb der Line of Visibility sein
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 472 581	Die Schritte von der AppEntwicklung bis zur Bereitstellung der App im Appstore resultieren im Datenmanagement
+T7	Premise 583 689	Allerdings hat dies keine Verbindung zum Download der App, wo dieser Prozess eigentlich weitergehen sollte
+R3	supports Arg1:T7 Arg2:T6	
+R4	supports Arg1:T6 Arg2:T4	
+T8	Claim 712 964	Passe die 3 Ws an und beziehe sie auf die ModellierungBewege die ganze 3. Ebene auf die 2. Ebene.Lösche die Verbindung zwischen App in App Store bereitstellen und Datenmanagement und stelle stattdessen eine Verbindung zu HealthPoints App downloaden her

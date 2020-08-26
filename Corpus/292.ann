@@ -1,0 +1,23 @@
+T1	Premise 72 160	Äusserst schöne Darstellung und man sieht, dass der Kommilitone viel Zeit investiert hat
+T2	Premise 165 276	Gute Kurzbeschreibung der Geschäftsidee und besonders die Pfeile mit dem Fokus der Modellierung finde ich super
+T3	Premise 284 345	die Prozessmodellierung an sich ist sehr sauber ausgearbeitet
+T4	Claim 347 363	Sehr gute Arbeit
+R1	supports Arg1:T1 Arg2:T4	
+R2	supports Arg1:T3 Arg2:T1	
+R3	supports Arg1:T2 Arg2:T1	
+T5	Claim 532 598	würde ich die Erklärung Deiner Business Idee auf eine Seite kürzen
+T6	Premise 465 524	Zufolge der Aufgabenstellung durften wir nur 3 Seiten haben
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 601 670	Zwischen Schritt 4 und 5 sehe ich eher eine Parallelität als ein oder
+T8	Premise 675 773	es doch sein kann, dass manche Daten kodiert werden und manche gelöscht werden von einem Datensatz
+R5	supports Arg1:T8 Arg2:T7	
+T9	Claim 778 826	Schritt 6 und 7 würde ich nicht parallel anlegen
+T10	Premise 851 916	zuerst die Visualisierung stehen muss bevor man aktiv damit wirbt
+R6	supports Arg1:T10 Arg2:T9	
+T11	Claim 1050 1121	olltest Du den Fokus mehr auf den ausgearbeiteten Prozess legen Slide 3
+T12	Premise 1123 1257	So wie ich es verstanden habe, wahr es nicht unsere Aufgabe, ein solches Aufgabenverzeichnis zu erstellen sehr gute und saubere Arbeit
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 1259 1467	Aber bei 3 Seiten Begrenzung würde ich den Fokus bei der Überarbeitung auf die Prozessmodellierung selbst legen und vlt. eher 2 Slides für diesen benutzen und dort von vor und nachgelagerte Schritte aufzeigen
+R8	supports Arg1:T13 Arg2:T11	
+T14	Claim 1483 1571	würde ich die zwei obengenannten Vorschläge kurz durchdenken und gegebenenfalls anpassen
+T15	Claim 1607 1639	es ist eine wirklich gute Arbeit

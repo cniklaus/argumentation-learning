@@ -1,0 +1,24 @@
+T1	Claim 20 146	Allgemein sehr gute und ausführliche Ausarbeitung des Aufgabenkettendiagramms und der Kurzbeschreibung von My Personal Stylist
+T2	Premise 159 280	die Beschreibung gibt eine sehr genaue Vorstellung darüber, was das Geschäftsmodell ist und welche Prozesse es beinhaltet
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 289 444	gibt deine Lösung des Aufgabenkettendiagramms einen sehr umfassenden Überblick und eine logische Abfolge der Aufgaben im ausgewählten Prozessschritt wieder
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 457 564	du hast sehr viele relevanten Aufgaben in diesem Prozess abgedeckt und die beteiligten Stakeholders genannt
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 572 671	ist die Darstellung des Diagramms korrekt und basiert auf der in der Vorlesung behandelten Notation
+R4	supports Arg1:T5 Arg2:T1	
+T6	Claim 708 833	finde ich deine Ausarbeitung schon sehr gut und dein Aufgabendiagramm enthält alle zentralen Aufgaben der Leistungserstellung
+T7	Claim 835 946	Der einzige Punkt, welcher für mich noch ausbaufähig wäre, ist in der Schnittstelle mit dem online Modeanbieter
+T8	Premise 948 1066	Hier fehlt mir die Datenaufnahme oder Übermittlung der Kleider, um diese dann auch auf dem Avatar korrekt darzustellen
+R5	supports Arg1:T8 Arg2:T7	
+T10	Premise 1224 1320	Diese überprüft die Qualität der Daten und gibt es dann im System für die Nutzung am Avatar frei
+T9	Premise 1068 1222	Diese Daten müssten z.B. vom Anbieter nach Vorlage fotografiert oder im 3D Scan aufbereitet werden und an die IT von MyPersonal Stylist übermittelt werden
+R6	supports Arg1:T9 Arg2:T8	
+R7	supports Arg1:T10 Arg2:T9	
+T11	Premise 1328 1456	muss der online Modeanbieter der IT auch eine Schnittstelle zur Verfügung stellen, um die Lösung auf der Homepage zu integrieren
+R8	supports Arg1:T11 Arg2:T7	
+T12	Premise 1458 1584	Evt. muss hier auch noch getestet werden, ob alle Funktionen mit dem online Händler System kompatibel sind resp. funktionieren
+R9	supports Arg1:T12 Arg2:T11	
+T13	Claim 1613 1716	Deine Lösung ist wirklich sehr umfassend und du hast zahlreiche Aufgaben und korrekte Abläufe definiert
+T14	Claim 1718 1963	Vielleicht würde es Sinn machen, den ausgewählten zentralen Leistungserstellungsprozess ohne die Kooperationsanfrage mit dem online Händler darzustellen und dafür die oben erwähnten Punkte mit dem Transfer und Prüfung der Kleiderdaten einzubauen
+T15	Claim 1965 2059	Ansonsten finde ich aber deine Lösung sehr gut und sehe keine weiteren Verbesserungsvorschläge

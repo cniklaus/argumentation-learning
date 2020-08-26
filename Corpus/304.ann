@@ -1,0 +1,14 @@
+T1	Claim 72 210	Du wendest das Konzept des Service Blueprints richtig an und verstehst die verschiedenen Ebenen, sowie wo welche Aufträge einzuordnen sind
+T2	Premise 212 382	In der Diskussion bringst Du den Begriff des Postponements, wendest diesen auf den Service Blueprint und erklärst wie der Kundenprozess noch stiller gemacht werden könnte
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 384 395	Gefällt mir
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 488 561	Noch nicht ganz klar ist die Definition der benötigten Reinigungsleistung
+T5	Premise 563 662	Werden hier von Anfang an standardisierte Leistungen definiert und für den Kunden zusammen gestellt
+T6	Premise 664 732	Macht der Kunde angaben zu seinen Anforderung bei Anlegen des Kontos
+T7	Claim 874 963	Den oben beschriebene Punkt könnte noch verbessert/ detailierter aufgezeigt werden werden
+R3	supports Arg1:T4 Arg2:T7	
+R4	supports Arg1:T5 Arg2:T4	
+R5	supports Arg1:T6 Arg2:T4	
+T8	Claim 965 1050	Wäre eine Supportfunktion noch angebracht bei Unklarheiten der Kunden noch angebracht
+T9	Claim 1051 1062	Gute Lösung

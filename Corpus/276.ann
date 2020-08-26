@@ -1,0 +1,22 @@
+T1	Claim 18 65	Es wirkt als hättest du eine wirklich gute Idee
+T2	Premise 67 123	Dein Ziel ist es Menschen mit Sehbehinderungen zu helfen
+T3	Premise 125 224	In deinem 3. Punkt schreibst du davon dass deine Hauptzielgruppe Menschen mit Sehbehinderungen sind
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 226 360	Wieso machst du dir dann auch noch die Mühe eine visuelle Ausgabe für Personen mit normalen Sehfähigkeiten zu gestalten und zu pflegen
+R1	supports Arg1:T2 Arg2:T4	
+T5	Premise 362 442	Macht das nicht die APP für diene eigentliche Zielgruppe schwieriger zu bedienen
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 446 486	Welche Mitbewerber siehst du als Partner
+T7	Claim 488 525	Schenken sie dir einfach so die Daten
+T8	Claim 528 576	Bei 4. Ist die Einfachheit der Bedingung erwähnt
+T9	Premise 578 595	Wie sieht das aus
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 597 639	Wie tätigt eine blinde Person die Eingaben
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 642 815	Bei deiner SWOT Analyse sprichst du bei den stärken von sehr genauer Information in deinem 7ten Punkt allerdings davon dass Informationen von Nutzern validiert werden müssen
+T12	Premise 817 932	Ist es möglich eine App für Leute mit Behinderung zu gestalten in welcher die Informationen nicht kontrolliert sind
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 934 995	Ich weiss auch nicht wie viele Leute an Sehbehinderung leiden
+T14	Premise 997 1089	Sind es genug um ein solche Netzwerk zu kreieren dass das Kundenfeedback aussagekräftig wird
+R7	supports Arg1:T13 Arg2:T11	
+R8	supports Arg1:T14 Arg2:T13	

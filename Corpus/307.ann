@@ -1,0 +1,11 @@
+T1	Claim 19 50	Guter zusammenhängender Prozess
+T2	Claim 51 111	Die weiterentwicklungsmodelle sind interessant und gut Ideen
+T3	Claim 121 235	Die Prozesse sollten eventuell noch weiter detailiert dargestellt werden und vielleicht dafür ein paar weggelassen
+T4	Premise 237 296	So würde ich die Entscheidung für Equip nicht mit aufnehmen
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 298 430	Allerdings sollte bei Equip registieren stehen, welche Prozesse im Hintergrund laufen Datenbank bereitstellen Software bereitstellen
+R2	supports Arg1:T5 Arg2:T3	
+T6	Premise 432 501	Eventuell auch die Bezahlung, die im Hintergrund dafür getätigt wurde
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 559 610	Wird die Wartung tatsächlich von Equip durchgeführt
+T8	Claim 612 690	Die Bereitstellung des FrontEnds muss glaube ich nicht zwei mal gezeigt werden

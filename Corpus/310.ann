@@ -1,0 +1,10 @@
+T1	Claim 11 49	Sehr überzeugende  detaillierte Lösung
+T2	Claim 86 284	Line of interaction Da würde ich die Handlungen, bei welchen sowohl der Kunde als auch das Unternehemen involoviert sind z.b. Bestellung aufgeben etc auf die Linie setzen, wie beim Beispiel im Paper
+T3	Claim 286 377	Aufgabe neuer Bestand ins IT system würde ich unter die line of internal interaction setzen
+T4	Premise 382 478	es wahrscheinlich automatisiert abläuft und kein involvement der front office employees benötigt
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 481 539	gleiches gilt ev. für weitere Aufgaben in dieser Kategorie
+R2	supports Arg1:T4 Arg2:T5	
+T6	Claim 539 648	Diskussion Da könntest du noch besser auf weitergehende Möglichkeiten der stillen Auftragsabwicklung eingehen
+T7	Premise 655 801	wie mit anderen Unternehmen zusammengearbeitet werden kann und die Leistungen so koordiniert werden, dass sie dem Kunden aus einer Hand erscheinen
+R3	supports Arg1:T7 Arg2:T6	

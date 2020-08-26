@@ -1,0 +1,12 @@
+T1	Claim 71 115	Das Geschäftsmodell ist verständlich erklärt
+T2	Claim 117 177	Du hast die Aufgabenkettendiagramm übersichtlich dargestellt
+T3	Claim 275 316	Das Aufgabenverzeichnis zum Prozess fehlt
+T4	Premise 318 391	ich bin mir jedoch nicht ganz sicher, ob wir das überhaupt machen mussten
+R1	attacks Arg1:T4 Arg2:T3	
+T5	Claim 395 502	Ich weiss nicht, wozu die beiden blauen Punkte am Anfang in der MakroEbene des Aufgabenkettendiagramms sind
+T6	Premise 504 565	Ich habe diese Art von Modellierung im Beispiel nicht gesehen
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 588 715	sind die Angebotsplattformen ein eigener Akteur und sollten daher nicht unter TRIMPLE klassiert werden, das ist eher verwirrend
+T8	Claim 863 983	Falls nötig, würde ich noch ein Aufgabenverzeichnis anfügen, welches die Nachvollziehung der Schritte vereinfachen würde
+T9	Claim 985 1100	Du solltest nachschauen, ob die Blauen Punkte am Anfang eine spezielle Bedeutung haben und diese eventuell anpassen
+T10	Claim 1102 1188	Ansonsten finde ich das Aufgabenkettendiagramm vollständig und verständlich modelliert

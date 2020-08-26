@@ -1,0 +1,13 @@
+T1	Claim 69 146	Übersichtlicher Aufbau der Grafikrichtige Handhabung der Modellierungssprache
+T2	Claim 237 300	Es wurde versucht unterschiedliche Akteure ins Modell zu nehmen
+T3	Premise 302 412	Allerdings bezieht sich das Aufgabenkettendiagramm meines Wissens nach auf die internen Prozesse des Geschäfts
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 413 506	Teilweise sind mehrere Aktivitäten in einem Kasten zusammengefasst mehr als 1 Verb pro Kasten
+T5	Claim 506 594	Es ist nicht ganz klar, was für Ergebnisdokumente vorliegen nach den Aktivitätsschritten
+T6	Claim 594 698	Es ist nicht klar ersichtlich, was für Voraussetzungen im vorangehenden Schritt geschaffen werden müssen
+T7	Claim 698 805	Es ist nicht ganz ersichtlich, welche IT Systeme und Applikationen im Hintergrund die Prozesse unterstützen
+T8	Claim 945 1039	Konzentration auf die interne Perspektive, also welche Schritte werden von uns intern erbracht
+T9	Premise 1041 1175	Denke nicht dass Dienstleistungspartner modelliert werden müssen, ausser sie interagieren auf einer von uns bereitgestellten Plattform
+R2	supports Arg1:T9 Arg2:T8	
+T10	Claim 1175 1261	Unterteilung der Grafik in Unternehmenseinheiten und nicht Akteure horizontale Spalten
+T11	Claim 1261 1383	Einfügen eines Abgabenverzeichnises zum besseren Verständnis der Voraussetzungen und Ergebnisdokumente der Prozessschritte

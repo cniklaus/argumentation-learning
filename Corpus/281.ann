@@ -1,0 +1,19 @@
+T1	Claim 19 147	Die Idee ist super und entspricht sicher den heutigen Anforderungen nach mehr Zeit, OneFaceToTheCustomer und der Digitalisierung
+T2	Claim 149 278	Aus deinem Netzwerk wird ersichtlich, dass du das Angebot sehr detailliert durchdacht hast und viele Partner daran beteiligt sind
+T3	Claim 315 392	Die Austauschbeziehung Kunden zu Onlineshop ist für mich nicht ganz schlüssig
+T4	Premise 397 414	kein Geld fliesst
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 416 478	Im Moment verdient der Onlineshop mit deinem Produkt kein Geld
+R2	supports Arg1:T4 Arg2:T5	
+T6	Premise 480 549	Du kannst z.B. einfach Bestellung der Produkte... durch Geld ersetzen
+R3	supports Arg1:T6 Arg2:T3	
+T7	Claim 551 602	Du hast keinen Stimulus in dein Netzwerk integriert
+T8	Premise 604 649	Vom Kunden ausgehend tangiert er alle Partner
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 651 683	Und verdeutlicht somit deine USP
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 685 783	Ich bin mir nicht ganz sicher ob es die Austauschbeziehung zwischen Kunden und Kochberater braucht
+T11	Premise 788 847	der Kochberater eigentlich alles über deine Plattform macht
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 851 938	Wenn natürlich nur ein Hinweis auf den Kochberater gegeben wird, macht es durchaus Sinn
+R7	attacks Arg1:T12 Arg2:T10	

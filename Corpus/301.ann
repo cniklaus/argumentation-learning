@@ -1,0 +1,19 @@
+T1	Claim 11 23	Tolle Lösung
+T2	Claim 25 60	übrigens auch interessantes Konzept
+T3	Claim 97 167	Struktur Reihenfolge der Bereiche Dies würde ich etwas anders anordnen
+T4	Premise 174 209	Marketing zuoberst und IT zuunterst
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 212 256	Reihenfolge nach Sichtbarkeit für den Kunden
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 257 292	Ich verstehe den Prozess nicht ganz
+T7	Premise 294 411	So wie ich es interpretiere beschreibst du den gesamten Prozess wie das Unternehmen aufgebaut hochgezogen werden soll
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 413 463	Ich bin mir nicht ganz sicher ob dies die Idee war
+T9	Premise 465 510	Es ging ja um den Leistungserstellungsprozess
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T8 Arg2:T7	
+T10	Premise 512 618	Darunter verstehe ich eher, wie im daily business die zentrale Leistung des Geschäftsmodells erstellt wird
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 620 666	Kann aber auch sein dass ich hier falsch liege
+R7	attacks Arg1:T11 Arg2:T10	
+T12	Claim 667 706	Ansonsten eine sehr überzeugende Lösung

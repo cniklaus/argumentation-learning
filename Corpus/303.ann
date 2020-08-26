@@ -1,0 +1,40 @@
+T1	Claim 21 48	Generelle Übersichtlichkeit
+T2	Claim 54 96	Kurzbeschreibung sehr gut und einleuchtend
+T3	Premise 98 177	Du hast es ziemlich gut auf den Punkt gebracht, um was es in deinem Modell geht
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 182 269	Du hast den gesamten Prozess sehr übersichtlich und einfach nachvollziehbar dargestellt
+T5	Premise 274 357	Richtige Nutzung der einzelnen Formen und Objekte um die Aufgabenkette darzustellen
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 360 389	Du hast mit Farben gearbeitet
+R3	supports Arg1:T6 Arg2:T4	
+T7	Premise 394 515	Du hast eine gute Unterteilung der einzelnen Ebenen FE, Materialbeschaffung  Versandprozess, Supportfunktion usw. gewählt
+R4	supports Arg1:T7 Arg2:T4	
+T8	Claim 542 580	allgemein finde du hast das verstanden
+T9	Claim 582 602	Sieht auch schon aus
+T10	Claim 604 734	Ein paar Kleinigkeiten Ränder von den Kästchen, Schrift in der Mitte von den Kästchen usw. würde ich für die Endabgabe noch machen
+T11	Claim 773 939	Ich glaube, der allererste Prozessschritt muss nicht wirklich dazugezählt werden, ausser das ist wirklich eine immer wiederkehrende Aufgabe in deinem Geschäftsprozess
+T12	Premise 949 970	bei Pharmaunternehmen
+R5	supports Arg1:T12 Arg2:T11	
+T13	Claim 975 1023	Ich glaube Schritt 2 sollte kein Pfeil sein oder
+T14	Premise 1025 1133	Kommt jetzt auf deine Definition drauf an, ich hätte eher gesagt das ist eine computergestützte Aufgabe oder
+R6	supports Arg1:T14 Arg2:T13	
+T15	Claim 1138 1251	4. Schritt ist nicht ganz so klar, was du damit genau meinst, versuche hier noch ein bisschen konkreter zu werden
+T16	Claim 1256 1340	Was ich nicht ganz verstehe, wo zwischen Punkt 4 und Punkt 6 die Bestellung herkommt
+T17	Premise 1342 1381	Da muss doch der Kunde irgendwas machen
+R7	supports Arg1:T17 Arg2:T16	
+T18	Premise 1403 1485	fehlt da noch irgendwas ein Prozessschritt dazwischen, der erklärt wo das herkommt
+R8	supports Arg1:T18 Arg2:T17	
+T19	Premise 1487 1532	Eine Bestellung kann nicht einfach so da sein
+R9	supports Arg1:T19 Arg2:T18	
+T20	Claim 1537 1634	Du solltest meiner Meinung nach auf JEDEN FALL Schritt 7 noch weiter vertiefen und das darstellen
+T21	Premise 1636 1670	Wie genau sieht dieser Schritt aus
+R10	supports Arg1:T21 Arg2:T20	
+T22	Premise 1672 1712	Schritt 7 wäre für mich eher ein Prozess
+T23	Premise 1713 1777	da findet ja vor allem deine Leistung gegenüber dem Kunden statt
+R11	supports Arg1:T23 Arg2:T22	
+R12	supports Arg1:T22 Arg2:T21	
+T24	Premise 1779 1816	Die Sensoren sind nur ein Mittel dazu
+R13	supports Arg1:T24 Arg2:T23	
+T25	Premise 1818 2089	Das musst du unterteilen, wie diese Unterstützung aussieht mit Aufforderungen zum giessen, automatisches giessen, Auffoderung zum düngen usw. hier mehr ins Detail gehen, dann wird dein Modell zwar grösser, aber auch verständlicher hinsichtlich der Leistung für den Kunden
+R14	supports Arg1:T25 Arg2:T24	
+T26	Claim 2096 2130	im Grossen und Ganzen tolle Arbeit

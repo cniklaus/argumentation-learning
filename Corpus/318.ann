@@ -1,0 +1,7 @@
+T1	Claim 16 100	Du hast die Lösung ausführlich gelöst und hast die Konzepte der Vorlesung verstanden
+T2	Claim 132 229	Sollte der Schritt kunde identifizieren nicht als Folge von Plattform besuchen dargestellt werden
+T3	Claim 231 314	CollaborativeorderMgmt ist nach meinem Verständnis auch bei DLAnbietern einzusetzen
+T4	Premise 316 377	Auch DL müssen beschafft werden und können koordiniert werden
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 395 443	deine Lösung dies in einem gewissen Massen macht
+R2	supports Arg1:T5 Arg2:T4	

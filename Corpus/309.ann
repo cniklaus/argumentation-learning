@@ -1,0 +1,24 @@
+T1	Claim 40 119	Ich finde dein Idee sehr gut, auch finde ich deinen Beschrieb sehr einläuchtend
+T2	Premise 121 175	Es wird einem sehr schnell klar um was es sich handelt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 180 300	Ich finde in deinem Diagramm keine fehlende Schritte, alles macht Sinn und aus meiner Sicht fehlen keine Prozessschritte
+T4	Claim 305 428	Ich finde es gut wie du in der Diskussion die Konzepte vorstellst und diese anhand Beispiele deiner Lösung veranschaulichst
+T5	Premise 430 461	Dies wird sehr gut verständlich
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 463 592	Ich finde es ebenfalls sehr gut gemacht, wie du dir Gedanken gemacht hast wie zukünftige Verbesserungen angegangen werden könnten
+T7	Claim 694 815	Website zur verfügung stellen ich bin mir nicht ganz sicher, ob ich diesen Schritt an der gleichen Stelle ansiedeln würde
+T8	Premise 817 892	Es ist sicher Internal und unabhängig von Bestellungen und Prozessschritten
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 894 1025	Ich nehme an, dass man Serverkapazitäten etc braucht welches man einkaufen Mieten muss und so die Grundinfrastruktur erstellen muss
+T10	Premise 1027 1090	Ich würde es deshalb eher bei Implementation Facility ansiedeln
+R4	supports Arg1:T9 Arg2:T10	
+R5	supports Arg1:T10 Arg2:T7	
+T11	Claim 1095 1205	Foto Hochladen Dort kann man sich überlegen ob es nicht doch auch noch eine Schnittstelle zum Provider braucht
+T12	Claim 1210 1336	Beim Schritt Fragebogen und Foto analysieren würde ich auch kritisch hinschauen, ob es überhaupt Internal  Backstage sein kann
+T13	Premise 1338 1504	Ich kann mir höchstenz vorstellen, dass man es für die Datenbank für zukünftige ähnliche Projekte braucht und gleichzeitig die Aktuelle situation auch noch einbezieht
+R6	supports Arg1:T13 Arg2:T12	
+T14	Claim 1509 1601	Ich würde zwischen Videochat terminieren  Videochat durchführen keinen direkten Pfeil machen
+T15	Premise 1606 1663	dies nicht unmittelbar aufeinander fallende Schritte sind
+R7	supports Arg1:T15 Arg2:T14	
+T16	Claim 1681 1814	Ich würde mir wünschen, dass du im Fazit der Diskussion kurz skizieren könntest welche Konzepte hauptsächlich Anwendung finden bei II
+T17	Claim 1822 1860	Ich Finde aber die Arbeit gut gelungen

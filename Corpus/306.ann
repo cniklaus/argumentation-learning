@@ -1,0 +1,11 @@
+T1	Claim 18 44	Deine Lösung sieht gut aus
+T2	Premise 46 172	Der Service Blueprint ist übersichtlich dargestellt und die Diskussion umfasst die von der Aufgabenstellung geforderten Punkte
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 209 344	Beim Modell bei der Implementationsebene ITAbteilung, Betriebsserver könntest du noch eine Handlung hinzufügen was tut die IT Abteilung
+T4	Premise 346 381	Was passiert mit dem Betriebsserver
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 383 499	Bei der Diskussion konzentrierst du dich insbesondere auf die Automatisierung und das Collaborative Order Management
+T6	Premise 501 551	Dies ist bei deiner Unternehmung durchaus sinnvoll
+T7	Premise 553 722	Ich würde jedoch trotzdem noch in ein zwei Sätzen hinzufügen, inwieweit beispielsweise das Postponing Konzept keine Rolle spielt für dein Geschäftsmodell und warum nicht
+R3	supports Arg1:T6 Arg2:T5	
+R4	attacks Arg1:T7 Arg2:T6	

@@ -1,0 +1,25 @@
+T1	Claim 11 56	Die Aufgabe wurde meiner Meinung nach erfüllt
+T2	Premise 58 145	Ein Service Blueprint wurde erstellt, ebenso wurden die schriftlichen Aufgaben erledigt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 164 225	Wären Geschäftskunden als Zielgruppe nicht viel interessanter
+T4	Premise 227 331	Grössere Mengen könnten verkauft werden, weniger einzelne Kunden müssten angefahren und beliefert werden
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 339 429	wundere ich mich, ob Privatfamilien immer die gleichen Teifkühlprodukte zubereiten möchten
+R3	supports Arg1:T5 Arg2:T3	
+T6	Premise 431 451	Woran denkst du hier
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 453 491	Pizza und Erbsen, oder an fancy Sachen
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 493 563	Was ist die USP gegenüber Coophome oder leshop, abgesehne vom Tracking
+T9	Premise 565 642	Vorteil würde ich eher sehen, wenn Nachbestellung automatisch vollzogen würde
+T10	Premise 644 789	Somit würden die Schritte Hausbesuch und Bestellung aufgeben komplett wegfallen, was auch zu einem insgesamt stilleren Kundenprozess führen würde
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 790 1019	Ich persönlich möchte jedoch nicht unbedingt, dass ein Produkt automatisch nachbestellt wird, sobald ich es aufgebraucht habe, v.a. auch weil Privathaushalte normalerweise sehr begrenzte Platzverhältnisse in den Tiefkühlern haben
+R7	attacks Arg1:T11 Arg2:T10	
+T12	Premise 1020 1339	Restaurants hingegen benötigen jeden Tag die selben Produkte und verfügen über grosse Kühllager, wodurch meines Erachtens der Service interessanter sein könnte in diesem Kundensegment, auch weil Restaurants viele verschiedene Zulieferer haben und durch diese Automatisierung der Einkaufprozess vereinfacht werden könnte
+R9	supports Arg1:T12 Arg2:T9	
+R8	supports Arg1:T9 Arg2:T8	
+R10	supports Arg1:T8 Arg2:T3	
+T13	Premise 1341 1460	Privatpersonen kaufen aber normalerweise sowieso bloss in einem Geschäft ein, wo auch Teifkühlprodukte angeboten werden
+R11	supports Arg1:T13 Arg2:T3	
+T14	Claim 1461 1655	Abgesehen von diesem Grundsatzentscheid der Kundengruppe finde ich die Idee sehr spannend und bin der Meinung, dass die Aufgabe sehr gut erfüllt wurde, die Darstellung scheint fehlerfrei zu sein

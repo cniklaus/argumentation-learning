@@ -1,0 +1,22 @@
+T1	Claim 15 156	Ich bin von der Idee überzeugt, glaube aber dass es noch ein paar Jahre dauern wird, bis der Markt und die einzelnen Anbieter dafür reif sind
+T2	Claim 158 241	Sehr gut finde ich, dass du dem Nutzer eine Lösung aus einer Hand anbieten möchtest
+T3	Premise 249 309	muss sich der Kunde nicht mit mehreren Anbietern herumärgern
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 356 463	aus deiner Beschreibung habe ich herausgelesen, dass foodbutler der Zentrale Akteur in diesem Ökosystem ist
+T5	Premise 465 561	Im E300 Value Diagramm sieht es aber so aus, als ob die online Shops die zentralen Akteure wären
+T6	Premise 566 613	diese viel mehr wertströme haben als foodbutler
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 616 642	foodbutler ist Ja eine App
+T8	Claim 644 685	Wo ist aber z.b. Der AppStore im Diagramm
+T9	Premise 687 823	Je detaillierter du die einzelnen Player auflistest und ihr Platz im Ökosystem darstellst, desto einfacher kann man deine Idee verstehen
+R4	supports Arg1:T7 Arg2:T8	
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 826 860	was genau macht die transportfirma
+T11	Premise 862 910	Transportiert diese waren vom und zum onlineshop
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 913 943	wie funktioniert die App genau
+T13	Premise 945 1022	Braucht es dafür nicht noch eine Softwarefirma und Entwickler und dergleichen
+T14	Claim 1024 1074	Vielleicht kannst du diese Akteure noch hinzufügen
+R7	supports Arg1:T12 Arg2:T14	
+R8	supports Arg1:T13 Arg2:T14	

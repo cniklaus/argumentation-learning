@@ -1,0 +1,21 @@
+T1	Claim 115 170	Ich finde deine Lösung ganz gut gemacht und dargestellt
+T2	Premise 172 240	Du hast alle die relevante Lines und dessen Unterteilungen eingefügt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 242 297	Die Darstellung ist übersichtlich und klar verständlich
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 304 392	die Bezeichnungen der Kasten sind aus Sicht der Kunden gemacht, und einfach zu verstehen
+T5	Premise 398 496	in deine Diskussion hast du alle relevante punkte betrachtet und die ganz verständlich beschrieben
+R3	supports Arg1:T4 Arg2:T3	
+R4	supports Arg1:T5 Arg2:T3	
+T6	Premise 498 654	Ich mag wie du die Konzepte Informations statt Warenfluss und Automatisierung erklärt hast, und wie du erklärst wie dein Prozess stiller gemacht werden kann
+R5	supports Arg1:T6 Arg2:T1	
+T7	Premise 656 669	Super gemacht
+R6	supports Arg1:T7 Arg2:T6	
+T8	Claim 761 916	Eine Erklärung von deine Idee am Anfang wäre hilfreich gewesen, um sofort zu verstehen um was es geht, und auch um Verbesserungsvorschläge machen zu können
+T9	Claim 917 1023	Ich finde du könntest der Bezahlung klarer darstellen in die Service Blueprint, wie funktioniert das genau
+T10	Premise 1024 1142	Ich finde du solltest eine Pfeile von Schlüssel übergeben raus haben, und es irgendwie mit eine andere Kaste verbinden
+T11	Premise 1147 1209	Schlüssel verwalten, Schlüssel an Partnerunternehmen übergeben
+R7	supports Arg1:T11 Arg2:T10	
+R8	supports Arg1:T10 Arg2:T9	
+T12	Claim 1374 1454	ich finde du hast eine ganz gute Arbeit gemacht und ich hab keine Größe Kritiken
+T13	Claim 1456 1655	Ich würde dich nichtsdestotrotz empfehlen, dein Service Blueprint nochmals anzuschauen vgl. oben genannte Punkte und für die andere Aufgaben eine standard Erklärung von deine Idee am Anfang zu machen

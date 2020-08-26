@@ -1,0 +1,13 @@
+T1	Claim 14 71	Tolle App, die ein bestehendes Kundenbedürfnis befriedigt
+T2	Claim 73 111	Viel Mühe bei der Ausarbeitung, klasse
+T3	Claim 115 154	Eigentlich gibt es wenig zu kritisieren
+T4	Claim 156 229	Ich bin mir nicht sicher ob das Staff ein Teil des Service Blueprints ist
+T5	Premise 234 336	es sich weniger um einen Prozess und mehr um die Ressourcen Human Ressources eines Unternehmen handelt
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 340 410	Eventuell könntest du noch die line of internal interaction hinzufügen
+T7	Premise 412 536	In dem Moment, in dem der Kunde die Funktionen deiner App ausführt, findet meiner Meinung nach eine solche Interaction statt
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 593 629	Insgesamt eine sehr gelungene Arbeit
+T9	Premise 538 592	Vielleicht könntest du dort noch einmal drüber schauen
+R3	supports Arg1:T7 Arg2:T9	
+R4	supports Arg1:T9 Arg2:T6	

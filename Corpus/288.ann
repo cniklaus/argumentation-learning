@@ -1,0 +1,14 @@
+T1	Claim 19 57	Optisch sehr erfrischend aufgearbeitet
+T2	Claim 57 104	Gute Untergliederung der Organisationseinheiten
+T3	Claim 105 171	Sehr gut finde ich, dass Du auch die Bezahlung berücksichtigt hast
+T4	Premise 212 270	Mir ist nicht genau klar, welche Symbole Du verwendet hast
+T5	Premise 273 334	ie vom Aufgabenkettendiagramm aus der Vorlesung sind es nicht
+T6	Claim 336 395	Entweder du änderst die Symbole oder fügst eine legende Ein
+T7	Premise 397 434	Bedeutung Viereck, Raute, Stoppschild
+R1	supports Arg1:T5 Arg2:T4	
+R2	supports Arg1:T4 Arg2:T6	
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 436 533	Deine Ja oder NeinVerzweigung sollte durch einen OderOperator ersetzt werden, dann wird es klarer
+T9	Claim 533 574	Wie läuft die Zahlungsabwicklung genau ab
+T10	Premise 576 687	Hängt diese wirklich nur mit der Lieferung zusammen oder gibt es hier evtl. einen ParallelProzess mit POperator
+R4	supports Arg1:T10 Arg2:T9	

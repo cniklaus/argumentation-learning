@@ -1,0 +1,29 @@
+T1	Claim 16 120	Füge doch das nächste Mal einfach noch die Beschreibung deiner Idee ein, auch wenn es nicht verlangt ist
+T2	Premise 122 229	Es macht die Beurteilung etwas einfacher und verhindert, dass man Zeug kritisiert, das eigentlich klar wäre
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 263 312	Service Blueprint grundsätzlich richtig umgesetzt
+T4	Premise 314 388	Die farbliche Unterteilung in die verschiedenen Akteure ist sehr hilfreich
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 395 481	die Zuordnung zu den Ebenen müsste  nach meiner Einschätzung  überwiegend korrekt sein
+R3	supports Arg1:T5 Arg2:T3	
+T6	Claim 483 630	Bei den beiden untersten Ebenen bin ich mir hingegen nicht ganz so sicher, ob dort all das, was du dort eingetragen hast, auch tatsächlich hinkommt
+T7	Premise 632 837	so ist bspw. die allerunterste Ebene tatsächlich nur für die Beschaffung von Potentialfaktoren da, also Dinge, die quasi sehr selten erledigt werden und nur äusserst indirekt von der Anzahl Kunden abhängen
+T8	Premise 839 1000	Anstatt Verfügbarkeit rapportieren wäre hier dann also eher sowas wie Server anschaffen oder Software programmieren oder Miete für WebsiteDomain bezahlen oder so
+R4	supports Arg1:T7 Arg2:T8	
+R5	supports Arg1:T8 Arg2:T6	
+T9	Premise 1002 1149	Schau doch hier einfach nochmal kurz auf die Vorlesungsfolie ja ich weiss, allzu hilfreich ist das Beispiel dort für digitale Prozesse leider nicht
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 1153 1278	und denk die untersten Ebenen nochmal durch Ich weiss nicht, wer von uns die 3Ws der Modellierung etwas falsch verstanden hat
+R7	supports Arg1:T10 Arg2:T9	
+T11	Premise 1280 1309	War ja nicht so genau erklärt
+R8	supports Arg1:T11 Arg2:T10	
+T12	Premise 1311 1445	Auf jeden Fall hab ich es eher so verstanden, dass man dort angibt, wem DAS MODELL dient, wozu es dieser Person dient und was es zeigt
+T13	Premise 1447 1574	In deinem Fall würde das Modell also wohl den Prozessverantwortlichen oder dem IT Personal zur Programmierung der Lösung dienen
+R9	supports Arg1:T12 Arg2:T9	
+R10	supports Arg1:T13 Arg2:T9	
+T14	Claim 1576 1771	Das WAS kannst du lassen wie es ist und vor dem bereits bestehenden Satz einfach noch sowas wie Veranschaulichung des vereinfachten Prozesses für Matching  Transaktionsunterstützung..... einfügen
+T15	Claim 1773 1838	Die Erläuterung der stillen Auftargsabwicklung macht absolut Sinn
+T16	Claim 1840 2057	Vielleicht möchtest du  weil in der Aufgabenstellung relativ klar so definiert  einfach noch kurz hinschreiben, welche der 4 auf den Folien erwähnten Konzepte du also mit deiner Lösung berücksichtigst und welche nicht
+T17	Claim 2059 2075	Ansonsten tiptop
+T18	Premise 2077 2122	Schöne, schlanke Lösung, die man gut versteht
+R11	supports Arg1:T18 Arg2:T17	

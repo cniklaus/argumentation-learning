@@ -1,0 +1,12 @@
+T1	Claim 11 74	Gutes, ausführliches und übersichtliches Aufgabenkettendiagramm
+T2	Claim 76 150	wie genau weiss das System ob Waren entnommen oder hinzugefügt worden sind
+T3	Premise 152 184	und wo ist das System angebracht
+T4	Premise 186 292	Wenn es in der Tiefkühltruhe angebracht ist, sehe ich das Problem, dass die RFID Chips nicht senden können
+T5	Premise 297 365	diese bereits durch einfache Alufolie davon abgehalten werden können
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 367 447	Daher gehe ich davon aus, dass das System bspw. an der Tür der Tiefkühltruhe ist
+T7	Claim 449 553	Dabei bleibt aber die Frage bestehen, wie das System weiss ob etwas hinausgenomen oder hinzugefügt wurde
+R2	supports Arg1:T3 Arg2:T2	
+R3	supports Arg1:T4 Arg2:T3	
+R4	supports Arg1:T5 Arg2:T6	
+R5	supports Arg1:T6 Arg2:T7	

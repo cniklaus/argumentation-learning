@@ -1,0 +1,25 @@
+T1	Claim 11 141	Insgesamt eine gute Ausarbeitung, mir gefällt insbesondere dass auch Bezug zu MakroVariablen genommen wurde demographischer Wandel
+T2	Claim 143 190	Teilweise fehlt mir ein bisschen die Konsistenz
+T3	Premise 197 305	wird bei den Gefahren in der SWOTAnalyse Partner angesprochen, nicht jedoch in der qualitativen Beschreibung
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 312 418	der Punkt mit der Akzeptanz der technischen Überwachung stellt für mich einen kritischen Erfolgsfaktor dar
+R2	supports Arg1:T4 Arg2:T2	
+T5	Claim 426 548	sollte unbedingt der eigentliche User betreuende Person mehr in die Überlegung einbezogen werden, und nicht nur die Kunden
+T6	Premise 550 677	Sind solche Personen wirklich mit einem solchen Maß an Überwachung einverstanden, oder wird das eher durch Angehörige erwünscht
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 680 791	Bei dem Beschrieb der Kunden führst du eine Segmentierung anhand der Merkmale Großkunden und Privatkunden durch
+T8	Premise 793 997	Mein Vorschlag ist hier keine neuen Begriffe einzuführen, sondern einfach deine Kundengruppen professionelle Betreuungsdienstleister, Arztpraxen und Privatpersonen als Segmentierungsvariablen zu verwenden
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 999 1051	Dies macht es einfacher der Klassifikation zu folgen
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1059 1122	ist momentan nicht klar, inwieweit du Arztpraxen einordnen tust
+T11	Premise 1125 1209	Bei der qualitativen Beschreibung, könntest du eine weitere Rubrik Partner einführen
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 1211 1304	Ich könnte mir vorstellen, dass zum Beispiel Rettungsdienste unter diese Rubrik fallen würden
+R7	supports Arg1:T12 Arg2:T11	
+T13	Claim 1320 1418	fehlt mir wie bereits erwähnt die Rubrik User, bei welcher der eigentliche Nutzer beschrieben wird
+T14	Premise 1420 1629	In diesem Zusammenhang sehe ich die Akzeptanz der User als einen kritischen Erfolgsfakor Sind betroffene Personen einverstanden mit einer solchen intensiven rundumdie Uhr Überwachung Tracker, Kameras, Sensoren
+R8	supports Arg1:T14 Arg2:T13	
+T15	Premise 1631 1789	Es gibt weit weniger intensive Lösungen wie lediglich Notfullbuttons, welche nicht immer durch die UserZielgruppe angenommen wird Eitelkeit, Privatsphäre, etc
+R9	supports Arg1:T15 Arg2:T14	
+T16	Claim 1793 1939	Zur Übersichtlichkeit würde ich zudem den Punkt Strategische Ausrichtung explizit in Preispolitik, Vertriebspolitik, etc. vgl. Österle unterteilen

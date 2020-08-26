@@ -1,0 +1,24 @@
+T1	Claim 17 57	Sehr schöne Darstellung der Gesamtlösung
+T2	Claim 79 201	Das Konzept scheinst du verstanden zu haben Entsprechend die überwiegende Zahl der Kästchen auf die richtige Ebene gesetzt
+T3	Claim 203 310	Einzig den Kasten IT Support hätte ich noch eine Ebene höher genommen, ggf. sogar auf die Interaction Linie
+T4	Premise 315 433	dort der Kunde ja wahrscheinlich direkt anruft und man somit eine Aktivität bei Kunde und Unternehmen gleichzeitig hat
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 465 602	Der Rest ist  obschon nur relativ grob skizziert aber das ist klar, wenn man auf eine Seite beschränkt ist  absolut i.O. aus meiner Sicht
+T6	Claim 604 661	Ich habe die 3Ws der Modellierung etwas anders verstanden
+T7	Premise 663 799	Weniger als Beschreibung des Geschäftsmodells sondern vielmehr als Beschreibung, wem denn dieses Modell wozu dient und was es beschreibt
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 807 920	könnte es bspw. dem Programmierchef deines Unternehmens dazu dienen, die APP noch kundenfreundlicher zu gestalten
+T9	Premise 925 1011	das Modell ja zeigt, wie der Kundenprozess an der Front als auch im Backoffice abläuft
+R3	supports Arg1:T9 Arg2:T8	
+R4	supports Arg1:T8 Arg2:T7	
+T10	Claim 1013 1077	Die Diskussion der stillen Auftragsabwicklugn macht absolut Sinn
+T11	Claim 1079 1265	Ich hätte jetzt an deiner Stelle hier jetzt noch explizit erwähnt, welche der 4 in der Vorlesung aufgelisteten Konzepte du konkret in deiner Lösung wiederfindest resp. implementiert hast
+T12	Premise 1267 1363	Wie du das auch aussagst, ist es gerade bei einer App extrem schwierig noch mehr still zu machen
+R5	supports Arg1:T12 Arg2:T11	
+T13	Premise 1368 1420	ja eigentlich schon automatisch fast alles still ist
+R6	supports Arg1:T13 Arg2:T12	
+T14	Claim 1422 1464	Nichtsdestotrotz gibst du hier gute Inputs
+T15	Claim 1466 1492	Absolut nichts auszusetzen
+T16	Claim 1497 1517	Eine sehr coole Idee
+T17	Premise 1519 1677	Insbesondere auch die Idee, dass sehende Personen Informationen über Zustand, Verlauf etc. sammeln und eintragen und es somit eine Lösung für beide Seiten ist
+R7	supports Arg1:T17 Arg2:T16	

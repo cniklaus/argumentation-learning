@@ -1,0 +1,9 @@
+T1	Claim 72 156	Korrekte Anwendung des Service Blueprintes mit den verschiedenen Ebenen und Abfolgen
+T2	Premise 249 330	Würde das Anlegen eines Profils nicht einen Schritt der Datenspeicherung auslösen
+T3	Claim 332 482	Diese Daten sind sowie ich es verstanden habe wichtig für Trimple und würden dann ja bezogen auf die Buchung, aber auch langfristig gespeichert werden
+R1	supports Arg1:T2 Arg2:T3	
+T4	Claim 624 757	Ich würde versuchen die Grafik auf eine Seite im Querformat zu bringen, damit ist es für den Betrachter einfacher der Logik zu folgen
+T5	Premise 762 783	es nicht 2 Teile sind
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 785 902	Müsste die GPS Funktion nicht noch eine DB mit allen Einträgen haben, damit diese beim Nutzer angezeigt werden können
+T7	Claim 903 924	Ansonsten gute Arbeit

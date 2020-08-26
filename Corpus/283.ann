@@ -1,0 +1,20 @@
+T1	Claim 69 134	Das Aufgabenkettendiagramm ist übersichtlich und klar dargestellt
+T2	Premise 136 188	Die formalen Anforderung wurden sehr gut eingehalten
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 293 444	Die Unterteilung der organisatorischen Einheiten in eine Kunden und Plattformperspektive macht Sinn und trägt zur guten Verständlichkeit der Lösung bei
+T4	Premise 536 592	Da das Aufgabenkettendiagramm sehr gut ausgearbeitet ist
+T5	Claim 594 731	sind die wichtigsten Elemente des Leistungserstellungsprozesses enthalten und somit auch keine grossen inhaltlichen Korrekturen notwendig
+R2	supports Arg1:T4 Arg2:T5	
+T6	Claim 740 814	fehlt hier im zentralen Leistungserstellungsprozess die Vergütung komplett
+T7	Premise 816 898	So sollte in der überarbeiten Lösung die Vergütungskomponente miteinbezogen werden
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 900 1021	Dabei müssen Fragen wie beispielsweise ,,wo in der Aufgabenketten zahlt der Kunde? oder ,,wie erfolgt die Zahlung? klären
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1162 1253	Es sollte zwingend die Vergütungskomponente, wie im Punkt 2 erwähnt wurde, eingebaut werden
+T10	Claim 1254 1381	Zur besseren Lesbarkeit des Aufgabenkettendiagramm sollten des Weiteren folgende kleine formalen Korrekturen vorgenommen werden
+T11	Premise 1382 1486	So sollte die letzte Aufgabe einer Seite Punkt 5 und 8 nochmals auf der nächsten Seite aufgeführt werden
+R5	supports Arg1:T11 Arg2:T10	
+T12	Premise 1488 1603	Darauf achten, dass die einzelnen Aufgaben mit einem Verb beschrieben werden und keine Substantive verwendet werden
+R6	supports Arg1:T12 Arg2:T10	
+T13	Premise 1618 1699	bei Punkt 8 anstatt ,,Dokumentieren der Wartung ,,Wartung dokumentieren verwenden
+R7	supports Arg1:T13 Arg2:T12	

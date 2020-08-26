@@ -1,0 +1,25 @@
+T1	Claim 11 87	Der Aufbau deines Aufgabenkettendiagramms macht Sinn und ist nachvollziehbar
+T2	Premise 89 182	was machen Blinde bei Baustellen, Löchern, etc. welche nicht in der Karte aktualisiert wurden
+T3	Premise 184 243	Diese tauchen ja manchmal ein fach von jetzt auf gleich auf
+T4	Premise 245 282	Teilweise auch nur für wenige Stunden
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 284 343	Gleiches Problem mit Gegenständen, die auf dem Boden liegen
+T6	Premise 345 474	So wie ich dein Konzept verstehe, willst du einen Ersatz für den Blindenstock oder Hund sein, oder habe ich das falsch verstanden
+T7	Claim 476 535	sehe die App eher als Zusatz zu den bisherigen Hilfsmitteln
+T8	Premise 543 574	als Navi in einer fremden Stadt
+R3	supports Arg1:T8 Arg2:T7	
+R4	supports Arg1:T6 Arg2:T7	
+R1	supports Arg1:T3 Arg2:T2	
+R5	supports Arg1:T2 Arg2:T7	
+R6	supports Arg1:T5 Arg2:T7	
+T9	Premise 602 744	die App niemals Echtzeitinfos haben wird und sich ein Blinder lieber auf seinen Tastsinn, mit Blindenstock, oder aber auf seinen Hund verlässt
+R7	supports Arg1:T9 Arg2:T7	
+T10	Claim 746 796	was ist der Vorteil für Wanderer die App zu nutzen
+T11	Claim 798 887	wie können die Daten von Nutzern übertragen werden so dass diese wirklich punktgenau sind
+T12	Premise 889 992	Werden die Daten per Ortungsfunktion des Handys geschickt, so dass die genauen Koordinaten bekannt sind
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 994 1084	Dann könnte die App allerdings nicht offline genutzt werden wie werden die Infos überprüft
+T14	Claim 1086 1245	Wenn ein Mitarbeiter vor Ort gehen muss, dann kann das Unternehmen das von Anfang an alleine machen, ähnlich der Google Autos, die die Landschaft fotografieren
+R9	supports Arg1:T12 Arg2:T13	
+R10	supports Arg1:T13 Arg2:T14	
+T15	Claim 1247 1354	Würde vorschlagen, dass die Nutzer direkt ein Foto oder ähnliches mitschicken müssen, wenn sie etwas melden

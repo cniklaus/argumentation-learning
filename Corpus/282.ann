@@ -1,0 +1,33 @@
+T1	Claim 19 62	Die Marktteilnehmer scheinen Sinn zu machen
+T2	Premise 64 127	Man erkennt, dass es sich um ein Wertschöpfungsnetzwerk handelt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 186 290	Eigentlich war die Aufgabe, dein Business Model kurz zu beschreiben, so dass man einen Überblick bekommt
+T4	Premise 292 390	Du hast stattdessen die Tätigkeiten der einzelnen Marktteilnehmer in die Marktsegmente geschrieben
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 392 432	Das wiederspricht dem Sinn der e3Methode
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 434 503	Value Ports sollten rund sein und die Pfeile in die Ports hineingehen
+T7	Premise 505 583	Bei dir gibt es lediglich Dreiecke und Linien, die teilweise unterbrochen sind
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 585 639	Schau dir doch hierzu nochmals die Vorlesungsfolien an
+R5	supports Arg1:T8 Arg2:T6	
+T9	Claim 641 715	Welche Werte werden zwischen dem Fitnessstudio und den Nutzer ausgetauscht
+T10	Premise 717 748	Evtl. Infrastruktur gegen etwas
+R6	supports Arg1:T10 Arg2:T9	
+T11	Claim 750 842	Die Austauschbeziehung zwischen dem Fitnessstudio und der Fitnessapp verstehe ich nicht ganz
+T12	Premise 844 958	Infrastruktur und Zugang an Nutzer, wenn du das so machst, muss die App dies aber wieder an die Nutzer weitergeben
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 960 1039	Ansonsten könntest du vom Fitnessstudio ja auch Geld oder Werbefläche verlangen
+R8	supports Arg1:T13 Arg2:T12	
+T14	Premise 1041 1111	Gibt es nicht mehrere Krankenkassen, Fitnessstudios und Sportgeschäfte
+T15	Claim 1113 1190	Die müssten dann so dargestellt werden wie die Nutzer mit mehreren Rechtecken
+R9	supports Arg1:T14 Arg2:T15	
+T16	Claim 1192 1249	Allgemein verstehe ich das Business Model noch nicht ganz
+T17	Premise 1251 1340	Das kann natürlich daran liegen, dass du nur das Wertschöpfungsnetzwerk abbilden konntest
+T18	Premise 1342 1431	Für mich hat es wie ein, zwei Player zu viel Fitnesstudios, Sportgeschäfte, Krankenkassen
+R10	supports Arg1:T17 Arg2:T16	
+R11	supports Arg1:T18 Arg2:T16	
+T19	Premise 1435 1467	wer hat welche Value Proposition
+R12	supports Arg1:T19 Arg2:T16	
+T20	Premise 1470 1545	Aber ich nehme an, wenn ich die Canvas sehen würde, würde alles Sinn machen
+R13	attacks Arg1:T20 Arg2:T16	

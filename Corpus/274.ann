@@ -1,0 +1,11 @@
+T1	Claim 18 104	Grundsätzliche logisches Value Network, welches die wichtigsten Akteure berücksichtigt
+T2	Claim 105 184	Der Syntax des e3ValueModells scheint überall korrekt angewendet worden zu sein
+T3	Claim 186 267	Mich hat besonders die gute Darstellung ohne die Verwendung von Visio beeindruckt
+T4	Claim 277 361	Allerdings wurde keine Unterscheidung zwischen normalen und stacked Akteuren gemacht
+T5	Claim 368 413	der rote Szenariopfad wurde nicht dargestellt
+T7	Claim 541 609	Zu Verbesserung würde ich die Verbesserung der Schwächen vorschlagen
+T8	Premise 611 741	Das bedeutet der Einbau des Stacked Actor Shapes bei allen Akteuren ausser Food Butler und die Skizzierung des roten Szenariopfads
+R1	supports Arg1:T8 Arg2:T7	
+T6	Claim 420 517	fehlt meiner Meinung nach die Einbindung der Affiliates, mit welchen die App beworben werden soll
+T9	Premise 749 797	können die Affiliates ebenfalls eingebaut werden
+R2	supports Arg1:T9 Arg2:T7	

@@ -1,0 +1,18 @@
+T1	Claim 69 166	Folgende Punkte sind mir sehr positiv aufgefallen Geschäftsidee nochmal auf einer Folie erläutert
+T2	Claim 322 590	Du hast leider die erste Folie vergässen wo du die Punkte Was Für Wen und Wozu in Bezug auf das Modell spezifizieren musst ist Teil der Aufgabenstellung Modelliersprache Teilweise unklar angewendet Aufgaben nicht detailliert genug beschrieben nicht eifach zu verstehen
+T3	Claim 731 866	Ich würde nich eine extra Folie machen in der du explizit erklärst was das Modell darstellt, für wen es bestimmt ist und wozu es gut es
+T4	Claim 868 987	Erfassung Veranstaltung sollest du meiner Meinung nach noch nummerieren und in die Hauptprozessschlaufe mit einbeziehen
+T5	Premise 989 1051	Vielleicht startet diese ja mit Schitt 1. und 6. auch parallel
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 1053 1077	Dann könnte das 2.3 sein
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 1079 1154	Ich verstehe nicht ganz was die beiden Parallelen Pfeile am Anfang bedeuten
+T8	Premise 1156 1196	Fangen Schritt 1. und 6. gleichzeitig an
+T9	Claim 1198 1235	Dann würde ich sie anders nummerieren
+T10	Premise 1241 1300	2.1 und 2.2. Ausserdem würde ich mit einem Kästien beginnen
+R3	supports Arg1:T8 Arg2:T7	
+R4	supports Arg1:T8 Arg2:T9	
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1307 1541	1 Spiele Recherche beginnen und von da aus drei parallele Pfeile machen auf 2.1, 2.2 dun 2.3 Vielleicht kannst du die einzelnen Kästien noch ein wenig ausdeutschen und spezifizieren was du genau damit meinst bzw. was da genau passiert
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 1548 1669	bei 10. und 11. würde ich spezifizieren was genau der unterschied ist und was die Verbesserungsaufgabe konkret beinhaltet

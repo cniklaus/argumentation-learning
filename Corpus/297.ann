@@ -1,0 +1,23 @@
+T1	Claim 69 310	Finde es gut, dass du die Prozesse aufgeteilt hast in deine Annahmen klar machst am AnfangBeide Prozesse sind richtig modelliert mit dem Aufgabenkettendiagramm NotationsstandardImmer nur ein Verb pro Box ist korrekt und macht es verständlich
+T2	Claim 401 539	Beide Prozesse sind sehr kurz gehalten und teilweise wirken sie unvollständig siehe Ausreichender Bestand festgestellt was passiert danach
+T3	Claim 540 590	Nach der Terminvereinbarung fehlt noch ein Prozess
+T4	Premise 595 645	die Terminvereinbarung ja nicht das Ende sein kann
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 645 755	Es ist nicht ganz klar was die Ergebnisdokumente sind und wie diese in den folgenden Aufgaben gebraucht werden
+T6	Claim 895 997	eventuell ein wenig ausführlicher solche Sackgassen wie Ausreichender Bestand festgestellt beschreiben
+T7	Premise 999 1092	Ist das wirklich der letzte Schritt oder wird noch eine Rückbestätigung ans IT System gemacht
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 1093 1145	Terminvereinbarung mit einem Prozesselement ergänzen
+T9	Premise 1146 1169	Was folgt darauf analog
+T10	Premise 1183 1194	Belieferung
+R3	supports Arg1:T10 Arg2:T9	
+R4	supports Arg1:T9 Arg2:T8	
+T11	Claim 1194 1299	Ergänzung des Modells mit einem Aufgabenverzeichnis, welche die AUfgaben und Ergebnisdokumente beinhaltet
+T12	Premise 1301 1403	Hilft denke ich auch dir dien Geschäftsmodell und vor allem die einzelnen Schritte besser zu verstehen
+R5	supports Arg1:T12 Arg2:T11	
+T13	Premise 1409 1505	welches Ergebnisdokument löst nach 3. Neuen Bestand im System registrieren zu 4. Bestandsprüfung
+R6	supports Arg1:T13 Arg2:T12	
+T14	Premise 1507 1638	ich denke wenn du dir solche Überlegungen machst, kannst du das Aufgabenkettendiagramm ein wenig straffen und verständlicher machen
+R7	supports Arg1:T14 Arg2:T13	
+T15	Premise 1640 1695	Momentan muss der Leser noch sehr weit selber überlegen
+R8	supports Arg1:T15 Arg2:T14	

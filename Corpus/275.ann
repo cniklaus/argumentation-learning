@@ -1,0 +1,36 @@
+T1	Claim 11 50	Allgemein Sehr innovative Business Idee
+T2	Premise 52 137	Frage mich jedoch, ob der Markt für Blinde dazu genug gross ist, um Profit abzuwerfen
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Claim 142 197	Abgrenzung des GeschäftsfeldesSehr grosses Fragezeichen
+T4	Premise 198 260	Wie sollen Menschen mit einer Sehbehinderung eine App bedienen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 263 374	Selbst wenn die Interaktion mit Vibration und Ton stattfindet, scheint mir die App dann sehr beschränkt zu sein
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 375 461	Kundensegment In der Einleitung hast du von Sehbehinderten und alten Leuten gesprochen
+T7	Claim 463 503	Wieso jetzt plötzlich alle Altersgruppen
+R4	supports Arg1:T6 Arg2:T7	
+T8	Claim 504 523	Sehr schöne Tabelle
+T9	Premise 525 542	Gute Beschreibung
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 549 595	KurzCharakteristika Ihres UnternehmensSehr gut
+T11	Claim 603 643	ualitative BeschreibungGute Beschreibung
+T12	Premise 645 702	Es scheint sich wirklich um einen Nischenmarkt zu handeln
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 704 833	Was ich mich hier jedoch Frage ist, wie werden denn die muster auf dem Boden oder sonst welche Eigenschaften des Geländes Erfasst
+R7	attacks Arg1:T13 Arg2:T11	
+T14	Premise 835 897	Wird das Gelände extra nochmals durch diese Firma topografiert
+R8	supports Arg1:T14 Arg2:T13	
+T15	Premise 899 997	Nur durch UserFeedback lässt sich eine solch detaillierte Dienstleistung wohl kaum bewerkstelligen
+R9	supports Arg1:T15 Arg2:T14	
+T16	Claim 1004 1032	Kritische ErfolgsfaktorenGut
+T17	Claim 1039 1145	KernkompetenzenWorin besteht der Anreiz von beispielsweise Google Maps mit deiner Firma zusammenzuarbeiten
+T18	Claim 1152 1264	SWOTAnalyseVielleicht bei Schwächen die hohe Komplexität bezüglich der Datenerfassung erwähnen resp. präzisieren
+T19	Claim 1272 1298	trategische AusrichtungGut
+T20	Claim 1300 1355	Jedoch frage ich mich auch hier, wie das rentieren soll
+T21	Premise 1357 1467	Die Anzahl Sehbehinderten und alte Wanderer, welche genug technologieaffin sind, hält sich wirklich in Grenzen
+R10	supports Arg1:T21 Arg2:T20	
+T22	Claim 1475 1547	assnahmenMarketing Massnahmen, um viele potentiellen Nutzer anzusprechen
+T23	Premise 1548 1572	Was meinst du denn damit
+R11	supports Arg1:T23 Arg2:T22	
+T24	Premise 1574 1639	Habe gemeint, du willst nur Sehbehinderte und Wanderer ansprechen
+R12	supports Arg1:T24 Arg2:T23	

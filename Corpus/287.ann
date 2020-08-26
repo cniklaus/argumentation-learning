@@ -1,0 +1,17 @@
+T1	Claim 18 100	Es scheint mir so, als hättest du den gesamten Prozess vollständig erfassen können
+T2	Claim 112 274	versteht man dank der ausführlichen Beschreibung auf der ersten Seite und der übersichtlichen Gestaltung des Aufgabenkettendiagramms auf Anhieb die Funktionsweise
+T3	Premise 312 409	Die Notation deines Aufgabenkettendiagramms hat einige Formen drin, die ich noch nie gesehen habe
+T4	Claim 411 515	Entweder kennst du die Notation viel besser als ich, oder du hältst dich nicht an einige Notationsregeln
+R1	supports Arg1:T3 Arg2:T4	
+T5	Premise 517 593	Soweit ich weiss sind keine Rhomboiden und Sechsecke als Notation vorgesehen
+T6	Premise 600 677	bei der Lieferung muss zwischen und oder oder Verbindung unterschieden werden
+T7	Premise 679 760	Am besten schaust du dir nochmals die Aufgabenstellung und die Notationsregeln an
+R2	supports Arg1:T5 Arg2:T7	
+R3	supports Arg1:T6 Arg2:T7	
+R4	supports Arg1:T7 Arg2:T4	
+T8	Claim 761 853	Die Zahlungsvorgänge in deinem Aufgabenkettendiagramm könnten auch anders dargestellt werden
+T9	Premise 855 933	Werden anhand der Zahlungsabwicklung Analysen zum Ernährungsverhalten erstellt
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 935 1052	Gerade die Zahlungsabwicklung braucht auch einen Refresh Finden Auslieferung und Zahlung per Karte gleichzeitig statt
+R6	supports Arg1:T10 Arg2:T8	
+T11	Claim 1054 1151	Evtl. könnte der Zusatz einiger weiterer ProzesSschritte für eine vollständige Darstellung sorgen

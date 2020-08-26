@@ -1,0 +1,17 @@
+T1	Claim 11 63	Die Idee spricht mich sehr an ist ist gut durchdacht
+T2	Claim 65 237	Ich denke du bist auf einem sehr guten Weg mit deiner Business Idee und du hast viele Punkte in deinen Case integriert, die den User ansprechen und einen hohen Nutzen haben
+T3	Claim 239 312	Die anonyme Auswertung der Daten ist für mich entscheidend für den Erfolg
+T4	Claim 313 365	Denkst du, dass es eine Schulung für das App braucht
+T5	Premise 367 524	Ich denke es reicht wenn die Installation vorgenommen wird  mittlerweile sind die Apps doch so einfach bedienbar, dass es keine Schulung dazu brauchen sollte
+T6	Premise 526 609	Wichtiger denke ist dass das Personal über die Auswertungstechniken informiert wird
+R1	supports Arg1:T6 Arg2:T4	
+R2	supports Arg1:T5 Arg2:T4	
+T7	Claim 611 765	Für Aktionen und Angebote wäre es sinnvoll eine Webseite zu kreieren, in der die Geschäfte aktuelles hochladen könnten und so den Service zu aktualisieren
+T8	Claim 766 934	Die Darstellung des Geschäftsprozess ist meiner Meinung nach gut gelungen und ich habe keine Verbesserungsvorschläge der Prozess ist durchgängig und enthält alle Stufen
+T9	Claim 936 1038	Auf der MakroEbene würde ich den vierten Schritt Support wieder auf die Ebene der Niederlassung nehmen
+T10	Premise 1043 1101	der telefonische Support auch wieder dort stattfinden wird
+R3	supports Arg1:T10 Arg2:T9	
+T11	Premise 1103 1222	Der persönliche Support denke ich ist weniger häufig der Fall und kann entsprechend in der Grafik vernachlässigt werden
+R4	supports Arg1:T11 Arg2:T9	
+T12	Claim 1223 1324	Das Aufgabenverzeichnis ist ebenfalls sehr gut dargestellt und ich habe keine Verbesserungsvorschläge
+T13	Claim 1325 1362	Sehr gute Arbeit, ich bin beeindruckt

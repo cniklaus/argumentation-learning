@@ -1,0 +1,7 @@
+T1	Claim 69 102	Die Aufgabe wurde sehr gut gelöst
+T2	Premise 104 212	Man sieht, dass die Person sich mit dem Thema auseinandergesetzt hat und die wichtigen Ebenen verstanden hat
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 214 286	Es macht auch Sinn den Blueprintprozess auf Teil1 und Teil 2 zu gliedern
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 377 502	Eventuell noch diese Punkte anpassen Verträg auf die Preparation Ebene aufschreiben Mit dem Schritt Webseite Updates ergänzen
+T5	Claim 520 620	es handelt sich um eine sehr gut gelöste Aufgabe, deshalb gibt es nur wenige Verbesserungsvorschläge
