@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+
+  argumentationlearning:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5130:5130"
+    
