@@ -1,0 +1,17 @@
+T1	Claim 46 229	Danke für die Kurzbeschreibung, das erleichtert den Review um einiges  Deine Lösung ist gut bearbeitet und du hast dich an die richtige Notation eines Aufgabenkettendiagramms gehalten
+T2	Premise 300 435	Die Aufgabenstellung für das Aufgabenkettendiagramm lautet Modellieren Sie den zentralen Leistungserstellungsprozess ihres Unternehmens
+T3	Claim 439 505	Ich denke du hast die Aufgabenstellung etwas anders interpretiert.
+T4	Premise 507 643	Das Aufgabenkettendiagramm soll den zentralen Geschäftsprozess deiner Unternehmung PickUpPackages darstellen und nicht den Kundenprozess
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T2 Arg2:T3	
+T5	Premise 645 756	Das heisst, du solltest dir überlegen was PickUpPackage leistet, um dem Kunde die Dienstleistung zu ermöglichen
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 759 926	Beantworte am besten als erstes die Fragen Wovon/Wozu/Für wen aus Sicht deiner Unternehmung für den Geschäftsprozess und leite die wichtigsten Prozessschritte davon ab
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 929 1101	Zur übersichtlicheren Darstellung des Aufgabenkettendiagramms hilft es, die einzelnen Prozesschritte in verschiedene Ebenen z.B. Produktion, Einkauf, Sales usw. einzurodnen
+T8	Premise 1103 1299	Dafür könntest du analog dem Beispiel in den Vorlesungsfolien eine Tabelle als Aufgabenkettendiagramm erstellen, bei welcher du die Prozessschritte in den verschiedenen Ebenen einzeichnen könntest
+R5	supports Arg1:T8 Arg2:T7	
+R6	supports Arg1:T7 Arg2:T3	
+T9	Premise 1337 1520	würde ich als erstes die 3 zentralen Fragen für deinen Geschäftsprozess beantworten und danach die einzelnen Prozessschritte davon ableiten sowie im Aufgabenkettendiagramm aufzeichnen
+T10	Claim 1522 1647	Die Notation und Zeichnungen deines Aufgabenkettendiagramms stimmt bereits gut so, ist also primär eine inhaltliche Anpassung
+R7	supports Arg1:T9 Arg2:T10	

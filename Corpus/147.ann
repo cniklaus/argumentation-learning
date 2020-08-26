@@ -1,0 +1,14 @@
+T1	Claim 10 84	Die Grafik sieht abgesehen von den roten Pfeilen übersichtlich und gut aus
+T2	Claim 90 207	Zu Beginn ist es zwingend nötig, wie in der Aufgabenstellung verlangt, dass eine kurze Geschäftsbeschreibung vorliegt
+T3	Premise 209 300	In casu ist es auf Grund der fehlenden Erklärung sehr sehr schwer die Idee nachzuvollziehen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 312 379	ist es nicht nachvollziehbar was die roten Pfeile zu bedeuten haben
+T5	Premise 381 466	Wie kann es sein, dass bspw. der Pfeil beim Unternehmen startet und wieder dort endet
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 484 579	ist es nicht klar warum die Unternehmen direkt mit den Privatpersonen einen Vertag abschliessen
+T7	Premise 581 670	Haben diese wirklich direkten Kontakt zu einander oder dient die Plattform als Vermittler
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 675 756	Zur Verbesserung der Lösung sind die bereits erwähnten Kritikpunkte zu bearbeiten
+T9	Premise 761 808	ansonsten die Bearbeitung keinerlei Sinn ergibt
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 810 925	Mit Müh und Not ist diese Arbeit als genügend zu bewerten, was eine ausführliche Verbesserung sehr stark impliziert

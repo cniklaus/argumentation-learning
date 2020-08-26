@@ -1,0 +1,24 @@
+T1	Claim 10 85	Gute Ausarbeitung des Lastenheftes und eine sehr schöne Geschäftsmodellidee
+T2	Claim 92 201	Ziel der Softwarelösung     Ich denke du gehst hier zu stark auf die Beschreibung deines Geschäftsmodells ein
+T3	Premise 205 259	Ich würde den Fokus klar auf die Softwarelösung setzen
+T4	Premise 265 365	Du könntest z.b in Wirtschaftliche, Technische und Strategische Ziele der Softwarelösung unterteilen
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 371 453	Somit kannst du bei strategischen Zielen eng an deiner Geschäftsmodellidee bleiben
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 462 552	Entwicklung einer Plattform die das Planen des Einkaufs für Wohngemeinschaften erleichtert
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 555 645	Entwicklung einer Plattform die hilfsbedürftigen Personen das Einkaufen erleichtert   Usw.
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 650 815	Bei Wirtschaftlichen Zielen kannst du dann darauf eingehen wie durch die Plattform Gewinn erzielt wird und z.B Das Kundenbindung und Neugewinnung erzielt werden soll
+R6	supports Arg1:T8 Arg2:T7	
+T9	Premise 820 951	Bei Technologischen Zielen kann z.B aufgeführt werden, dass die Software als Android IOS und Web Applikation entwickelt werden soll
+R7	supports Arg1:T9 Arg2:T3	
+T10	Claim 975 1041	Ich würde bei Zielgruppe noch den Betreiber der Applikation nennen
+T11	Premise 1043 1109	Dieser benutzt die Software ja ebenso um Daten zu analysieren etc.
+R8	supports Arg1:T11 Arg2:T10	
+T12	Claim 1114 1274	Funktionalitäten der Softwarelösung   Hier könntest du noch ergänzen, dass zuerst ein Profil erstellt werden muss und dieses auch von User verwaltet werden kann
+T13	Premise 1275 1356	Erstellung Username, Passwort, Änderung des Passwortes, Kontaktinformationen usw.
+R9	supports Arg1:T13 Arg2:T12	
+T14	Claim 1362 1443	die Extra Profilerstellung von hilfsbedürftigen Personen kannst du noch ergänzen.
+T15	Claim 1444 1514	Ich denke die App sollte auch dem Betreiber Zugriff auf Daten gewähren

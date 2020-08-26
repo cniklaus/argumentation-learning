@@ -1,0 +1,15 @@
+T1	Claim 10 186	Die textliche Beschreibung des Business Modells ist sprachlich wie auch inhaltlich sehr gut verständlich und in Ihrer Ausführung klar strukturiert und nachvollziehbar aufgebaut
+T2	Claim 188 486	Nichtsdestotrotz rate ich dir, dass du die Beschreibung von jemandem kurz korrigieren lässt, der Deutsch als Muttersprache erlernt hat und dir somit mit geringem Aufwand doch sehr helfen kann vor allem unter der Annahme, dass du diese Beschreibung für die nächsten Aufgaben nochmals verwenden wirst
+T3	Premise 487 557	Die Aufgabenkettendiagramme gefallen mir auf den ersten Blick sehr gut
+T4	Claim 559 611	die Aufgabe scheint richtig umgesetzt worden zu sein
+R1	supports Arg1:T3 Arg2:T4	
+T5	Premise 613 666	Die Notationen wurden grundsätzlich korrekt verwendet
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 732 935	Makro Ebene Die Notationen für Recherchevorgang starten, Lager von Modehaus, Kundendaten und Bestellvorgang Abgeschlossen sind für mich nicht ganz nachvollziehbar, weiss also nicht, ob diese korrekt sind
+T7	Claim 936 1041	Die Aufgabe Bestellung Ablehnen sehe ich eher beim Kunden als bei Snapwish, dies würde ich noch verändern
+T8	Premise 1057 1097	Punkt 4 nach den Punkten 2 und 3 erfolgt
+T9	Claim 1099 1230	würde ich den Pfeil von den Kästchen 2 und 3 zum 4. Kästchen einzeichnen, und nicht so wie momentan vom 1. Kästchen zum 4. Kästchen
+R3	supports Arg1:T8 Arg2:T9	
+T10	Claim 1238 1341	würde ich den Prozess von Suche nach ähnlichen Artikeln starten ausserhalb des grauen Kastens ansiedeln
+T11	Premise 1346 1381	dies den nächsten Prozess darstellt
+R4	supports Arg1:T11 Arg2:T10	

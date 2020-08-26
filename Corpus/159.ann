@@ -1,0 +1,9 @@
+T1	Claim 10 77	Sehr gute und verständliche Darstellung des Aufgabenkettendiagramms
+T2	Premise 83 242	Ich würde vielleicht bei 3. In die Beschreibung einbauen, dass Designvorschläge an den Kunden weitergeleitet werden UND weitere Designwünsche besprochen werden
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Premise 244 452	Ansonsten wird in Deinem Aufgabenkettendiagramm auf die Designvorschläge kein Bezug mehr genommen und man könnte dann davon ausgehen, dass sie sinnlos sind wenn die Designwünsche erst danach besprochen werden
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 458 584	Evtl noch einen Schritt einbauen, dass der Kunde die Einkaufsliste nochmals überprüfen kann, bzw die Bestellung abbrechen kann
+T5	Claim 590 642	Bekommt II eine Provision von den Partnerunternehmen
+T6	Premise 644 725	Würde wahrscheinlich Sinn machen, sehe dazu aber nichts im Aufgabenkettendiagramm
+R3	supports Arg1:T6 Arg2:T5	

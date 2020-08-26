@@ -1,0 +1,18 @@
+T1	Premise 17 100	Mit dem ersten Abschnitt klärst du sehr genau, wie deine Geschäftsidee funktioniert
+T2	Claim 102 125	Das ist schon mal super
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 126 184	Mir gefällt, wie du den Service Blueprint dargestellt hast
+T4	Claim 186 242	Er scheint zudem vollständig und ist leicht verständlich
+T5	Premise 243 338	Bei der Diskussion gehst du verständlich auf alle Komponente der stillen Auftragsabwicklung ein
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 362 452	Es wäre sinnvoll und hilfreich, wenn du die Achsen deines Blueprints noch ergänzen würdest
+T7	Premise 454 542	Customer, Provider etc. du findest die Beschriftungen in der Vorlesung von letzter Woche
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 562 655	wäre Verkaufs und Beratungsgespräch und auch Vertrag abschliessen auf der line of interaction
+T9	Premise 659 799	sowohl provider wie auch customer involviert sind siehe VorlesungIch würde die Begriffe, die du im Blueprint verwendest etwas ausformulieren
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 812 869	kann ich mir nicht unter Distributionsnetzwerk vorstellen
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 871 912	Ist damit der Aufbau eines Netzes gemeint
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 913 947	Im Grossen und Ganzen super gelöst

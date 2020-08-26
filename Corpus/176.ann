@@ -1,0 +1,17 @@
+T1	Claim 40 106	du deine Lösung sauber durchdacht und viele Details mit einbezogen
+T2	Claim 108 174	Du hast die Grundidee des Lastenhefts verstanden und sauber gelöst
+T3	Premise 209 278	Leider bin ich mir immer noch nicht 100 im klaren was du genau machst
+T4	Premise 282 336	Die Organisation von Umzügen vereinfachen nehme ich an
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 357 476	wäre es toll eine kurze Einleitung zu haben und das Was, Wozu und Für Wenn da rein zu nehmen, anstelle unter den Zielen
+R2	supports Arg1:T3 Arg2:T5	
+T6	Premise 478 566	Ich glaube wenn du das noch kurz reinkopieren aus einer andern LE könntest wäre es super
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 568 686	Ich weiss nicht genau wer jetzt genau deine Kunden sind und wer mit Backoffice gemeint ist wahrscheinlich dein eigenes
+T8	Claim 693 779	hast du meiner Meinung nach sehr viele kleine Details bei den Funktionalitäten erwähnt
+T9	Premise 785 824	Konto löschen, aber nicht unabsichtlich
+T10	Premise 826 908	Finde ich zwar super und man merkt dass du dir wirklich Gedanken dazu gemacht hast
+T11	Premise 910 1071	Aber vielleicht wäre es bei Funktionalitäten spannender zu erfahren, welche zentralen Funktionen die Nutzer haben und wie diese auf einer Metaebene funktionieren
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T11 Arg2:T8	
+R6	attacks Arg1:T10 Arg2:T11	

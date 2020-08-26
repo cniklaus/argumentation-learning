@@ -1,0 +1,9 @@
+T1	Claim 17 151	Du hast eine coole und durchdachte Idee und ich kann mir vorstellen dass, deine Lösung für Tennisspieler einen echten Mehrwert liefert
+T2	Claim 169 309	hast du die Funktionsweise des Aufgabenkettendiagramms gut verstanden und konntest deinen zentralen Leistungserstellungsprozess gut abbilden
+T3	Claim 319 447	Schritt 2 ist nur provisorisch gebucht, müsste nach dem Eingang des Rackets, nicht irgendwann das provisorisch noch verschwinden
+T4	Claim 476 499	Sinn zwischen 4a und 4b
+T5	Premise 501 630	Gehört dieser Schritt nicht in Bespannungsdienstleistung und braucht es die Unterscheidung zwischen bereitstellen und reservieren
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 654 724	Schau mal nach was aus dem provisorisch in Schritt zwei passieren soll
+T7	Claim 725 758	Evtl. musst du 4a und 4b anpassen
+R2	supports Arg1:T6 Arg2:T7	

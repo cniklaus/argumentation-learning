@@ -1,0 +1,30 @@
+T1	Premise 12 90	Ich finde deine Ausarbeitung sehr gut aufs Wesentliche beschränkt und intuitiv
+T2	Claim 92 144	Dein Prozess ist daher auch einfach nachzuvollziehen
+R1	supports Arg1:T1 Arg2:T2	
+T3	Premise 146 243	Auch wenn du dein Geschäftsmodell nicht wirklich beschreibst, ist klar, was das Prinzip sein soll
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 257 362	die zielst damit sehr gut auf Pains ab und deshalb wäre ich wohl auch selber Kunde bei deinem Unternehmen
+R3	supports Arg1:T4 Arg2:T3	
+T5	Claim 366 405	Deine Aufgabenlösung ist weitgehend gut
+T6	Claim 527 668	Zunächst würde ich dir anraten, im Sinne eine Prozessbeschreibung sämtliche Kästchen mit einem Verb zu beschreiben Gründungsprozess einleiten
+T7	Premise 670 702	Kundengespräch durchführen, etc.
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 703 834	Bei manchen Prozessschritten machst du dies auch bereits schon, aber ich würde dies bei sämtlichen Schritten konsistent durchziehen
+R5	supports Arg1:T8 Arg2:T6	
+T9	Claim 844 946	bin ich mir nicht ganz sicher, ob das Element Kundengespräch an der richtigen Position angesiedelt ist
+T10	Premise 948 997	Wird das Kundengespräch rein digital durchgeführt
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 999 1077	Dann würde ich es genau zwischen Visibility und Internal Interaction ansiedeln
+R7	supports Arg1:T11 Arg2:T10	
+T12	Premise 1079 1189	Ist das Kundengespräch aber ein physische Angelegenheit, so müsste die Position oberhalb von Visibility stehen
+R8	supports Arg1:T12 Arg2:T9	
+T13	Claim 1191 1287	Unter dieselbe Argumentationskette gehört für mich auch das Abschlusselement Gründung bestätigen
+T14	Premise 1290 1427	Bei der Diskussion bin mich mir zudem auch nicht ganz bewusst, ob du das Konzept von CollaborativeOrderManagement richtig verstanden hast
+T15	Premise 1429 1602	Im CollaborativeOrderManagement nimmt meines Erachtens ein wesentlicher Lieferant sämtliche Elemente auf sich und fungiert als fokales Unternehmen in einem gesamten Netzwerk
+T16	Premise 1604 1722	Bei deiner Lösung bist du das Unternehmen, doch wo das gesamte Netzwerk dahinter steht, ist mir nicht ganz ersichtlich
+T17	Claim 1724 1814	Vielleicht würde es sich hier Lohnen, deinen Gedanken bin bisschen besser auszuformulieren
+R9	supports Arg1:T15 Arg2:T14	
+R10	supports Arg1:T16 Arg2:T14	
+R11	supports Arg1:T14 Arg2:T17	
+T18	Claim 1819 1938	Bei der Überarbeitung deiner Lösung kannst du dich vor allem auf die im zweiten Abschnitt beschriebenen Punkte beziehen
+T19	Claim 1940 2114	Grundsätzlich finde ich deine Lösung schon ziemlich gut, dennoch hast du aber vielleicht noch ein bisschen Potential  besonders was der Tiefgang bei der Diskussion beinhaltet

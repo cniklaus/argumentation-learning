@@ -1,0 +1,10 @@
+T1	Claim 17 91	die Zielbestimmung der Softwarelösung hast du bereits gut herausgearbeitet
+T2	Claim 98 148	den Softwareeinsatz hast du verständlich erläutert
+T3	Premise 150 266	brauchst du nicht noch einen Schritt, in welchem Mitarbeiter die neuen Informationen auf ihre Korrektheit überprüfen
+T4	Claim 268 314	Diese Funktion sollte auch programmiert werden
+R1	supports Arg1:T3 Arg2:T4	
+T5	Claim 326 396	würde ich an deiner Stelle noch einmal über die gesamte Lösung schauen
+T6	Premise 398 446	Ab und zu hast du kleine grammatikalische Fehler
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 447 557	Nichts grosses, aber es wäre schade, wenn deine gute Lösung wegen diesen Fehlern eine schlechtere Note bekommt
+R3	supports Arg1:T7 Arg2:T5	

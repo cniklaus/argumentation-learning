@@ -1,0 +1,19 @@
+T1	Claim 17 88	Gute Kurzbeschreibung der Idee, Geschäftsmodell wird einem schnell klar
+T2	Claim 88 274	Saubere Gliederung des Gesamtprozesses, finde es auch super, dass du den näher zu betrachtenden Teilprozess hervorhebst und durch die vor und nachgelagerten Prozesse in den Kontext setzt
+T3	Claim 276 347	Alles in allem eine strukturierte und graphisch ansehnliche Lösung, top
+T4	Premise 357 539	Beim Aufgabenkettendiagramm frage ich mich, ob bei 6a bei einer Vorschlagablehnung der gesamte Prozess von Anfragenübermittlung über Datenprüfung etc. nochmal durchlaufen werden muss
+T5	Premise 541 717	Ich würde vorschlagen, dass du eine Shortlist an Vorschlägen anzeigst, sodass bei der Ablehnung eines Vorschlags immer noch auf verbleibenden Vorschläge zugegriffen werden kann
+T6	Claim 724 872	nach 6a würde ich eine Schlaufe machen mit Ablehnen, Anzeige des nächsten Standortvorschlags, usw, bis einer passt und der Vorschlag angenommen wird
+R1	supports Arg1:T5 Arg2:T6	
+R2	supports Arg1:T4 Arg2:T5	
+T7	Claim 880 1009	könntest du der Vollständigkeit halber auch den Fall ergänzen, wo er keinen passenden Vorschlag gut findet und das ganze abbricht
+T8	Claim 1010 1066	Die Verbindung zw. 1 und 3 hätte ich gestrichelt gemacht
+T9	Premise 1071 1174	die Prüfung der Daten zeitlich nicht unmittelbar erfolgen muss/wird, beim User hingegen ist es zwingend
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 1179 1207	er die App ja gerade bedient
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 1209 1335	ei 10 Kreditwürdigkeit prüfen stellt sich die Frage, welche Prozesse nachgelagert sind was, wenn man die Prüfung nicht besteht
+T12	Premise 1337 1392	welche alternativen Zahlungsmöglichkeiten gibt es? etc.
+R5	supports Arg1:T12 Arg2:T11	
+T13	Premise 1394 1483	ich gehe aber davon aus, dass dies im Folgeprozess Tankprozess freigeben abgehandelt wird
+R6	attacks Arg1:T13 Arg2:T11	

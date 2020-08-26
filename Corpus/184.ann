@@ -1,0 +1,22 @@
+T1	Claim 10 69	Gute Ausarbeitung des Lastenheftes und schöne Geschäftsidee
+T2	Claim 75 206	Ziel der Softwarelösung     Hier könntest du den Fokus stärker auf die Software legen anstatt auf deine Geschäftsmodellidee an sich
+T3	Premise 208 301	Du könntest die Ziele z.B in strategische, wirtschaftliche und technologische Ziele aufteilen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 305 380	So könntest du bei strategischen Zielen eng an deiner Geschäftsidee bleiben
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 387 482	Aufbau einer Plattform um Beratung im Bezug auf Smartphone oder Tablet Applikationen zu leisten
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 489 593	Bei wirtschaftlichen Zielen kannst du darauf eingehen wie die Software die Gewinngenerierung unterstützt
+T7	Premise 601 649	Umsatzgenerierung mit Hilfe von In App Purchases
+T8	Premise 653 724	Userbindung und Neugewinnund durch einfache und effiziente Systemlösung
+R4	supports Arg1:T7 Arg2:T6	
+R5	supports Arg1:T8 Arg2:T6	
+T9	Claim 729 882	Bei technologischen Zielen könntest du beispielsweise darauf eingehen, dass die geschäftsidee als Android IOS und Web Apllikation funktionieren soll usw.
+T10	Claim 909 989	Zielgruppe der Software würde ich hier noch den Betreiber der Plattform erwähnen
+T11	Premise 991 1059	Dieser wird die Plattform ebenso nutzen um Daten zu analysieren etc.
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 1064 1178	Funktionalitäten der Softwarelösung   Ich würde hier etwas spezifischer die allgemeinen Funktionalitäten aufzählen
+T13	Premise 1206 1323	Registrierung Kunde   Anlegen eines Nutzerkontos Festlegung von Username, Email Adresse, Telefonnummer, Passwort etc.
+R7	supports Arg1:T13 Arg2:T12	
+T14	Premise 1326 1739	Nach Registrierung Zuweisung der Rolle Registrierter Nutzer   Senden einer Email zur Verifizierung des angelegten Kontos     Bearbeitung des Benutzerkontos  Bearbeiten der Kontaktinformationen  Ändern des Passworts     Administration   Zugriff auf die allgemeine Nutzerverwaltung   Anlegen neuer Parameter und Kategorien für Suchauswahl   Hinzufügen von Profilen neuer Partnerrestaurants   Zugriff auf Systemdaten
+R8	supports Arg1:T14 Arg2:T12	

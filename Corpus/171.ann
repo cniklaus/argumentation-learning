@@ -1,0 +1,16 @@
+T1	Premise 34 219	Deine Idee finde ich sehr gut, auch wenn es dies gemäss Prof. Leimeister im Grunde ja schon gibt, wie er in der Vorlesung gesagt hat alle nutzen die Webseite myunisg und keiner der Rest
+T2	Claim 229 369	würde ich schauen, dass du bei deiner Lösung klar definierst, durch welche Dienstleistungen du dich von den heutigen Lösungen unterscheidest
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 392 480	Gerade bei deiner Lösung finde ich es sehr schwierig, einen klaren Prozess zu definieren
+T4	Claim 521 671	Kann der Kunde so weit nacht unten gehen im Prozess beim Login, oder müsste nicht eher ein Pfeil nach oben gehen, zu einem Weiteren Kästchen Datenbank
+T5	Premise 810 882	Gehen von der Partnerschaft mit der Uni wirklich diese beiden Pfeile weg
+T6	Claim 679 808	verstehe ich die eine Doppelspurigkeit in deinem Prozess nicht ganz, von der Partnerschaft mit der Uni zur Korrektur durch Dozent
+T7	Premise 884 1046	Ist es nicht eher so, dass es ein separates Kästchen bräuchte, welches sozusagen die Dozenten zur Verfügung stellt und dann auf die Korrektur durch Dozenten zeigt
+R2	supports Arg1:T7 Arg2:T5	
+R3	supports Arg1:T5 Arg2:T6	
+T8	Claim 1047 1080	Die Diskussion finde ich sehr gut
+T9	Premise 1082 1203	Einzige beim Punkt Collaborative Order Management bin ich mir nicht sicher, ob da allenfalls mehr optimiert werden könnte
+T10	Premise 1220 1310	indem die Lieferantenverantwortung der Uni oder sogar der Studentenschaft übertragen würde
+T11	Claim 1312 1380	Eventuell könntest Du dieses Konzept so noch deutlich stärker machen
+R4	supports Arg1:T10 Arg2:T9	
+R5	supports Arg1:T9 Arg2:T11	

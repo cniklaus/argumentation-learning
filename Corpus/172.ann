@@ -1,0 +1,17 @@
+T1	Claim 68 131	Ich finde deine Einreichung insgesamt gelungen und verständlich
+T2	Premise 183 274	Der Service Blueprint ist übersichtlich und die wichtigsten Schritte sollten enthalten sein
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 276 350	Dein was, für wen, wozu ist ebenfalls knapp, aber verständlich beschrieben
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 352 439	In der Diskussion greifst du zudem wichtige Konzepte der stillen Auftragsabwicklung auf
+R3	supports Arg1:T4 Arg2:T2	
+T5	Claim 531 654	Bei Service Blueprint empfehle ich dir, noch einige weitere Elemente, v.a. auch im Bereich der Implementierung, zu ergänzen
+T6	Premise 655 679	Siehe dazu Reader S. 397
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 687 782	gehe ich davon aus, dass das Kästchen Gründung bestätigen über der Linie Visibility sein müsste
+T8	Premise 787 830	der Kunde diesen Schritt mitbekommen müsste
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 832 930	Mir haben die Definitionen im Reader auf Seite 396 sehr geholfen, um die Kästchen zu positionieren
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 1071 1301	Wenn du die Positionierung der Kästchen Punkt 2 überprüfst und allenfalls noch die Diskussion gemäss den vier Konzepten etwas strukturierst Zwischentitel oder hervorheben, kannst du noch ein wenig mehr aus deiner Lösung raus holen
+T11	Claim 1314 1349	insgesamt gelungen und verständlich

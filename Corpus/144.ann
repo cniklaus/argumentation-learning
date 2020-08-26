@@ -1,0 +1,44 @@
+T1	Claim 17 71	Die Kurzbeschreibung ist sehr verständlich geschrieben
+T2	Claim 73 143	Die Wertbeziehungen sind auch übersichtlich und verständlich gestaltet
+T3	Claim 145 238	Das Konzept an sich finde ich sehr interessant aber trotzdem noch nicht vollkommen durchdacht
+T4	Claim 306 356	kein Pfeil von My Travel Agent zu den Kunden führt
+T5	Premise 358 431	Der mittlere Text passt glaube ich, aber die Pfeilrichtung ist vertauscht
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 432 531	My Travel Agent dient ja quasi als Plattform, um alles aus einer Hand plus minus anbieten zu können
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 532 609	Sollteman da nicht den Chat Reiseberatung auch über den Travel Agent anbieten
+T8	Premise 610 737	Sowürde dann der Kunde als Ansprechpartner im Prinzip nur diese App haben auch nur zwei Pfeile mit einem Partner Geld  Leistung
+T9	Claim 753 941	würde ich die Beziehung analog zu den Intermediären gestaltet, sodass My Travel Agent noch dazwischengeschaltet wird, undnachgelagert auf die Expertise einesReisebüros zurückgegriffen wird
+R3	supports Arg1:T8 Arg2:T7	
+R4	supports Arg1:T7 Arg2:T9	
+T10	Premise 942 1077	In der jetzigen Darstellung wirkt es so,als ob der Travel Agent und ein Reisebüro gleichwertig sind und einfach andere Dienste anbieten
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1079 1195	Sobald ein Kunde direkten Kontakt mit einem Reisebüro hat, stellt dies ja aber auch eine Art Konkurrenzsituation dar
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 1197 1265	So ist eine Konkurrenzsituation quasi von Beginn an schon eingeplant
+R7	supports Arg1:T12 Arg2:T11	
+T13	Claim 1266 1324	Gemäss Darstellung wird nur mit einem Reisebüro kooperiert
+T14	Premise 1326 1353	Ist dies bewusst so gedacht
+R8	supports Arg1:T14 Arg2:T13	
+T15	Premise 1355 1554	Ich könnte mir vorstellen, dass es gerade interessanter wäre möglichst vielespezialisierte Reisebüros im Köcher zu haben, umje nach Reisedestination auch den passendenChatpartner vermitteln zu können
+R9	supports Arg1:T15 Arg2:T14	
+T16	Premise 1555 1628	So könnte sich dieses Angebot auch qualitativ von 0815 Anbietern absetzen
+R10	supports Arg1:T16 Arg2:T15	
+T17	Premise 1632 1672	MyTravel Agent ja auch die Buchung macht
+T18	Claim 1673 1732	müsste der Geldstrom auch bis zu den Anbietern weiterlaufen
+R11	supports Arg1:T17 Arg2:T18	
+T19	Premise 1734 1816	MTA müsstediesja administrativ abwickeln und entsprechen auchweiterleiten/bezahlen
+R12	supports Arg1:T19 Arg2:T18	
+T20	Premise 1824 1972	der Sinn dahinter wäre, dass der Kunde mehrere Rechnungen von den einzelnen Anbietern separat erhaltenwürde, aber auch das müsste dargestellt werden
+R13	attacks Arg1:T20 Arg2:T19	
+T21	Claim 1982 2068	könnte sich MTA dann über Provisionen von den Anbietern finanzieren MTA als Marktplatz
+R14	supports Arg1:T20 Arg2:T21	
+T22	Claim 2102 2174	die Beziehung zwischen Reisebüro und MTA so wirklich optimal gelöst wird
+T23	Premise 2203 2374	Reisebüros Angebote auf der Plattform platzieren, dafür auch Chat Beratung anbieten auch in ihrem Interesse, und MTA eine Provision pro vermittelter Buchung bekommen würde
+R15	supports Arg1:T23 Arg2:T22	
+T24	Premise 2376 2463	Beim jetzigen Modell stelle ich mir die Austauchbeziehung Chat  Provision schwierig vor
+T25	Premise 2465 2569	Reisebüros wollen ja selbst auch verkaufen und nicht die Konkurrenz MTAmit der eigenen Expertise stärken
+T26	Claim 2571 2766	Vielleicht verstehe ich auch das Modell ein wenig anders / falsch, aber das Konzept sollte ja schon für jeden Partner vorteilhaft sein, und bei den Reisebüros sehe ich das im Moment nicht gegeben
+R16	supports Arg1:T25 Arg2:T24	
+R17	supports Arg1:T24 Arg2:T26	
+T27	Claim 2775 2884	fehlt noch der rote Faden scenario path, wäre gemäss Aufgabenstellung top wenn der noch ergänzt werden könnte

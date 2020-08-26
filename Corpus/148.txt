@@ -1,0 +1,2 @@
+review592
+Hallo,Stärken Sehr gute Beschreibung des Unternehmens Sehr saubere Modellierung die Notation des Aufgabenkettendiagramms wurden sehr gut umgesetzt! Logischer ProzessSchwächen Finde den Kundenprozess etwas überflüssig, da kein klar ersichtlicher Mehrwert.Verbesserungsvorschläge Ich würde den Teil mit dem Kunden rausnehmen, da es das Diagramm unnötig unübersichtlich macht. Dass beispielsweise eine Dienstleistung gebucht wird, ist bereits daran erkennbar, dass es sich um das Prozess Dienstleistung erbringen für das Unternehmen handelt.Viel Glück!

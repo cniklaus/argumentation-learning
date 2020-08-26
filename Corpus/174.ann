@@ -1,0 +1,17 @@
+T1	Claim 10 120	Bei der Service Blueprint würde ich noch genauer ausarbeiten, was alles vom Kunden selber erledigt werden muss
+T2	Premise 122 237	Ich nehme an, dass es bei einer Firmengründung doch noch viel gibt, was der Firmengründer persönlich erledigen muss
+T3	Premise 243 270	auch beim Notar zu beachten
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T2 Arg2:T1	
+T4	Premise 272 321	Dann wird auch klarer, was genau dein Service ist
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 323 335	Nur Beratung
+T6	Premise 337 351	Hilfesleistung
+T7	Premise 353 402	Oder übernimmt Du gewisse Dinge zur Zeitersparung
+R4	supports Arg1:T5 Arg2:T4	
+R5	supports Arg1:T6 Arg2:T4	
+R6	supports Arg1:T7 Arg2:T4	
+T8	Claim 403 488	stille AuftragsabwicklungKönnte man zB den Antrag beim Handelsregister automatisieren
+T9	Premise 490 583	Der Kunde macht alle angaben, wenn sie komplett sind, wird gleich ein Antrag ans HR ausgelöst
+R7	supports Arg1:T9 Arg2:T8	
+T10	Claim 584 678	Allgemein kannst Du sicher alles noch genauer ausarbeiten, wenn Du ein bisschen mehr Zeit hast

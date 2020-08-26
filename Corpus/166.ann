@@ -1,0 +1,16 @@
+T1	Claim 68 117	Die formalen Anforderungen wurden gut eingehalten
+T2	Claim 132 268	ist das Aufgabenkettendiagramm gut verständlich und in sich stimmig, sodass der zentrale Leistungserstellungsprozess nachvollziehbar ist
+T3	Claim 360 404	Der Prozess ähnelt sehr stark dem Storyboard
+T4	Premise 406 533	Es wird zwar der zentrale Leistungserstellungsprozess erläutert, jedoch wird er zu stark aus der Perspektive des Kunden gezeigt
+T5	Premise 535 667	Dadurch sind auch dieorganisatorischen Einheiten, die die einzelnen Aufgaben im Unternehmen durchlaufen, in der Lösung untergegangen
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 669 700	Genau das wäre aber interessant
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 702 892	Mögliche organisatorische Einheiten im spezifischen Unternehmen sind beispielsweise der Abholdienst der die Pakete abholt oder die ITPlattform auf welcher der Service abgewickelt werden kann
+R3	supports Arg1:T7 Arg2:T5	
+T8	Premise 894 1044	Danach kann auch aufgezeigt werden, welche Aufgaben welche organisatorischen Einheiten im Unternehmen durchlaufen und wie diese im Zusammenhang stehen
+R4	supports Arg1:T8 Arg2:T5	
+R5	supports Arg1:T4 Arg2:T3	
+T9	Claim 1185 1308	In der überarbeiteten Lösung sollten mindestens 23 organisatorische Einheiten siehe Vorlesung 6 Folie 20 aufgenommen werden
+T10	Claim 1310 1417	Damit einhergehend sollten auch Aufgaben, die die organisatorischen Einheiten durchlaufen, dargelegt werden
+T11	Claim 1419 1537	Im Fokus sollte bei der Lösungsüberarbeitung der zentrale Leistungserstellungsprozess und nicht der Kundenprozess sein

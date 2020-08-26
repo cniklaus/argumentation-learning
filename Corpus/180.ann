@@ -1,0 +1,48 @@
+T1	Claim 19 136	Grundsätzlich finde ich dein Geschäftsmodell eine spannende Idee und sicherlich von hoher Relevanz für den Werbemarkt
+T2	Claim 138 272	Allgemein hast du bereits eine solide Ausarbeitung des Lastenhefts und dir zu den einzelnen Punkt schon weitreichende Gedanken gemacht
+T3	Premise 274 341	Das Ziel der Softwarelösung ist sehr umfassend und klar dargestellt
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 345 479	Dein Lastenheft gibt eine gute Vorstellung darüber, wie die Anwendung aussehen könnte und vor allem was sie alles dem Endkunden bietet
+R2	supports Arg1:T4 Arg2:T2	
+T5	Claim 491 543	hast du alle Punkte der Aufgabenstellung beantwortet
+T6	Claim 560 748	Der Softwareeinsatz deiner Software ist momentan noch sehr allgemein und ich würde hier wie in den Folien der Vorlesung die beiden Punkte Anwendungsbereich und Zielgruppe einzeln aufführen
+T7	Premise 750 858	Der Anwendungsbereich sollte sich meiner Meinung nach konkret draufbeziehen, wo die Software eingesetzt wird
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 860 922	Daher in deinem Fall als App, wie du das auch geschrieben hast
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 924 994	Evt. könnte ergänzt werden, für welche Betriebssysteme IOS und Android
+R5	supports Arg1:T9 Arg2:T7	
+T10	Premise 996 1030	Gibt es auch eine DesktopAnwendung
+R6	supports Arg1:T10 Arg2:T7	
+T11	Premise 1038 1133	frage ich mich, wie der Werbemarkt auf die Daten zugreifen könnte oder Angebote platzieren kann
+T12	Claim 1135 1263	Dies würde dann in die Zielgruppendefinition kommen, welche du bereits sehr genau ausgeführt hast mit den jungen Privatanwendern
+R7	supports Arg1:T11 Arg2:T12	
+T13	Premise 1265 1419	Ich denke aber, es macht Sinn, wenn der Werbemarkt oder Geschäftskunden auch direkt ihre Werbeaufträge in der Anwendung erfassen und konfigurieren könnten
+R8	attacks Arg1:T13 Arg2:T12	
+T14	Premise 1423 1506	Bei der Funktionalität der Software bist du meiner Meinung nach noch sehr allgemein
+T15	Claim 1508 1574	Hier sollte eine umfassende Liste von Funktionen aufgeführt werden
+R9	supports Arg1:T14 Arg2:T15	
+T16	Premise 1576 1741	Im Sinne des Lastenhefts sollten sich deine Funktionsbeschreibungen an einen Softwareentwickler wenden, daher muss genau gesagt werde, was die Software können sollte
+R10	supports Arg1:T16 Arg2:T15	
+T17	Premise 1743 1924	Zentral ist sicherlich die Funktion des Text Mining Tools, daher die Software muss auf soziale Medien zugreifen können und dort Statusupdates abgreifen und an den Server übermittelt
+R11	supports Arg1:T17 Arg2:T15	
+T18	Premise 1926 1992	Dort sollte diese dann anhand eines Logarithmus ausgewertet werden
+R12	supports Arg1:T18 Arg2:T17	
+T19	Premise 2001 2057	erfolgt ein Abgleich mit der Datenbank an Werbeangeboten
+R13	supports Arg1:T19 Arg2:T17	
+T20	Premise 2059 2161	Sicherlich braucht es auch noch die Funktion der Kartendarstellung inkl. Standortermittlung der Person
+R14	supports Arg1:T20 Arg2:T15	
+T21	Premise 2163 2249	Ferne sollte wohl zu erst der Kunde auch ein Profil auf der Plattform erstellen können
+T22	Premise 2277 2410	sollte man sich auch Gedanken über die Funktionen für den Werbemarkt machen resp. über Funktionen, die Mitarbeiter von CoNNect nutzen
+R15	supports Arg1:T21 Arg2:T15	
+R16	supports Arg1:T22 Arg2:T15	
+T23	Claim 2439 2515	Ich würde die oben erwähnten Punkte noch ein wenig in deiner Lösung schärfen
+T24	Premise 2517 2591	Vor allem den Softwareeinsatz würde ich noch genauer auf den Punkt bringen
+R17	supports Arg1:T24 Arg2:T23	
+T25	Premise 2593 2720	Diesen würde ich wie auf den Slides aus der Vorlesung auf die zwei konkreten Unterpunkt Anwendungsbereich, Zielgruppe aufteilen
+R18	supports Arg1:T25 Arg2:T24	
+T26	Premise 2722 2761	Dies macht es ein wenig übersichtlicher
+R19	supports Arg1:T26 Arg2:T25	
+T27	Claim 2763 2875	Die Funktionalitäten sollten so verfasst sein, dass sie sich mehr am Empfänger dh. Den Softwareentwickler wenden
+T28	Premise 2890 2943	ich auch hier, die Funktionalitäten einzeln auflisten
+R20	supports Arg1:T28 Arg2:T27	

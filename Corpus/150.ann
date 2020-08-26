@@ -1,0 +1,12 @@
+T1	Claim 85 156	wird dein zentraler Leistungserbringungsprozess verständlich aufgezeigt
+T2	Premise 178 263	du verschiedene Swimlanes verwendet hast und dabei den OderProzess separat darstellst
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 265 296	Insgesamt eine gelungene Lösung
+T4	Premise 448 587	Für eine noch bessere Verständlichkeit des Diagramms, würde ich entweder weitere Prozessschritte einfügen oder die existierenden umbenennen
+T5	Premise 589 686	Konkret würde ich bspw. zwischen 1 und 2 Dienstleistung auswählen einfügen oder aber 1 umbenennen
+T6	Premise 695 856	bei 4bd.Zwischen 3a, 4a und 5a macht es allenfalls Sinn, gestrichelte Pfeile zu verwenden, um aufzuzeigen, dass dies nicht unbedingt unmittelbar danach geschieht
+T7	Claim 1018 1049	finde ich deine Lösung gelungen
+T8	Claim 1051 1174	Wenn du dir die Einarbeitung oben stehende Anmerkungen noch überlegst, kannst du allenfalls noch ein wenig mehr herausholen
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T4 Arg2:T8	
+R4	supports Arg1:T6 Arg2:T8	

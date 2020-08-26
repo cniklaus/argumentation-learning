@@ -1,0 +1,25 @@
+T1	Claim 10 83	Grundsätzlich finde ich die Lösung sehr gut und verständliche beschrieben
+T2	Premise 85 151	Die einzelnen Teilabschnitte sind logisch und einfach zu verstehen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 153 211	Es gibt eigentlich kaum etwas zu verbessern oder anzufügen
+T4	Claim 213 274	Viellecht könntest du die App noch um eine Funktion erweitern
+T5	Premise 329 386	Und zwar die direkte Bestellung von Esswaren über die App
+T6	Premise 388 511	Viele Händler insbesondere Migros und Coop liefern Produkte auch nach Hause oder man kann sie an bestimmten Stellen abholen
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 513 650	Es wäre optimal, wenn der Kunde seinen Kühlschrank direkt virtuell auffüllen und die Produkte online, also über die App, bestellen könnte
+T8	Premise 652 713	Dies bringt dem Kunden sicherlich einen zusätzlichen Mehrwert
+R2	supports Arg1:T5 Arg2:T8	
+R4	supports Arg1:T7 Arg2:T8	
+R5	supports Arg1:T8 Arg2:T4	
+T9	Premise 715 857	Die Produkte werden dem Kunden dann gleich nach Hause geliefert oder er kann sie auf dem nach Hause Weg an den entsprechenden Standort abholen
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 858 919	Für das Kochen/die Rezepte könntest du IBM Watson integrieren
+T11	Premise 921 996	Da kann man beispielsweise eingeben, was man gerade noch im Kühlschrank hat
+R7	supports Arg1:T11 Arg2:T10	
+T12	Premise 998 1054	Watson liefert dem Kunden dann ein entsprechendes Rezept
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 1056 1092	Da sind die Daten bereits eingegeben
+R9	supports Arg1:T13 Arg2:T12	
+T14	Premise 1094 1157	Man muss nicht mehr mit Anbietern von Rezepten zusammenarbeiten
+R10	supports Arg1:T14 Arg2:T13	
+R11	supports Arg1:T10 Arg2:T4	

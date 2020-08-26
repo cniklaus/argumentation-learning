@@ -1,0 +1,28 @@
+T1	Premise 30 115	Es ist bei weitem die sauberste und detaillierteste Lösung, die ich beurteilen durfte
+T2	Claim 140 201	du dich mit deinen Prozessen richtig auseinander gesetzt hast
+R1	supports Arg1:T1 Arg2:T2	
+T3	Premise 202 282	Die Legende auf dem ersten Slide hilft, den gesamten Prozess besser zu verstehen
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 283 360	Die Syntax der Lösung ist, soweit ich es beurteilen kann, durchgehend korrekt
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 360 484	Du bist nicht nur auf einer highlevel Ebene geblieben, sondern hast deinen Prozess in konkrete Aktivitäten heruntergebrochen
+R4	supports Arg1:T5 Arg2:T1	
+T6	Claim 693 804	Damit die Lektüre vom Aufgabenkettendiagramm erleichtert wird, könntest du ein paar kleinere Anpassungen machen
+T7	Premise 828 947	Zur Übersichtlichkeit würde ich die Aufgaben der Informatik, zumindest bis Aktivität 5, auf dem gleichen Slide behalten
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 949 1065	Bei der Nummerierung würde ich die Aktivitäten, welche sich auf der gleichen Ebene befinden, aufsteigend nummerieren
+R6	supports Arg1:T8 Arg2:T6	
+T9	Premise 1072 1167	könntest du bei deiner und Verbindung nach Schritt 6 die Aktivität 12 als Aktivität 10 notieren
+R7	supports Arg1:T9 Arg2:T8	
+T10	Premise 1328 1484	Ich würde diese Aktivität umbennenen, so dass sofort klar wird, was der Output, bzw. der Nutzen dieser Aktivität im Gesamtkontext deines Prozesses sein soll
+R8	supports Arg1:T10 Arg2:T6	
+T11	Premise 1169 1248	Bei Aktivität 17 ist für mich nicht ganz klar, was der Output der Aktivität ist
+T12	Premise 1250 1303	Ist es die finale Abnahme der Inhalte vor Publikation
+R9	supports Arg1:T12 Arg2:T11	
+R10	supports Arg1:T11 Arg2:T10	
+T13	Premise 1490 1514	Freigabe für Publikation
+R11	supports Arg1:T13 Arg2:T10	
+T14	Premise 1514 1637	Wenn du noch ein Schritt weiter gehen möchtest, könntest du deine Legende auf Slide 1 als Aufgabenverzeichnis strukturieren
+T15	Premise 1642 1754	wäre es schneller ersichtlich, bei welcher Aktivität welcher Input benötigt wird und welcher Output erzeugt wird
+R12	supports Arg1:T14 Arg2:T6	
+R13	supports Arg1:T15 Arg2:T14	

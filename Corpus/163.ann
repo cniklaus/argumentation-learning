@@ -1,0 +1,12 @@
+T1	Claim 71 130	eine sehr präzise und sauber ausgearbeitete Lösung, chapeau
+T2	Claim 131 218	Zwei Punkte im Aufgabenkettendiagram die meines Erachtens noch verbessert werden können
+T3	Premise 219 297	Nr.1 ist in dem Sinne keine eigentliche Aufgabe im Leistungserstellungsprozess
+T4	Premise 299 406	Screwup erhält die Information aus der Schnittstelle CRM_ERP und begnügt sich gewissermassen mit Passivität
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T3 Arg2:T2	
+T5	Premise 408 560	In meinen Augen besteht die Aufgabe in diesem Prozessschritt darin, die erhaltenen Daten zu interpretieren und das Volumen des Lieferauftrags abzuleiten
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 561 793	Nr. 11. Sofern eine Diskrepanz zwischen physische_digitalen Lagerbestand auftritt, muss meines Erachtens bei signifikanten Abweichungen eine Nachlieferung der georderten Artikel erfolgen, um den angestrebten Zielbestand zu erreichen
+T7	Premise 795 877	Zwischen Nr.11 und Nr.12 sehe ich deshalb ggf. zwischengeschaltete Prozessschritte
+R4	supports Arg1:T6 Arg2:T7	
+R5	supports Arg1:T7 Arg2:T2	

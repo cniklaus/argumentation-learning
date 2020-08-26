@@ -1,0 +1,14 @@
+T1	Claim 17 68	Gut durchdachtes, sinnvolles Aufgabenkettendiagramm
+T2	Claim 75 142	die Aufteilung nach den einzelnen Divisionen erscheint mir sinnvoll
+T3	Claim 154 301	finde ich gut, dass ein Bezug zum gesamten Prozess genommen wird, und danach das Aufgabenkettendiagramm für einen Kernprozessschritt erstellt wurde
+T4	Claim 308 389	die beigefügte Beschreibung der einzelnen Aufgaben hilft sehr für das Verständnis
+T5	Claim 425 472	Der unterste Bereich Kunde könnte man streichen
+T6	Premise 477 500	er nicht involviert ist
+R1	supports Arg1:T6 Arg2:T5	
+T7	Claim 502 579	10. dürfte auch eine Computerunterstützte Aufgabe sein digitaler Lagerbestand
+T8	Claim 580 678	5. verstehe ich nicht ganz, warum diese Aufgabe zeitversetzt ist und zu diesem Zeitpunkt geschieht
+T9	Premise 680 793	Ausserdem wird nicht ganz klar ob damit der Lagerbestand von ScrewUp oder der Lagerbestand des Kunden gemeint ist
+T10	Claim 795 900	Falls es derjenige des Kunden ist, müsste man die Aufgabe meiner Meinung nach weiter nach hinten schieben
+R2	supports Arg1:T9 Arg2:T10	
+T11	Premise 915 1037	zwischen 9. und 10. Wenn der Lagerbestand von ScrewUp gemeint ist, wäre meine Frage, warum es gestrichelt dargestellt wird
+R3	supports Arg1:T11 Arg2:T10	

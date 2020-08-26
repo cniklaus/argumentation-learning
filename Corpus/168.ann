@@ -1,0 +1,23 @@
+T1	Claim 53 101	Gute Idee, ich denke der Service hätte Potenzial
+T2	Claim 104 169	Das Geschäftsmodell bzw. die Idee dahinter wird klar verständlich
+T3	Premise 172 301	Gut, dass du eine soziale Komponente integrierst, sodass auch Aspekte von Communities und Netzwerkeffekte generiert werden können
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 306 387	Du nimmst in der Diskussion die vier Konzepte auf und erkennst auch die Schwächen
+R2	supports Arg1:T4 Arg2:T2	
+T5	Claim 434 533	Zur besseren Übersicht würde ich dir raten den Geschäftsmodellbeschrieb an den Anfang zu platzieren
+T6	Claim 558 665	gehört Integration der Kleidungskataloge der Onlinemodeshops nicht zu facility, sondern eher zu Preparation
+T7	Claim 676 769	Wäre es nicht auch eine Möglichkeit, wenn SnapWish die Suchfunktion automatisch starten würde
+T8	Premise 771 850	So wie es jetzt modelliert ist, muss der Kunde die Suchfunktion noch initiieren
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 854 964	Der Prozess Entsprechende Kleidungsstücke zeigen ist meiner Meinung nach ein Prozess eines invisible Providers
+T10	Premise 969 1029	der Kunde den Mitarbeiter / Algorithmus dahinter nicht sieht
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 1031 1147	Ähnlich wie bei der Folie 20 in der VL 8, wo ein Mitarbeiter den Film zeigt, der Kinobesucher ihn jedoch nicht sieht
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 1152 1285	Der Prozess Integration der Kundendaten gehört meiner Meinung nach weiter nach vorne, damit du die zeitliche Komponente zeigen kannst
+T13	Claim 1295 1352	Weshalb muss der Kunde die Bestellung nochmals bestätigen
+T14	Premise 1354 1508	Meinst du vielleicht beim Kleidungsstück bestellen eher Kleidungsstück auf der App anwählen, wobei er dann auf den entsprechenden Shop weitergeleitet wird
+R6	supports Arg1:T14 Arg2:T13	
+T15	Claim 1566 1681	Bei der Überarbeitung sollte auf die oben genannten Punkte geachtet werden, wobei nicht alles umgesetzt werden muss
+T16	Premise 1684 1894	ie dienen zum Teil auch dazu, dass du die einzelnen Prozessschritte nochmals kritisch hinterfragst und falls du zu der Erkenntnis kommst, dass zu einer anderen Linie gehören, dies so verbesserst und modellierst
+R7	supports Arg1:T16 Arg2:T15	

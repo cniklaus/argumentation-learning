@@ -1,0 +1,48 @@
+T1	Claim 17 41	Das Modell hat Potential
+T2	Premise 59 94	man Models und Freunden folgen kann
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 96 137	Das kann aber auch Streitpotential bergen
+R2	attacks Arg1:T3 Arg2:T2	
+T4	Premise 144 171	jeder einzigartig sein will
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 173 253	Jedoch sieht man bei Instagram auch Personen, die anderen wegen dem Style folgen
+R4	attacks Arg1:T5 Arg2:T3	
+T6	Premise 255 389	Hier können sogar Einnahmequellen entstehen für die einzelnen Models, durch bekannte Marken die ihre Kleidungsstücke vermarkten wollen
+R5	supports Arg1:T6 Arg2:T2	
+T7	Premise 390 441	Fotos von Magazinen kann eine gute Möglichkeit sein
+R6	supports Arg1:T7 Arg2:T6	
+T8	Claim 451 504	Auf der MakroEbene fehlend die Zahlen zur Reihenfolge
+T9	Claim 506 680	uf MakroEbene und Kundenebene, Bestellvorgang abschliessen und Waren in Empfang nehmen stimmt in der Reihenfolge so nicht, würde ich einfach das eine mit dem anderen tauschen
+T10	Premise 681 760	Personen auf der Strasse fotografieren, kann Probleme mit dem Datenschutz geben
+T11	Claim 799 932	Vielleicht könnte eine Schnittstelle zu Instagram erstellt werden, sodass man nach Kleidungsstücken von Instagram Fotos suchen könnte
+T12	Premise 933 1017	Fotos von Kleidungsstücken in physischen Shops kann für die Läden problematisch sein
+T13	Premise 1024 1123	der Kunde damit schnell prüfen kann, ob das Kleidungsstück irgendwo anders billiger zu erhalten ist
+R7	supports Arg1:T12 Arg2:T11	
+R8	supports Arg1:T13 Arg2:T12	
+R9	supports Arg1:T10 Arg2:T11	
+T14	Premise 1207 1414	Eventuell wäre eine Lösung, dass dem User keine Alternativen von in Shops fotografierten Kleidern gezeigt werden, sondern immer nur eindeutig das fotografierte Kleidungsstück in den Suchergebnissen erscheint
+R10	attacks Arg1:T14 Arg2:T13	
+T15	Claim 1481 1671	Ich würde einen Zwischenschritt einlegen zwischen Gleiche Artikel finden und Bestellung an Modehäuser weiterleiten, und zwar sollte der Kunden den Kauf noch bestätigen können Kaufbestätigung
+T16	Claim 1671 1696	VergleichService einbauen
+T17	Premise 1697 1746	Was wäre wenn 100 ähnliche Artikel gezeigt werden
+R11	supports Arg1:T17 Arg2:T16	
+T18	Premise 1753 1786	wäre der User schnell überfordert
+R12	supports Arg1:T18 Arg2:T17	
+T19	Premise 1788 1821	Könnte SnapWish hier weiterhelfen
+T20	Premise 1823 1854	Vielleicht durch weitere Filter
+R13	supports Arg1:T20 Arg2:T19	
+R14	supports Arg1:T19 Arg2:T17	
+T21	Claim 1855 1927	Interessant wäre auch der Prozess für die Suche nach ähnlichen Produkten
+T22	Premise 1929 1993	Nach welchen Kriterien könnten ähnliche Produkte gefunden werden
+T23	Premise 1995 2000	Farbe
+T24	Premise 2002 2009	Schnitt
+T25	Premise 2011 2016	Stoff
+T26	Premise 2018 2022	etc.
+R15	supports Arg1:T23 Arg2:T22	
+R16	supports Arg1:T24 Arg2:T22	
+R17	supports Arg1:T25 Arg2:T22	
+R18	supports Arg1:T26 Arg2:T22	
+R19	supports Arg1:T22 Arg2:T21	
+T27	Claim 2022 2146	Die Einbindung von Online Kanälen wie Facebook, Instagram, etc, finde ich sehr wichtig, vielleicht sogar erfolgsentscheidend
+T28	Premise 2148 2273	Hier könnten die User Print Screens von Bildern mit den gewünschten Kleidungsstücken machen und die Bilder auf SnapWish laden
+R20	supports Arg1:T28 Arg2:T27	

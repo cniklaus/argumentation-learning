@@ -1,0 +1,31 @@
+T1	Claim 78 148	Tolle und präzise Beschreibung und Beantwortung auf Was, Für wen, Wozu
+T2	Claim 150 250	Du schneidest nur die wichtigsten Punkte an, und schaffst es so einen guten Überblick zu verschaffen
+T3	Claim 255 325	Finde cool, dass du recht viele Prozesse z.B. Login automatisiert hast
+T4	Claim 328 397	Hast die Vorlage aus der Vorlesung übernommen, also inhaltich korrekt
+T5	Claim 402 517	Alle Ebenen verwendet, du beschreibst den Prozess sehr genau und ich hätte das sehr ähnlich gemacht für dein Modell
+T6	Claim 519 610	Vielleicht könnte man es noch ein bisschen bisschen schöner machen mit schöneren Farben usw
+T7	Claim 614 645	Finde deine Diskussion sehr gut
+T8	Claim 647 720	Du beschreibst Automatisierung und Informations statt Warenfluss sehr gut
+T9	Claim 737 807	Rechtsschreibfehler bei Diskussion Zeile 2 Wichtigsten klein schreiben
+T10	Claim 810 878	Man konsumiert meiner Meinung nach keinen Service Diskussion Zeile 5
+T11	Premise 881 1015	AM Anfang beim Service Blueprint verstehe ich nicht ganz wie Lebensmittel verwalten mit persönliche Kontodaten anzeigen zusammenpassen
+T12	Claim 1020 1092	Ich glaube du solltest dir nchmal CollaborativeOrderManagement anschauen
+R1	supports Arg1:T11 Arg2:T12	
+T13	Premise 1094 1203	Im Endeffekt bist du ja genau das, dass du als Lieferant agierst, der ein grosses Zuliefernetzwerk koordinert
+T14	Premise 1205 1246	Das würde ich mir nochmal genau überlegen
+R2	supports Arg1:T13 Arg2:T14	
+R3	supports Arg1:T14 Arg2:T12	
+T15	Claim 1278 1342	Schwächen oben genannt verbessern und dementsprechend bearbeiten
+T16	Claim 1345 1445	Ich würde es cool finden, wenn man anhand von Big Data Analysen zu den einzelnen Kunden machen würde
+T17	Premise 1447 1496	Man könnte so dem Kunden neue Rezepte vorschlagen
+T18	Premise 1501 1530	man weiss was ihm so schmeckt
+R4	supports Arg1:T18 Arg2:T17	
+R5	supports Arg1:T17 Arg2:T16	
+T19	Premise 1532 1629	Dann könnte man daraus dem Kunden eine Einkaufsliste vorschlagen, die er dann nur bestätigen muss
+R6	supports Arg1:T19 Arg2:T17	
+T20	Premise 1632 1853	iese Bestätigung wird dann an einen Supermarkt geschickt, wo er dann nicht mehr das Zeug zusammensuchen muss, sondern er es nur noch abholen muss Lieferdienst wäre noch bisschen geiler, aber muss meiner Mienung nicht sein
+R7	supports Arg1:T20 Arg2:T19	
+T21	Claim 1858 1969	Du könntest den Prozess noch ein bisschen mehr automatisieren und das alles noch ein bisschen verrückter machen
+T22	Premise 1981 2052	das Abbuchen der Lebensmittel kannn auch ganz klar automatisiert werden
+R8	supports Arg1:T22 Arg2:T21	
+T23	Claim 2107 2149	inde deine Arbeit und deine Idee echt toll

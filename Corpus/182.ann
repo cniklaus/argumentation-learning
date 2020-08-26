@@ -1,0 +1,13 @@
+T1	Claim 18 121	Deine Idee ist schon sehr ausgereift und man merkt, dass du dir viel Gedanken über die Umsetzung machst
+T2	Claim 158 265	Eventuell würde ich den ersten Teil wo du deine Zielgruppen beschreibst in den Teil Zieleinsatz integrieren
+T3	Premise 272 332	es da genau um den Anwendungsbereich und die Zielgruppe geht
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 334 570	Ich weiss nicht, ob du vielleicht den Beitrag der Usern/Wanderer noch ein bisschen besser spezifizieren willst oder besser gesagt angibst, was der User denn alles schicken kann, dass die IT dann verarbeiten kann in dem Programm/Software
+T5	Premise 572 662	Was wäre denn am besten was für Informationen und in welcher Form er diese schickt an euch
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 664 780	Macht er Photos, Videos, beschreibt er etwas in dem er hineinredet oder markiert er auf einer Map schwierige Stellen
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 907 1003	Bei den Funktionalitäten wäre es vielleicht einfacher wenn du sie ein wenig beschreiben würdetst
+T8	Claim 1005 1145	Bei den Zielgruppen könnest du vielleicht noch junge Menschen dazunehmen, die viel unterwegs sind und ihr Handy ja sowieso immer dabei haben
+T9	Premise 1147 1338	Mit einer coolen MarketingKampagne könnte man junge Leute, die sonst ihre Zeit mit Snapchat oder Instagram verbringen, vielleicht dazubringen diese Snaps oder posts für deine Apps einzusetzen
+R4	supports Arg1:T9 Arg2:T8	

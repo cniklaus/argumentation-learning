@@ -1,0 +1,2 @@
+review698
+Hallo, die Zielbestimmung der Softwarelösung hast du bereits gut herausgearbeitet. auch den Softwareeinsatz hast du verständlich erläutert. brauchst du nicht noch einen Schritt, in welchem Mitarbeiter die neuen Informationen auf ihre Korrektheit überprüfen? Diese Funktion sollte auch programmiert werden. ansonsten würde ich an deiner Stelle noch einmal über die gesamte Lösung schauen. Ab und zu hast du kleine grammatikalische Fehler.Nichts grosses, aber es wäre schade, wenn deine gute Lösung wegen diesen Fehlern eine schlechtere Note bekommt.

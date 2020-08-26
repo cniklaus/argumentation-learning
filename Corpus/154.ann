@@ -1,0 +1,33 @@
+T1	Premise 18 77	Sehr detaillierter und klar verständlicher Leistungsprozess
+T2	Premise 79 122	Interessantes Geschäftsmodell mit Potential
+T3	Claim 124 166	Beste Einreichung, die ich reviewen durfte
+R1	supports Arg1:T2 Arg2:T3	
+R2	supports Arg1:T1 Arg2:T3	
+T4	Claim 201 318	Beim Punkt Einkaufsliste kontrollieren fehlt mir ein Punkt falls nicht in Ordnung weil zu teuer, zu grosse Menge etc.
+T5	Premise 320 337	Was passiert dann
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 339 390	Hat der Kunde die Möglichkeit ein Feedback zu geben
+R4	supports Arg1:T6 Arg2:T4	
+T7	Premise 392 466	Das scheint mir ein sehr relevanter Punkt für dein Geschäftsmodell zu sein
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 473 553	nur durch Kundenfeedback kann die Leistung für den Kunden auch verbessert werden
+R6	supports Arg1:T8 Arg2:T7	
+T9	Premise 555 675	Du könntest den Schritt Feedback geben einbauen und dann den Pfeil wie schon gehabt zurück zu den Neubestellungen ziehen
+R7	supports Arg1:T8 Arg2:T9	
+R8	supports Arg1:T7 Arg2:T9	
+R9	supports Arg1:T9 Arg2:T4	
+T10	Claim 677 773	Ich würde nach den Schritt RoutineProdukte identifizieren direkt nach der Einkaufsabfrage setzen
+T11	Premise 774 870	Dort entscheidet sich doch, welche Produkte zum NeuEinkauf und welche zum RoutineEinkauf gehören
+T12	Premise 872 960	Und dann ein Parallele Aufgabep, um den NeuEinkauf und den RoutineEinkauf durchzuspielen
+R10	supports Arg1:T12 Arg2:T11	
+R11	supports Arg1:T11 Arg2:T10	
+T13	Claim 1117 1159	Dies würde ich irgendwie noch kennzeichnen
+T14	Premise 978 1055	Wie ist es für Food Butler möglich, die Neueinkäufe automatisch durchzuführen
+T15	Premise 1057 1089	Braucht es hierzu nicht Menschen
+T16	Premise 1091 1115	Oder zumindest am Anfang
+R12	supports Arg1:T16 Arg2:T15	
+R13	supports Arg1:T15 Arg2:T14	
+R14	supports Arg1:T14 Arg2:T13	
+T17	Claim 1161 1200	Rezepte vorschlagen würde ich weglassen
+T18	Premise 1205 1267	es mir nicht die Kernkompetenz von Food Butler zu sein scheint
+R15	supports Arg1:T18 Arg2:T17	

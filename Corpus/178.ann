@@ -1,0 +1,10 @@
+T1	Claim 15 87	Du hast die Aufgabe ausführlich gelöst und grossteils korrekt verstanden
+T2	Claim 89 127	Du hast deine Angaben gut strukturiert
+T3	Claim 151 337	Bei der Zielgruppe würde ich die Erwartungen der Kunden an die Software eventuell kurz skizzieren und unteranderen die Anforderung Die Webplattform muss von Anfang an betriebsbereit sein
+T4	Premise 339 380	aus dem Themenblock Termin dort eintragen
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 382 472	Die Einordnung der Blöcke Termine und Personal unter Anwendungsbereich ist nicht ganz klar
+T6	Premise 474 537	Sind dies Inhalte des Anwendungsbereichs oder separate Elemente
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 539 644	Hier würde ich entweder Termine einer der beiden anderen Blöcke zuordnen oder die Struktur ganz verändern
+R2	supports Arg1:T5 Arg2:T7	

@@ -1,0 +1,9 @@
+T1	Claim 67 117	Deine Geschäftsfeldbeschreibung finde ich sehr gut
+T2	Claim 119 167	Allgemein wurden alle Punkte ausführlich erklärt
+T3	Claim 169 268	Vor allem die qualitative Beschreibung ist sauber argumentiert und basieren auf plausiblen Annahmen
+T4	Claim 478 637	Ich wurde bei der Abgrenzung des Geschäftsfeldes die Marktleistung besser Erklären bzgw. was in scope / out of scope ist deutlicher machen Frontend vs. Backend
+T5	Claim 655 718	Ich dir empfehlen die Preispolitik etwas konkreter zu erläutern
+T6	Premise 724 760	Bezahlt der Nutzer eine Download fee
+T7	Premise 767 830	werden Erträge über Provisionen für den Ticketverkauf generiert
+R1	supports Arg1:T7 Arg2:T5	
+R2	supports Arg1:T6 Arg2:T5	

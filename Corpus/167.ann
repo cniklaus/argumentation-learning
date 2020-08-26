@@ -1,0 +1,18 @@
+T1	Claim 53 134	Guter Geschäftsmodellbeschrieb, der klar verständlich ausdrückt, was das Ziel ist
+T2	Claim 138 323	Interessante Idee, insbesondere gefällt die weitergehende Betrachtung der Bespannung mit automatisierter Sendung eines Kartons, sodass die Wellbeing Lösung wirklich erreicht werden kann
+T3	Claim 327 373	Sehr gut, dass du die Produktionshallen nennst
+T4	Premise 378 528	diese eine wichtige Komponente Facility darstellen und es somit klar wird, dass die Bespannung ebenfalls von deinem Unternehmen ausgeführt werden soll
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 533 583	Hochstehende Diskussion mit Nennung aller Konzepte
+T6	Premise 631 802	Anmerkung Könnte evtl. auch gerade ein Übergangsracket in dem spezifischen RacketKarton zugesandt werden, sodass der Tennisspieler während der Bespannung nicht warten muss
+T7	Claim 806 884	Müsste dann auch noch angemerkt werden beim Prozess Karton dem Kunden zusenden
+R2	supports Arg1:T6 Arg2:T7	
+T8	Claim 908 1002	fehlt noch ein Prozessschritt, welcher im Background abläuft, der die Pushmeldung symbolisiert
+T9	Premise 1004 1079	Es wird durch den Beschrieb klar, doch in der Modellierung nicht aufgezeigt
+R3	supports Arg1:T9 Arg2:T8	
+T10	Claim 1083 1155	Bei der Bespannung auswählen, würde ich sagen Bespannungsmarke auswählen
+T11	Premise 1160 1249	die optimale Spannhärte soweit ich es verstanden habe automatisch vom App übernommen wird
+R4	supports Arg1:T11 Arg2:T10	
+T12	Claim 1326 1644	Überlegung des Zusendens eines Ersatzrackets für die Bespannungsdauer Kostenfrage, Prozesschritt der Pushnachricht, welche vom System ausgelöst wird, aber einen wichtigen Bestandteil darstellt und evtl. noch marginale Änderung des Namens des Prozesses Bespannung via App auswählen in Bespannungsmarke via App auswählen
+T13	Premise 1649 1744	der Kunde seine gewünschte Spannhärte mit Untergrenze ja bereits im Kundenprofil hinterlegt hat
+R5	supports Arg1:T13 Arg2:T12	

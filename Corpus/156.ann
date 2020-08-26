@@ -1,0 +1,25 @@
+T1	Claim 54 149	du den Prozess bzw. die einzelnen Prozessschritte schön aufgestückelt und klar dargestellt hast
+T2	Claim 151 225	Die Aufteilung von Makro und Mikroebene finde ich ebenfalls eine gute Idee
+T3	Claim 323 387	würde ich die Lösung noch schnell von jemanden durchlesen lassen
+T4	Premise 392 451	die grammatikalischen Fehler den Lesefluss doch sehr stören
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 475 534	Ich finde die Aufteilung in Kunde  Snapwish  Modehäuser gut
+T6	Premise 536 656	Jedoch wäre zu überlegen, ob nicht anstatt Modehäuser, OnlineKleiderShops eher involivert sind als direkt die Modehäuser
+R2	attacks Arg1:T6 Arg2:T5	
+T7	Claim 657 802	Ich glaube die Kreise am Anfang und Ende des Prozesses sowie die Zylinder entsprechen nicht der vorgegebenen Notation des Aufgabenkettendiagramms
+T8	Claim 940 1003	müsste es dann entweder ein und oder eine oder Verbindung haben
+T9	Premise 804 876	Schau dir doch nochmal die Notationsweise in den Vorlesungsunterlagen an
+T10	Premise 877 917	Von Foto schiessen gehen zwei Pfeile weg
+R3	supports Arg1:T10 Arg2:T9	
+R4	supports Arg1:T9 Arg2:T8	
+T11	Premise 1005 1048	Ansonsten dürfen nicht zwei Pfeile weggehen
+T12	Premise 1053 1082	der Ablauf so nicht klar wird
+R5	supports Arg1:T12 Arg2:T11	
+R6	supports Arg1:T11 Arg2:T8	
+T13	Claim 1083 1234	Warenversand vorbereiten oder zumindest Warenversand sind nicht computerunterstützte Aufgaben und müssten entsprechend dargestellt werden kein Rechteck
+T14	Claim 1235 1308	Beim Kettendiagramm in der MakroEbene fehlt die Nummerierung der Schritte
+T15	Premise 1310 1412	Auf der MikroEbene hast du diese schön beschriftet, ich würde das selbe noch für die MakroEbene machen
+R7	supports Arg1:T15 Arg2:T14	
+T16	Claim 1413 1492	Für mich fehlt noch ein wesentlicher Punkt die Rechnungsstellung bzw. Abrechung
+T17	Premise 1494 1639	Dies müsste man allenfalls noch draufnehmen oder aber erwähnen, dass hier nur die Teilprozesse der Produktsuche und bestellung dargestellt werden
+R8	supports Arg1:T17 Arg2:T16	

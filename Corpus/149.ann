@@ -1,0 +1,23 @@
+T1	Claim 17 88	Die Kurzbeschreibung ist gut, es wird einem schnell klar um was es geht
+T2	Claim 89 195	Du hast dir viele Gedanken zu den einzelnen Schritten gemacht und den Prozess sehr detailliert dargestellt
+T3	Claim 229 287	Leider verliert der Prozess ein wenig an Übersichtlichkeit
+T4	Premise 292 330	du ihn so detailliert dargestellt hast
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 332 382	Der zentrale Prozess wird in den Schatten gestellt
+T6	Claim 383 485	Die Unterteilung des Geschäfts in Marketing und Rechnungswesen wirkt ein wenig gesucht und überflüssig
+T7	Claim 487 547	Wieso hast du nicht die Dienstleister und Partner integriert
+T8	Premise 549 604	Dann würden gewisse Prozesse evt. auch mehr Sinn machen
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 605 701	Mir ist der Prozess des Kunden nicht ganz klar, bucht er bei einem konkreten Partner/Unternehmen
+T10	Premise 703 752	Dann macht die Preisgestaltung einigermassen Sinn
+R3	supports Arg1:T10 Arg2:T9	
+T11	Claim 754 805	Hat der Kunde keine Möglichkeit Offerten einzuholen
+T12	Premise 807 920	Jede Wohnung hat ja eine andere Grösse, jeder Kunde hat andere Möbel vielleicht ist er im Besitz von einem Flügel
+R4	supports Arg1:T12 Arg2:T11	
+T13	Claim 921 996	as für Formulare werden dem Kunden versendet, was für einen Zweck haben die
+T14	Claim 997 1084	Du analysierst das Feedback des Kunden, dass er eines abgeben soll wird aber nicht klar
+T15	Premise 1086 1155	Nur die Formulare leiten zum Feedback, jedoch keine Aktion des Kunden
+R5	supports Arg1:T15 Arg2:T14	
+T16	Claim 1216 1270	Gibt es keine Aktion die den Schluss besser beschreibt
+T17	Premise 1155 1214	Dieser runde Kreis am Schluss was soll der genau darstellen
+R6	supports Arg1:T17 Arg2:T16	

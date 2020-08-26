@@ -1,0 +1,13 @@
+T1	Claim 10 24	Grandiose Idee
+T2	Premise 26 66	Insbesondere die Integration in das Navi
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 108 180	Du hast schön aufgezeigt, welchen Teilprozess du genau abbilden möchtest
+T4	Claim 192 296	stimmen die Kästchen, Pfeile, Linien und Ebenen von der Darstellung als auch von der Logik her wunderbar
+T5	Claim 298 371	Deine Lösung ist über den aufgezeigten Teilprozess zudem gut verständlich
+T6	Claim 430 574	Ich frage mich ob Kreditwürdigkeit prüfen nicht eher auch ein Prozess an sich wäre d.h. so dargestellt wie ganz am Schluss Tankprozess freigeben
+T7	Claim 576 635	Peanuts der eine Pfeil scheint ein wenig verrutscht zu sein
+T8	Premise 636 692	es gibt ja immer Ästheten unter den später Beurteilenden
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 695 895	Willst du im aufgezeigten Prozess vielleicht ganz zu Beginn noch einen Schritt mehr einbauen d.h., dass vor dem Übermittlung Tankstellensuchanfrage noch irgendwas kommt wie Kunde öffnet App oder sowas
+T10	Premise 909 1003	dann hättest du den Prozess wirklich schön von Anfang bis Schluss schön trennscharf aufgezeigt
+R3	supports Arg1:T10 Arg2:T9	

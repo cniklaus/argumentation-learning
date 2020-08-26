@@ -1,0 +1,19 @@
+T1	Claim 15 100	Deine Lösung sieht gut aus und die wichtigen Punkte der Aufgabenstellung sind erfüllt
+T2	Premise 102 193	Aufgabe 3 greift Aufgabe 1 auf Funktionalitäten unterstreichen die Ziele der Softwarelösung
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 195 269	Ich finde zudem gut, dass du auch die Mitarbeiter bei Punkt 2 erwähnt hast
+T4	Premise 269 389	musste ich bei den anderen zu bewertenden Lösungen kritisieren und bei Punkt 3 nach Kunde und Backoffice unterteilt hast
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 391 432	Für mich gibt es nicht viel zu verbessern
+T6	Premise 434 473	Du könntest Punkt 2 noch etwas ausbauen
+T7	Premise 475 590	Ich kenne die genauen Ausprägungen deiner Unternehmung nicht, aber du hier eventuell noch weitere Akteure aufführen
+T8	Premise 595 634	du ja bereits den Kundendienst erwähnst
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 636 698	Gibt es beispielsweise eine Marketingabteilung in deiner Firma
+R5	supports Arg1:T9 Arg2:T7	
+T10	Premise 700 797	Was ist mit der Führungsebene für die Suche von Investoren müssen auch sie die Software verstehen
+T11	Claim 800 850	hier könntest du deine Lösung noch weiter ausbauen
+R3	supports Arg1:T7 Arg2:T6	
+R6	supports Arg1:T10 Arg2:T6	
+R7	supports Arg1:T6 Arg2:T11	
+T12	Claim 851 874	Ansonsten alles bestens

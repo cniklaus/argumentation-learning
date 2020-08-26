@@ -1,0 +1,21 @@
+T1	Claim 68 165	Dein Einleitungstext ist sehr gelungen und es wird schnell klar, um was es bei deiner Lösung geht
+T2	Claim 173 257	finde ich an deiner Lösung spannend, dass du deine Zielgruppe um Wanderer erweiterst
+T3	Premise 259 339	So machst du automatisch die Zielgruppe grösser und somit die Lösung attraktiver
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 431 494	Grundsätzlich könntest gewisse Begriffe etwas genauer ausführen
+T5	Premise 511 568	sprichst du bei der Zielbestimmung der Software von Daten
+T6	Premise 570 703	Eine kurze Auflistung oder eins bis zwei Beispiele würden hier dem Leser sicher helfen, die Ziele der Applikation besser zu verstehen
+R2	supports Arg1:T6 Arg2:T5	
+R3	supports Arg1:T5 Arg2:T4	
+T7	Premise 712 749	beschreibst du die tägliche Benutzung
+R4	supports Arg1:T7 Arg2:T4	
+T8	Premise 751 870	Es würde sicherlich helfen, wenn du genauer ausführst, ob Daten tagesaktuell oder in Echtzeit aufbereitet werden sollen
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 872 921	Einen Punkt habe ich zudem nicht genau verstanden
+T10	Premise 922 1042	Du sprichst von der Kompabilität der Daten mit iOS und Android Geräten, beschreibst aber die Backendlösung exklusive App
+T11	Claim 1044 1135	Evtl. kannst du den Punkt noch etwas genauer umschreiben, damit er besser verständlich wird
+R6	supports Arg1:T10 Arg2:T9	
+R7	supports Arg1:T9 Arg2:T11	
+T12	Claim 1276 1307	Insgesamt eine spannende Lösung
+T13	Claim 1309 1469	Ich denke, du könntest den Leser noch ein bisschen besser abholen, wenn du die oben genannte Punkte beachtest und den einen oder anderen Punkt etwas präzisierst
+T14	Claim 1471 1597	Du hast zudem noch einige Schreibfehler im Text bspw. weclhe, Tastature, Spracherkennund, ..., die du noch verbessern könntest

@@ -1,0 +1,20 @@
+T1	Claim 52 100	finde dein Diagramm nachvollziehbar und deutlich
+T2	Premise 102 130	Jeder Schritt wurde überlegt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 173 230	Vielleicht könnte man die Schritte 2a.1 und 2a.2 vereinen
+T4	Claim 282 347	Sollten die Schritte 2b.1 und 2b.4 nicht eine Kundenleistung sein
+T5	Premise 349 413	Wenn ich es mir ansehe, sehe ich es als Leistung von Food Butler
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 414 475	Auf Seite 3 nimm die letzten Schritte des Diagramms mit rüber
+T7	Premise 477 498	Dies machts einfacher
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 499 560	Sollte der Prozess Kochen nicht ausserhalb des Diagramms sein
+T9	Premise 562 623	Sowie auf der Vorlesungsfolien der Prozess Fzg instand setzen
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 624 684	Ich würde noch eine Aufgabe Einkaufsliste speichern einfügen
+T11	Premise 686 736	Dies machts einfacher dann für die Routineeinkäufe
+R5	supports Arg1:T11 Arg2:T10	
+T12	Premise 738 781	Einfach das Gleiche kaufen wie letzte Woche
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 782 854	Wieso gibt es bei a. eine Aufgabe Bestellzeit errechnen und bei b. nicht
+T14	Premise 856 903	Beide Prozesse müssen die Bestellzeit errechnen

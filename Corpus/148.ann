@@ -1,0 +1,11 @@
+T1	Claim 24 63	Sehr gute Beschreibung des Unternehmens
+T2	Claim 64 156	Sehr saubere Modellierung die Notation des Aufgabenkettendiagramms wurden sehr gut umgesetzt
+T3	Claim 158 175	Logischer Prozess
+T4	Claim 185 226	Finde den Kundenprozess etwas überflüssig
+T5	Premise 231 263	kein klar ersichtlicher Mehrwert
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 288 332	Ich würde den Teil mit dem Kunden rausnehmen
+T7	Premise 337 382	es das Diagramm unnötig unübersichtlich macht
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 404 547	eine Dienstleistung gebucht wird, ist bereits daran erkennbar, dass es sich um das Prozess Dienstleistung erbringen für das Unternehmen handelt
+R3	supports Arg1:T8 Arg2:T7	

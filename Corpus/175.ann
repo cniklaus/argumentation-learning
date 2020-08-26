@@ -1,0 +1,11 @@
+T1	Claim 10 111	Grundsätzlich kann ich wirklich nicht verstehen, wie du die Aufgabe als WordDokument hochladen kannst
+T2	Premise 114 342	In der Vorlesung wurde nun schon unzählige Male erwähnt, dass die Aufgaben als PDF hochzuladen sind, es wurde sogar extra eine Mail versendet, um nochmals darauf hinzuweisen und es steht in jeder Aufgabenstellung klar formuliert
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 583 618	Die Aufgabe wurde ansonsten erfüllt
+T4	Claim 619 796	Ich würde mir noch überlegen, ob du nicht noch ergänzend die Möglichkeit einführen möchtest, dass Kunden gewisse Themenbereiche angeben können, für welche Sie sich interessieren
+T5	Premise 804 911	PremierLeagueFussball, Präsidentschaftswahl in den USA, Bundesratswahlen in der Schweiz, Klimaerwärmung  IS
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 912 1022	Auslagerungen der AppEntwicklung und des Bezahlservices haben nichts mit der Stille des Kundenprozesses zu tun
+T7	Premise 1024 1177	Diesen Prozess kannst du nur stiller machen, wenn bestehende Kundeninteraktion so umgestaltet werden kann, dass der Kunde nachher nicht mehr tangiert ist
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 1178 1317	Die Zahlungsabwicklung fehlt momentan noch komplett in dem Blueprint, was aber definitiv als Schnittstelle zum Kunden angesehen werden muss
