@@ -1,0 +1,11 @@
+T1	Claim 11 59	Der VPC ist vollständig und schlüssig ausgefüllt
+T2	Premise 61 126	Inner kürze konnte ich nachvollziehen was das Geschäftsmodell ist
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 133 169	Pains und Gains sind nachvollziehbar
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 171 272	Was mir noch nicht ganz schlüssig ist, inwiefern der Aufwand für den Veranstalter wirklich tiefer ist
+T5	Claim 274 370	Evtl. könnte auch überlegt werden, wie zusätzliche Gains durch das System gewonnen werden können
+R3	attacks Arg1:T4 Arg2:T1	
+T6	Premise 378 489	Analyse der Besucher nach Alter und Interessen durch Verknüpfung mit Facebook oder andere Analysen über die App
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 491 678	Ich würde noch einmal die Customer Jobs betrachten und überlegen, ob es noch weitere Pains gibt welche in der jetzigen Situation bestehen welche anschliessend einfach gelöst werden können

@@ -1,0 +1,10 @@
+T1	Claim 13 88	Beim Customer Jobs wurden die Bedürfnisse des Kunden gut und klar dargelegt
+T2	Claim 90 136	Pains und Gains sind ebenfalls gut beschrieben
+T3	Claim 143 192	die anderen 3 Punkte sind logisch nachvollziehbar
+T4	Claim 194 252	Die jeweiligen Segmente matchen grösstensteils miteinander
+T5	Claim 255 375	Ausformulierung eines genauen und separaten Wertversprechen  wie in der Aufgabenstellung vorgesehen  wurde nicht gemacht
+T6	Claim 376 542	Bei den Customer Jops hätte ich mir noch Stichwort gewünschte, welche nicht nur die Bedürfnisse des Kunden aufzeigen, sondern auch genau deren Aktivitäten beschreiben
+T7	Premise 544 588	Wo suchen sie, wo informieren sie sich, etc.
+R1	supports Arg1:T7 Arg2:T6	
+T8	Claim 591 648	Unbedingt noch separat das Wertversprechen ausformulieren
+T9	Claim 660 717	bei den Customer Jobs noch  wie unter 2 erwähnt  ergänzen

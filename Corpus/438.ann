@@ -1,0 +1,47 @@
+T1	Claim 13 74	Die Abgabe ist vollständig und die Aufgaben wurden gut gelöst
+T2	Premise 76 190	Die Darstellung des Kundenprozesses beschränkt sich zwar auf das Wesentliche, ist aber deswegen sehr übersichtlich
+T3	Premise 192 331	Die Textbeschreibung hilft zudem, die zugrundeliegende Dienstleistung, sowie die sich daraus ergebende Customer Journey besser zu verstehen
+R1	supports Arg1:T3 Arg2:T1	
+R2	supports Arg1:T2 Arg2:T1	
+T4	Premise 332 390	Die ComicDarstellung des Storyboards finde ich gut gewählt
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 392 492	Es kann dadurch leicht nachvollzogen werden, wie der Kundenprozess und die Customer Journey ablaufen
+R4	supports Arg1:T5 Arg2:T4	
+T6	Premise 500 595	finde ich auch hier die Textbeschreibung kurz, aber prägnant und deswegen sehr gut verständlich
+R5	supports Arg1:T6 Arg2:T1	
+T7	Claim 598 721	Der erste Kritikpunkt bezieht sich auf den scheinbar vorhandenen Anspruch der App, alle möglichen Funktionen zu integrieren
+T8	Premise 723 863	Ein Beispiel dafür ist die Aussage Die App ist dabei proaktiv und gibt dem Reisenden alle Informationen für und rund um die Reise mit dem ÖV
+R6	supports Arg1:T8 Arg2:T7	
+T9	Premise 865 946	Die Fragen, die sich mir hier stellen sind dabei Welches sind diese Informationen
+R7	supports Arg1:T9 Arg2:T8	
+T10	Premise 948 1026	Wünscht sich der Kunde wirklich alle Informationen über seine Reise mit dem ÖV
+R8	supports Arg1:T10 Arg2:T8	
+T11	Premise 1028 1111	Nach welchem Prinzip werden die Informationen ausgewählt und dem Kunden präsentiert
+R9	supports Arg1:T11 Arg2:T8	
+T12	Premise 1119 1200	finde ich, dass absolute Aussagen wie alle Informationen vermieden werden sollten
+R10	supports Arg1:T12 Arg2:T8	
+T13	Premise 1202 1275	Dies zeigt sich auch im nächsten Satz mit Der Kunde sind somit alle Leute
+R11	supports Arg1:T13 Arg2:T7	
+T14	Premise 1280 1446	Es sollte hier meiner Meinung nach viel eher heissen die potenzielle Kundschaft besteht aus Allen, welche regelmässig mit dem ÖV reisen und ein Smartphone dabei haben
+R12	supports Arg1:T14 Arg2:T13	
+T15	Claim 1451 1547	Ein weiterer Kritikpunkt in diesem Zusammenhang bezieht sich auf die Privatsphäre der Kundschaft
+T16	Premise 1549 1713	Dadurch, dass die App anzeigen soll, ob und welche Freunde sich im gleichen Zug befinden, frage ich mich, ob das überhaupt wünschenswert und überhaupt zulässig wäre
+R13	supports Arg1:T16 Arg2:T15	
+T17	Claim 1714 1886	Das Storyboard finde ich zwar gut und einfach verständlich, könnte aber meiner Meinung nach noch ein bisschen ausgeführt werden und detailliertere Prozessschritte enthalten
+T18	Premise 1894 2038	ist in der Darstellung des Kundenprozesses als letzter Schritt Kunde kommt am Zielort an aufgeführt, findet sich im Storyboard aber nicht wieder
+R14	supports Arg1:T18 Arg2:T17	
+T19	Premise 2050 2108	diese Ergänzung würde ich für die zweite Version vornehmen
+R15	supports Arg1:T19 Arg2:T18	
+T20	Claim 2109 2168	Ein weiterer Kritikpunkt bezieht sich auf die Umsetzbarkeit
+T21	Premise 2170 2282	Im vierten Bild des Storyboards ist erkennbar, dass die App anzeigen soll, wo im Zug freie Plätze zu finden sind
+T22	Premise 2284 2397	Damit dies funktioniert müsste eine Kooperation mit dem Zughersteller bzw. Ausstatter des Interieurs gegeben sein
+R16	supports Arg1:T22 Arg2:T21	
+T23	Premise 2399 2482	Es ist meiner Meinung nach fraglich, ob man von dieser Zusammenarbeit ausgehen kann
+R17	supports Arg1:T23 Arg2:T22	
+T25	Claim 2573 2600	Absolute Aussagen vermeiden
+T26	Claim 2602 2666	Genau ausführen, welche Informationen zur Reise angegeben werden
+T27	Premise 2671 2778	könnte man sich zum Beispiel auf die verbleibende Reisedauer, den nächsten Umsteigebahnhof etc. beschränken
+T28	Claim 2779 2945	Beschreibung der Kundschaft ändern in beispielsweise die potenzielle Kundschaft besteht aus Allen, welche regelmässig mit dem ÖV reisen und ein Smartphone dabei haben
+T29	Premise 2949 3041	Zumindest den letzten Prozessschritt des Ankommens am Zielbahnhof in das Storyboard einfügen
+T30	Claim 3046 3099	Umsetzbarkeit der einzelnen Ideen nochmals überprüfen
+R18	supports Arg1:T27 Arg2:T26	

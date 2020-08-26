@@ -1,0 +1,18 @@
+T1	Claim 71 166	Es handelt sich um eine relativ umfangreiche Auflistung der einzelnen Schritte im Kundenprozess
+T2	Premise 174 237	ist die Aufteilung in PRE DURING und POSTProzesse sehr sinnvoll
+T3	Premise 244 330	die optische Darstellung ist gut gewählt, die jeweiligen Icons passen zu den Schritten
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 429 577	Der Kundenprozess ist auf den Folien etwas chaotisch dargestellt, hier würde ich einen Kreislauf wählen um die Schritte übersichtlicher zu gestalten
+T5	Premise 581 746	Beim Betrachten des Kundenprozesses scheint es, als ob lediglich auf eine Zusatzfunktion von Nutreno eingegangen wird und diese Funktion mit dem Sensor zusammenhängt
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 748 899	Falls dies nicht so gemeint ist, würde ich den Schritt Nimmt Notiz von Zusatzfunktion weglassen und wirklich nur auf die Hauptfunktion der App eingehen
+R4	supports Arg1:T6 Arg2:T4	
+T7	Claim 901 1059	Es ist nicht ganz klar, was dieser Sensor genau kann und wieso schlussendlich auch der Experte konsultiert werden soll  hier würde eine Ausführung Sinn machen
+T8	Claim 1207 1310	Es wäre hilfreich, einen kurzen Text zu haben, welcher einfach erklärt um was es bei der Anwendung geht
+T9	Premise 1312 1376	Alternativ kann man auch die einzelnen Schritte genauer erklären
+R5	attacks Arg1:T9 Arg2:T8	
+T10	Claim 1378 1441	Bei der Überarbeitung auf Tippfehler achten Suche anstatt Sucht
+T11	Premise 1446 1484	dies den Sinn des Prozesses verfälscht
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 1486 1685	Auch würde ich die Formulierung von der 3. Person Präsens ins Infinitiv wechseln anstatt Bekommt Ernährungs und Menuvorschläge neu Erhalt von auf Kunden angepasste Ernährungs und Menuvorschlägen etc.

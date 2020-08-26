@@ -1,0 +1,16 @@
+T1	Claim 11 105	Die Geschäftsmodellidee ist grundsätzlich gut und beinhaltet einen Vereinfacher für den Alltag
+T2	Claim 107 216	Leider fehlt im Dokument das ausformulierte Wertversprechen, weshalb die Idee nicht gänzlich verständlich war
+T3	Premise 222 293	was für eine Vernetzung muss ich mir unter super simple tech vorstellen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 295 350	Die products  services treffen auf die customer jobs zu
+T5	Claim 357 456	die pain relievers passen gut zu den pains  das Problem der Überforderung durch Technik wird gelöst
+T6	Claim 463 566	sind die gains gut durchdacht es wäre das Ziel, dass die Technik auch das Leben der Älteren erleichtert
+T7	Claim 568 658	Nicht ganz klar sind mir jedoch die gain creators bzw. sie wurden nicht optimal formuliert
+T8	Premise 660 835	Wenn nicht auf Technik verzichtet werden muss, wie dies im Text steht, ist das eher ein pain reliever als ein gain creator  es eliminiert ja einen Schmerz nämlich den Verzicht
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 836 915	Bei products  services habe ich beim Punkt der KonfigurationsApp meine Bedenken
+T10	Premise 917 1119	Eine App ist für diejenigen Personen, die mit z.B. mit einem TouchscreenKochfeld überfordert sind, wohl zu schwierig  auch wenn es einen virtuellen Assistenten, einen Live Chat und Erklärungsvideos gibt
+R3	supports Arg1:T10 Arg2:T9	
+T11	Premise 1121 1257	Für mich stellt sich die Frage, ob man den Menschen die Arbeit mit dieser Lösung tatsächlich abnimmt, oder aber mehr Komplexität schafft
+R4	supports Arg1:T11 Arg2:T9	
+T12	Claim 1258 1478	Für die Überarbeitung würde ich Folgendes vorschlagen evtl. Wertversprechen, analog den Vorlesungsunterlagen LE2, ausformulieren Überdenken der Gain Creators es bräuchte vielleicht eine einfachere Alternative für die App

@@ -1,0 +1,11 @@
+T1	Claim 16 148	Ich finde deine Lösung sehr übersichtlich gestaltet, vor allem weil du das Storyboard in die drei verschiedenen Teile aufgeteilt hat
+T2	Premise 150 337	Ich sah bei einigen Kollegen das Problem, dass sie nicht wussten, wie sie zwei Parteien auf einer Plattform in einem Storyboard darstellen sollten  du hast dies jedoch sehr elegant gelöst
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 339 427	Sehr detaillierte und anschauliche Zeichnungen, welche grössenteils selbsterklärend sind
+T4	Claim 429 490	Kundenprozesse sind sehr klar und nachvollziehbar dargestellt
+T5	Premise 512 583	du logisch zusammengehörende Aktivitäten untereinander aufgelistet hast
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 608 741	Die Kundenprozesse würde ich noch etwas genauer darstellen d.h. SubProzesse beschreiben oder die einzelnen Punkte länger ausschreiben
+T7	Claim 742 1050	Beim Anbieter fehlt noch die Leistungserbringung, sowie die Datenanalyse nach der Leistungserbringung als Strukturierungshilfe würde ich Pre/During/PostPhasen verwenden Die einzelnen Prozessschritte für das ServeUp Backoffice aus Sicht des Anbieters hätte würde ich noch ein bisschen detaillierter darstellen
+T8	Premise 1055 1120	dies ja eigentlich den gesamten Mehrwert für den Anbieter kreiert
+R3	supports Arg1:T8 Arg2:T7	

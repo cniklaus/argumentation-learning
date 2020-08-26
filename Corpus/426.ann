@@ -1,0 +1,31 @@
+T1	Claim 18 146	Die Lösung bietet für den Kunden die Vereinfachung durch das automatische Bestellen und Liefern von seinen gewünschten Produkten
+T2	Premise 148 198	Wöchentliche, stressige Einkaufstouren bleiben aus
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 200 242	Der Vorteil liegt auch bei den Unternehmen
+T4	Premise 247 294	sie schneller und vorzu Produkte liefern können
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 304 405	Es ist nicht ganz klar, wie der Kühlschrank diese Daten erfasst über Chip, Strichcode, Positionierung
+T6	Premise 407 475	Gerade wie viel Milch vorhanden sein soll 200ml ist mir schleierhaft
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 477 590	Das benötigt sehr viele Sensoren, intelligente Systeme, was zu heutiger Zeit grosse Investitionen benötigen würde
+R4	supports Arg1:T7 Arg2:T5	
+T8	Claim 592 737	Die Partnerschaft muss mit einem guten Kühlschrankhersteller geschlossen werden wo allerdings die Gefahr läuft, dass er selbst ein App entwickelt
+T9	Premise 742 814	er sowieso selbst der Kühlschrank produziert und dadurch unabhängig wird
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 816 907	Selbst von Beginn weg ganze Kühlschrankkompetenzen aufzubauen scheint unrealistisch zu sein
+T11	Premise 909 972	Die Idee ist nicht ganz neu und wird oft als Beispiel verwendet
+T12	Premise 973 1025	Die Idee geht von einem konstanten Lieferservice aus
+T13	Premise 1027 1156	Man muss beachten, dass gerade Kühlwaren nicht vor die Tür gestellt werden können und entsprechend entgegengenommen werden müssen
+R6	supports Arg1:T11 Arg2:T10	
+R8	supports Arg1:T13 Arg2:T12	
+T14	Premise 1158 1242	Es braucht daher ein Konzept, welches auch bei Abwesenheiten des Kunden funktioniert
+R7	supports Arg1:T12 Arg2:T14	
+R9	supports Arg1:T14 Arg2:T10	
+T15	Premise 1246 1272	er auch noch arbeiten muss
+R10	supports Arg1:T15 Arg2:T14	
+T16	Claim 1301 1341	Die Partner müssen gut ausgewählt werden
+T17	Claim 1356 1410	muss evaluiert werden, ob das Projekt so umsetzbar ist
+T18	Claim 1412 1483	Ein Mobilitätskonzept sowie aus der Sicht der Technologie ist zu prüfen
+T19	Claim 1485 1561	Man muss sich überlegen, ob durch das Konzept nicht neue Pains entstehen wie
+T20	Premise 1567 1663	fälschlicherweise neu bestellte Milch, obwohl man noch 6 Packung Tetrapack im Vorratsschrank hat
+R11	supports Arg1:T20 Arg2:T19	

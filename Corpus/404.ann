@@ -1,0 +1,8 @@
+T1	Claim 70 467	Value proposition sehr verständlich formuliertValue propositionProblem benannt und quantifiziertValue propositionBenefits herausgestelltValue propositionProdukt/Service welches verkauft wird benanntValue propositionVorteile ggü Wettbewerbern dargestelltValue propositionZielgruppe der angebotenen Lösung dargestelltValue Proposition Canvas Punkte stichwortartig und somit übersichtlich dargestellt
+T2	Claim 560 701	Value Proposition CanvasSchneesport ist teuer und Wettersicherheit ist nicht gegeben beim Schneesport ich als Pain und nicht als Customer Job
+T3	Claim 766 932	Value propositionBeispielhafte Einsparungen könnte gezeigt werdenValue proposition Nicht ganz klar wie hohe Lohnkosten bei unabhängigen Anbieter gesenkt werden können
+T4	Premise 934 976	Warum sind unabhängigen Anbieter günstiger
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 980 1140	ErklärenValue Proposition Canvas BeiCustomer Jobs zusätzliche Punke Gute Ausbildung, Spass, Lehrer der meine Sprache spricht Englisch, Chinesisch, Russisch etc.
+T6	Premise 1143 1231	Lösung unabhängiger Anbieter könnte seine gesprochenen Sprachen in seinem Profil angeben
+R2	supports Arg1:T6 Arg2:T5	

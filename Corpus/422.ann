@@ -1,0 +1,35 @@
+T1	Claim 20 206	Erste aus drei von mir korrigierten Arbeiten, wo das Wertversprechen noch ausformuliert wurde, jedoch etwas zu kurz, siehe Beispiel in den Vorlesungsslides der zweiten Vorlesung Seite 24
+T2	Claim 208 287	Pains und Gains scheinen die wichtigsten Aspekte des OnlineKaufes zu beinhalten
+T3	Claim 290 346	Pains und Pain Relievers sind aufeinander gut abgestimmt
+T4	Claim 360 492	Stichpunktwortartigkeit ist gut, aber als ein Fremdleser versteht man kaum, was genau unter den jeweiligen Stichpunkten gemeint wird
+T5	Premise 500 573	OnlineShopping ist einbisschen triviale Formulierung für ein Customer Job
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 582 643	er erste Punkt bei Gain Creators ist etwas trivial formuliert
+R2	supports Arg1:T6 Arg2:T4	
+T7	Premise 645 680	Wie genau wird Vertrauen erschaffen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 683 984	ProductsService  dieser Ansatz wird bereits durch mehreren Unternehmen umgesetzt https//play.google.com/store/apps/details?idcom.all.in.one.android  https//play.google.com/store/apps/details?idcom.andromo.dev392427.app418159  https//play.google.com/store/apps/details?idcom.andromo.dev276588.app308783
+T9	Premise 987 1089	Sogar Amazon setzt teilweise dieses Konzept um viele Shops in einem Shop, das gleiche gilt für Alibaba
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 1091 1165	Gleichen Konzept haben Ebookers, Hotels.com, Booking.com und etc. verfolgt
+R5	supports Arg1:T10 Arg2:T8	
+T11	Claim 1174 1336	bei so vielen in Konkurrenz stehenden Online Shops mit ähnlichen Angeboten, wie wird es sichergestellt, dass sie überhaupt über so eine Plattform verkaufen wollen
+T12	Premise 1338 1412	Es wird ja noch stärkeren Preiswettbewerb geben negativ für ShopsBetreiber
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 1424 1546	bei so vielen Online Shops ist es ein immenser rechnerischer Aufwand diese Zusammenzubringen und fortdauernd zu beobachten
+R7	supports Arg1:T13 Arg2:T11	
+T14	Claim 1549 1704	Newsletter sind einer der wichtigsten MarketingInstrumenten für OnlineShops  https//www.shopify.com/blog/9196929whyemailmarketingisthekeytoecommercesuccess
+T15	Claim 1718 1849	Es ist empfehlenswert, das Wertversprechen etwas genauer auszuschreiben und auch mehr Fakten anzugeben, bzw. mehr zu quantifizieren
+T16	Premise 1856 1927	TheOnlineShop würde den Nutzern ermöglichen,um 20 günstiger einzukaufen
+R8	supports Arg1:T16 Arg2:T15	
+T17	Premise 1929 1998	siehe Beispiel in den Vorlesungsslides der zweiten Vorlesung Seite 24
+T18	Claim 2001 2103	Vielleicht einzelne Stichpunkte wie bei Customer Jobs und bei Gain Creators etwas genauer ausschreiben
+R9	supports Arg1:T17 Arg2:T15	
+T19	Premise 2106 2164	Fragwürdig, ob so eine Lösung für alle Shops umsetzbar ist
+T20	Claim 2166 2271	Vielleicht auf ein paar hundert sich zuerst zu begrenzen und auf bestimmte Branche sich zu spezialisieren
+R10	supports Arg1:T19 Arg2:T20	
+T21	Claim 2274 2325	Harte Annahmen mit empirischen Nachweisen begründen
+T22	Premise 2331 2385	Will man tatsächlich keine Newsletter von Online Shops
+T23	Premise 2387 2458	Warum wird Bestellprozess schneller z.B. als bei NetaPorter oder Amazon
+R11	supports Arg1:T22 Arg2:T21	
+R12	supports Arg1:T23 Arg2:T21	

@@ -1,0 +1,23 @@
+T1	Claim 49 171	der Autor eine durchwegs gute Lösung erarbeitet hat, der nur noch der letzte Schliff zu einer echten Assistenzlösung fehlt
+T2	Premise 173 263	Das Verwertungsmodell ist aus der Value Proposition Canvas alleine leider nicht ersichtbar
+T4	Premise 336 379	Auf den Stickern allerdings gut ersichtlich
+T3	Premise 269 334	Die einzelnen Gains werden im Text leider etwas unklar aufgeführt
+T5	Premise 381 450	Der Text dazu könnte etwas klarer auf diese einzelnen Punkte eingehen
+R1	supports Arg1:T2 Arg2:T5	
+R2	supports Arg1:T3 Arg2:T5	
+R3	attacks Arg1:T4 Arg2:T3	
+R4	supports Arg1:T5 Arg2:T1	
+T6	Premise 453 515	Für den Gain Community fehlt aus meiner Sicht der Creator noch
+R5	supports Arg1:T6 Arg2:T1	
+T7	Premise 517 544	Wie soll das genau aussehen
+R6	supports Arg1:T7 Arg2:T6	
+T8	Premise 546 641	Gibt es innerhalb der App eine Community oder wird der Nutzer mit seiner existierenden vernetzt
+R7	supports Arg1:T8 Arg2:T7	
+T9	Premise 645 709	Was ist genau mit extrem intuitiven Modellierungsprozess gemeint
+R8	supports Arg1:T9 Arg2:T6	
+T10	Premise 714 899	Ein weiterer Punkt betrifft die Assistenzfunktion Horus macht den User zum Chefredaktor dann bedient aber immer noch der User die Technik, statt die Technik den User assistiert / dient!
+T11	Premise 900 1092	Aufgrund des Lese, Like und Shareverhalten des Nutzers und das seiner SocialNetworkFreunde, sollte Horus selber den Inhalt zusammenstellen, Artikel vorschlagen und auf relevante News hinweisen
+R9	supports Arg1:T11 Arg2:T10	
+R10	supports Arg1:T10 Arg2:T1	
+T12	Premise 1094 1169	Damit wird er erst zum technischen Diener und eigentlichen WellBeing Lösung
+R11	supports Arg1:T12 Arg2:T11	

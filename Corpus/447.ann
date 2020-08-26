@@ -1,0 +1,15 @@
+T1	Claim 66 191	Das Storyboard zeigt anhand eines praktischen Beispiels, wie der etwas undurchsichtige Kundenprozess genau funktionieren soll
+T2	Claim 281 341	Die einzelnen Schritte des Kundenprozesses sind zu überladen
+T3	Premise 343 469	Dies könnte behoben werden, in dem die einzelnen Schritte besser erklärt werden oder noch 23 Zwischenschritte eingefügt werden
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 479 550	kann die Value Proposition im Kundenprozess besser nachvollzogen werden
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 551 704	Das Storyboard zeigt zwar die einzelnen Schritte gut auf, jedoch könnte an der Ausarbeitung nicht zeichnerisch, aber inhaltlich noch etwas gefeilt werden
+T6	Premise 706 811	Evtl einzelne spezielle Funktionen hervorheben, um dadurch den Mehrwert des Apps noch etwas hervorzuheben
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 949 1005	Auf jeden Fall gilt es den Kundenprozess zu überarbeiten
+T8	Premise 1007 1122	Dies könnte durch das Aufsplittern einzelner Schritt oder durch das Hinzufügen von Zwischenschritten gemacht werden
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1129 1185	wäre ein etwas aussagekräftigeres Storyboard von Vorteil
+T10	Premise 1187 1239	Der Mehrwert der App ist noch nicht ganz ersichtlich
+R5	supports Arg1:T10 Arg2:T9	

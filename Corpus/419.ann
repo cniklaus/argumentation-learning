@@ -1,0 +1,25 @@
+T1	Claim 23 69	Die Idee ist klar dargestellt und verständlich
+T2	Claim 78 230	wird das Bedürfnis der Älteren, sich möglichst lange selbständig zurechtzufinden mithilfe des Geschäftsmodells befriedigt und der Nutzen klar aufgezeigt
+T3	Claim 250 318	Ich sehe Menschen mit Demenz nicht als Zielgruppe von Simple Tech an
+T4	Premise 320 386	Für Menschen mit Demenz gehen oft die einfachsten Dinge nicht mehr
+T5	Premise 393 405	telefonieren
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 410 511	es wäre meiner Meinung nach auch gefährlich, sie direkt als Zielgruppe anzusprechen für diese Technik
+R2	supports Arg1:T4 Arg2:T3	
+R3	supports Arg1:T6 Arg2:T3	
+T7	Premise 519 658	der Vorschlag mit der Kochplatte könnte sehr gefährlich werden, wenn die dementen Personen vergessen, dass die Herdplatte eingeschaltet ist
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 680 840	sind die dementen Personen nicht bloss von der Technik überfordert, sondern einfach allgemein Situationen ausgesetzt, in denen sie sich nicht mehr zurechtfinden
+T9	Premise 850 894	würde ich sie nicht als Zielgruppe aufführen
+R5	supports Arg1:T8 Arg2:T9	
+R6	supports Arg1:T9 Arg2:T3	
+T10	Premise 908 1081	stellt sich mir die Frage, ob die Bedienung eines Smartphones für die Silver Society nicht fast schwieriger ist, als sich mit modernen Haushaltsgeräten auseinander zu setzen
+T11	Premise 1091 1204	stellt sich mir die Frage, ob ein Smartphone das Leben von älteren Menschen nicht eher erschwert, als unterstützt
+T12	Claim 1206 1498	Als Lösung würde ich die App nur für jene Personen anbieten, die bereits Erfahrung mit einem Smartphone haben  je nachdem ist die Zielgruppe dieser App dann jedoch ziemlich eingeschränkt, so dass man eine Analyse machen sollte, ob sich die Entwicklung einer solchen App überhaupt lohnen würde
+R7	supports Arg1:T10 Arg2:T11	
+R8	supports Arg1:T11 Arg2:T12	
+T13	Premise 1532 1692	Als weiteren Pain könnte ich mir vorstellen, dass die älteren Personen zu stolz sind, um Hilfe zu bitten und einfach so lange ausprobieren, bis etwas kaputt ist
+T14	Premise 1694 1754	Sie wollen sich nicht eingestehen, dass sie überfordert sind
+T15	Claim 1756 1900	Als Pain Reliever würde sich daraus dann ableiten, dass die älteren Personen ein besseres Gefühl haben und sich nicht mehr nutzlos fühlen würden
+R9	supports Arg1:T13 Arg2:T15	
+R10	supports Arg1:T14 Arg2:T13	

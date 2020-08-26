@@ -1,0 +1,19 @@
+T1	Claim 10 175	Was mir an diesem Value Proposition Canvas sehr gut gefällt, ist die Tatsache, dass sich der/die Autor/in stark an der WellBeingLösung von Osterwalder orientiert hat
+T2	Premise 177 449	Es wird aufgelistet, dass Komplexität, mühselige Zahlungsabläufe und hoher administrativer Aufwand zu den grossen Pains der Kunden gehören  aus diesem Grund wurde nach einer Lösung gesucht, die genau diese Probleme angeht und eine bequeme und einfache Lösung dafür liefert
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 457 637	erscheint es mir sehr praktisch, dass man auf einen Blick verschiedene Mobilitätsangebote betrachten und dann von dort aus das bequemste/günstigste/praktischste Angebot wählen kann
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 639 779	Die Pains und die Gains wurden sehr schlüssig und nachvollziehbar beschrieben und mir ist klar, welchen Value das Geschäftsmodell vermittelt
+T5	Claim 784 861	Was ich allerdings noch stark ausbauen würde, ist die Kategorie Customer Jobs
+T6	Premise 866 1042	der Kunde gemäss Osterwalder nicht nur einen funktionalen Job also mobil sein, sondern auch emotionale Sicherheit, Wohlgefühl und soziale Macht, Status, Nachhaltigkeit Jobs hat
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 1044 1142	Es gibt bestimmt noch mehr Bedürfnisse des Kunden, also z.B. Bequemlichkeit bei der Mobilität etc.
+R4	supports Arg1:T7 Arg2:T6	
+T9	Premise 1305 1349	Generell sind die Punkte recht kurz gehalten
+T10	Claim 1350 1479	eine etwas längere Formulierung in der zweiten Version wäre für das Verständnis des Value Proposition Canvas sicherlich hilfreich
+R5	supports Arg1:T9 Arg2:T10	
+T8	Claim 1252 1303	vielleicht könnte man das noch etwas ausformulieren
+T11	Premise 1144 1250	Mir ist zudem noch etwas unklar, was mit automatisierter Administration bei den Pain Relievers gemeint ist
+R6	supports Arg1:T11 Arg2:T8	
+T12	Claim 1482 1580	Darüber hinaus wird bei den Gains geschrieben, dass sich Kunden einfache Zahlungsvorgänge wünschen
+T13	Claim 1582 1712	Ich finde, bei den Gain Creators in der zweiten Version könnte noch etwas ausgeführt werden, wie sich denn diese gestalten könnten

@@ -1,0 +1,26 @@
+T1	Claim 11 167	Die Illustration der einzelnen Prozessschritte empfinde ich als zweckdienlich, übersichtlich und, wenn auch relativ textlastig, relativ einfach verständlich
+T2	Premise 174 231	die vorgestellten Ablaufstruktur macht grundsätzlich Sinn
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 233 373	Das dem Detail, sich sowohl mit einem Account auf der Platform als auch mit Facebook einzuloggen, Aufmerksamkeit geschenkt wird, gefällt mir
+T4	Claim 380 486	als Prozessschritt darzustellen wie der User die Seite über Google auffindet finde ich richtig und wichtig
+T5	Claim 637 681	Vorschläge generieren oä ist evtl. passender
+T6	Premise 569 635	Ist in Step 2.5 Demand and Supply tatsächlich der richtige Begriff
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 521 538	Wieso auf English
+T8	Premise 540 565	Französisch Muttersprache
+R3	attacks Arg1:T8 Arg2:T7	
+T9	Claim 683 769	Step 2.5 sollte aufgrund seiner zentralen Wichtigkeit evtl. ein einzelner Schritt sein
+T10	Claim 771 843	Baarerbrug sollte sehr wahrscheinlich Baarer Burg resp. Baarburg heissen
+T11	Claim 844 918	Die Nummerierung der einzelnen Schritte Step scheint mir leicht verschoben
+T12	Premise 920 1014	Step 5 sowohl Party selber als auch Party aftermath, Step 4 Choose Favorites aber auch Summary
+T13	Claim 1016 1043	Nicht besser einzelne Steps
+R4	supports Arg1:T12 Arg2:T13	
+T14	Claim 1051 1129	bin ich vom langfristigen Potential der Geschäftsidee nicht wirklich überzeugt
+T15	Premise 1131 1236	Zu einfach zu kopieren und mir fehlt das selbständig assistive Element das eine Wellbeing Lösung ausmacht
+R5	supports Arg1:T15 Arg2:T14	
+T16	Premise 1322 1533	hätte eine solche tatsächlich assistive Lösung einen entscheidenden Einfluss auf die Prozessgestaltung Momentan erinnert der Prozessablauf stark an ein elektronisches Abbild des klassischen Veranstaltungsservice
+T17	Claim 1535 1615	Als Wellbeing Lösung wäre der Ansatz, dass selber Vorschläge unterbreitet werden
+R6	supports Arg1:T16 Arg2:T17	
+T18	Claim 1617 1856	Es wird nicht einfach eine Auswahl aller Möglichkeiten aufgelistet aus denen der User wählen muss sondern selber Vorschläge unterbreiten, was für den User aufgrund der Angaben auf seinem Profil Facebook login! als am geeignetsten erscheint
+T19	Premise 1858 2078	Damit würde der Prozessablauf aber grundlegend umgekrempelt Angabe von persönlichen Daten und seinen Präferenzen, danach macht die Website Vorschläge von denen man wählt und kann dann daran noch einige Anpassungen machen
+R7	supports Arg1:T19 Arg2:T18	

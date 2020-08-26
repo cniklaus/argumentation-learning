@@ -1,0 +1,56 @@
+T1	Claim 20 101	Ich finde es super, dass du am Anfang die GeschäftsmodellIdee hingeschrieben hast
+T2	Premise 103 164	Das hilft enorm für ein gutes Verständnis des Kundenprozesses
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 167 237	Der Kundenprozess während der Nutzung ist sehr detailliert beschrieben
+T4	Premise 240 343	er Leser bekommt ein gutes Verständnis dafür, welche Schritte der Kunde in der Nutzung durchlaufen muss
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 346 455	Das Storyboard wurde gut verständlich aufgezeichnet und man merkt, dass du dich damit auseinandergesetzt hast
+T6	Claim 499 561	Die Bilder finde ich zudem sehr gut und verständlich gestaltet
+T7	Claim 616 655	Der Kundenprozess fängt etwas abrupt an
+T8	Premise 657 739	Du fängst am Ende der PrePhase an, also dort, wo der Kunde das Produkt installiert
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 741 827	Der eigentliche Kundenprozess für das Produkt fängt meiner Meinung nach aber früher an
+R4	supports Arg1:T9 Arg2:T7	
+T10	Premise 829 892	Was mich als Leser interessieren würde Was ist die Ausgangslage
+T11	Premise 894 926	Wie entsteht das Kundenbedürfnis
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 928 961	Wie erfährt der Kunde von der App
+R7	supports Arg1:T12 Arg2:T10	
+T13	Premise 963 1008	Wieso entscheidet er sich genau für diese App
+R8	supports Arg1:T13 Arg2:T10	
+T14	Premise 1010 1108	Mit der Antwort zu diesen Fragen gibt es quasi noch Prozessschritte vor denen, die du genannt hast
+R9	supports Arg1:T14 Arg2:T9	
+R5	supports Arg1:T10 Arg2:T9	
+T15	Premise 1110 1173	So kannst du die PrePhase vor der Nutzung der App noch ergänzen
+R10	supports Arg1:T15 Arg2:T14	
+T16	Claim 1176 1224	Neben der PrePhase fehlt aber auch die PostPhase
+T17	Premise 1226 1270	Was macht der Kunde nach der Nutzung der App
+R11	supports Arg1:T17 Arg2:T16	
+T18	Premise 1272 1311	Was sind seine Gains, wie fühlt er sich
+R12	supports Arg1:T18 Arg2:T16	
+T19	Premise 1313 1373	Erhält er Komplimente oder Ratschläge von Freunden/Bekannten
+R13	supports Arg1:T19 Arg2:T18	
+T20	Premise 1375 1406	Empfiehlt er das Produkt weiter
+R14	supports Arg1:T20 Arg2:T16	
+T21	Premise 1413 1492	Ich würde den Kundenprozess noch mit Prozessschritten nach der Nutzung ergänzen
+R15	supports Arg1:T21 Arg2:T16	
+T22	Premise 1500 1543	wirkt der Kundenprozess etwas unvollständig
+R16	supports Arg1:T22 Arg2:T21	
+T23	Claim 1546 1698	Allgemein würde ich das Prozessdiagramm aus der Formatvorlage wieder in die Aufgabenstellung reinnehmen und die einzelnen Prozessschritte dort eintragen
+T24	Premise 1700 1793	Das gibt dem Leser eine gute Übersicht über die einzelnen Schritte und quasi den Szenenablauf
+R17	supports Arg1:T24 Arg2:T23	
+T25	Claim 1795 1906	Ich würde den Ablauf hinter die GeschäftsmodellIdee und vor der genauen Erklärung der einzelnen Schritte setzen
+T26	Claim 1910 1983	Ich würde mir das Storyboard zudem vorstellen wie einen Film, der abläuft
+T27	Premise 1985 2064	Der Kunde Schauspieler durchläuft die verschiedenen Szenen pre, during und post
+R18	supports Arg1:T27 Arg2:T26	
+T28	Premise 2066 2078	Was denkt er
+T29	Premise 2080 2092	Was fühlt er
+T30	Premise 2094 2104	Was tut er
+R19	supports Arg1:T28 Arg2:T27	
+R20	supports Arg1:T29 Arg2:T27	
+R21	supports Arg1:T30 Arg2:T27	
+T31	Claim 2106 2218	Es fehlt noch mehr Beschreibung zu den einzelnen Szenen bzw. es fehlt ein in Szene setzen des gesamten Prozesses
+T32	Premise 2220 2427	Ich würde es wie eine Geschichte erzählen vom Anfang Entstehen des Kundenbedürfnisses bzw. Suche nach einem solchen Produkt bis zum Abschluss des Kundenzyklus Weiterempfehlung oder Zufriedenheitsgefühl, etc.
+R22	supports Arg1:T32 Arg2:T31	
+T33	Premise 2429 2532	Versetz dich am besten in die Lage des Kunden und geh mit ihm Schritt für Schritt den ganzen Prozess ab
+R23	supports Arg1:T33 Arg2:T32	

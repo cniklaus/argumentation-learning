@@ -1,0 +1,37 @@
+T1	Claim 71 221	Obwohl es in der Aufgabenstellung nicht erwartet wurde, stellt die Kurzbeschreibung der Geschäftsidee in Form von der Value Proposition eine Übersicht
+T2	Claim 224 305	Die Idee finde ich zudem gut und das Bedürfnis von Zielkunden sinnvoll abgeleitet
+T3	Premise 400 535	Die Storyboard ist recht knapp skizziert und stellt nicht wirklich eine genaue Auseinandersetzung von jedem einzelnen Kundenschritt dar
+T4	Premise 537 643	Es werden nicht auf viele nötigen Informationen, wie beispielsweise der Suchprozess der Tipps, eingegangen
+T5	Claim 645 712	Bei der Überarbeitung sollte in dieser Hinsicht nachgegangen werden
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T3 Arg2:T5	
+T6	Premise 742 861	Durch die recht häufig auftretenden Schreibfehler ist es etwas schwieriger, die Stichpunkte vollkommen nachzuvollziehen
+T7	Premise 867 912	Was genau bedeuten für den Kommilitonen Tipps
+T8	Premise 914 1006	Sind das vorgeschlagene Ratschläge für den spezifischen Nutzer oder nur Ergebnisse der Suche
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1010 1161	Hierbei wird empfohlen, dass die Abgabe von einem anderen Kommilitonen das nächste Mal durchgelesen wird oder Hilfe bei der Beschreibung eingeholt wird
+R3	supports Arg1:T7 Arg2:T6	
+R5	supports Arg1:T6 Arg2:T9	
+T10	Premise 1383 1460	Die Storyboard könnte meiner Meinung nach etwas spezifischer skizziert werden
+T11	Premise 1465 1551	angenommener Weise mehrere Aktivitäten vom Kunden notwendig sind als dargestellt wurde
+T12	Premise 1553 1650	Unter anderen Schritten müsste man erwähnen, wie der Kunde nach Tipps auf der App sucht Kriterien
+T13	Premise 1652 1663	Sucheingabe
+T14	Premise 1669 1773	wie diese dann gesammelt werden  speichert die App angeklickte Tipps oder muss der Kunde sich das merken
+T15	Claim 1775 1909	Hierbei wird empfohlen erneut sich über die einzelnen Schritte zu gehen und diese genauer zu erläutern/oder mehr Schritte hinzuzufügen
+R6	supports Arg1:T10 Arg2:T15	
+R7	supports Arg1:T11 Arg2:T10	
+R8	supports Arg1:T12 Arg2:T11	
+R9	supports Arg1:T13 Arg2:T11	
+R10	supports Arg1:T14 Arg2:T11	
+T16	Claim 2168 2242	Dies wäre eine weitere Kundenaktivität die näher dargestellt werden müsste
+T17	Premise 1913 2037	Im 4. Schritt wird beispielsweise dargestellt, dass die Plattform anzeigt, wenn eines der Freunde diesen Tipp realisiert hat
+T18	Premise 2039 2166	Dies würde implizieren, dass man sich bei der App erstmal ein Profil erstellen müsste, oder sich über Facebook einloggen müsste
+R11	supports Arg1:T17 Arg2:T18	
+R12	supports Arg1:T18 Arg2:T16	
+T19	Claim 2246 2385	Nach dem Besuch des Restaurants könnte man als weiteren Schritt die Bewertung oder FeedbackGebung des Kunden in die Storyboard hineinnehmen
+T20	Premise 2387 2471	Falls dies nicht in der App enthalten ist, wäre der Besuch jedoch der letzte Schritt
+T21	Claim 2475 2528	Wird bei der App auch die Wegbeschreibung ein Service
+R13	attacks Arg1:T20 Arg2:T19	
+T22	Premise 2530 2648	Falls ja, könnte dies als weiterer Schritt auch noch hinzugefügt werden, wenn der Kunde auf dem Weg zum Restaurant ist
+R14	supports Arg1:T22 Arg2:T21	
+T23	Claim 2652 2828	Allgemein würde ich bei der Überarbeitung die Schritte mehr auseinandernehmen und diese einzeln aufzulisten und mit einer Kurzbeschreibung darstellen nicht nur eine Überschrift

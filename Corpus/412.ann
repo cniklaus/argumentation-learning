@@ -1,0 +1,29 @@
+T1	Claim 11 123	Customer Jobs Ich verstehe hier noch nicht ganz Kann man mit der App das Essen auch bereits im Vorfeld bestellen
+T2	Premise 125 294	Dies würden den Restaurants einiges an Arbeit sparen, gleichzeitig will nicht jeder Kunde im Vorfeld bereits bestellen und sich evtl von der Athmospähre berieseln lassen
+T3	Claim 296 365	Ansonsten hast du die wichtigsten Punkte aus meiner Sicht aufgelistet
+R1	supports Arg1:T2 Arg2:T1	
+T4	Claim 367 510	Für die optimale Auslastung könnte man suchenden Kunden Vorschläge zukommen lassen, falls das Restaurant noch freie Kapazitäten hat in Echtzeit
+T5	Claim 512 639	Pains Ich denke was bei den Pains im Bezug auf Feedback noch entscheidend ist schlechtes Feedback wiegt viel schwerer wie Gutes
+T6	Premise 641 742	Hat es eine schlechte Bewertung unter einigen guten wird der Schlechten viel mehr Beachtung geschenkt
+T7	Claim 751 797	verstehe ich den Punkt mit No Shows nicht ganz
+R2	supports Arg1:T6 Arg2:T5	
+T8	Premise 799 891	Inwiefern gibt es Wartezeiten für potentielle Kunden, im Falle von nichtoptimaler Auslastung
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 894 938	Gains Ich stimme dir beim Gros der Gains zu.
+T10	Claim 950 1022	ist mir nicht ganz klar wie Kundenbindung erreicht wird gibt es ein Tool
+T11	Claim 1031 1091	kann genauso gut Schaden durch schlechtes Feedback entstehen
+T12	Claim 1093 1228	Product  Services Hier stellt sich für mich die Frage, wie mit anderen Usern interagiert werden kann und was für ein Nutzen das stiftet
+T13	Claim 1237 1312	ist für mich nicht ganz klar, wie man die Applikation gemeinsam nutzen kann
+T14	Claim 1314 1380	Als Ergänzung könnte man noch ein Kundenbindungstool miteinbringen
+T15	Premise 1397 1426	eine Kunden oder Stempelkarte
+R4	supports Arg1:T15 Arg2:T14	
+T16	Premise 1429 1522	Pain Relievers Mir ist nicht ganz klar wie ein Shitstorm verhindert werden kann durch die App
+T17	Claim 1544 1635	könnte man diesen Abschnitt noch mit der Art und Weise der Auslastungsverbesserung ergänzen
+R5	supports Arg1:T16 Arg2:T17	
+T18	Premise 1640 1691	eine schlechte Auslastung schliesslich ein Pain ist
+R6	supports Arg1:T18 Arg2:T17	
+T19	Claim 1694 1797	Gain Creators Meiner Meinung nach könnte man hier noch ein Tool anfügen, dass Kundenbindung unterstützt
+T20	Claim 1799 1839	Was müssten die Restaurants installieren
+T21	Premise 1841 1884	Hardware für den kontaktlosen Bezahlvorgang
+R7	supports Arg1:T21 Arg2:T20	
+T22	Claim 1901 2003	nach hast du das Werteversprechen nicht formuliert, was auch Teil der Aufgabe gewesen wäre laut Folien

@@ -1,0 +1,23 @@
+T1	Claim 72 148	Sehr gut finde ich, dass der Kundenprozess sehr detailliert aufgezeigt wurde
+T2	Premise 150 306	Obwohl es den Customer Activity Cycle darstellt, sind die einzelnen Bestandteile des typischen Kundenprozesses Recherche, Produktgestaltung etc. ersichtlich
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 308 394	Des Weiteren wurde explizit auf die einzelnen Elemente des Kundenprozesses eingegangen
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 396 438	Dies spricht für die Konsistenz der Lösung
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 440 564	Der Leser kann sehr einfach nachverfolgen, welcher Bestandteil des Storyboards zu welchem Element des Kundenprozesses gehört
+R4	supports Arg1:T5 Arg2:T1	
+T6	Claim 663 731	Nicht optimal finde ich, dass nicht wirklich ein Storyboard vorliegt
+T7	Premise 734 869	m Text zu Service Design Process steht s. 176 Die Szenen stellen eine Handlungsabfolge dar und erzählen somit eine filmische Geschichte
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 871 937	Grundsätzlich handelt es sich um eine Visualisierung von Szenarios
+R6	supports Arg1:T8 Arg2:T7	
+T9	Premise 939 1227	Eine Handlungsabfolge ist sicherlich ersichtlich, vor allem, weil der Kundenprozess respektive der Customer Activity Cylce sehr detailliert aufgezeigt wurde, aber ich würde vielleicht spielerisch mit einem Beispielkunden arbeiten, der all diese Schritte in seinem Kundenprozess durchläuft
+R7	supports Arg1:T9 Arg2:T6	
+T10	Premise 1232 1345	wäre die Lösung klar ersichtlich und der Leser kann sich, unter Umständen, sogar mit dem Probanden identifizieren
+R8	supports Arg1:T10 Arg2:T9	
+T11	Claim 1467 1643	Bei der Lösung könnte man mit einem Beispielkunden die Geschichte erklären und die Begründungen unterhalb der einzelnen Bilder im Storyboard noch mit Informationen ausschmücken
+T12	Premise 1645 1734	So würde ersichtlicher werden, warum ein Beispielkunde im Storyboard derart handeln würde
+R9	supports Arg1:T12 Arg2:T11	
+T13	Premise 1735 1884	Im Text vom Service Design steht Das Ziel  Dabei ist es wichtig, dass plausibel begründet wird, warum die Person in der Geschichte so handelt. s. 176
+R10	supports Arg1:T13 Arg2:T11	

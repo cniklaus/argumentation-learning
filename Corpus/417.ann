@@ -1,0 +1,16 @@
+T1	Claim 20 115	Starke Strukturierung, Bedürfnis und Nutzen für Studenten werden gut  ausführlich ausgeleuchtet
+T2	Premise 117 240	Bei einer Value Proposition sollten die Punkte Produkt, Nutzen, Zielgruppe und Einzigartigkeit der Lösung ausgeführt werden
+T3	Premise 242 308	Das vorliegende Beispiel hat diese formalen Aspekte alle abgedeckt
+R1	supports Arg1:T2 Arg2:T3	
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 310 467	Gerade die Einzigartigkeit der Lösung wird verdeutlicht, indem die Nachteile der konkurrierenden Lösungen d.h. von Praktikas  Traineestellen erläutert werden
+T5	Claim 483 548	An der Value Proposition gibt es grundsätzlich nichts auszusetzen
+T6	Claim 551 592	An der Umsetzbarkeit zweifle ich hingegen
+T7	Premise 593 759	Wo liegen die Vorteile der beteiligten Unternehmen, welche die Praxisprojekte umsetzen und im Endeffekt sowohl die Studenten als auch die Plattform finanzieren müssen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 761 948	Wieso sind sie plötzlich bereit, angemessene Löhne und Plattformverbundene Administrationskosten zu bezahlen, wenn sie dafür weiterhin unerfahrene Arbeitskräfte für ihre Projekte bekommen
+R4	supports Arg1:T8 Arg2:T6	
+T9	Claim 950 1018	Eine Value proposition gegenüber diesen Unternehmen wäre interessant
+T10	Premise 1021 1095	Jedoch weiss ich nicht, ob dies grundsätzlich in Scope für diesen Case ist
+R5	attacks Arg1:T10 Arg2:T9	
+T11	Claim 1113 1183	Falls in scope Value proposition für ProjektUnternehmen ausformulieren

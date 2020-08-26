@@ -1,0 +1,27 @@
+T1	Claim 21 132	Obwohl du deine Geschäftsmodelidee nicht in das Dokument eingefügt hast, habe ich die Idee ohne Mühe verstanden
+T2	Premise 137 298	Bei den Customer Jobs hast du die Schwierigkeiten und Aufgaben deiner Kunden aufgezeigt und diese sogar noch kategorisiert funktional, emotional oder eben sozial
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 303 387	Die Pains und Pain Relievers sowie die Gains und Gain Creators passen gut zueinander
+T4	Premise 418 468	die Punkte klar und verständlich formuliert wurden
+T5	Premise 473 568	Die Auflistung bei ProductServices hat klar aufgezeigt, welche Funktionen im App enthalten sind
+R2	supports Arg1:T4 Arg2:T1	
+R3	supports Arg1:T5 Arg2:T1	
+R4	supports Arg1:T3 Arg2:T1	
+T6	Claim 614 676	Die Idee der automatischen Terminfindung fand ich ziemlich gut
+T7	Premise 678 762	Dennoch muss der Kunde noch ein Dokument wie Doodle benützen, um ein Datum zu finden
+T8	Premise 764 821	Dies sehe ich wieder als Grund, den Termin zu verschieben
+R6	attacks Arg1:T7 Arg2:T6	
+R5	supports Arg1:T8 Arg2:T7	
+T9	Claim 823 896	Was hältst du vom Vorschlag, dass die App automatisch nach Terminen sucht
+T10	Premise 898 988	Die Applikation könnte automatisch freie TimeSlots finden und diese als Termin vorschlagen
+R7	supports Arg1:T10 Arg2:T9	
+T11	Premise 993 1088	der Kunde die meisten Einträge im Kalender hat und ev. noch diverse Zeitblocker einfügen könnte
+T12	Premise 1090 1141	würde dies die Terminfindung noch mehr vereinfachen
+R8	supports Arg1:T12 Arg2:T10	
+R9	supports Arg1:T11 Arg2:T12	
+T13	Claim 1146 1274	Als Nutzer fände ich es hilfreich, wenn mir in meinen Kalender eingetragen würde, wie lange ich habe um zur Location zu gelangen
+T14	Premise 1276 1431	Ich könnte bspw. auswählen, dass ich mit dem Zug anreisen möchte und die Applikation würde mir die entsprechenden Verbindungen in meinen Kalender eintragen
+R10	supports Arg1:T14 Arg2:T13	
+T15	Premise 1433 1475	Dies fände ich als User äusserst hilfreich
+R11	supports Arg1:T15 Arg2:T14	
+T16	Claim 1480 1565	Bitte ergänze das Modell noch mit dem zentralen Wertversprechen gem. Aufgabenstellung

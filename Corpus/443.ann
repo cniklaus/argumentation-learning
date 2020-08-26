@@ -1,0 +1,11 @@
+T1	Claim 14 107	Sehr guter und hilfreicher Beschrieb des Geschäftsmodells inkl. Partner und Value Proposition
+T2	Claim 115 227	sind die einzelnen Prozessschritte logisch und aus meiner Sicht für die wesentliche schritte komplett ausgeführt
+T3	Claim 235 340	ist das Storyboard sehr schön gestaltet und ebenfalls passend zu den beschriebenen Kundenprozessschritten
+T4	Claim 357 427	Am Event selbst findet keine Interaktion statt, warum eigentlich nicht
+T5	Premise 429 573	An dieser Stelle könnte die App ebenfalls Dienstleistungen erbringen oder warum nicht eine Community bilden und mit anderen Nutzern interagieren
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 579 697	Eigentlich nichts wirklich auszusetzen, höchstens vielleicht noch ein paar mehr Beschreibungen zu den Prozessschritten
+T7	Premise 712 765	bezüglich anlegen des Profils mit welchen Präferenzen
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 773 867	könnte von mir aus gesehen noch ein CommunityGedanke einfliessen, besonders während des Events
+T10	Claim 869 883	Sonst sehr gut

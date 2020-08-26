@@ -1,0 +1,21 @@
+T1	Claim 18 91	Die Beschreibung arbeitet sauber und übersichtlich die Pain und Gains auf
+T2	Claim 92 173	Die Aufgabe wurde methodisch gut erfüllt über Idee an sich kann man sich streiten
+T3	Claim 175 279	Sehr interessanter Ansatz über ein verändertes Pricing einer punktuellen Überbuchung vorbeugen zu wollen
+T4	Claim 300 593	Die Plattform ermöglicht zwar die Verbindung von Nachfrager und Anbieter, jedoch besteht hier der Unterschied, dass der Fahrschüler durchaus ein starkes Interesse daran haben könnte nicht einen beliebigen, sondern explizit denselben Fahrlehrer für die gesamte Lernzeit zu haben Anbieterbindung
+T5	Premise 606 694	Wer wechselt schon gerne jedes Mal den Lehrer und muss sich dabei jeweils neu einstellen
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 696 850	Der Lernprozess wird zudem nicht konsequent vom einen Fahrlehrer überwacht keine Vorkenntnisse über Schüler, Fortschritte nicht nachvollziehbar > Didaktik
+R2	supports Arg1:T6 Arg2:T4	
+T7	Premise 852 984	Die Anbieterbindung ist unwahrscheinlich wichtig für einen Schüler, der ein Auto die ersten Male benutzt Stichwort Sicherheitsgefühl
+T8	Claim 995 1081	Ein ständiger Wechsel des Fahrlehrers ist zwar möglich, aber nicht unbedingt gewünscht
+R3	supports Arg1:T7 Arg2:T8	
+T9	Premise 1082 1331	Ein Fahrlehrer hat keinen Anreiz einen möglichen Schüler nach einer Session wieder dem Anbietermarkt Fahrlehrerpool freizugeben, sondern schafft grundsätzlich  wenn auch nur für kurze Zeit  Kundenbindung durch den kompletten Verkauf mehrerer Stunden
+T10	Premise 1337 1361	Paket von 10 Fahrstunden
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1363 1422	Es besteht folglich kein ständiger Wechsel des Fahrschülers
+R4	supports Arg1:T9 Arg2:T11	
+R6	supports Arg1:T11 Arg2:T8	
+T12	Claim 1423 1518	Leider löst meiner Meinung nach nicht einmal das veränderte Pricing die Überbuchungsproblematik
+T13	Premise 1523 1623	Fahrschüler ganz grundsätzlich ähnliche Zeitpläne bestehen gleiche Problematik mit überfüllten Zügen
+R7	supports Arg1:T13 Arg2:T12	
+T14	Claim 1625 1892	Ich habe grundsätzlich Zweifel, ob die eigentlich sehr sinnvolle Auslastungsmechanismus funktioniert, jedoch müsste man dies im Markt testen, ob es auf Zustimmung stossen würde und die von Dir genannten Gain Creators und Pain Relievers den gewünschten Effekt erzielen

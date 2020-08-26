@@ -1,0 +1,19 @@
+T1	Claim 14 231	Die Stärken dieser Lösung sind aus meiner Sicht zum Einen dass über ein Benutzerkonto und eine Rechnung/Gebühr verschiedene Zeitungen gelesen werden können und zum Anderen dass die Lösung aus dem Nutzerverhalten lernt
+T2	Claim 238 374	die Verlinkung mit Social Media Angeboten finde ich eine gute Idee, vor allem für die jüngeren Konsumenten Generation X und Generation Y
+T3	Claim 377 497	Die Cost Structure und die Revenue Streams finde ich gut durchdacht und sind bei diesem Geschäftsmodell absolut sinnvoll
+T4	Premise 506 636	Durch die Angabe von Präferenzen verschwindet meiner Meinung nach das zufällige Lesen von Artikeln und den so erweiterten Horizont
+T5	Premise 641 750	für den Konsument auch Artikel spannend sein können, welche nicht durch seine Präferenzliste abgedeckt werden
+T6	Claim 752 947	Eventuell wäre es eine Möglichkeit, Newsbanner öder ähnliches auf der News Co. Website zu integrieren, damit die Konsumenten auch neben ihren Präferenzen andere Nachrichten und Texte lesen können
+R1	supports Arg1:T5 Arg2:T4	
+R2	supports Arg1:T4 Arg2:T6	
+T7	Premise 951 1160	Für mich ist es fraglich, ob nach dem lesen eines Artikels über das neue iPhone direkt ein solches über Amazon bestellt werden würde wie es in der Freitextbeschreibung über das Geschäftsmodell beschrieben wird
+T8	Claim 1162 1419	Eine Möglichkeit wäre aus meiner Sicht, eine Testphase mit diesem Amazon OneClickBuy zu starten um die Resonanz und das Konsumentenverhalten zu evaluieren und nach dieser Testphase zu entscheiden, ob dieses Feature weiterhin angeboten werden soll oder nicht
+R3	supports Arg1:T7 Arg2:T8	
+T9	Claim 1427 1537	Bei der Überarbeitung sollte meiner Meinung nach noch mehr auf die Anbieter der Nachrichten eingegangen werden
+T10	Premise 1539 1722	Vor allem wäre spannend zu erfahren, wie diese ihren Content bereitstellen können und ob sie eventuell auch die Präsentation ihres Content auf der News Co. Website beeinflussen können
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 1726 1924	Beim Business Model Canvas in der Kategorie Channels vermisse ich eine Spezifizierung der Kanäle über welche die Leser Diskussionsmöglichkeiten bekommen und Verbesserungsvorschläge einbringen können
+T12	Premise 1938 1981	über Social Media, direkt auf News Co. usw.
+R5	supports Arg1:T12 Arg2:T11	
+T13	Premise 1983 2061	Eine solche Spezifizierung in der Überarbeitung wäre aus meiner Sicht sinnvoll
+R6	supports Arg1:T13 Arg2:T11	

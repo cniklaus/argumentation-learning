@@ -1,0 +1,27 @@
+T1	Claim 70 121	Die Einteilung in die sechs Dimensionen ist korrekt
+T2	Claim 122 189	Es ist klar ersichtlich, welchen Kundenbedürfnisse anvisiert werden
+T3	Claim 190 252	Deine Lösung beinhaltet keine Redundanzen bzw. Doppelnennungen
+T4	Claim 254 305	u hast Dich auf die wichtigsten Faktoren beschränkt
+T5	Premise 399 458	Du hast die sechs Dimensionen nicht einheitlich dargestellt
+T6	Premise 460 572	Bei der Dimension Customer Jobs schreibst Du im Fliesstext, während Du bei allen anderen Aufzählungen verwendest
+T7	Premise 574 659	Diese Aufzählungen bestehen teilweise aus ganzen Sätzen und teilweise aus Stichworten
+T8	Claim 661 719	Du musst die Dimensionen in eine einheitliche Form bringen
+R1	supports Arg1:T5 Arg2:T8	
+R2	supports Arg1:T7 Arg2:T5	
+R3	supports Arg1:T6 Arg2:T5	
+T9	Claim 720 767	Du hast das Wertversprechen nicht ausformuliert
+T10	Premise 769 844	Das solltest Du nachholen, um die Verständlichkeit für den Leser zu erhöhen
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 845 925	Der Markt, in den Du eintreten willst, ist meiner Meinung nach bereits gesättigt
+T12	Premise 927 1070	Es bestehen schon viele Plattformen, welche das Einscannen von Produkten ermöglichen und dem Benutzer entsprechende Informationen bereitstellen
+T13	Premise 1072 1106	Auch Location Finder gibt es viele
+T14	Claim 1116 1178	solltest Du gezielter den Mehrwert deiner Idee herausstreichen
+R5	supports Arg1:T11 Arg2:T14	
+R6	supports Arg1:T12 Arg2:T11	
+R7	supports Arg1:T13 Arg2:T11	
+T15	Premise 1179 1260	Einige Punkte des Customer Profiles werden bei der Value Map nicht berücksichtigt
+T16	Premise 1266 1289	körperliche Beschwerden
+T17	Claim 1291 1316	Diese gilt es zu ergänzen
+R8	supports Arg1:T15 Arg2:T17	
+R9	supports Arg1:T16 Arg2:T15	
+T18	Claim 1457 1644	Du solltest im Hinterkopf haben, dass eine gewisse Einheitlichkeit nötig ist, damit Dein Value Proposition Canvas professionell daher kommt und einfach vom Leser interpretiert werden kann

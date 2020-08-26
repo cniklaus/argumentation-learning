@@ -1,0 +1,20 @@
+T1	Claim 100 221	ich die Idee sehr interessant finde und sie einen echten Customer Need trifft und die Lösung ein klarer Pain Reliever ist
+T2	Claim 225 331	Hinsichtlich Form der Aufgabe bleibt zu sagen, dass die Illustration des Kundenprozesses sehr gelungen ist
+T3	Claim 339 447	ist der Kundenprozess mit dem Beispiel von der Reise von Zermatt nach St.Gallen sehr interessant beschrieben
+T4	Premise 449 513	Konkrete Kundenbeispiele helfen das Kundenbedürfnis zu verstehen
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 522 584	bezüglich Inhalt deckt das Storyboard die wichtigen Aspekte ab
+T6	Claim 586 630	Die Schritte finde ich sehr sinnvoll gewählt
+T7	Claim 632 723	Sehr gut finde ich, dass du auch den Schritt des Supports und der Bewertung integriert hast
+T8	Claim 885 1006	Eine Schwäche sehe ich darin, dass der Kundenprozess auf Folie 2 sehr abstrakt und nicht ganzeinheitlich dargestellt wird
+T9	Premise 1008 1127	Zum vollen Verständnis fehlt meines Erachtens eine kurze Beschreibung pro Schritt wie in der Aufgabenstellung gefordert
+R2	supports Arg1:T9 Arg2:T8	
+T10	Premise 1129 1206	Das Bereitstellen App würde ich umbenennen in Kauf oder Herunterladen der App
+T11	Premise 1211 1266	Breitstellen ja aus der Sicht von Movex geschrieben ist
+R3	supports Arg1:T11 Arg2:T10	
+R4	supports Arg1:T10 Arg2:T9	
+T12	Claim 1277 1374	könntest du beim Kundenprozess auch noch eine Unterscheidung zwischen Pre, During und Post machen
+T13	Premise 1376 1431	Das würde das Verständnis des Kundenprozesses erweitern
+R5	supports Arg1:T13 Arg2:T12	
+T14	Claim 1443 1518	kann eine Nummerierung des Storyboards auf Basis des Kundenprozesses helfen
+T15	Claim 1521 1669	Eventuell wäre es auch interessant vorab eine kurze Einführung in die Produktidee zu erhalten, damit das Geschäftsmodell vollständig verstanden wird

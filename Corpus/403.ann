@@ -1,0 +1,35 @@
+T1	Claim 11 112	Der intelligente nachrüst Kühlschrank ist als Geschäftsmodellidee sehr gut beschrieben und macht Sinn
+T2	Claim 114 175	Der Canvas ist gut ausgefüllt und klärt viele wichtige Fragen
+T3	Premise 177 327	Zwar ist der Freitext etwas lang geraten Max 0.5 Seiten, aber andererseits sind die Beschreibungen über die technischen Möglichkeiten sehr ausführlich
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 389 567	Inhaltlich stellt sich die Frage, wenn die Lösung durch einen Nachrüstsatz nicht an den Kühlschrank gebunden ist, warum bezieht man dann nicht alle Lebensmittellagerräume mit ein
+T5	Premise 569 679	Das würde einen allumfassenden Zugang zu wirklich allen notwendigen Daten für einen Supermarkteinkauf erlauben
+T6	Premise 680 747	Sind die Supermärkte Key Supplier, Key Partner oder Paying Customer
+T7	Claim 328 388	Vielleicht sollte man auch noch auf Folgende Punkte eingehen
+R2	supports Arg1:T4 Arg2:T7	
+R3	supports Arg1:T5 Arg2:T7	
+R4	supports Arg1:T6 Arg2:T7	
+T8	Premise 749 785	Wie lassen sich die Rollen abgrenzen
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 787 824	Das ist in dem Canvas undifferenziert
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 825 909	Die grösste Schwäche besteht wohl in der unklaren Beschreibung des Nutzen für Kunden
+T11	Premise 943 1064	Zwar soll die Lösung BBC sein, trotzdem könnte man in der Value Proposition auf den Mehrwert für den Konsumenten eingehen
+R7	supports Arg1:T11 Arg2:T10	
+T12	Premise 1066 1201	Bzw. sollte dort nicht erklärt werden wie die Value Proposition erreicht wird Software, Hardware, sondern was die Value Proposition ist
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 1203 1253	Echtzeit Informationen über die Kühlschrankbestand
+T14	Premise 1255 1296	Nicht mehr im Supermarkt einkaufen müssen
+T15	Premise 1298 1328	Weniger unnötige Käufe tätigen
+R9	supports Arg1:T13 Arg2:T12	
+R10	supports Arg1:T14 Arg2:T12	
+R11	supports Arg1:T15 Arg2:T12	
+T16	Claim 1329 1399	Andererseits wird nicht klar, welchen Nutzen die paying Customer haben
+T17	Premise 1401 1438	Welchen Vorteil haben die Supermärkte
+R12	supports Arg1:T17 Arg2:T16	
+T18	Premise 1440 1587	Ist es z.B. nicht kontraproduktiv, wenn der Verbraucher nur genau das bestellt was er benötigt und im Supermarkt keine sinnlosen Zusatzkäufe tätigt
+R13	supports Arg1:T18 Arg2:T17	
+T19	Premise 1589 1680	Welche Motive gäbe es also sich an der Lösung anzuschliessen und die Smartfridges zu kaufen
+R14	supports Arg1:T19 Arg2:T18	
+T20	Claim 1682 1765	Seit wann verkaufen Supermärkte wie die Coop oder die Migros überhaupt Kühlschränke
+T21	Claim 1766 1826	Ansonsten gefällt mir die Idee und die Ausarbeitung sehr gut

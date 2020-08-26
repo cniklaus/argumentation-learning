@@ -1,0 +1,28 @@
+T1	Claim 72 168	Integrative Lösung, die dem User alle möglichen Terminbuchungen einfach und jederzeit ermöglicht
+T2	Claim 171 232	Die Lösung dient sicherlich dem Menschen und generiert Nutzen
+T3	Claim 234 269	WellBeingAnsatz wurde gut umgesetzt
+T4	Claim 367 552	Die Lösung könnte dem User noch mehr dienen, indem sie Reminder und Push Notifications versendet und ihn so an Termine oder das Buchen von Terminen z.B. jährliche Zahnkontrolle erinnert
+T5	Claim 766 903	Dies sollte im gesamten Business Modell Canvas besonders im Customer Segments und Relationships sowie Value Proposition genauer definiert
+T6	Premise 636 669	Allgemein hat die Lösung 2 Kunden
+T7	Premise 671 764	Einerseits die Dienstleister und andererseits die User, auch wenn diese keine Gebühren zahlen
+R1	supports Arg1:T7 Arg2:T6	
+R2	supports Arg1:T6 Arg2:T5	
+T8	Claim 1024 1109	Die Value Proposition ähnelt meiner Meinung nach momentan eher einem Produktbeschrieb
+T9	Premise 1111 1160	Hier sollte dein zentrales Wertversprechen stehen
+T10	Premise 1166 1198	der erste Satz deines Beschriebs
+R3	supports Arg1:T9 Arg2:T8	
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 1200 1236	Ebenfalls für User und Dienstleister
+R5	supports Arg1:T11 Arg2:T8	
+T12	Claim 1239 1350	Bei Customer Relationships handelt es sich um die Art und Weise, wie du deine Beziehungen zu den Kunden pflegst
+T13	Premise 1367 1402	persönlich, via Hotline oder online
+T14	Premise 1404 1484	Mit den Dienstleistern sollte meiner Meinung nach eine engere Beziehung bestehen
+T15	Premise 1489 1622	sie schlussendlich die zahlenden Kunden sind und wie du herausgearbeitet hast anspruchsvolleren Kunden sind, was Sonderwünsche angeht
+R6	supports Arg1:T15 Arg2:T14	
+R7	supports Arg1:T13 Arg2:T12	
+R8	supports Arg1:T14 Arg2:T12	
+T16	Premise 1626 1705	Im Revenue Stream solltest du beschreiben, wie du Einkommen generieren möchtest
+T17	Claim 1707 1779	Hast du im Beschrieb angesprochen und sollte noch weiter vertieft werden
+R9	supports Arg1:T16 Arg2:T17	
+T18	Claim 1781 1884	Den Ansatz mit Grundgebühr finde ich sinnvoll, wenn es darum geht zuoberst in der Finderliste zu stehen
+T19	Claim 1886 1922	Pay per booking ist ein gutes System

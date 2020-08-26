@@ -1,0 +1,32 @@
+T1	Claim 11 38	Ich finde die Idee sehr gut
+T2	Premise 40 183	Auch mir ist es schon passiert, dass ich am Morgen entweder keine Lust habe, oder z.T. auch keine Zeit habe, lange über ein Outfit nachzudenken
+T3	Claim 193 271	greife ich immer einfach nach der einfachsten Variante und überlege nicht viel
+R1	supports Arg1:T2 Arg2:T3	
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 273 390	Ich schaue vorher meistens auch nicht nach, wie warm es ist oder wie sich die Temperatur im Verlaufe des Tages ändert
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 392 426	Ich sehe also den Mehrwert der App
+R4	supports Arg1:T5 Arg2:T1	
+T6	Premise 431 525	Ich hätte es gut gefunden, wenn die einzelnen Schritte 16 Boards noch beschrieben worden wären
+T7	Claim 527 602	Ich würde deshalb auf einer nächsten Folie die Schritte 16 kurz beschreiben
+R5	supports Arg1:T6 Arg2:T7	
+T8	Claim 604 726	Zeichnerisch sind die Boards wirklich gut gelungen und auch beim letzten Board mit Wow und cooles Outfit musste ich lachen
+T9	Claim 731 824	Was ich aus dem Storyboard nicht genau verstanden habe, ist, wie Dressmeup genau funktioniert
+T10	Premise 826 877	Die Kleider werden beim Kauf in der App gespeichert
+T11	Premise 879 987	Wird hierbei versucht, mit den grössten Kleiderläden eine Beziehung aufzubauen, so dass diese die App nutzen
+T12	Claim 994 1136	vielleicht wäre es interessant, wenn die App einfach den Kleiderschrank fotografieren könnte und die Kleidungsstücke im App gespeichert werden
+T13	Premise 1141 1283	würde der wahrscheinlich schwierige Prozess, die Läden für sich zu gewinnen einfach ausgelassen werden und jeder könnte die App überall nutzen
+T14	Premise 1285 1427	D.h. optimalerweise würde ich als Kunde einmal all meine Kleider fotografieren und das App erkennt die Farbe und welches Kleidungsstück es ist
+R6	supports Arg1:T14 Arg2:T13	
+T15	Premise 1435 1482	wäre das App unabhängig von anderen Unternehmen
+R7	supports Arg1:T15 Arg2:T14	
+R8	supports Arg1:T10 Arg2:T11	
+R9	supports Arg1:T11 Arg2:T9	
+R10	supports Arg1:T13 Arg2:T12	
+T16	Claim 1484 1533	Technisch sollte so etwas heute realisierbar sein
+T17	Premise 1538 1588	eine Hose eine ganz andere Form hat als ein Tshirt
+R11	supports Arg1:T17 Arg2:T16	
+T18	Premise 1594 1729	falls das App nicht erkennt, um was es sich handelt, könnte man manuell immer noch verbessern und sagen, dass das Stück X eine Hose ist
+R12	supports Arg1:T18 Arg2:T16	
+T19	Claim 1735 1766	Ansonsten finde ich es sehr gut
+T20	Claim 1768 1901	Als Anregung würde ich, wie erwähnt, die Schritte noch kurz beschreiben und vielleicht den Zwischenschritt über die Händler entfernen

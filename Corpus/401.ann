@@ -1,0 +1,37 @@
+T1	Claim 11 128	Die Stärke des Value Proposition Canvas besteht wohl in der sehr guten Vernetzung der Kundenansprüche mit dem Angebot
+T2	Premise 130 222	Das System alfred wird sehr gut auf die einzelnen Aspekte der Kundenbedürfnisse ausgerichtet
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 223 291	Im allgemeinen sind die Beschreibungen der Elemente sehr ausführlich
+T4	Premise 293 346	Vielleicht könnte man sje mit Schlagwörtern verkürzen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 348 453	À laWeniger Freizeit Durch die heutige Hochleistungsgesellschaft haben die Leute immer weniger freie Zeit
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 455 543	Mal abgesehen davon, dass ich mir nicht sicher bin ob sich diese Aussage fundieren lässt
+T7	Claim 550 657	Die Konsumenten hätten gerne mehr Freizeit und dadurch auch eine erhöhte Zahlungsbereitschaft Zeit ist Geld
+T8	Premise 661 757	Ich bin mir nicht sicher ob diese Aussage und Schlussfolgerung wirklich als Gain einzuordnen ist
+R4	supports Arg1:T8 Arg2:T7	
+R5	attacks Arg1:T6 Arg2:T5	
+T9	Claim 758 849	Products  Services Viele der Informationen als Einzelpunkte sind etwas schwerlich beigefügt
+T10	Premise 850 913	kann bspw. für das Bestellen des Lieblingsessens benützt werden
+T11	Premise 915 985	Ok, ich habe schon verstanden was eine Sprachsteuerung ist, aber Danke
+T12	Premise 987 1067	Aber wieso gerade ein Beispiel verwenden was sonst nirgendwo im PVC verortet ist
+R6	supports Arg1:T11 Arg2:T10	
+R7	supports Arg1:T10 Arg2:T9	
+R8	supports Arg1:T12 Arg2:T10	
+T13	Claim 1068 1393	Zusätzlich liessen sich folgende Punkte auch zusammenfassen Sensoren im Wäschekorb messen das Gewicht der dreckigen Kleider,Sensoren im Wohnzimmer messen die Anzahl der Staubpartikel, nach individualisierter Einstellung werden bei gewissen Richtwerten bspw. 2kg dreckige Wäsche automatisch die dazugehörigen Services geordert
+T14	Premise 1395 1447	ALFRED dient dadurch zudem als Vermittlungsplattform
+R9	supports Arg1:T14 Arg2:T13	
+T15	Claim 1449 1571	zu Sensoren erfassen die Notwendigkeit gewisser Services wie Reinigung und Wäschewaschen zur Vermittlung an Dienstleistern
+T16	Premise 1573 1602	Das würde ich pers. so machen
+R10	supports Arg1:T16 Arg2:T15	
+T17	Premise 1609 1643	es knapper und übersichtlicher ist
+R11	supports Arg1:T17 Arg2:T16	
+T18	Claim 1645 1780	Den folgenden Bulletpoint Die Dienstleistungen werden von den Partnern erbracht würde ich als Pain Creator oder Gain Reliever einordnen
+T19	Premise 1781 1913	Wenn man diese Zusammenfassung und konsequenten Einordnungen durchzieht erhält man ruck zuck einen deutlich übersichtlicheren Canvas
+R12	supports Arg1:T19 Arg2:T18	
+T20	Claim 1915 1956	Das gilt allerdings auch für den Freitext
+R13	supports Arg1:T19 Arg2:T20	
+T21	Premise 1958 2009	Hier gilt wirklich alles raus was keine Miete zahlt
+R14	supports Arg1:T21 Arg2:T20	
+T22	Premise 2011 2133	Damit meine ich vorallem die Formulierung zur EBIT Generierung und die nette, aber sinnlose Referenz zu Österle und Senger
+R15	supports Arg1:T22 Arg2:T21	

@@ -1,0 +1,35 @@
+T1	Claim 42 97	Die funktionalen Jobs sind kurz und knackig beschrieben
+T2	Claim 99 201	Funktionale und emotionale Jobs wurden berücksichtigt, sowie das Grundbedürfnis neues lernen zu wollen
+T3	Claim 203 281	Hier könnte jedoch noch etwas mehr auf die emotionalen Jobs eingegangen werden
+T4	Premise 304 384	sich der Kunde besser fühlt wenn er informiert ist, sich integrierter fühlt, etc
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 389 490	Pains Gut ist, dass die Hauptherausforderung aufgenommen wurde und bestehende Lösungen genannt wurden
+T6	Claim 492 592	Es könnte hier aber noch mehr darauf eingegangen, was denn genau der Kunde als kostspielig empfindet
+T7	Premise 615 762	es viel Zeit kostet verschiedene Apps öffnen und wieder zu schliessen und sich Artikel verschiedener NewsApps vielfach die gleichen Themen abdecken
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 767 826	Gains Die 2 Aspkete sind gut, welche bereits genannt wurden
+T9	Claim 837 882	könnte man noch auf weitere Vorteile eingehen
+T10	Premise 892 935	Ersparnisse, welche der Kunde machen könnte
+T11	Premise 946 956	Zeit, Geld
+R3	supports Arg1:T11 Arg2:T10	
+R4	supports Arg1:T10 Arg2:T9	
+T12	Premise 963 1080	welcher Vorteil deiner App würde deutlich über die Erwartungen des Kunden hinaus gehen > eine Art persönliche Zeitung
+R5	supports Arg1:T12 Arg2:T9	
+T13	Claim 1367 1476	Ich würde hier zwischen einer Hauptfunktion und Nebenfunktionen unterscheiden, um diese Verwirrung zu beheben
+T14	Premise 1086 1204	Product  Services Im ersten Punkt wird erwähnt, dass das Produkt eine App ist, welche Nachrichten zur Verfügung stellt
+R6	supports Arg1:T14 Arg2:T13	
+T15	Premise 1206 1365	In den nächsten Punkten wird aber beschrieben, dass man ebenfalls damit Einkaufen kann, und als Blogplattform dient, dabei verwässert sich die Kernidee der App
+R7	supports Arg1:T15 Arg2:T13	
+T16	Claim 1482 1562	Pain Relievers Hier könnte die gelieferten Gewinne noch mehr thematisiert werden
+T17	Premise 1564 1605	Was wird durch die App dem Kunden erspart
+R8	supports Arg1:T17 Arg2:T16	
+T18	Premise 1620 1656	Einsparungen von Aufwand, Zeit, Geld
+R9	supports Arg1:T18 Arg2:T17	
+T19	Premise 1663 1789	was mach den Kunden glücklich, welche negativen sozialen Konsequenzen werden ein Ende gesetzt, durch die Verwendung deiner App
+R10	supports Arg1:T19 Arg2:T16	
+T20	Claim 1791 1838	Ansonsten kurz und bündig gehalten, was gut ist
+T21	Claim 1843 1898	Gain Creators Diese 2 Argumente sind ebenfalls sehr gut
+T22	Claim 1900 2117	Könnten jedoch noch ergänzt werden mit Einsparungen, welche der Kunden dadurch macht, wie sie bestehende Lösungen übertreffen, und welche postiven sozialen Konsequenzen geschaffen werden, welche sich der Kunde wünscht
+T23	Claim 2140 2326	Die Value Proposition umfasst nur die Beschreibung der Newsplattform, deshalb würde ich eben bei Product und Services, genauer zwischen haupt und nebensächlichen Funktionen unterscheiden
+T24	Claim 2331 2467	Allgemein gefällt, dass alles mit Stichwörtern beschrieben wurde, ist alles viel übersichtlicher und für den Reviewer einfacher zu lesen
+T25	Claim 2469 2502	Ebenfalls ist der Inhalt sehr gut

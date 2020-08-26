@@ -1,0 +1,15 @@
+T1	Claim 130 141	Gute Arbeit
+T2	Premise 143 218	Kundenprozess ist klar und die Illustrationen sind homemade, finde ich cool
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 315 363	Du könntest auf die Illustrationen mehr erklären
+T4	Premise 365 418	Ich habe leider kein Zugang zu deinem Geschäftsmodell
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 566 635	Kundenprozess  Wie werden die Adresse und Termin Automatisch erhalten
+T6	Premise 637 679	Muss der Customer zuerst sich nicht loggen
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 682 728	After könntest du nicht mehr after value haben
+T8	Premise 735 765	Customer Service, Gamification
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 770 825	Storyboard  Du solltest auch das App mit Uber verbinden
+T10	Premise 827 870	Bus könnte zu schwierig für alte Leute sein
+R5	supports Arg1:T10 Arg2:T9	

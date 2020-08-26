@@ -1,0 +1,41 @@
+T1	Claim 11 55	Storyboard ist unterhaltsam und verständlich
+T2	Premise 57 131	Alle Schritte sind vorliegend und erklären genau was der Kunde machen muss
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 133 216	Das Storyboard war sogar noch besser, wenn es ein echter Prototyp der Plattform war
+T4	Premise 218 374	Mit einem Prototyp können Sie genau zeigen, dass Ihre Plattform einfach, schnell und bequem ist aus dem jetzigen Storyboard ist diese leider nicht beweisbar
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 376 442	Auf jedem Fall sind alle Schritte klar und detailliert beschreiben
+T6	Claim 444 495	Die Darstellung, wie schon gesagt, kann besser sein
+T7	Premise 510 578	im Slide 8 Enter your preferences gibt es eine Liste von Präferenzen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 580 923	Vielleicht in diesem Fall wäre es besser, eine Reihenfolge von ganze Prozess in alle Slide zu haben, damit der Kunde genau weißt, wie lange dauert noch die Buchung, was fehlt und was er schon gemacht hat etwas wie Kind of event > Date  Time > People > Budget > ... oben oder unten zu zeigen und das aktuelle Schritt zu unterstreichen/markieren
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 945 991	muss der zweiten Schritt mehr detailliert sein
+T10	Premise 1006 1038	Ich wähle Bier, aber welche Bier
+T11	Premise 1040 1074	Ich wähle Sushi, aber welche Sushi
+T12	Premise 1076 1083	Sashimi
+T13	Premise 1085 1113	Welche Fish Salmon, Tuna,...
+R7	supports Arg1:T10 Arg2:T9	
+R8	supports Arg1:T11 Arg2:T9	
+T14	Premise 1115 1140	Ich wähle DJ, aber welche
+T15	Premise 1142 1180	Welche Musik mag ich und mag ich nicht
+T16	Premise 1182 1221	Ich wähle Hookah, aber welche Geschmack
+R9	supports Arg1:T14 Arg2:T9	
+R10	supports Arg1:T15 Arg2:T9	
+R5	supports Arg1:T12 Arg2:T9	
+R6	supports Arg1:T13 Arg2:T9	
+R11	supports Arg1:T16 Arg2:T9	
+T17	Premise 1223 1270	Ich will nur eine Hookah und nicht für 20 Leute
+T18	Premise 1275 1304	nur die anderen rauchen nicht
+R12	supports Arg1:T18 Arg2:T17	
+R13	supports Arg1:T17 Arg2:T9	
+T19	Premise 1345 1486	Es geht eigentlich um mehrere Features und Auswahlmöglichkeiten anzuzeigen, damit die Anforderungen der Kunde besser befriedigt werden können
+R14	supports Arg1:T19 Arg2:T9	
+T20	Claim 1488 1648	Was fehlt ist eine Schritte nach Summary, wo der Kunde direkt in der Plattform Fragen oder Kommentare an die Anbieter der Service oder an MyEvent schreiben kann
+T21	Premise 1663 1823	Eine Seite wo alle Anbieter Boat, Food, Beverage, DJ,... anwesend sind und der Kunden per Chat oder als Kommentar Fragen stellen und einen Antwort bekommen kann
+R15	supports Arg1:T21 Arg2:T20	
+T22	Premise 1825 2085	Eine Kontaktphase online oder mit einer Bezugsperson zwischen die Buchung und das Event fehlt Leute wollen sicher sein, das alles TipTop läuft und wollen in Kontakt mit den Anbieter oder mit MyEvent sein, um eine Bestätigung zu haben, das alles nach Plan läuft
+R16	supports Arg1:T22 Arg2:T20	
+T23	Claim 2087 2236	Alternativ kann ein Step eingefügt werden immer nach Summary, wo der Kunden in sein Account jede 3 Tage ein Update zum Organisation der Event bekommt
+T24	Premise 2250 2450	Boot reserviert, Beverages geliefert, DJ kontaktiert,... so kann der Kunde einen Einblick in die Reservierung der Event haben, fühlt sich sicher und ist bewusst, dass die Situation unter Kontrolle ist
+R17	supports Arg1:T24 Arg2:T23	

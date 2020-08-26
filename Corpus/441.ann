@@ -1,0 +1,17 @@
+T1	Claim 9 71	Ich finde deine Idee toll und deine Website kommt ja auch bald
+T2	Claim 73 135	Ich glaube mit genügend Voshern wird die Nachfrage auch blühen
+T3	Claim 137 235	Ich finde den ganzen Prozess und die Value Proposition ziemlich gut gemacht und total einleuchtend
+T4	Claim 237 316	Die Website ist so auch gut übersichtlich und muss nur noch funktionsfähig sein
+T5	Claim 318 398	An deiner value Proposition und dem ganzen Ablauf gibt es also nichts zu meckern
+T6	Claim 400 467	Der Kundenprozess ist klar und übersichtlich und einfach formuliert
+T7	Claim 492 671	Bei deinem Story board habe ich nur einen kleinen Vorschlag Ich denke vielleicht solltest du die einzelnen bullet points einfach auf die seite schreiben, wo auch das Bild dazu ist
+T8	Premise 673 702	Dann ist es fast wie ein Film
+R1	supports Arg1:T8 Arg2:T7	
+T9	Claim 704 831	Auf der ersten Seite schreibst du auch zweimal, dass der Kunde seine PLZ eingeben muss, was das Bild dann ein drittes Mal zeigt
+T10	Premise 833 917	Mein Vorschlag Umkreise den Button PLZ doch und mach eine Sprechblase mit dem Inhalt
+R2	supports Arg1:T10 Arg2:T9	
+T11	Claim 931 1098	im zweiten Slide mach doch rote Kreise um genau die Funktion und schreib in die Speech bubble dazu Preis, rating, Heimlieferung, bei select this voucher dann eine zahl
+T12	Premise 1105 1144	4. Auf dem dritten slide dann ebenfalls
+R3	supports Arg1:T12 Arg2:T11	
+T13	Premise 1149 1386	machst du es übersichtlicher und der Leser muss dann nicht suchen Welcher bullet point gehört jetzt zu welchem Bereich auf der website sondern sieht, wie alles schö nacheinander passiert mithilfe von zahlen und erklärenden speech bubbles
+R4	supports Arg1:T13 Arg2:T11	

@@ -1,0 +1,26 @@
+T1	Claim 11 52	Ich finde die Bearbeitung der Aufgabe gut
+T2	Premise 54 142	Die Hauptfragen zu jedem der sechs Teile des Value Proposition Canvas wurden beantwortet
+T3	Premise 144 227	Teilweise wären ausformulierte Antworten für ein besseres Verständnis wünschenswert
+R1	supports Arg1:T2 Arg2:T1	
+R2	attacks Arg1:T3 Arg2:T1	
+T4	Premise 229 265	Die Idee des WellBeing ist erkennbar
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 270 353	es sich bei einem solchen Praktikumsjahr um eine integrierte AllinOneLösung handelt
+R4	supports Arg1:T5 Arg2:T4	
+T6	Claim 381 482	Bei den Pains könntest du vielleicht hinzufügen, dass bereits die Stellensuche sehr zeitaufwändig ist
+T7	Premise 489 651	wird heute oft bereits für Praktikumsstellen ein gewisses Mass an Arbeitserfahrung vorausgesetzt, was es für Studierende schwierig macht, den Einstieg zu meistern
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 652 709	Deinen Punkt Master ab Feld 0 beginnen verstehe ich nicht
+T9	Claim 711 759	Hier wäre eine weitere Erläuterung wünschenswert
+R6	supports Arg1:T8 Arg2:T9	
+T10	Claim 760 836	Zu den Gain Creators zählt möglicherweise auch die gewonnene Praxiserfahrung
+T11	Claim 837 1051	Ich finde die Idee an sich gut, bin jedoch unsicher, wie gut umsetzbar diese ist, denn          Es müssten sich Unternehmen zur Verfügung stellen, die sehr abwechslungsreiche und anspruchsvolle Projekte durchführen
+T12	Premise 1052 1118	Die Bezahlung müsste gemäss Produktbeschreibung ziemlich hoch sein
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 1119 1307	Inwiefern ein direkter Bezug z.B. zu den Pflichtkursen des MBI möglich ist, kann ich schlecht einschätzen  ich denke aber, dass dies eher kritisch sein könnte die Idee finde ich jedoch gut
+T14	Claim 1308 1400	Ob die Unternehmen dann auch noch interessiert sind an einem Coaching wage ich zu bezweifeln
+R8	supports Arg1:T13 Arg2:T10	
+T15	Premise 1415 1460	Die Unternehmen scheinen sehr viel zu leisten
+R9	supports Arg1:T15 Arg2:T10	
+T16	Premise 1462 1491	Was genau erhalten sie zurück
+R10	supports Arg1:T16 Arg2:T10	

@@ -1,0 +1,35 @@
+T1	Claim 20 145	Das Ziel, welches hinter MatchUrAppointment steht, hat sehr viel Potential um die Dienstleistungsindustrie zu revolutionieren
+T2	Premise 147 181	Der Netzwerkeffekt wäre enorm hoch
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 187 319	ie Kundengruppen sehr heterogen sind und verschiedene Unternehmen mit unterschiedlichen Branchen auf der Plattform mitwirken könnten
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 321 533	Hier wurde eine wellbeing Lösung entwickelt, die eine wichtige Gemeinsamkeit an Bedürfnissen unter all diesen Unternehmen zum Geschäftsmodell gemacht hat Wunsch nach effizienten Terminvereinbarungen mit Endkunden
+T5	Claim 535 678	Bei einer ausführlichen und präzisen Ausarbeitung kann diese Idee bei B2B Kunden und beim Endkunden sehr viele Effizienzeinsparungen einbringen
+T6	Claim 693 861	Der Vergleich mit möglichen Wettbewerbern, wie lokalen Online Terminkalendern von einzelnen Unternehmen, wird nicht in der Ausformulierung der Value Proposition genannt
+T7	Claim 866 1027	Bei Customer Jobs würde eine Unterteilung in funktionale Jobs, soziale Jobs und emotionale Jobs helfen, die Bedürfnisse der Kunden besser strukturieren zu können
+T8	Claim 1042 1106	fehlt bei der gesamten Ausarbeitung die Sichtweise der Endkunden
+T9	Premise 1108 1188	In der Ausformulierung wurden nur die B2B Kunden als unsere Kunden identifiziert
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 1190 1267	Endkunden gilt es ebenfalls für die Idee von MatchUrAppointment zu begeistern
+T11	Premise 1272 1333	nur durch diese schliesslich ein Gewinn generiert werden kann
+R4	supports Arg1:T10 Arg2:T8	
+R5	supports Arg1:T11 Arg2:T10	
+T12	Premise 1335 1460	Widersprüchlich dazu, wurden jedoch in der Ausformulierung der Value Proposition die Vorteile für die Endkunden hervorgehoben
+R6	supports Arg1:T12 Arg2:T8	
+T13	Claim 1465 1556	Die Pains, Gains sind nicht vollständig auf die Pain Reliever und Gain Creator ausgerichtet
+T14	Premise 1558 1724	Im Grobkontext wird dem Leser der Zusammenhang dennoch klar, jedoch sollte darauf geachtet werden, durch Struktur eine bessere Übersicht über das Erarbeitete zu geben
+R7	supports Arg1:T14 Arg2:T13	
+T15	Claim 1777 1979	Beim Miteinbezug von Wettbewerbern soll darauf geachtet werden, dass nicht die Nachteile der Wettbewerber aufgelistet werden, sondern viel mehr der Vorteil der sich für MatchUrAppointment dadurch ergibt
+T16	Claim 1985 2166	In der Ausformulierung der Value Proposition soll darauf geachtet werden, dass der Fokus nicht zu stark auf dem B2B Kunden liegt, sondern auch der Endkunde besser miteinbezogen wird
+T17	Premise 2168 2304	Zwar interagiert MatchUrAppointment in erster Linie mit B2B Kunden, dennoch gilt es auch für Endkunden die Plattform attraktiv zu machen
+R8	supports Arg1:T17 Arg2:T16	
+T18	Claim 2306 2501	Dies sollte insbesondere auch in der gesamten Erarbeitung Endkunde miteinbeziehen der Customer Jobs , Pains, Gains, Product Services sowie Pain Relievers und Gain Creators sichtbar gemacht werden
+T19	Claim 2506 2661	Es wird empfohlen, für jeden einzelnen gelisteten Pain und Gain einen dazu gehörigen Pain Reliever und Gain Creator in chronologischer Abfolge zu erstellen
+T20	Premise 2672 2852	Beim zweit genannten Pain wird die nicht optimale KundenbedürfnisBefriedigung hervorgeheben, durch die nicht vorhandene 24/7 Verfügbarkeit auf die Dienstleistung Terminkoordination
+R9	supports Arg1:T20 Arg2:T19	
+T21	Premise 2854 2917	Hier ist der erste Pain Reliever als zweiter Bullet aufzulisten
+R10	supports Arg1:T21 Arg2:T20	
+T22	Premise 2922 2971	er genau dem gerade genannten Pain entgegen wirkt
+R11	supports Arg1:T22 Arg2:T21	
+T23	Premise 2973 3119	So kann etwas mehr Struktur in die erarbeitete Analyse gebracht werden, um die bereits gut vorhandene Qualität der Value Proposition hervorzuheben
+R12	supports Arg1:T23 Arg2:T22	

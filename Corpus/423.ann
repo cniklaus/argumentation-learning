@@ -1,0 +1,24 @@
+T1	Claim 35 83	Sehr guter Gebrauch des Value Proposition Canvas
+T2	Claim 155 300	Bei den Customer Jobs würde ich auf der Autorenseite die hohen Hürden für eine Publikation reinnehmen  könnte aber auch direkt in die Pains gehen
+T3	Claim 304 461	Bei den Gains könnte man einen Mechanismus einbauen, der eine Empfehlung von Büchern ermöglicht aufgrund der eigenen Bewertungen und bisher gelesenen Büchern
+T4	Claim 465 591	Autoren von Nischenliteratur haben es sehr schwierig eine breitere Leserschaft zu erreichen  würde dies bei den Pains erwähnen
+T5	Premise 635 756	Aus meiner Sicht sind die Kosten nicht das Hauptproblem, das deine Plattform löst, sondern einen erfreulichen Nebeneffekt
+T6	Premise 758 930	Ich würde das Hauptproblem in der Schwierigkeit der Veröffentlichung sehen auf der Autorenseite und von der Leserseite, dass kleinere Literatursegmente nicht bedient werden
+T7	Claim 932 1012	Durch eine Umformulierung, könnte man hier sicherlich eine Verbesserung erzielen
+R1	supports Arg1:T5 Arg2:T6	
+R2	supports Arg1:T6 Arg2:T7	
+T8	Claim 1017 1091	Die Benefits der Plattform werden aus meiner Sicht sehr gut herausgestellt
+T9	Premise 1093 1177	Ich sehe gerade in den verschiedenen Interaktionsmöglichkeiten ein grosses Potential
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 1182 1397	Leider würde das Problem in der Value Proposition nicht quantifiziert  sicherlich schwierig, aber wenn du eine Zahl der abgewiesenen Bücher einarbeiten könntest, wird einem auch besser klar wie gross das Problem ist
+R4	attacks Arg1:T10 Arg2:T8	
+T11	Claim 1402 1488	Wenn möglich solltest du in der Value Proposition beispielhafte Einsparungen aufzeigen
+T12	Premise 1490 1600	Bei diesem Geschäftsmodell sehe ich jedoch nicht direkt die Einsparungen die quantitativ gemacht werden können
+R5	supports Arg1:T12 Arg2:T11	
+T13	Claim 1604 1663	Versuche dich noch besser von den Wettbewerbern abzugrenzen
+T14	Premise 1665 1697	Was machst du neu/besser als sie
+R6	supports Arg1:T14 Arg2:T13	
+T15	Premise 1699 1742	Schau dir zum Beispiel www.goodreads.com an
+R7	supports Arg1:T15 Arg2:T13	
+T16	Premise 1744 1774	Geht in eine ähnliche Richtung
+R8	supports Arg1:T16 Arg2:T15	

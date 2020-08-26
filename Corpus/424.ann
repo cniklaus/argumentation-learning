@@ -1,0 +1,21 @@
+T1	Claim 11 83	Die Idee finde ich super, nur ist dir Apple bereits einen Schritt voraus
+T2	Premise 85 172	Das bereits integrierte App News kommt mit dem neuen Betriebssystem auf das iPhone/iPad
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 174 358	Darin kann der interessierte Leser aus einer grossen Auswahl seine LieblingsMedien auswählen und hat so eine Überblick über die News, welche er gerne liest und welche ihn interessieren
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 365 454	News von Apple lernt vom Nutzerverhalten und sendet PushNotifications auf dein Smartphone
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 456 571	Der meiste Content wird kostenlos zur Verfügung gestellt, bei Abonnements kann das Konto auf News übertragen werden
+R4	supports Arg1:T5 Arg2:T1	
+T6	Claim 572 670	Fraglich ist, wie hoch die Zahlungsbereitschaft ausfällt, wenn Apple es praktisch kostlos anbietet
+T7	Claim 672 727	Und ob die Mensch für einen Filter zahlen, ist unsicher
+T8	Claim 729 813	Vielleicht kannst du erläutern, was du mit schwierig zugänglichen Nachrichten meinst
+T9	Premise 815 876	Interessant wären hier zum Beispiel wissenschaftliche Artikel
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 878 998	Da wäre die Zahlungsbereitschaft sehr wahrscheinlich höher und die Informationen sind häufig auch schwieriger Zugänglich
+R6	supports Arg1:T10 Arg2:T8	
+T11	Claim 999 1134	Im nächsten Schritt würde ich das Geschäftsmodell nochmals überdenken und ein Differenzierungsmerkmal gegenüber News von Apple ausbauen
+T12	Premise 1149 1199	finde ich die Integration von Amazon wirklich cool
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 1201 1218	Das hat Potenzial
+R8	supports Arg1:T13 Arg2:T12	

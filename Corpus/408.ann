@@ -1,0 +1,19 @@
+T1	Claim 72 285	Die vorgestellte App schafft einen grossen Mehrwert für den User, das Wohlbefinden bzw. wellbeing wird gefördert indem ein grosser Stressor auf Allergien und Unverträglichkeiten achten aus dem Alltag entfernt wird
+T2	Claim 302 472	werden nicht nur Pains beseitigt, sondern auch Gains geschaffen durch die zusätzlichen Funktionalitäten wie die webbasierte InformationsPlattform und dem RestaurantFinder
+T3	Claim 539 623	Es wird nicht differenziert zwischen Allergikern und ernährungsbewussten Konsumenten
+T4	Premise 625 895	Für Allergiker, bei denen der Konsum bestimmter Nahrungsmittel lebensgefährlich sein kann, braucht es vermutlich eine andere App und eine andere Value Proposition als für jemanden mit leichten Unverträglichkeiten oder einfach nur einem ausgeprägten Ernährungsbewusstsein
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 910 1125	wird ein Allergiker vermutlicher weniger Interesse an der Nutzung eines Forums zum Austausch mit anderen Allergikern als jemand, der sich sehr bewusst ernährt und sich da gerne mit Gleichgesinnten austauschen möchte
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 1127 1315	In anderen Worten Für einen Allergiker kann ein solches Produkt schon fast in die Kategorie Medizinprodukt fallen während für andere User es eher unter die Kategorie LifestyleProdukt fällt
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 1317 1413	Dies hat deutliche Implikationen sowohl für das BusinessModel als auch für die Value Proposition
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 1535 1614	Die Zielgruppe für die App sollte noch einmal ganz klar herausgearbeitet werden
+T9	Premise 1616 1821	Unterschiedliche Zielgruppen unterscheiden sich in ihren Pains und Gains  um das wellbeing der App zu maximieren sollte eine Zielgruppe mit ihren jeweiligen spezifischen Pains und Gains angesprochen werden
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1840 1959	könnte man überlegen, ob man die Value Proposition etwas allgemeiner fasst und nicht auf jedes einzelne Feature eingeht
+T11	Premise 1964 2004	sich die Idee im Anfangsstadium befindet
+T12	Premise 2005 2081	sollte man die Value Proposition nicht zu stark an einzelne Features knüpfen
+R6	supports Arg1:T11 Arg2:T12	
+R7	supports Arg1:T12 Arg2:T10	

@@ -1,0 +1,18 @@
+T1	Claim 540 620	Die Pains entsprechen den Hindernissen, Schwierigkeiten und Problemen der Kunden
+T2	Claim 669 700	die genannten Gains machen Sinn
+T3	Premise 703 858	Die Pain Relievers adressieren und beseitigen die Pains der Kunden und verringern sogar mit deren leichter Anwendung die Eintrittsbarrieren für neue Nutzer
+T4	Claim 860 935	Somit ist ein fit zwischen dem Service und den Kundenwünschen gewährleistet
+R1	supports Arg1:T3 Arg2:T4	
+T5	Claim 937 972	Dasselbe gilt für die Gain Creators
+T6	Premise 974 1087	Mithilfe des Services kann ein Kunde das für ihn oder sie passende Packet zusammenstellen und installieren lassen
+R2	supports Arg1:T6 Arg2:T4	
+T7	Claim 1090 1158	Die Products  Services sind klar definiert und mit Beispielen belegt
+T8	Claim 1208 1294	Die Customer Jobs entsprechen nicht dem allgemeinen Ablauf der Eigentumsinstandhaltung
+T9	Premise 1296 1415	Hier sollte beschrieben werden z.B. Der Kunde bemerkt, dass , Der Kunde informiert sich über , Der Kunde erledigt, usw.
+T10	Premise 1416 1578	D.h. der Ablauf der Tätigkeiten und Jobs die ein Kunde erfüllen muss um sein Eigentum instand zu halten und kontrollieren zu können sollen hier aufgelistet werden
+R3	supports Arg1:T9 Arg2:T8	
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 1580 1649	Diese Abläufe müssen dann durch die Products  Services bedient werden
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 1715 1766	Achte nur darauf, dass du die Customer Jobs anpasst
+T13	Claim 1768 1827	Insgesamt ist deine Idee originell und die Ausarbeitung top

@@ -1,0 +1,26 @@
+T1	Premise 67 139	Die kurze Einführung am Anfang der Präsentation hilft dem Leser ungemein
+T2	Claim 141 280	Finde ich eine sehr gute Idee und sollte in die Aufgabenstellung der nächsten Jahre aufgenommen werden, denn es erleichtert das Peer Review
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 283 340	Positiv finde ich auch die Ausführungen zum Kundenprozess
+T4	Premise 342 464	Vor allem beim letzten Punkt macht eine Konkretisierung Sinn um die breiten Begriffe Zusatzleistungen mit Inhalt zu füllen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 467 579	Als Stärke sehe ich unteranderem den einfach beschriebenen und klar nachvollziehbaren Kundennutzen des Produktes
+T6	Premise 591 698	jede Person ist bereits in dieser Situation gewesen und kann sich deswegen mit der Storyline identifizieren
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 713 869	Ich würde die Storyline auf einer WG aufbauen wo mehrere Leute den gleichen Kühlschrank plündern und es somit noch schwieriger ist den Überblick zu behalten
+T8	Claim 965 1064	Ich bin nicht ganz einverstanden, dass Serviceleistungen erst am Schluss des Kundenprozesses stehen
+T9	Premise 1076 1174	die Installation des KitchenStores kann durchaus als zusätzliche Serviceleistung verstanden werden
+T10	Premise 1192 1296	würde ich entweder den Begriff Serviceleistungen definieren oder auf einen anderen Begriff zurückgreifen
+T11	Premise 1303 1356	Wartungsleistungen/ bzw. Serviceleistungen beim Umzug
+R5	supports Arg1:T11 Arg2:T10	
+R4	supports Arg1:T9 Arg2:T10	
+R6	supports Arg1:T10 Arg2:T8	
+T12	Claim 1359 1460	Einen weiteren Punkt den ich nicht nachvollziehen kann, ist die Anordnung der Bilder in der Storyline
+T13	Premise 1462 1612	Ich verstehe nicht warum es manchmal zwei Bilder, manchmal nur eins hat und warum die einzelnen jeweils einmal rechts und einmal links angeordnet sind
+R7	supports Arg1:T13 Arg2:T12	
+T14	Premise 1624 1748	hier müsste eine gewisse Kontinuität oder eine nachvollziehbare Logik angestrebt werden um die Lesefreundlichkeit zu erhöhen
+R8	supports Arg1:T14 Arg2:T12	
+T15	Claim 1817 1934	In der Überarbeitung empfehle ich den Kundenprozess anhand einer WG aufzuzeigen, und ihn ein wenig zu kürzen 2 Folien
+T16	Claim 1942 2076	empfehle ich pro Absatz in der Storyline ein Bild zu verwenden und klar zu kennzeichnen welches Bild zu welchem Absatz gehört das kann
+T17	Premise 2083 2212	erreicht werden indem die Bilder Horizontal im oberen Bereich der Folie und die Beschreibungen direkt unterhalb angeordnet werden
+R9	supports Arg1:T17 Arg2:T16	

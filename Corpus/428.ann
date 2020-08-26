@@ -1,0 +1,26 @@
+T1	Premise 94 210	ich das Value Proposition Canvas verständlich finde, obwohl mir die Beschreibung des Geschäftsmodells aus LE01 fehlt
+T2	Claim 211 313	Das ist sehr positiv und sicher auch dank der definierten Value Propsition am Schluss klar ersichtlich
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 325 425	In seinen Grundprinzipien istdie Appeine sehr interessante Idee, die ich sicher auch verwenden würde
+T4	Claim 432 526	befriedigt sie das Bedürfnis vieler Menschen die aktuellen Infos immer und überall zu erhalten
+T5	Claim 528 676	Einen Pluspunkt der App finde ich, dass sie personalisiert werden kann und dass im Gegenzug auch Vorschläge mit interessanten Artikel gemacht werden
+T6	Claim 684 772	spricht sie klar einen Pain an, da es heutzutage viele verschiedene Nachrichtenapps gibt
+T7	Claim 774 898	Hinsichtlich Form des Value Proposition Canvas bleibt zu sagen, dass die Beschreibung der Value Propositiongut aufgebaut ist
+T8	Premise 903 1015	mit der Analysedes Customer Jobs gestartet wird, welche wiederum in die vier Ausprägungen heruntergebrochen wird
+R2	supports Arg1:T8 Arg2:T7	
+T9	Premise 1020 1099	wird demLeser klar, welche drei Ebenen an Kundenbedürfnissenangesprochen werden
+R3	supports Arg1:T9 Arg2:T8	
+T10	Claim 1106 1177	bezüglich Inhalt deckt das Value Propositon Canvas  wichtige Aspekte ab
+T11	Premise 1179 1276	Die Pains Relievers und Gains Creators des Kundenfinde ich präzise und beinhalten relevante Infos
+R4	supports Arg1:T11 Arg2:T10	
+T12	Claim 1284 1411	finde ich es auch gut, dass das Produkt und der Service klar beschrieben wird und somit das Geschäftsmodell verständlich machen
+T13	Premise 1504 1705	Eine Schwäche sehe ich darin, dass aus der Value Proposition nicht genau hervorkommt, was genau der Mehrwert der Plattform für die Nachrichtenagenturen ist und wie die Blogfunktion genau gesteuert wird
+T14	Premise 1707 1787	Das hängt sicher damit zusammen, dass ich das Geschäftsmodell nicht lesen konnte
+T15	Claim 1789 1897	Diese Punkte würde ich bei Products  Servies weiter ausbauen, sowie bei den Pain Relievers und Gain Creators
+R5	attacks Arg1:T14 Arg2:T13	
+R6	supports Arg1:T13 Arg2:T15	
+T16	Claim 2030 2193	Products  Services Wie bereits unter Punkt 2. erwähnt, sollte hier meines Erachtens der Zusammenhang mit Facebook und die Blogfunktion detaillierter erklärt werden
+T17	Claim 2196 2416	ustomer Jobs bei sich einbringen könnte auch noch über ein Kommentarfeld bei den jeweiligen Artikel oder in einer Community e.g. Gruppenchat, wo jeder seine Meinung überverschiedene Themenpreisgeben kanndiskutiert werden
+T18	Claim 2424 2544	für mich sind die Gains nicht ganz verständlich, weshalb ich es gut fände, wenn du diese nochweiter ausarbeiten könntest
+T19	Premise 2546 2588	Wie ist hier der Zusammenhang mit Facebook
+R7	supports Arg1:T19 Arg2:T18	
