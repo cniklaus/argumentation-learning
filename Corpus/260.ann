@@ -1,0 +1,29 @@
+T1	Claim 18 62	Yourshare löst ein eindeutiges Kundenproblem
+T2	Premise 63 165	Anbieten eines Services über den gesamten Kundenprozess End2end mit Hilfe neuer digitalen Technologien
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 165 197	Ansprechen von B2CKunden und B2B
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 225 277	Keine Grafik bei der Darstellung der Geschäftsfelder
+T5	Premise 278 363	so wie in der Vorlesung kann mir vorstellen, dass dies unser Dozent gerne sehen würde
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 363 399	Verstehe das How noch nicht so genau
+T7	Premise 400 577	Zum einen werden die Daten über die Kunden bzw. deren Verhalten analysiert und zum anderen geben Kunden aktiv Daten ein, welche dann auch den anderen Kunden zur Verfügung stehen
+T8	Premise 579 665	Wie stellst du sicher, dass der Kunde bei dir bleibt und bei dir die Transaktion macht
+R4	supports Arg1:T7 Arg2:T6	
+T9	Premise 667 815	Könnte er sich denn nicht die Information bei YourShare holen und schlussendlich bei Swissquote oder einer anderen Plattform die Transaktion tätigen
+T10	Premise 817 866	Wie bindest du also den Kunden an deine Plattform
+R5	supports Arg1:T8 Arg2:T10	
+R6	supports Arg1:T9 Arg2:T8	
+R7	supports Arg1:T10 Arg2:T6	
+T11	Claim 867 937	Wie geht YourShare mit den ganzen Regulationen in der Finanzbranche um
+T12	Premise 939 976	Gibt es diesbezüglich Schwierigkeiten
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 1043 1202	Konkurrenz Gibt es im Ausland bereits eine ähnliche Unternehmung welche einen solchen Service anbietet irgendwelche Startups gibt es bestimmt in diesem Bereich
+T14	Claim 1204 1287	Falls ja, wie geht diese vor bei der Umsetzung und wie hebt sich YourShare davon ab
+R9	supports Arg1:T13 Arg2:T14	
+T15	Claim 1288 1353	Kundenbindung Mittels Gamefication die Kunden an YourShare binden
+T16	Premise 1360 1479	Wer eine bestimmte Anzahl gewinnbringende Transaktionen pro Jahr macht wird erhält ein höheres SkillLevel, irgend sowas
+R10	supports Arg1:T16 Arg2:T15	
+T17	Claim 1479 1531	Die B2BLösung könnte von Beginn weg angeboten werden
+T18	Premise 1533 1707	Dies könnte vor allem für sehr kleine Banken interessant sein, das sie so zu einem günstigen Beratungstool kommen über welches sie evtl. sogar mit Kunden kommunizieren können
+R11	supports Arg1:T18 Arg2:T17	

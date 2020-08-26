@@ -1,0 +1,26 @@
+T1	Claim 19 87	Die Kurzbeschreibung ist auf den Punkt gebracht und gut verständlich
+T2	Claim 89 122	Die Darstellung ist übersichtlich
+T3	Claim 124 200	Gute Anordnung der verschiedenen Teilnehmer des Netzwerkes WOYT in der Mitte
+T4	Claim 348 403	Value Ports sollten innerhalb der Value Interfaces sein
+T5	Claim 405 449	Die Value Interfaces haben abgerundete Ecken
+T6	Premise 451 505	Schau dir doch hierzu nochmals die Vorlesungsfolien an
+R1	supports Arg1:T6 Arg2:T5	
+R2	supports Arg1:T6 Arg2:T4	
+T7	Claim 507 539	Der Wertstrom Sale ist unpräzise
+T8	Premise 541 614	Kauft WOYT die Leistung direkt und verkauft sie dann an den Kunden weiter
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 616 642	Dann würde das Sinn machen
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 644 749	Ich würde aber Sale in Geld/Money umwandeln. Und dann Provision in Dienstleistung/ReiseGadget/Ticket etc.
+T11	Premise 755 803	die Provision an sich wird ja nicht ausgetauscht
+R5	supports Arg1:T11 Arg2:T10	
+T12	Premise 805 894	Es wird einfach weniger Geld transferiert, als dass WOYT danach vom Kunden verlangen kann
+R6	supports Arg1:T12 Arg2:T10	
+T13	Premise 897 971	Die Marktteilnehmer alle ausser WOYT sind wohl mehrere verschiedene, nicht
+T14	Premise 978 1008	nicht ein Kunde sondern KundeN
+T15	Claim 1022 1102	du müsstest die entsprechenden Rechtecke mehrfach hintereinander gereit abbilden
+R7	supports Arg1:T14 Arg2:T13	
+R8	supports Arg1:T13 Arg2:T15	
+T16	Premise 1104 1150	Siehe hierzu doch auch die Vorlesungsfolien an
+R9	supports Arg1:T16 Arg2:T15	
+T17	Claim 1152 1205	Strom von Kunde zu WOYT würde ich zu Geld umbenennnen

@@ -1,0 +1,27 @@
+T1	Claim 21 198	Es wird klar, dass dein Service eine gute Unterstützungsfunktion oder Assistenzlösung für den Kunden darstellt und er sich Schritt für Schritt auf das Health book verlassen kann
+T2	Premise 200 312	Vor allem für ältere Personen und vielbeschäftigte Personen finde ich die Tracking und Reminderfunktion sehr gut
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 326 449	Eine bildliche Darstellung von den Schritten, die der Kunde durchläuft und was er dabei macht fehlt hier und wäre hilfreich
+T4	Premise 451 486	Unklar sind für mich folgende Dinge
+T5	Premise 487 510	Was ist das health book
+T6	Premise 512 528	Wie sieht es aus
+T7	Premise 530 563	Ist es eine App oder eine Website
+T8	Premise 565 611	Wie meldet man sich an, wie nutzt es der Kunde
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T6 Arg2:T4	
+R4	supports Arg1:T7 Arg2:T4	
+R5	supports Arg1:T8 Arg2:T4	
+T9	Premise 613 666	Lädt er etwas hoch durch Scannen oder abfotografieren
+R6	supports Arg1:T9 Arg2:T4	
+T10	Claim 668 750	Eine bildlichere Darstellung wie die involvierten Akteurer vorgehen wäre hilfreich
+T11	Claim 753 803	Archivfunktion  Wo landen diese archivierten Akten
+T12	Premise 805 889	In einer cloud oder beim Arzt in seinen Daten oder beim Kunden selbst auf dem Profil
+R7	supports Arg1:T12 Arg2:T11	
+T13	Claim 916 1059	In deinem Kundenprozess fehlt mir wie der Kunde auf dein health book aufmerksam wird und wieso er sich für diese Art Service entscheiden sollte
+T14	Premise 1061 1196	Da könntest du vielleicht deine Partner miteinbeziehen, welche wahrsheinlich für diesen Service werben involvierte Ärzte, Spitäler etc.
+R9	supports Arg1:T14 Arg2:T13	
+T15	Claim 1197 1365	Ich würde die einzelnen Schritte und die Aktivitäten, die der Kunde sowie die anderen Akteure durchläuft, bildlicher darstellen und ausführen vgl. genannte Punkte in 2.
+R8	supports Arg1:T4 Arg2:T3	
+R10	supports Arg1:T3 Arg2:T15	
+T16	Premise 1366 1453	Es ist für mich nicht ersichtlich wie vereinfacht seine Aktivitäten sind in dem Prozess
+R11	supports Arg1:T16 Arg2:T15	

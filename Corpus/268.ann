@@ -1,0 +1,25 @@
+T1	Claim 22 71	Die Aufgabe wurde sehr ausführlich und gut gelöst
+T2	Premise 73 117	Gute kritische Erfolgsfaktoren ausgearbeitet
+T3	Premise 118 166	Massnahmen wurden gut ausgearbeitet und überlegt
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 182 311	Die Einleitung finde ich auf der einen Seite gut, jedoch macht sie die Aufgabe nur länger und ist meiner Meinung nach nicht nötig
+T5	Premise 312 465	Es reicht bei der Geschäftsfeldabgrenzung die verschiedenen Segmente zu melden à die Einleitung gehört meines Erachtens in die Rubrik KurzCharakteristika
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 466 543	Kann man die Kundensegmente nicht weiter unterteilen beziehungsweise betiteln
+T7	Premise 550 596	welche Kunden sind die wichtigsten für die App
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 598 666	In der Qualitativen Beschreibung fehlt etwas zur Umwelt  Technologie
+T9	Claim 667 703	Gibt es nicht noch weitere Schwächen
+T10	Premise 705 747	Wie werden beispielsweise die User betreut
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 776 823	Kundensegmente könnte man besser herausarbeiten
+T12	Premise 830 963	sagst du für die App wichtig sind Studenten und erwerbstätige vielbeschäftigte und dann machst du ein Segment mit dem Rest der Kunden
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 965 1025	Kann man bei Kooperationskanal als Kunde auch Feedback geben
+T14	Claim 1032 1084	was mache ich wenn ich mein Ticket nicht buchen kann
+T15	Claim 1086 1130	Sind die direkten Kunden nicht auch die User
+T16	Premise 1137 1228	wenn ein Community Gedanken aufkommen soll, dann muss man diese doch speziell betreuen oder
+T17	Claim 1230 1296	Ergänzung von Umwelt  Technologie in der Qualitativen Beschreibung
+T18	Claim 1298 1455	Zu Gefahren bei der SWOT Analyse könnte ebenfalls ein Ticketkauf zählen, werden zu viele gekauft und nicht unter die Leute gebracht, dann ersteht ein Defizit
+R7	supports Arg1:T16 Arg2:T15	

@@ -1,0 +1,22 @@
+T1	Claim 19 69	in spannender Ansatz zu einem hoch aktuellen Thema
+T2	Premise 71 167	Du zeigst gut auf, wie der ganze Peer2PeerAnsatz funktionieren soll und wer alles involviert ist
+T3	Premise 169 294	Angesichts der aktuellen politischen und gesellschaftlichen Situation könnte dein Geschäftsmodell auf grosse Resonanz stossen
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 324 386	solltest du noch etwas mehr auf deine Einnahmequellen eingehen
+T5	Premise 388 492	Wird Cash nur durch Werbung generiert oder siehst du noch weitere Möglichkeiten, Einnahmen zu generieren
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 500 576	würde ich noch stärker auf deinen USP gegenüber deinen Mitbewerbern eingehen
+T7	Premise 578 619	Warum soll deine Plattform benutzt werden
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 621 706	Was bietet deine Plattform für Vorteile gegenüber Facebook oder der öffentlichen Hand
+R5	supports Arg1:T8 Arg2:T7	
+T9	Claim 740 774	Aufzeigen, wie Cash generiert wird
+T10	Claim 776 789	USP aufzeigen
+T11	Claim 791 917	Bei deiner Plattform könnte es zudem noch interessant sein, wenn der Staat Gemeinde, Kanton oder Bund Jobs ausschreiben könnte
+T12	Premise 924 1029	Aufräumarbeiten, Bach putzen etc., die dann von Plattformuser z.B. Studenten oder Schüler erledigt werden
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 1031 1121	Diesen könnte dann auch ein Lohn für die verrichtende Arbeit gezahlt werden und du erhälst
+T14	Premise 1128 1151	eine Vermittlungsprämie
+R7	supports Arg1:T13 Arg2:T12	
+R8	supports Arg1:T14 Arg2:T13	

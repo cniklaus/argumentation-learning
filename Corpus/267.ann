@@ -1,0 +1,26 @@
+T1	Claim 21 100	Auch wenn das nicht ein Hauptkriterium war, aber wirklich sehr schön gezeichnet
+T2	Claim 102 151	Es hat Spass gemacht dein Storyboard durchzulesen
+T3	Claim 167 332	Du hast mit deinem Prozess nicht nur den Verlauf des Kaufs eines Produkts bis hin zur Nutzung beschrieben, sondern auch einen Case bei Störungsmeldung miteingebracht
+T4	Premise 334 418	Dieser Ansatz, wo auch die maintenance work miteinbezogen wird, gefällt mir sehr gut
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 420 614	Dadurch zeigst du in deinem Prozess, dass du dem Kunden einen langfristigen Nutzen geben möchtest, indem du ihn auch nach dem Kauf des Produkts noch mit zusätzlichen Dienstleistungen unterstützt
+R2	supports Arg1:T5 Arg2:T3	
+T6	Premise 633 694	Bezieht sich SimpleTech speziell nur auf Kücheninstallationen
+T7	Premise 701 746	ist die App auch für andere Anlagen verfügbar
+T8	Claim 748 828	Dies wird aus dem Kundenprozess nicht deutlich und sollte genauer umfasst werden
+R3	supports Arg1:T7 Arg2:T8	
+R4	supports Arg1:T6 Arg2:T8	
+T9	Claim 834 928	Bei Bild 9 und 10 hätte ich noch etwas mehr zu den Funktionen der App geschrieben / gezeichnet
+T10	Premise 930 1126	Du hast die Funktionen auf Bild 10 wirklich schön umschrieben, vielleicht könntest du hier bei einem weiteren Bild noch eine weitere Funktion aufzeigen, die für die Grossmutter einen Nutzen bringt
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 1132 1238	Den Zusammenhang zwischen dem Pain komplizierte Bedienung der Küche und von SimpleTech sehe ich nicht ganz
+T12	Premise 1240 1377	Entweder es gibt noch weitere Funktionen, die aufzeigen, wie die Bedienbarkeit der Küche für die Grossmutter einfacher wird durch das App
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 1379 1569	Oder die App hat mehr den Nutzen das Kochverhalten und Essverhalten des Kunden abzuspeichern und dementsprechend zu unterstützen, statt die physische Bedienbarkeit der Küche zu gewährleisten
+R7	supports Arg1:T13 Arg2:T11	
+T14	Claim 1615 1820	Für eine detailliertere Umschreibung des Kundenprozesses könnte man bspw. bei den ProzessSchritten Datenerfassung und Datenverarbeitung noch genauer beschreiben, um welche Daten, dass es sich genau handelt
+T15	Premise 1822 1964	Allein aus dem Kundenprozess wird nicht ersichtlich, was dein Produkt genau für einen Nutzen hat und welchen Prozess er für den Kunden erfüllt
+R8	supports Arg1:T15 Arg2:T14	
+T16	Premise 1970 2084	Für mich ist nicht ganz eindeutig, weshalb die Grossmutter die Küche nicht bedienen kann, aber das App dafür schon
+T17	Claim 2086 2347	Ich hätte den Sketch vielleicht eher so dargestellt, als ob die Grossmutter Mühe damit hätte, sich zu merken, wie lange sie für was braucht und welche Zutaten sie für welches Gericht braucht, statt den Pain auf die komplizierte Bedienung der Küche zu platzieren
+R9	supports Arg1:T16 Arg2:T17	

@@ -1,0 +1,22 @@
+T1	Claim 11 87	Interessante Idee, um seinen Kleiderschrank zu verwalten und neu zu bestücke
+T2	Claim 89 136	Insgesamt wurde die Idee schon stark durchdacht
+T3	Claim 224 291	bei der qualitativen Beschreibung fehlt die Beschreibung der Kunden
+T4	Premise 293 324	Welches ist die Hauptzielgruppe
+T5	Premise 326 345	Was macht diese aus
+T6	Claim 347 575	bzgl. Lieferanten wenn die Bestellungen nur weitergeleitet werden an die Modehäuser kann es für den Kunden extrem mühsam sein, wenn er ein ganzes Outfit bestellt, welches aus Kleidungsstücken von verschiedenen Geschäften besteht
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+T7	Premise 577 701	Dann kommen sagen wir einmal 5 einzelne Pakete an und der Kunde muss wenn er Pech hat 5 mal zur Post rennen, bis er alle hat
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 703 856	Ich denke, dass es für den Kunden angenehmer wäre, wenn DRESSsmart die Bestellungen bündeln würde, so dass das gesamte Outfit komplett beim Kunden ankomm
+R4	supports Arg1:T8 Arg2:T6	
+T9	Claim 859 918	wie genau kann der Kunde seine Kleidung in der App einfügen
+T10	Claim 920 982	Was passiert, wenn man Kleidung im Secondhandladen gekauft hat
+T11	Claim 984 1035	gibt es eine Möglichkeit die eigene Figur anzugeben
+T12	Premise 1037 1070	Ich denke, dass dies wichtig wäre
+T13	Premise 1075 1106	nicht jedem jeder Schnitt steht
+R5	supports Arg1:T13 Arg2:T12	
+R6	supports Arg1:T12 Arg2:T11	
+T14	Claim 1184 1261	Ausserdem sollte nocheinmal auf die Grammatik und den Satzbau geachtet werden
+T15	Premise 1266 1378	beide teilweise fehlerhaft sind und ab und zu ganze Wörter fehlen, welche zum besseren Verständnis wichtig wären
+R7	supports Arg1:T15 Arg2:T14	

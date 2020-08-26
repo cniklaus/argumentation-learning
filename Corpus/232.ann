@@ -1,0 +1,22 @@
+T1	Claim 78 140	Vielen Dank für die einleitenden Worte zu deiner Geschäftsidee
+T2	Premise 142 189	Dies macht es für den Beurteiler verständlicher
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 191 247	Der Kundenprozess ist verständlich und logisch aufgebaut
+T4	Premise 256 310	kann ich aber keine Interaktion mit ItFits feststellen
+T5	Premise 312 368	Ich nehme an, dass diese im Prozessschritt 4 stattfindet
+T6	Premise 375 497	müsste die Applikation noch downloadet, das Profil erstellt, die Massen eingetragen etc. werden, was nicht ersichtlich ist
+T7	Premise 499 633	Gemäss Vorlesung umfasst der Kundenprozess alle Aktivitäten, die der Kunde mit einem Unternehmen zur Lösung seines Problems durchführt
+T8	Claim 635 743	Der Kundenprozess ist demnach noch zu überarbeiten, idem er duch die fehlenden Aktivitäten noch ergänzt wird
+R2	supports Arg1:T4 Arg2:T8	
+R3	supports Arg1:T5 Arg2:T4	
+R4	supports Arg1:T6 Arg2:T4	
+R5	supports Arg1:T7 Arg2:T4	
+T9	Claim 746 778	Gleiches gilt für das Storyboard
+T10	Premise 785 827	hier sehe ich keine Interaktion mir ItFits
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 829 894	Die Darstellung bildet einen normalen Kaufprozess von Kleidung ab
+R7	supports Arg1:T11 Arg2:T10	
+T12	Premise 896 946	Auch ist keine frühe Phase des Designs ersichtlich
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 948 1044	Auch wenn es etwas zeitaufwändig ist, würde ich dir die Zeichnung eines kleinen Comics empfehlen
+R9	supports Arg1:T13 Arg2:T10	

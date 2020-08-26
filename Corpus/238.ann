@@ -1,0 +1,6 @@
+T1	Claim 11 116	Der Kundenprozess , wie er auf Seite 3 dargestellt ist wirkt gut strukturiert und ausreichend detailliert
+T2	Premise 118 275	Besonders hilfreich hierbei ist auch die knapp gehaltene Erklärung des Geschäftsmodells eingangs um den Kundenprozess in den entsprechenden Kontext zu rücken
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 277 549	Das Storyboard ist zwar sehr schön und aufwändig illustriert, zeigt meiner Meinung nach jedoch mehr wie der Kunde, in diesem Fall Hans auf die Idee kommt die Plattform zu nutzen und eine Art Sales Pitch zum Nutzen der Plattform als einen Kundenprozess im eigentlichen Sinn
+T4	Claim 556 736	bedarf es einiger Anpassungen, am besten einer 11 graphischen Umsetzung des auf Seite 3 der Arbeit erläuterten Kundenprozesses, wie der Kunde mit der ANYWHERE Plattform interagiert
+R2	supports Arg1:T3 Arg2:T4	

@@ -1,0 +1,13 @@
+T1	Claim 18 89	Die Geschäftsidee ist sehr innovativ und scheint auch umsetzbar zu sein
+T2	Claim 90 183	Die gewählte Darstellung zeigt sehr schön die Beziehungen zwischen den verschiedenen Akteuren
+T3	Premise 184 268	Es wurden alle wichtigen Akteure miteinbezogen und auf der zweiten Seite beschrieben
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 270 354	Die Beschreibungen erläutern die Rollen der einzelnen Partnern kurz und einleuchtend
+T5	Claim 354 445	Die Dreiecksbeziehung zwischen KundeMietverwaltungenSecurityFirma wurde richtig dargestellt
+T6	Claim 483 542	Es fehlt momentan noch die rote Linie für den Prozessablauf
+T7	Premise 544 656	Ausgehend von einem Stimulus sollte gezeigt werden, wohin sich dieser bewegt und wo er dann schlussendlich endet
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 657 836	Die einfache Umrandung symbolisiert mehrere Geschäftspartner, somit sollten die Elektriker, glaube ich, mehrmals umrahmt sein siehe Folie 31 der Vorlesung 5 Wertschöpfungsnetzwerk
+T9	Claim 836 975	Die Ecken der Value Ports sind nicht wirklich abgerundet, die dürfen nicht eckig sein siehe Folie 31 der Vorlesung 5 Wertschöpfungsnetzwerk
+T10	Claim 976 1135	Ich wäre bei der Beschreibung etwas genauer auf die Beziehungen zwischen den einzelnen Akteuren eingegangen, damit etwas klarer wird, wie sie zueinander stehen
+T11	Claim 1136 1253	Im Grossen und Ganzen wurde die Aufgabe sehr gut erfüllt und bei den Anmerkungen handelt es sich nur um Kleinigkeiten

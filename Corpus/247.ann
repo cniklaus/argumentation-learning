@@ -1,0 +1,10 @@
+T1	Claim 38 132	Das klingt nach einer guten, dedizierten Lösung mit  in meinen Augen  guten Zukunftsaussichten
+T2	Claim 134 230	Die Beschreibung ist insgesamt gut ausgearbeitet, fundiert begründet aber dennoch kurz und knapp
+T3	Claim 232 330	Es finden sich relativ viele Tippfehler, aber das dürfte hier von untergeordneter Wichtigkeit sein
+T4	Claim 397 439	Was meinst du mit Mieter im oberen Segment
+T5	Claim 441 568	Evt. präzisieren Als kritischen ERfolgsfaktor sehe ich zusätzlich zu den von dir genannten auch den der einfachen Anwendbarkeit
+T6	Claim 569 739	Eine weitere Gefahr sehe ich insbesondere auch durch den stärker vorangetriebenen Ausbau der Sensortechnik durch die grossen wie v.a. Amazon siehe Amazon dash und Samsung
+T7	Claim 741 864	eine weitere Gefahr dürfte auch die immer weiter zunehmende Produktfülle bei gleichzeitig weiterhin fehlendem Standard sein
+T8	Premise 866 930	Je früher hier ein Standard gefunden werden könnte, desto besser
+R1	supports Arg1:T8 Arg2:T7	
+T9	Claim 932 1265	Mit jedem weiteren Tag wird es noch schwieriger resp. der Range an anteilsmässig unterstützten Produkten kleiner. evt. noch etwas ausführen, wie der physische Verkauf der gemäss eigenen Angaben nötig sein wird aussehen soll evt. weitere Massnahme Gewinnen von early adopters und lead usern sodass virale Effekte genutzt werden können

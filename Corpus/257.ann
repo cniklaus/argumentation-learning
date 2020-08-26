@@ -1,0 +1,27 @@
+T1	Claim 131 187	Wieso schliesst du jedoch Debitoren der Firmenkunden aus
+T2	Claim 190 239	ieso sind deine Kunden nicht auch Geschäftskunden
+T3	Premise 241 319	Hier könntest du auch mit kleinen Extras wie automatischer Buchführung punkten
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 18 81	Du machst dir Gedanken über Geldtransaktionen im 21 Jahrhundert
+T5	Premise 83 129	Deine Idee soll den Geldtransfer beschleunigen
+R2	supports Arg1:T4 Arg2:T1	
+R3	supports Arg1:T4 Arg2:T2	
+R4	supports Arg1:T5 Arg2:T1	
+R5	supports Arg1:T5 Arg2:T2	
+T6	Claim 321 370	Bist du dir sicher dass du keine Lieferanten hast
+T7	Premise 372 396	Banken liefern dir Daten
+T8	Premise 398 418	Debitoren Rechnungen
+R6	supports Arg1:T7 Arg2:T6	
+R7	supports Arg1:T8 Arg2:T6	
+T9	Claim 422 472	m Kapitel Umwelt hast du bei Rahmend ein d zu viel
+T10	Claim 474 537	Ich glaube du schätzt deine Abhängigkeit von Banken zu hoch ein
+T11	Premise 539 628	Es gibt schon viele Dienstleistungen die Bankenunabhängig auf dein Konto zugreifen können
+T12	Premise 646 730	Paypal oder Sofortüberweisung auch wenn diese Sicherheitstechnisch sehr kritisch ist
+R8	supports Arg1:T11 Arg2:T10	
+R9	supports Arg1:T12 Arg2:T11	
+T13	Claim 732 815	Du schreibst dass du dich über das Angebot aber nicht über den Preis differenzierst
+T14	Premise 817 848	Wie viel wird das System Kosten
+R10	supports Arg1:T14 Arg2:T13	
+T15	Premise 855 933	in Kunden in der heutigen Zeit bereit für eine solche Dienstleistung zu zahlen
+R11	supports Arg1:T15 Arg2:T13	
+T16	Claim 936 998	Der Rest deiner Geschäftsfeldbeschreibung gefällt mir sehr gut

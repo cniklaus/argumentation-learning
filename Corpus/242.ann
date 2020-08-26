@@ -1,0 +1,15 @@
+T1	Premise 25 154	Grundsätzlich finde ich Deine Lösung sehr gut, obwohl ich zuerst nicht wirklich verstanden habe, um was es bei Dir überhaupt geht
+T2	Claim 157 253	ielleicht solltest Du zu Beginn kurz erläutern, wie Deine Idee heisst, bzw. um was es dabei geht
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 255 401	Sehr gut finde ich auch, dass Du die drei Phasen pre, during und post einzeln betrachtest und so sicherstellst, dass Du den ganzen Zirkel abdeckst
+T4	Claim 408 533	Deine Beschreibung der Kundenbedürfnisse am Anfang des Prozesses erachte ich als einen guten Ausgangspunkt für Deinen Prozess
+T5	Claim 536 692	Das Einzige was ich eventuell an Deiner Lösung kritisieren würde, ist Folgendes Die Betrachtung Deines Prozesses ist stark von der Unternehmenssicht geprägt
+T6	Premise 694 854	Ich glaube nicht, dass dies zwingend schlecht oder falsch ist, denke aber, dass es mit Sicherheit auch sehr spannend wäre, die Kundensicht genauer zu betrachten
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 856 925	Ein Beispiel dafür findet sich im Schritt zwei, Kontakt und Anmeldung
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 927 1000	Du beschreibst aus UGSicht, wie der Kunde auf das Angebot aufmerksam wird
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 1002 1135	Vielleicht wäre es besser, wenn Du heir die Perspektive wechseln würdest  also Der Kunde sucht nach. und findet dort und dort Trimple
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1140 1247	Wie Du siehst sind die Verbesserungsvorschläge sehr überschaubar, was zeigt, dass Deine Lösung sehr gut ist

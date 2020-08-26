@@ -1,0 +1,10 @@
+T1	Claim 20 119	Gutes e3Value Modell mit allen involvierten Akteuren abgebildet, sowie deren Austauschverhältnissen
+T2	Claim 159 264	Ich verstehe den Zusammenhang zwischen ANYWHERE und HAPPY HOME nicht, der plötzlich auf Seite 3 auftaucht
+T3	Premise 266 336	Wo sind die Akteure, die du auf Seite 3 abbildest im e3 value Netzwerk
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 338 491	Wenn diese zusammengehören, würde ich diese unebedingt auch einzeln im e3 darstellen oder zumindest die einzelnen Funktionen abbilden im den 4 Vierrecken
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 498 636	ist ANYWHERE sowie ich es aus der ersten Beschreibung verstanden habe eine Plattform und etwas das man nicht noch zuerst installieren muss
+T6	Premise 638 699	wenn dies nicht der Fall ist, musst du das dringend erläutern
+R3	supports Arg1:T6 Arg2:T5	
+R4	supports Arg1:T5 Arg2:T2	

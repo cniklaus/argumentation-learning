@@ -1,0 +1,23 @@
+T1	Claim 11 92	Mir gefällt deine Geschäftsidee sehr und vor allem auch wie du sie umgesetzt hast
+T2	Premise 94 193	Die Abgrenzung des Geschäftsfeldes wurde sehr detailliert durchgeführt und ist somit sehr schlüssig
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 195 234	Die Idee mit den iBeacon ist echt super
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 236 404	Ich habe gerade letzte Woche daran gedacht, dass man beispielsweise mit der StuCard an vielen Orten Rabatte bekommt, die Leute dies aber meistens gar nicht recht wissen
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 406 447	Somit wäre eine Erinnerung einfach genial
+R4	supports Arg1:T5 Arg2:T4	
+T6	Claim 449 563	Es wäre super, wenn man im Profil angeben könnte, wann und über welche Angebote man genau informiert werden möchte
+T7	Premise 564 700	Bei den Mitbewerbern also Minodes GmbH Berlin versteht man im ersten Moment nicht ganz inwieweit diese Firma einen Mitbewerber darstellt
+T8	Premise 702 736	Machen Sie dasselbe in Deutschland
+T9	Claim 738 791	Vielleicht solltest du dies noch etwas ausformulieren
+R5	supports Arg1:T8 Arg2:T7	
+R6	supports Arg1:T7 Arg2:T9	
+T10	Claim 792 894	Betreffend Kernkompetenzen würde ich evt. noch die zeitnahe Bereitstellung von Spezialangeboten nennen
+T11	Premise 899 960	dies auch zu spontan Käufen führen kann und somit wichtig ist
+R7	supports Arg1:T11 Arg2:T10	
+T12	Claim 969 1187	würde ich allgemein bei den Kernkompetenzen und folglich auch bei den Stärken etwas verstärkt auf deine Leistung eingehen und was deine App speziell resp. einzigartig gegenüber der Konkurrenz/momentanen Angeboten macht
+T13	Claim 1188 1293	Bei den Massnahmen wird ganz genau klar, wie du vorgehen möchtest und was nötig ist, um dies zu erreichen
+T14	Claim 1294 1387	Gesamthaft finde ich, dass du die Aufgabe, das Geschäftsfeld zu beschreiben, super gelöst hat
+T15	Premise 1389 1422	Man kann alles gut nachvollziehen
+R8	supports Arg1:T15 Arg2:T14	

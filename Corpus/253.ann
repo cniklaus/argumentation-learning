@@ -1,0 +1,21 @@
+T1	Claim 11 93	Die Aufgabe ist absolut erfüllt worden, die einzelnen Punkte sind gut zu verstehen
+T2	Claim 94 206	Für mich ist jedoch nicht abschliessend klar, ob die App bloss Endverbraucher und Modeketten zusammenführen soll
+T3	Premise 208 296	Oder soll die App auch Kleidungsvorschläge geben anhand der vorhandenen Kleider der User
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 299 364	o dass also nicht zwangsläufig neue Kleider gekauft werden müssen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 366 517	Ansonsten würde es nicht so viel Sinn machen, dass beispielsweise das lokale Wetter miteinbezogen werden kann, aufgrund der Wartedauer auf Bestellungen
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 524 573	Würde ich die Kundensegmente weiter unterscheiden
+T7	Premise 591 688	nach Alter, Geschlecht, oder auch ob ein Kleidungsstil sportlich, elegant, streetlook oder so ist
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 689 850	Bei der Strategischen Ausrichtung würde ich auf jeden Fall noch vermehrt die Zusammenarbeit mit Modehäusern aufnehmen, eher sogar als das Arbeiten am Algorithmus
+T9	Premise 852 954	Ohne diese Kooperationen wird kein Geld eingenommen, und die App ist auch nicht attraktiv für die User
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 955 1087	Ähnliche Funktionen in Apps gibts beispielsweise bei Zalando, wo Kleidungsstücke fotografiert und dann direkt bestellt werden können
+T11	Premise 1093 1138	ie App das abgebildete Kleidungsstück erkennt
+R6	supports Arg1:T11 Arg2:T10	
+R7	supports Arg1:T10 Arg2:T8	
+T12	Claim 1149 1244	Ergänzend würde ich das Dokument nochmals kurz durchlesen und einige GrammatikFehler verbessern
+T13	Premise 1246 1296	so wurden beispielsweise einzelne Wörter vergessen
+R8	supports Arg1:T13 Arg2:T12	

@@ -1,0 +1,32 @@
+T1	Claim 21 129	Durchgängig logisch aufgebaute Geschäftsfeldbeschreibung, welche grösstenteils alle wichtigen Punkte abdeckt
+T2	Claim 153 226	Für mich wird nicht ganz klar, welche Art von Kundendaten die App sammelt
+T3	Premise 228 281	Gerade im Finanzbereich erscheint mir das sehr heikel
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 283 424	B2C Kunden könnten ein Problem damit haben, ihre Bankdaten/Transaktionen Bzw. was ist mit Verhaltensdaten gemeint? mit einer 3. App zu teilen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 426 581	Ist es möglich für einen Kunden, direkt über die App Wertransaktionen zu tätigen, wenn die Bank gar nicht mit dieser App arbeitet, bzw nicht angebunden ist
+T6	Premise 583 611	Stelle ich mir schwierig vor
+T7	Premise 616 699	ja die Transaktionen immer noch über die jeweilige Bank des Endkunden laufen müssen
+R3	supports Arg1:T7 Arg2:T6	
+R4	supports Arg1:T6 Arg2:T5	
+T8	Premise 703 766	Oder dient es dann für den Endkunden nur als Informationsquelle
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 784 882	Warum sollten Banken deine App einbinden, wenn sie damit ihr eigene Kundenberatung kannibalisieren
+T10	Premise 884 993	Dies ist ja der Mehrwert, den sie ihren Kunden bieten und damit allenfalls höhere Gebühren etc. rechtfertigen
+T11	Premise 995 1270	Falls die Bank dann ein App für die Beratung benutzt, welche auch für den Endkunden direkt verfügbar ist, und der Endkunde das weiss, dann wird er sich doch fragen, ob er nicht zu bspw. einer Bank mit tiefen Gebühren wechseln soll, welche jedoch keine Kundenberatung anbietet
+T12	Claim 1277 1451	als B2C Produkt kann ich mir die App gut vorstellen, es stellt sich dann jedoch die Frage wie die Wertpapiertransaktion von statten geht Wenn die Bank nicht angeschlossen ist
+R6	supports Arg1:T9 Arg2:T12	
+R7	supports Arg1:T10 Arg2:T9	
+R8	supports Arg1:T11 Arg2:T9	
+T13	Premise 1453 1488	Tritt die App selbst als Broker auf
+R9	supports Arg1:T13 Arg2:T12	
+T14	Claim 1491 1604	Im B2B Bereich stelle ich mir das schwierig vor, das Konzept einer Bank zu verkaufen, ist aber sicherlich möglich
+T15	Premise 1606 1672	Aus dem Text wird jedoch nicht wirklich klar, wie es angedacht ist
+T16	Premise 1674 1827	Allenfalls könnte die Bank, falls der Endkunde die Transaktion  Beratung über die App bezieht, einen Rabatt auf die Courtage oder die Depotgebühren geben
+R10	supports Arg1:T15 Arg2:T14	
+R11	supports Arg1:T16 Arg2:T15	
+T17	Premise 1833 1881	es sich um ein Leistung im Finanzbereich handelt
+T18	Claim 1883 2038	müsste meiner Meinung nach klarer aufgezeigt werden, als was für ein Akteur das App/Unternehmen auftritt Broker/Bank?/Vermögensverwalter/Informationsquelle
+R12	supports Arg1:T17 Arg2:T18	
+T19	Premise 2056 2160	das auch rechtlich hohe Auswirkungen darauf hat, was die App überhaupt anbieten kann, bzw. anbieten darf
+R13	supports Arg1:T19 Arg2:T18	

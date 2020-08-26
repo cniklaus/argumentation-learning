@@ -1,0 +1,19 @@
+T1	Claim 11 57	Das ist doch geklaut oder? Finde ich sehr geil
+T2	Premise 64 130	das Logo... und vor allem das Storyboard schaut sehr aufwendig aus
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 139 386	Klare zielführende Visualisierung des Storyboards Einbezug der drei Phasen des Customer Acitivity Cycles Berücksichtigung des Community Phänomens und sharing Möglichkeit mit Freunden Gutes praxisbezogenes Beispiel mit San Francisco auch im DT Kurs
+T4	Claim 398 503	Vielleicht noch ein wenig mehr ins Detail gehen und sich überlegen, wie die einzelnen Funktionen aussehen
+T5	Premise 505 649	Da sehe ich noch gewisse Schwierigkeiten, all die Funktionen nutzerfreundlich und intuitiv so zu plazieren, dass man es leicht und gerne benutzt
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 652 758	Klarer ausarbeiten wie die Informationen von Tripadvisor, Yelp, Swoodoo, etc. in Trimple integriert werden
+T7	Premise 760 920	Müssen einzelne Aspekte auf den jeweiligen Websiten recherchiert werden oder kann man alles sortiert und in einem einheitlichen Design über deine Seite einsehen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 936 1026	Am Anfang ein paar weniger Funktionen anbieten und genauer auf einen Kundenwunsch eingehen
+T9	Premise 1028 1250	Ist das Kernprodukt, dass ich etwas mit meiner Freundin zusammen planen kann, oder der Aspekt es danach zu Veröffentlichen oder ist es einfach nur ein Tool, mit dem ich einfacher meine Daten zu meinem Urlaub sortieren kann
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 1252 1314	Ausgangs Pain ist ja die Überforderung mit zu viel Information
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1316 1340	WIe genau behebst du das
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 1342 1456	Du fügst ja eher noch eine Informationsebene dazu indem man sich zustzlich noch Boards von Freunden anschauen kann
+R7	supports Arg1:T12 Arg2:T11	

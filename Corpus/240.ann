@@ -1,0 +1,34 @@
+T1	Claim 11 122	Die Idee sieht interessant aus und man versteht gut, was der Nutzer machen muss, um die App richtig zu benutzen
+T2	Premise 124 261	Es gibt eigentlich schon ein integriertes BenachrichtigungsSystem bei einem IPhone Beispiel hier, aber deine App geht ein bisschen weiter
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 263 423	Die Anwendung interessiert sich für die Kundenbedürfnisse und zwar die Benachrichtigungen, die für den Kunden wichtig sind und welche man auch später sehen kann
+T4	Premise 430 484	ist der Prozess kundenorientiert, das ist sehr wichtig
+R2	supports Arg1:T3 Arg2:T4	
+R3	supports Arg1:T4 Arg2:T2	
+T5	Claim 501 534	der Kundenprozess gut erklärt ist
+T6	Premise 536 556	es gibt sogar Bilder
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 558 618	Es steht auch sehr klar warum jemand diese App nutzen sollte
+T8	Premise 625 657	mehrere Beispiele gegeben werden
+R5	supports Arg1:T8 Arg2:T7	
+R6	supports Arg1:T7 Arg2:T5	
+T9	Premise 662 755	Für mich ist besonderes der Kundenprozess in der Phase During gut und detailliert beschrieben
+R7	supports Arg1:T9 Arg2:T5	
+T10	Premise 778 800	ein paar Sachen fehlen
+R8	attacks Arg1:T10 Arg2:T5	
+T11	Premise 802 1002	Man erfährt nichts davon, wie die App installiert werden soll und der Nutzen für den Kunden, diese App zu installieren man versteht die Wertversprechen der App, aber nicht das zentrale Kundenbedürfnis
+R9	supports Arg1:T11 Arg2:T10	
+T12	Premise 1017 1122	Der Kunde nutzt viele verschiedene Apps und er möchte gern Prioritäten auf alle Benachrichtigungen setzen
+R10	supports Arg1:T12 Arg2:T11	
+T13	Premise 1124 1159	Er will also FeedCollector benutzen
+R11	supports Arg1:T13 Arg2:T12	
+T14	Premise 1161 1236	Er geht dafür in den App Store von Apple und kann es dort gratis downloaden
+R12	supports Arg1:T14 Arg2:T13	
+T15	Premise 1240 1321	Die gleiche Bemerkung gilt auch für die Phase, die nach der Nutzung der App kommt
+R13	supports Arg1:T15 Arg2:T10	
+T16	Premise 1323 1481	Vielleicht kann der Nutzer die App bewerten oder er spricht über die App mit anderen Leuten oder kann noch weitere Vorschläge machen, um die App zu verbessern
+R14	supports Arg1:T16 Arg2:T15	
+T17	Premise 1483 1557	Es gibt immer eine Bewertungsphase, wenn man einen Produkt / Service nutzt
+R15	supports Arg1:T17 Arg2:T16	
+T18	Premise 1559 1598	Meinungen von anderen sind sehr wichtig
+R16	supports Arg1:T18 Arg2:T17	

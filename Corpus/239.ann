@@ -1,0 +1,10 @@
+T1	Claim 26 140	Finde die Darstellung deines Kundenprozesses sehr gelungen und beschreibt alle relevanten Schritte aus Kundensicht
+T2	Premise 144 220	eim Storyboard vermisse ich jedoch die eigentliche Funktionsweise deiner App
+T3	Premise 222 415	Du stellst zwar die Emotionen bei der Benützung sehr gut dar, aber mich würde ebenfalls interessieren, wie die App aussieht bzw. was die einzelnen Schritte in der Abfolge sind bei der Benützung
+T4	Premise 417 489	Du schreibst ja Kunde ruft Plattform auf, Kunde gibt Reisedatum ein usw.
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 490 551	Ich würde diese Prozesse in deinem Storyboard noch darstellen
+R1	supports Arg1:T3 Arg2:T2	
+R3	supports Arg1:T2 Arg2:T5	
+T6	Premise 553 610	Bei einem Prototyp sollten ja die Funktionen testbar sein
+R4	supports Arg1:T6 Arg2:T5	

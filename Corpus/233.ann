@@ -1,0 +1,38 @@
+T1	Premise 10 144	Du bildest als erstes deine interessante und innovative Idee ab, was dem Leser den Einstieg in den folgenden Kundenprozess erleichtert
+T2	Claim 146 166	Das gefällt mir sehr
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 168 259	Als Vorschlag betreffend deiner Zielgruppe, würde ich mich wohl eher auf Männer fokussieren
+T4	Premise 281 400	es viele Frauen mögen ihre Kleider selber zusammenzusuchen, während Männer dies wohl eher schnell erledigt haben wollen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 415 491	kaufen viele Frauen auch oftmals spontan ein und planen somit den Kauf nicht
+R3	supports Arg1:T5 Arg2:T3	
+T6	Claim 535 610	Der von dir vorgestellte Kundenprozess ist sehr konsistent und einleuchtend
+T7	Premise 612 654	Es wird sofort klar, wie der Kunde handelt
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 656 708	Du könntest den Prozess aber noch etwas weiterziehen
+T9	Premise 711 758	as passiert, wenn der Kunde nicht zufrieden ist
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 780 831	wir das Managen diese Nachkaufphase immer wichtiger
+R6	supports Arg1:T10 Arg2:T9	
+T11	Claim 899 984	Betreffend Storyboard glaube ich, dass du die Aufgabe nicht ganz richtig erkannt hast
+T12	Premise 986 1059	Wie ich es verstanden habe, geht es darum, den neuen Prozess darzustellen
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 1066 1163	wie der Kundenprozess mit deiner App abläuft und wie du eigentlich Wert für den Kunden generierst
+R8	supports Arg1:T13 Arg2:T12	
+T14	Premise 1171 1314	verschaffst du dir bessere Klarheit über deine Prozesse und durch die Visualisierung kannst du erkennst, wie du Wert an den Kunden übermittelst
+R9	supports Arg1:T14 Arg2:T13	
+T15	Premise 1323 1406	wird dadurch ersichtlich wo noch Potentiale oder Fehler in deinen Prozessen stecken
+R10	supports Arg1:T15 Arg2:T14	
+T16	Premise 1408 1526	Laut dem Buch ist es auch ganz wichtig, dass man plausibel begründet wieso eine Person in dieser Geschichte so handelt
+R11	supports Arg1:T16 Arg2:T15	
+T17	Premise 1528 1581	Vielleicht könntest du dies auch noch etwas ausführen
+R12	supports Arg1:T16 Arg2:T17	
+R13	supports Arg1:T17 Arg2:T8	
+T18	Premise 1584 1638	Sehr positiv finde ich die Bilder, die du gewählt hast
+T19	Premise 1640 1726	Sie übermitteln gut, was du sagen willst und man benötigt nicht einmal die Erklärungen
+T20	Claim 1728 1786	Da hast du die Idee des Storyboards wirklich gut getroffen
+R14	supports Arg1:T19 Arg2:T18	
+R15	supports Arg1:T18 Arg2:T20	
+T21	Claim 1791 1844	Im Grossen und Ganzen finde ich deine Idee aber super
+T22	Premise 1846 1930	Die App steht ganz im Sinne von wellbeing und würde das Leben auch meins erleichtern
+R16	supports Arg1:T22 Arg2:T21	

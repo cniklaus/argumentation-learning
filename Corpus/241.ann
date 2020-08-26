@@ -1,0 +1,21 @@
+T1	Claim 19 67	Guter Einbezug der drei Phasen Pre, During, Post
+T2	Claim 68 203	Detailierte Darstellung mit Berücksichtigung der Teilschritte Berücksichtigung des Servitization Aspekts sowie des Upsellung Potenzials
+T3	Claim 204 246	Gute bildliche Darstellung des Storyboards
+T4	Claim 256 318	Noch etwas wenig genau auf die genaue Zielgruppe zugeschnitten
+T5	Claim 324 392	habe ich noch nicht genau verstanden, was der Kern des Geschäfts ist
+T6	Premise 394 484	Ist es das Online Angebote vergleichen, die Beratung vor Ort oder der Service im Anschluss
+R1	supports Arg1:T6 Arg2:T5	
+T7	Claim 509 579	Ich würde mir noch Gedanken, wie man den Besuch zu Hause ersetzen kann
+T8	Premise 584 664	dieser Faktor das Produkt nicht zu Grenzkosten von beinahe null skalierbar macht
+R2	supports Arg1:T8 Arg2:T7	
+T9	Premise 666 760	Evtl. Skypegespräche, Online nachbauen des Hauses beides nicht perfekt oder so etwas ähnliches
+R3	supports Arg1:T9 Arg2:T7	
+T10	Premise 761 855	Auch wenn servicegeschäft lukrativ und interessant, verstehe ich den Mehrwert noch nicht genau
+T11	Premise 858 912	Muss ich das als User machen oder was ist der Mehrwert
+T12	Premise 914 1150	Die Personen, die sich eine solche Lösung Online zusammenstellen und dann für eine Beratung bezahlen und auch noch alles voll digitalisiert haben sind definitiv Highend Kunden, die ein sehr grosses Budget für eine solche Lösung ausgeben
+R5	supports Arg1:T12 Arg2:T11	
+T13	Claim 1152 1247	ielleicht kann man das Angebot noch etwas genauer auf sie ausrichten, was für wünsche haben die
+R4	supports Arg1:T11 Arg2:T10	
+R6	supports Arg1:T10 Arg2:T13	
+T14	Premise 1249 1317	Definitive ausrichtung an Qualitätsführerschaft, würde ich empfehlen
+R7	supports Arg1:T14 Arg2:T13	

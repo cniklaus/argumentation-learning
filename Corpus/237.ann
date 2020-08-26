@@ -1,0 +1,10 @@
+T1	Claim 11 220	Kundenprozess Stärken übersichtliche Darstellung, besonders durch die farbliche Unterteilung der unterschiedlichen Prozessphasen inhaltlich umfassender Kundenprozess, alles wichtigen Punkte werden angesprochen
+T2	Claim 244 382	Evtl. könntest du zwischen den Schritten Entscheid für eine Option und Bewertung die Ausführung der Entscheidung für eine Option aufnehmen
+T3	Premise 387 449	dies gem. Storyboard ebenfalls von deiner App unterstützt wird
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 502 611	StoryboardSträken auch hier schöne Darstellung, leicht verständlich, was die Idee deines Geschäftsmodells ist
+T5	Premise 638 725	Aus dem Storyboard geht nicht ganz klar heraus, was du in den Punkten 1415 genannt hast
+T6	Premise 727 832	Ich finde das ist ein sehr interessanter Ansatz, dass er zum Experten wird und weiter Punkte sammeln kann
+T7	Claim 834 890	Vielleicht kannst du das noch in die Zeichnung aufnehmen
+R2	supports Arg1:T5 Arg2:T7	
+R3	supports Arg1:T6 Arg2:T7	

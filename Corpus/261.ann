@@ -1,0 +1,17 @@
+T1	Claim 20 86	Dein Modell ist sehr komplex und dennoch übersichtlich dargestellt
+T2	Claim 100 285	Leider hast du nicht wie in der Aufgabenstelltung beschrieben die kurze Zusammenfassung deines Geschäftsmodells mitangehängt, somit ist es schwer deine einzelnen Punkte nachzuvollziehen
+T3	Claim 288 339	Wo sind bei den Connecting Elements die End Stimuli
+T4	Claim 342 426	Mir wird auch der Unterschied nicht klar zwischen B2B und Börsenkotierte Unternehmen
+T5	Premise 428 465	Zählen diese nicht in den B2B Bereich
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 468 559	Welche Plattform stellen die B2B Kunden zur Verfügung, wenn Programmierer die App erstellen
+R2	supports Arg1:T6 Arg2:T4	
+T7	Claim 587 636	Zusammenfassung noch mit ins Dokument einarbeiten
+T8	Claim 642 687	Eventuell die Graphik etwas anders darstellen
+T9	Premise 693 741	Marktsegmente vertikal in einer Reihe darstellen
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 749 822	kriegt man einen besseren Überblick über die Stimuli. Vgl. LE 05 Folie 28
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 826 912	Vielleich hätten sich diese Fragen bei Verfügung über die Geschäftsmodellidee erübrigt
+R5	supports Arg1:T11 Arg2:T7	
+R6	supports Arg1:T11 Arg2:T8	

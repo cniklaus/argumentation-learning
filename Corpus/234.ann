@@ -1,0 +1,11 @@
+T1	Premise 13 88	Der gesamte Kundenprozess und das Storyboard sind für mich etwas verwirrend
+T2	Premise 90 191	Selbst aus der kurzen Beschreibung in Blau ist für mich der Ablauf des Apps nicht klar oder erkennbar
+T3	Premise 193 338	Weder aus der Beschreibung im Kundenprozess noch dem Storyboard weiss ich was die Applikation tatsächlich für den Kunden macht oder machen sollte
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 340 436	Übernimmt das App die Recherche oder kann ich lediglich einzelne individuelle Buchungen bezahlen
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 438 624	Aus meinem Informationsbedürfnis übernimmt die Applikation die Recherche und ich kann aus einer Reihe von Vorschlägen und deren Bewertungen direkt die Buchung für einen Vorschlag abgeben
+R4	supports Arg1:T5 Arg2:T3	
+T6	Claim 628 815	Es wäre für ein besseres Verständnis sehr hilfreich, mehr Informationen zu den Prozessen anzugeben bzw. den Kundenprozess und das Storyboard etwas genauer zu formulieren bzw. darzustellen
+R1	supports Arg1:T2 Arg2:T1	
+R5	supports Arg1:T1 Arg2:T6	

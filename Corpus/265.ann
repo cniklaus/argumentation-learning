@@ -1,0 +1,27 @@
+T1	Claim 20 77	Die grafische Darstellung ist übersichtlich und umfassend
+T2	Claim 79 165	Du hast viele zentrale Value Ports genannt und deren Austausch verständlich aufgeführt
+T3	Claim 167 254	Die Kurzbeschreibung macht das dargestellte Netzwerk für den Betrachter nachvollziehbar
+T4	Claim 256 351	Stark finde ich auch, dass du die IT als Grundlage für den Plattformbetrieb berücksichtigt hast
+T5	Premise 353 433	dies ist sicherlich ein wichtiger Akteur, der vielleicht manchmal vergessen geht
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 450 556	In deinem Geschäftsnetzwerk gehen alle Value Exchanges jeweils über make_a_difference als Plattform selber
+T7	Premise 558 782	Ich sehe jedoch eigentlich eine direkten Austausch zwischen Unterstützungsbedürftigen und Helfer selber Austausch von Zeit/Hilfe leisten gegen Hilfe bekommen / Offenheit und eher eine Vermittlungsfunktion durch die Plattform
+T8	Premise 784 956	Der Value Austausch von Helfer als auch Unterstützungsbedürftige gegenüber der Plattform ist dann eher Daten Verfügbarkeit/Vermittlung/Angebotene Hilfe resp. gesuchte Hilfe
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 981 1038	Geld jeweils nur von der Plattform in Richtung IT fliesst
+T10	Premise 1040 1104	Entsprechend frage ich mich, wie sich diese Plattform finanziert
+T11	Premise 1106 1193	Kommt der Geldfluss von Spendern, müssten diese auch noch als Akteure aufgeführt werden
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 1225 1318	Ich würde die oben erwähnten Punkte noch ergänzen, um deine Lösung noch umfassender zu machen
+T13	Premise 1322 1420	Direkter Value Exchange von Helfern und Unterstützungsbedürftige Hilfe anbieten und Hilfe bekommen
+T14	Premise 1422 1486	Die Plattform vermittelt resp. bekommt Daten Jobs, Verfügbarkeit
+R2	supports Arg1:T7 Arg2:T6	
+R4	supports Arg1:T10 Arg2:T9	
+R6	supports Arg1:T13 Arg2:T12	
+R7	supports Arg1:T14 Arg2:T12	
+T15	Premise 1490 1505	Weiterer Akteur
+T16	Premise 1511 1573	Spender, Staat von dem das Geld für den Plattformbetrieb kommt
+R8	supports Arg1:T16 Arg2:T15	
+R9	supports Arg1:T15 Arg2:T12	
+T17	Premise 1575 1644	Wenn dies von den Helfern kommt, dann dies im Value Exchange erwähnen
+R10	supports Arg1:T17 Arg2:T16	

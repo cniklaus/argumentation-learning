@@ -1,0 +1,34 @@
+T1	Claim 11 133	Grundsätzlich ist es eine sehr gut gelungene Arbeit und man merkt wirklich sehr, dass du dir schon sehr viel überlegt hast
+T4	Premise 290 344	Bitte dort auch notieren, sonst versteht man das nicht
+T3	Premise 247 288	Marktleistung Es handelt sich um eine APP
+T2	Claim 215 246	Abgrenzung des Geschäftsfeldesa
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T4 Arg2:T3	
+T6	Premise 450 504	Ich würde also sicher sagen technisch versierter Kunde
+T7	Premise 506 519	Alterssegment
+T8	Premise 521 545	Eher in der Stadt lebend
+T9	Premise 547 567	Eher materialistisch
+T5	Claim 354 385	Nicht jede Person ist ein Kunde
+T10	Premise 392 448	nicht jede Person hat ein Smartphone und downloaded Apps
+R3	supports Arg1:T10 Arg2:T5	
+R4	supports Arg1:T6 Arg2:T10	
+R5	supports Arg1:T7 Arg2:T5	
+R6	supports Arg1:T8 Arg2:T5	
+R7	supports Arg1:T9 Arg2:T5	
+T11	Premise 575 770	Geografie Kleidervorschläge ausschliesslich basierend auf der persönlichen Garderobe, ohne Ergänzungen von gezielten Neueinkäufen, können aber von Beginn weg ausserhalb der Schweiz genutzt werden
+T12	Claim 772 801	Diesen Satz versteh ich nicht
+R8	supports Arg1:T11 Arg2:T12	
+T13	Claim 804 944	Qualitative BeschreibungAchtung Dieser Teil sollte vorwärtsgerichtet beschreiben wie sich die Situation in den einzelnen Bereichen verändert
+T14	Premise 946 996	Das sehe ich bei dir noch nicht so ganz abgebildet
+R9	supports Arg1:T14 Arg2:T13	
+T15	Claim 999 1073	Beschreibung zu den Veränderungen hinsichtlich der Kundenbedürfnisse fehlt
+T16	Claim 1076 1218	Mitbewerber z.B. könnten die Modeketten eine eigenen App für ihre Kunden anbieten oder andere AppEntwickler könne eine ähnliche App bauen usw.
+T17	Claim 1220 1322	Technologie Wie konkurrierst du mit Apps oder Webseiten, auf dem du sich selbst in diesem Kleid siehst
+T18	Premise 1324 1388	Ist das nicht eventuell ein Trend der es zu berücksichtigen gibt
+T19	Premise 1390 1447	Welche neuen Technologien sind in diesem Bereich relevant
+T20	Claim 1450 1483	Kritische ErfolgsfaktorenSehr gut
+R10	supports Arg1:T18 Arg2:T17	
+T21	Premise 1484 1654	Bei deinem Punkt zu der Nutzerzahl würde ich hier noch anfügen, dass es sich, um einen Winnertakesit allMarkt handelt und deshalb GESCHWINDIGKEIT eine grosse Rolle spielt
+R11	attacks Arg1:T21 Arg2:T20	
+T22	Claim 1657 1717	Strategische Ausrichtunga.Möglichst viele Kunden zu gewinnen
+T23	Claim 1719 1757	Massnahmena.Guerilla MarketingAktionen

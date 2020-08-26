@@ -1,0 +1,26 @@
+T1	Claim 57 218	Mir gefällt ganz gut wie du die Größe Thematik von Foodwaste mit deine Lösung ansprichst und wie du den Einkaufs Erlebnis effizienter und schneller machen willst
+T2	Claim 220 273	Ich finde es eine ganz gute Lösung mit viel potenzial
+T3	Claim 275 372	Insbesondere gefällt mir wie du das Fokus auf die Endkunden setzt, und wie du die genau einteilst
+T4	Claim 405 534	die Tatsache das man mit deine App einkaufen kann aber auch es als liste benutzen kann gefällt mir besonders, ist eine coole Idee
+T5	Claim 647 759	Ich finde du solltest auch andere Kunden einbeziehen, welche von die Entscheidungsträger beeinflusst werden kann
+T6	Premise 761 930	Wenn z.B die Mutter in eine Familie Entscheidungsträger die Möglichkeit hat diese Liste mit ihren Mann zu teilen, und ihn Bitten Sachen zu kaufen werde es eine gute Idee
+R1	supports Arg1:T6 Arg2:T5	
+T7	Premise 931 978	Was mir nicht ganz klar ist das Pick up Station
+T8	Premise 980 1069	Können die Kunden ihre fehlende Produkte bestellen und an diese Pick up Stationen abholen
+T9	Premise 1071 1170	Ist das dann die Dritte Möglichkeit für Kunden einzukaufen außer direkt auf die App und im Geschäft
+R3	supports Arg1:T9 Arg2:T8	
+T10	Claim 1172 1238	Ich finde du solltest die Einkaufs Möglichkeiten klarer darstellen
+R2	supports Arg1:T8 Arg2:T7	
+R4	supports Arg1:T7 Arg2:T10	
+T11	Premise 1240 1292	Wie funktioniert es wenn die Kunden online bestellen
+T12	Premise 1293 1455	Mir ist auch nicht ganz klar ob du die Webshops von die Größe Supermärkte in die App integriert sind, oder wie kriegst du die Integration von alle die Supermärkte
+R5	supports Arg1:T11 Arg2:T10	
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1456 1516	Ich finde du solltest auch Gedanken über crossselling machen
+T14	Premise 1523 1729	u erwänst das in deine First Class Angebot, noch einzukaufende Produkte für ein Gericht werden vorgeschlagen waere das nicht eine option welche für alle classes wichig wäere seitens die Lebensmittelanbieter
+R7	supports Arg1:T14 Arg2:T13	
+T15	Premise 1733 1764	möglichkeiten mehr zu verkaufen
+T16	Claim 1765 1822	Erkennen deine sensoren auch wenn produkte fast leer sind
+T17	Premise 1828 1916	das milch wiegt plotzlich weniger à es wird bald fertig sein> auch auf die einkaufsliste
+R8	supports Arg1:T15 Arg2:T14	
+R9	supports Arg1:T17 Arg2:T16	

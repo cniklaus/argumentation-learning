@@ -1,0 +1,16 @@
+T1	Claim 11 66	Deine Lösung ist gut strukturiert und klar verständlich
+T2	Claim 68 140	Die Beschreibung ergänzt die Darstellung des Geschäftsnetzwerks sinnvoll
+T3	Premise 141 380	Was mich etwas irritiert hat ist jedoch, dass du bei der Leistung von Equip an den Kunden die Zusatzservices bereits einfügst, obwohl diese dann erneut bei den Leistungen von Betriebsmittelherstellern und Kalibrier Auditservices auftauchen
+T4	Claim 489 647	Bei der Darstellung des Geschäftsnetzwerks solltest du jedoch darauf achten, dass die Leistungen nur demjenigen zugeteilt werden, der sie tatsächlich erbringt
+T5	Premise 652 727	dies ansonsten bei grösseren Netzwerken schnell zu Verwirrungen führen kann
+T6	Premise 382 487	Es ist natürlich klar, dass bei einer Lösung aus einer Hand in den Augen des Kunden ALLES von Equip kommt
+R1	supports Arg1:T3 Arg2:T4	
+R2	supports Arg1:T6 Arg2:T4	
+R3	supports Arg1:T5 Arg2:T4	
+T7	Premise 731 803	Zusatzleistungen als Leistungsfluss bei Epiqu zu Kunde einfach weglassen
+R4	supports Arg1:T7 Arg2:T4	
+T8	Claim 817 989	erschliesst es sich mir nicht, wieso der Kunde die Kalibrier Auditservices direkt beim Anbieter bezahlen soll, wohingegen das Geld für die Betriebsmittel über Equip fliesst
+T9	Premise 991 1261	Davon ausgehend, dass Equip dem Kunden Kalibrier und Auditservices empfiehlt oder diese sogar für ihn bucht im Sinne einer integrierten Lösung, glaube ich, dass auch die Geldflüsse für diese Zusatzleistung  zumindest aus den Augen des Kunden  über Epiqu fliessen sollten
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 1264 1410	quip ist dann auch ansprechpartner bei allfälligen Problemen und muss diese an seinen Geschäftspartenr im KAlibrierungs  AUditservice weiterleiten
+R6	supports Arg1:T10 Arg2:T9	

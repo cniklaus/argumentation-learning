@@ -1,0 +1,11 @@
+T1	Claim 69 100	Insgesamt eine sehr gute Lösung
+T2	Claim 101 271	Du hast alle formalen Regeln der E3 Value Methode strikt eingehalten und somit die Beziehungen Geld /Warenaustausch zwischen den einzelnen Parteien musterhaft dargestellt
+T3	Claim 332 398	Du hast die unterschiedlichen Scenario Paths konsequent aufgezeigt
+T4	Premise 400 459	Die Waren/Geldaustaustausche sind stringent und machen Sinn
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 635 729	finde ich die Lösung sehr gut und konnte deshalb auch nicht wirkliche Schwächen identifizieren
+T6	Premise 870 938	Ich hatte ein wenig Schwierigkeiten das Geschäftsmodell zu verstehen
+T7	Claim 940 1061	Vielleicht könntest du noch eine zusätzliche Slide machen bei deine du die einzelnen Zusammenhänge nochmal ausformulierst
+R2	supports Arg1:T6 Arg2:T7	
+T8	Premise 1069 1148	wird es auch für den Dozenten einfacher fallen deine Lösung sofort zu verstehen
+R3	supports Arg1:T8 Arg2:T7	

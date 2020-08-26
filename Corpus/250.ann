@@ -1,0 +1,6 @@
+T1	Claim 13 77	Die wichtigsten Modellierungsregeln gemäss E3 wurden eingehalten
+T2	Claim 79 155	Besonders gut hat mir die multidimensionale Darstellung der Akteure gefallen
+T3	Claim 161 214	Mir ist die Rolle der Köche im Modell nicht ganz klar
+T4	Premise 216 307	Eventuell könnte dies noch in der Kurzfassung des Geschäftsmodells genauer erläutert werden
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 319 434	macht der Prozessfluss wenig Sinn und sollte so überarbeitet werden, dass ein Anfang und Ende klar ersichtlich sind

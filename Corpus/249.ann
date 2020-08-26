@@ -1,0 +1,16 @@
+T1	Claim 11 66	Grafische Darstellung Seite 1 Aufzählungszeichen fehlen
+T2	Claim 67 132	Interfaces sollten auf dem Rand der Akteure liegen, nicht daneben
+T3	Claim 134 169	Value Ports bei Pfeilspitzen fehlen
+T4	Claim 171 213	Text unter den Pfeilen ist schlecht lesbar
+T5	Claim 215 268	Rote Linie würde besser aussehen, wenn sie gerade wär
+T6	Premise 270 334	Sieht aus als hättest du die nachträglich von Hand eingezeichnet
+R1	supports Arg1:T6 Arg2:T5	
+T7	Claim 335 368	Inhalt Rechtschreibung verbessern
+T8	Premise 370 420	Wie erfasst der Sensor im Kühlschrank die Produkte
+T9	Premise 422 457	Kann mir das nicht recht vorstellen
+R2	supports Arg1:T8 Arg2:T7	
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 459 552	Unklar, ob nun der Einzelhändler oder der Produzent seine Produkte auf der Plattform anbietet
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 554 674	Einzelhändler > Food for Life Kooperationsbereitschaftund Investition in Infrastruktur Keine Ahnung, was du damit meinst
+T12	Claim 676 731	Köche > Food for Life On the Edge Was ist damit gemeint

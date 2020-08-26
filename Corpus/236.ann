@@ -1,0 +1,20 @@
+T1	Claim 12 48	Eine aufwendig ausgearbeitete Lösung
+T2	Premise 50 108	Mir gefällt gut wie du den Kundenprozess visualisiert hast
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 110 177	Die Abbildungen sind schön dargestellt und verständlich beschrieben
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 179 259	Ich finde zudem praktisch, dass du die Abbildungen relativ gross angefertig hast
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 263 362	ie Aufgabe war es, zuerst den Kundenprozess aufzuzeichnen und dann dazu das Storyboard anzufertigen
+T6	Premise 364 415	Im Moodle findest du eine Vorlage für diese Aufgabe
+T7	Claim 434 499	du zuerst noch den Kundenprozess siehe Vorlage ausfüllen müsstest
+R4	supports Arg1:T5 Arg2:T7	
+R5	supports Arg1:T6 Arg2:T5	
+T8	Premise 501 604	Beim Kudenprozess schaust du von Anfang an, welche Schritte der Kunde mit deiner neuen Lösung vollzieht
+T9	Premise 606 660	Das Storyboard würdest du dann entsprechend anfertigen
+R6	supports Arg1:T8 Arg2:T7	
+R7	supports Arg1:T9 Arg2:T8	
+T10	Claim 663 731	Ich würde bei der Überarbeitung zuerst den Kundenprozess aufzeichnen
+T11	Claim 733 814	Dann deine bestehenden Abbildungen analog den Schritten im Kundenprozess anordnen
+T12	Claim 816 921	Ich denke im Storyboard brauchst du nicht gross etwas zu ändern, ausser die Sätze nocheinmal durchzulesen
+T13	Claim 923 985	Es haben sich kleine Fehler in der Satzstellung eingeschlichen

@@ -1,0 +1,6 @@
+T1	Claim 22 117	Die hilfreiche und überzeugende Kurzbeschreibung von make_a_difference gefällt mir äusserst gut
+T2	Claim 121 196	Das Gleiche gilt für die Übersichtliche und sorgfältige e3valueModellierung
+T3	Claim 241 409	Ich denke, dass für die Akteure von denen es mehr als nur eine Einheit gibt z.B. Helfer, Unterstützungsbedürftige, etc., das Symbol Stacked Actor genommen werden sollte
+T4	Premise 410 501	siehe z.B. Kollektivkunden, Privatpersonen und Dienstleister auf Folie 33 aus der Vorlesung
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 505 618	Die leere Seite am Schluss des Dokuments erbringt für mich keinen Nutzen, diese könnte somit noch entfernt werden

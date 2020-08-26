@@ -1,0 +1,10 @@
+T1	Claim 14 136	Deine e3Value Lösung sieht sehr gut aus und man merkt, dass du dir dafür Zeit genommen hast, diese sorgfältig zu gestalten
+T2	Premise 138 279	Die einzelnen Marktsegmente und Aktoren sind übersichtlich dargestellt und die einzelnen Value Exchanges besetzen die Value Ports vollständig
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 287 404	sind die Value Ports mit abgerundeten Ecken richtig gewählt und richtigerweise zweimal pro Value Interface aufgeführt
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 409 521	Um deine e3Value Lösung vollständig nachzuvollziehen fehlt eine kurze Beschreibung deiner Geschäftsmodell Lösung
+T5	Claim 525 639	Value Object Ich bin mir selbst nicht ganz sicher, ob es erlaubt ist eine Value Interface Zwischenstation zu haben
+T6	Premise 642 814	ch kann nachvollziehen, das du diese Zwischenstation eingebaut hast Zwischen Börsenkotierte Unternehmen und B2CKunden, weiss jedoch nicht, ob das so dargestellt werden kann
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 824 1027	Auf einer Slide sollte zuerst eine KurzCharakteristika deines Geschäftmodells stehen Wegen der Zwischenstation könntest du evtl. noch in der Vorlesung fragen oder dich mit andere Komilitonen austauschen.

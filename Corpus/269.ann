@@ -1,0 +1,18 @@
+T1	Premise 11 283	Ich finde deine Idee super, der Kurbeschreib ist im Gegensatz zu den anderen Reviews die ich zur Bewertung zugeteilt bekommen habe sehr verständlich und ausführlich genug, um das Geschäftsmodell zu verstehen um sich so eine Vorstellung zu machen, um was es eigentlich geht
+T2	Claim 285 309	Kurz super Kurzbeschreib
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 310 336	Die Grafik ist in sich gut
+T4	Premise 338 410	Es fehlen keine Beschriftungen und ist übersichtlich und gut dargestellt
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 412 458	Was noch fehlt ist die rote Linie, die anzeigt
+T6	Premise 460 554	Diese würde meiner Meinung nach beim Kunden beginnen und sich auf alle Drittanbieter verteilen
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 561 610	könntest du spezifizieren, was Sale repräsentiert
+T8	Premise 616 709	bei Versicheurnngen könntest du anstatt Sale das Wort Versicherung in die Beschriftung nehemn
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 711 740	Bei Reiseportal Portalnutzung
+R5	supports Arg1:T9 Arg2:T7	
+T10	Premise 742 777	Bei Tourenanbieter Reiseaktivitäten
+R6	supports Arg1:T10 Arg2:T7	
+T11	Claim 789 874	würde ich spezifizieren, wie sich die Fee, die der Kunde bezahlt, genau zusammensetzt
+T12	Claim 875 1001	Insgesamt gute Arbeit, ich denke du hast genügende Einkommensvariaten generiert, sodass die Geschäftsidee profitabel sein kann

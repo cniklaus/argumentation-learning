@@ -1,0 +1,16 @@
+T1	Claim 12 130	Gut beschriebener Prozess, der sehr verständlich ist und es einem wahrhaftig ermöglicht, den Prozess zu verinnerlichen
+T2	Premise 132 179	Der Prozess ist intuitiv und in sich konsistent
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 181 255	Die Bilder sind gut gezeichnet und du beschränkst dich auf das Wesentliche
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 258 347	Grundsätzlich sind dein Ausführungen gut und ich sehe nur wenig Schwäche in deiner Arbeit
+T5	Claim 461 504	sind deine Texte unten abgeschnitten im PDF
+T6	Claim 558 665	eschreibt meines Erachtens der Prozessschritt die Ausgangslage und könnte eventuell auch weggelassen werden
+T7	Premise 667 775	der Prozessschritt hat nicht direkt mit deinem Kundenprozess zu tun sondern beschreibt lediglich seinen Pain
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 793 887	ist der Prozess im Sinne einer eimaligen Verwendung beschrieben  oder in der ersten Verwendung
+T9	Premise 889 980	Möglicherweise kannst du versuchen, den Prozess auf eine generellabstraktere Ebene zu heben
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 982 1151	Der Kauf der App und die Einstellung kannst du dabei in einen einzigen Prozessschritt zusammenführen und quasi dem eigentlichen Prozess als einmalige Aktion voranstellen
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 1155 1194	Deine Ausarbeiten sind gut wie sie sind
