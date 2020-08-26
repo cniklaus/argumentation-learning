@@ -1,0 +1,29 @@
+T1	Claim 10 59	Scheint ein interessantes Geschäftsmodell zu sein
+T2	Claim 61 80	Leider etwas unklar
+T3	Premise 87 122	ich das Geschäftsmodell nicht kenne
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 163 205	Einbrüche nehmen in der Schweiz laufend zu
+T5	Claim 207 240	Dazu möchte ich gerne eine Quelle
+R2	supports Arg1:T4 Arg2:T5	
+T6	Claim 241 313	Eine App ermöglicht das Steuern der jeweiligen Geräten an den Steckdosen
+T7	Premise 315 405	Wie willst du kontrollieren, ob die Kinder keine angemessenen Inhalte im Internet besuchen
+T8	Premise 411 455	willst du dann einfach den Strom ausschalten
+T9	Premise 458 522	Wäre nicht eine Blockierung von anstößigen Websites angemessener
+R4	supports Arg1:T8 Arg2:T9	
+R5	supports Arg1:T9 Arg2:T6	
+R3	supports Arg1:T7 Arg2:T9	
+T10	Claim 523 589	Warnmeldungen bei Abfall von Temperatur unter einem gewissen Punkt
+T11	Premise 590 689	Hier wäre wohl ein automatisches Hochfahren der Heizung praktischer, als eine Warnung an den Nutzer
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 690 784	Starker Anstieg der Luftfeuchtigkeit als Hinweis für ins Haus regnen Völlig unklar dieser Satz
+T13	Premise 786 811	Was willst du damit sagen
+R7	supports Arg1:T13 Arg2:T12	
+T14	Premise 813 940	Ich glaube kaum, dass ein Haus von jemandem, der sich ein vollständig mit Sensoren ausgerüstetes Haus leisten kann, undicht ist
+R8	supports Arg1:T14 Arg2:T12	
+T15	Premise 946 1020	ein offenes Dachfenster sollte ja sowieso von den Sensoren entdeckt werden
+R9	supports Arg1:T15 Arg2:T12	
+T16	Premise 1021 1060	Bei Abwesenheit fühlt man sich sicherer
+T17	Premise 1065 1125	man noch immer mit dem Haus oder derWohnung in Kontakt steht
+R10	supports Arg1:T17 Arg2:T16	
+T18	Claim 1127 1138	Super Punkt
+R11	supports Arg1:T16 Arg2:T18	

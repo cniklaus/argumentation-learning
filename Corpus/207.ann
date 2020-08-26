@@ -1,0 +1,52 @@
+T1	Claim 28 76	Meeter maximiert den Nutzen für alle Beteiligten
+T2	Premise 78 220	Lieferanten haben Zugang zu neuen Geschäftsopportunitäten, Kunden reduzieren ihren Koordinationsaufwand und Meeter profitiert finanziell davon
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 221 313	Die Lösung adressiert eine sehr Zeitintensive Aufgabe  das Projektmanagement im Eventbereich
+T4	Claim 315 395	Es handelt sich bei deinem Geschäftsmodell also wirklich um eine WellBeingLösung
+R2	supports Arg1:T3 Arg2:T4	
+T5	Premise 396 548	Die Standardisierung der Angebote im Eventbereich ist eine essentielle Grundlage, um die Planungsprozesse überhaupt verkürzen und vereinfachen zu können
+T6	Premise 550 695	Indem du vorgefertigte Pakete anbietest, kann ein gewisser Grad an Standardisierung im sonst sehr customized EventmangementBereich erzielt werden
+R3	supports Arg1:T6 Arg2:T5	
+R4	supports Arg1:T5 Arg2:T3	
+T7	Claim 742 963	Fokus Für mich ist auf Basis vom Geschäftsmodell nicht ganz klar, ob der Fokus auf die Organisation von Räumlichkeiten und evtl. Verpflegung für normale Meetings liegt, oder ob es für grössere Geschäftsanlässe gedacht ist
+T8	Premise 965 1093	Beide Arten von Events haben stark unterschiedliche Komplexitätsstufen und sollten mE daher auch differenziert betrachtet werden
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 1095 1265	Auch wenn grössere Anlässe mit Rahmenprogramm lukrativere Angelegenheiten sind, lassen sie sich meiner Meinung nach nicht so leicht in Pakete schnüren und standardisieren
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 1267 1407	Räumlichkeiten  Verpflegung für normale Meetings sind hingegen viel simpler zu organisieren und wären daher eher Standardisierungskandidaten
+R7	supports Arg1:T10 Arg2:T8	
+T11	Claim 1432 1505	ich würde mich an deiner Stelle auf das Kerngebiet Meetings konzentrieren
+T12	Premise 1507 1662	Dadurch reduzierst du die Komplexität sehr stark und es wird dir leichter Fallen, in den nächsten Schritten konkrete, standardisierte Prozesse zu entwerfen
+R8	supports Arg1:T12 Arg2:T11	
+T15	Premise 1799 1859	Im Fall von Meeter bin ich nicht ganz sicher, ob es zutrifft
+T16	Premise 1861 2007	In jeder neuen Stadt, die du erschliessen willst, wirst du neue Leute brauchen, welche potenzielle Lieferanten erkennen und lokale Pakete schnüren
+R11	supports Arg1:T16 Arg2:T15	
+T17	Premise 2009 2090	Räumlichkeiten und Caterer sind ja meines Wissens eher lokal als global verankert
+R12	supports Arg1:T17 Arg2:T16	
+T18	Premise 2092 2245	Solltest du dich entscheiden, weiterhin grössere Firmenanlässe anzubieten, bezweifle ich zudem, dass du eine durchgehende Automatisierung erreichen wirst
+R13	supports Arg1:T18 Arg2:T16	
+T19	Premise 2247 2336	Deine Kunden nutzen ja die Plattform, weil sie sich von der Organisation entlasten wollen
+T13	Claim 1663 1797	Skalierbarkeit du erwähnst in deiner Kostenstruktur, dass die Grenzkosten  0 sind, da es sich um ein digitales Geschäftsmodell handelt
+R9	attacks Arg1:T15 Arg2:T13	
+T14	Premise 2338 2467	Wer würde auf einer automatisierten Plattform damit umgehen, wenn ein Lieferant plötzlich keine Zeit hat, dein Event zu bedienen?
+T20	Premise 2468 2509	Was passiert, wenn ein Chauffeur erkrankt
+T21	Premise 2511 2589	Wer überprüft beim Aufbau vom Raum, dass auch alles so ist, wie es sein sollte
+R10	supports Arg1:T19 Arg2:T18	
+R14	supports Arg1:T14 Arg2:T18	
+R15	supports Arg1:T20 Arg2:T18	
+R16	supports Arg1:T21 Arg2:T18	
+T22	Premise 2591 2671	Die menschliche Komponente wirst du im Eventmanagement nicht so leicht loswerden
+T23	Premise 2673 2809	Daher wirst mit jedem zusätzlichen Event auch mehr Leute brauchen, welche den guten Ablauf im Hintergrund tracken und ggf. intervenieren
+R17	supports Arg1:T22 Arg2:T23	
+R18	supports Arg1:T23 Arg2:T18	
+T24	Claim 2834 3023	Hier würde ich entweder wie beim oberen Punkt auf die Organisation von grösseren Anlässen verzichten oder die steigenden Personalkosten als wichtiger Treiber deiner Kostenstruktur aufführen
+T25	Claim 3024 3105	Kanäle du erwähnst, dass meeter spärlich und primär via App und Mail kommuniziert
+T26	Premise 3107 3304	Es stellt sich für mich die Frage, wie du neue Kunden akquirieren wirst, wenn du nur wenig kommunizierst und nur Kanäle im Einsatz hast, welche bereits eine Beziehung zu deinem Unternehmen bedingen
+T27	Premise 3306 3448	Anders formuliert wie generierst du Downloads deiner App und EMail Adressen für dein Newsletter, wenn die Kunden dein Unternehmen nicht kennen
+T28	Premise 3450 3547	Hierzu wirst du zuerst Zuführungskanäle brauchen, welche die Bekanntheit deines Dienstes steigern
+R21	supports Arg1:T28 Arg2:T25	
+R19	supports Arg1:T26 Arg2:T28	
+R20	supports Arg1:T27 Arg2:T28	
+T29	Claim 3572 3686	Ich würde bei den Kommunikationskanälen sehr stark auf SEA/Adwords setzen, um den benötigten Traffic zu generieren
+T30	Premise 3692 3767	mit Schlagwörtern wie Meetingraum St. Gallen oder Firmenanlass organisieren
+R22	supports Arg1:T30 Arg2:T29	

@@ -1,0 +1,31 @@
+T1	Premise 107 235	Zum GeschäftsmodellIch komme nicht aus dem Fachbereich, und mir fällt es schwierig mir geeignete Kunden für ScrewUp vorzustellen
+T2	Premise 237 301	Targest du eher kleine Handwerker oder richtig große Unternehmen
+T3	Claim 303 396	Wäre super, wenn du das vllt. ganz kurz bei der Geschäftsmodellbeschreibung erwähnen könntest
+T4	Premise 401 434	es viele Fragen dann direkt klärt
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T1 Arg2:T3	
+R3	supports Arg1:T4 Arg2:T3	
+T5	Claim 437 573	Ziel der Software LösungDenke hier ist alles wesentliche für dich drinnen, aber du könntest das ganze vllt. textlich eine Struktur geben
+T6	Premise 578 668	Übergeordnetes Ziel Bewirtschaftung und Verbesserung von KleinteilLagersystemen des Kunden
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 670 711	Bestandteil 1Lagermanagement zu verwalten
+T8	Premise 713 768	Bestandteil 2visualisierte Aufbereitung der Kundendaten
+T9	Premise 770 919	Voraussetzung 1  2 mitERP des Kunden verbunden sein, Sicherheit  Stabilität des Systems3 SoftwareeinsatzUnbeding bei B hinschreiben wer der Kunde ist
+T10	Premise 921 1001	Du hast vermutlich ein gutes Bild im Kopf, dem Leser mit zumindestens  fehlt das
+T11	Premise 1002 1038	4Funktionalitäten der Softwarelösung
+T12	Premise 1038 1061	Begründung vom Punkt 4.
+R5	supports Arg1:T7 Arg2:T5	
+R6	supports Arg1:T8 Arg2:T5	
+R7	supports Arg1:T9 Arg2:T5	
+R8	supports Arg1:T10 Arg2:T5	
+R9	supports Arg1:T11 Arg2:T5	
+R10	supports Arg1:T12 Arg2:T5	
+T13	Claim 1062 1088	Klar, ist die Adles Formel
+T14	Premise 1103 1178	absolut richtig im SupplyChainMgn um die Effizienz möglichst hoch zu halten
+T15	Premise 1180 1229	ABER, es gibt hier auch deutliche Nachteile davon
+R12	attacks Arg1:T15 Arg2:T14	
+T16	Premise 1236 1322	große Losgrößen, vllt. Bullwhip Effekt, kaum mit einer lean Produktion vereinbar, etc.
+R13	supports Arg1:T16 Arg2:T15	
+T17	Claim 1323 1462	Hier sollte klarer Dargestellt werden, wieso du diesen Weg der Optimierung wählst. bzw. sollte es dem Kunden nicht lieber freigestellt sein
+R11	supports Arg1:T14 Arg2:T13	
+R14	supports Arg1:T15 Arg2:T17	

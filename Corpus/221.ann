@@ -1,0 +1,23 @@
+T1	Claim 10 73	Das Model wurde richtig verstanden und meist richtig angewendet
+T2	Premise 75 129	Es wurden jeweils die richtige Perspektive eingenommen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 131 175	Das Modell enthält die wichtigsten Argumente
+T4	Claim 177 265	Insbesondere finde ich gut, wie die Pains und Pain Relievers aufeinander abgestimmt sind
+T5	Claim 280 327	entspricht die Idee den Kriterien von WellBeing
+T6	Claim 328 372	Die Umsetzung ist für mich noch etwas unklar
+T7	Premise 374 413	Wird nur der Kühlschrank berücksichtigt
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 415 477	Müsste nicht vielmehr auch der Vorratsschrank einbezogen werde
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 480 516	So ist der Nutzen sehr eingeschränkt
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 518 603	Allgemein ist mir das konkrete Vorgehen, bzw. was die App genau kann, nicht ganz klar
+T11	Premise 703 812	Für mich ist dieser Satz inhaltlich unklar Von überall Zugang zu vorhandenen Lebensmittel in der Wohnung/Haus
+T12	Premise 827 918	sind die letzten 2 Punkte unter Products  Services sehr allgemein gehalten und etwas unklar
+T13	Claim 920 953	Hier solltest du konkreter werden
+R5	supports Arg1:T11 Arg2:T10	
+R6	supports Arg1:T12 Arg2:T10	
+R7	supports Arg1:T10 Arg2:T13	
+T14	Claim 954 1110	Bei den Gain Creators sehe ich noch weitere Faktoren Zeitersparnis, Geldersparnis wenn Aktionen berücksichtigt werden können, weniger Lebensmittel verderben
+T15	Claim 1111 1214	Bei der Überarbeitung würde ich darauf achten, dass das Ganze noch etwas konkreter und kongruenter wird
+T16	Claim 1216 1265	Insgesamt aber keineswegs eine schlechte Leistung

@@ -1,0 +1,48 @@
+T1	Claim 18 55	Die GeschäftsmodellIdee hat Potential
+T2	Premise 62 117	der Einkauf mit Anstrengungen/Ineffizienz verbunden ist
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 119 178	Somit bestehen sicher Möglichkeiten für Assistenzleistungen
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 180 220	Wichtige konkret identifizierte Probleme
+T5	Premise 221 284	Nicht wissen was schon im Kühlschrank ist, Produktverschwendung
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 285 320	Das Preismodell ist sehr attraktiv,
+T7	Premise 326 357	viele Transaktionen stattfinden
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 365 428	zahlt der Kunde nur die Dienstleistung, die er wirklich braucht
+R5	supports Arg1:T8 Arg2:T6	
+T9	Claim 438 528	Es wurden noch nicht alle Problemen im Einkaufsprozess definiert, die wirklich Zeit rauben
+T10	Premise 539 608	das Einkaufen an sich, das Suchen und Vergleichen von Produkten, etc.
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 609 730	Somit sollte der Einkaufsprozess von Beginn bis Schluss analysiert werden, und eine gesamtheitliche Lösung kreiert werden
+R7	supports Arg1:T11 Arg2:T9	
+T12	Claim 731 783	Wie erkennt der Sensor des Kühlschranks die Produkte
+T13	Premise 785 869	Die Möglichkeit besteht sicher, jedoch sollte die Umsetzung näher beschrieben werden
+R8	supports Arg1:T13 Arg2:T12	
+T14	Premise 876 908	haben die Produkte auch Sensoren
+R9	supports Arg1:T14 Arg2:T13	
+T15	Premise 910 950	scannt der KühlschrankSensor den Barcode
+R10	supports Arg1:T15 Arg2:T13	
+T16	Premise 952 1020	Macht es ein Foto des Produkts und vergleicht es mit einer Datenbank
+R11	supports Arg1:T16 Arg2:T13	
+T17	Premise 1021 1181	Was wäre wenn die Key Partner die Listungsgebühren für Produkte nicht zahlen wollen und somit die Plattform ohne Produkte ist und keine Rezepte vorschlagen kann
+T18	Claim 1183 1259	die Anreize für die Benutzung der Plattform sollten näher beschrieben werden
+R12	supports Arg1:T17 Arg2:T18	
+T19	Premise 1261 1314	Eventuell reicht eine transaktionsbasierte Entlöhnung
+R13	supports Arg1:T19 Arg2:T18	
+T20	Claim 1315 1393	Bei der Kostenstruktur sind unbedingt die Entwicklung der App miteinzubeziehen
+T21	Premise 1395 1464	Grosse Entwicklungskosten, danach Grenzkosten0Verbesserungsvorschläge
+R14	supports Arg1:T21 Arg2:T20	
+T22	Claim 1464 1509	Die App bietet Rezepte, die man aufrufen kann
+T23	Premise 1511 1605	Cool wäre, wenn die App von alleine aktiv Rezepte vorschlägt aufgrund des KühlschrankBestandes
+R15	supports Arg1:T23 Arg2:T22	
+T24	Premise 1607 1752	Noch besser wäre es, wenn die App nach einiger Zeit merkt, welche Zutaten/Produkte der Endkonsument am liebsten mag und darauf Rezepte vorschlägt
+R16	supports Arg1:T24 Arg2:T22	
+T25	Claim 1753 1879	Die Zielgruppe ist sehr eingeschränkt mit Leuten, die sich nicht an Foodwaste beteiligen wollen und eine affin zum Kochen sind
+T27	Premise 1968 2108	vor allem Leute, die keine Affinität zum Kochen haben, sehen den Lebensmitteleinkauf als grosser Aufwand und sind zum Teil sogar überfordert
+T28	Premise 2110 2233	Somit wäre eine Erweiterung der Zielgruppe auf jeder, der einen Kühlschrank hat oder jeder, der kocht in Betracht zu ziehen
+T26	Premise 1881 1962	Beim Einkaufen entstehen Aufwände für jedermann, und natürlich auch Verschwendung
+R17	supports Arg1:T26 Arg2:T25	
+R18	supports Arg1:T27 Arg2:T26	
+R19	supports Arg1:T28 Arg2:T27	
+T29	Claim 2234 2363	Eventuell kann der Online Einkauf von Lebensmittel mehr im Modell integriert werden, vor allem als Alternative zum Einkauf am POS

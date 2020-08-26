@@ -1,0 +1,41 @@
+T1	Claim 12 77	Bezüglich des Kundenprozesses, es wird verstädlich um was es geht
+T2	Claim 79 142	Ich finde es auch gut, dass du es in drei Teile gegliedert hast
+T3	Premise 150 191	macht es mehr Sinn und wird übersichtlich
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 204 279	ist der aufgezeichnete Kundenprozess nicht genügend detailliert beschrieben
+T5	Premise 281 372	Das was du als Storyboard daargestellt hast ist unter meinem Verständniss der Kundenprozess
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 374 449	Dort schreibst du ziemlich genau hin was die einzelnen Prozessschritte sind
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 450 529	Was ich auch nicht ganz verstehe, beim Pre, geht es darum die App zu evaluieren
+T8	Premise 531 579	Ich verstehe das nicht ganz was vergleicht er da
+T9	Premise 581 597	was wählt er aus
+T10	Claim 599 677	Vielleicht kannst du ein wenig konkreter werden und ein Beispiel daraus machen
+R4	supports Arg1:T7 Arg2:T10	
+R5	supports Arg1:T8 Arg2:T7	
+R6	supports Arg1:T9 Arg2:T7	
+T11	Premise 683 776	beim Post, was hat er für einen Vorteil wenn er es über die App bucht, er ist ja sehbehindert
+T12	Premise 778 803	Gibt es einen assistenten
+T13	Premise 805 852	was ist der vorteil zum konventionellen Telefon
+T14	Claim 854 921	vielleicht kannst du deine Stärken ein wenig verbessert daarstellen
+R7	supports Arg1:T11 Arg2:T14	
+R8	supports Arg1:T12 Arg2:T11	
+R9	supports Arg1:T13 Arg2:T11	
+T15	Claim 922 1194	bezüglich der Storyboard, da fehlt mir der Kontext, du must mir eine Geschichte erzählen können, um was es da geht, es soll mir ein Bild vermitteln, dazu brauchst du den Kundenprozess als roter Faden, um diesen roten Faden, musst du dann eine bildliche Geschichte aufbauen
+T16	Premise 1196 1236	Also dem Leser eine Situation vermitteln
+R10	supports Arg1:T16 Arg2:T15	
+T17	Premise 1243 1434	Fredy, welcher ein begeisterter wanderer ist hat leider 45 seiner Sehfähigkeit verloren, dennoch will er darauf nicht verzichten, er hat eine App gefunden welche ihm dies weiterhin ermöglicht
+R11	supports Arg1:T17 Arg2:T16	
+T18	Premise 1438 1530	so etwas in der Form würde eine Gute Storyboard ergeben, diese müsste man bildlich verpacken
+R12	supports Arg1:T18 Arg2:T17	
+T19	Claim 1532 1597	as mir weiter fehlt sind ein wenig detailliertere Prozessschritte
+T20	Premise 1599 1684	ich kann in der storyboard nicht erkennen, dass dies einem Sehbehinderten helfen soll
+R13	supports Arg1:T20 Arg2:T19	
+T21	Premise 1686 1731	Wann git die App die infos, wie macht sie das
+R14	supports Arg1:T21 Arg2:T20	
+T22	Premise 1733 1839	Wenn er sehbehindert ist, gibt es einen assistenten der ihm hilft die verschiedenen funktionen auszufüllen
+T23	Premise 1841 1861	wie funtkioniert das
+T24	Premise 1863 1915	Es braucht ein wenig mehr details um es nachzufühlen
+R15	supports Arg1:T22 Arg2:T21	
+R16	supports Arg1:T23 Arg2:T22	
+R17	supports Arg1:T24 Arg2:T23	

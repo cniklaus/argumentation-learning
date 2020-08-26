@@ -1,0 +1,19 @@
+T1	Claim 79 107	Mir gefällt deine Lösung gut
+T2	Premise 110 188	er Ablauf wurde logisch dargelegt und ich verstehe den Mehrwert für den Kunden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 190 237	Sehr schön finde ich die vielen kleinen Details
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 264 416	die Vorschläge auf das lokale Wetter abgestimmt sind oder dass man gezielz Stars die einem gefallen folgen kann und dann entsprechend Vorschläge bekommt
+R3	supports Arg1:T4 Arg2:T3	
+T5	Claim 509 554	it ist nicht ganz klar wie Geld verdient wird
+T6	Premise 556 643	Kostet die App etwas oder verdient ihr prozentual an den getätigten Käufen über die App
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 646 774	ool wäre es auch ein bischen deutlicher zu machen welche services von deiner Unternehmug bereitgestellt werden und welche extern
+T8	Premise 781 883	der shop in dem man über die App einkaufen kann, ist dieser extern oder wir der auch von dir betrieben
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 884 1014	Du schreibst, dass der Schritt des Eintragens der vorhandenen Kleidungsstücke zentral ist, gehst dann aber nicht weiter darauf ein
+R6	supports Arg1:T9 Arg2:T7	
+T10	Premise 1016 1130	Ich verstehe nicht ganz wie dieser Schritt abläuft, das es eine vielzahl von Kleidungsstücken und Vatiationen gibt
+R7	supports Arg1:T10 Arg2:T7	
+T11	Claim 1198 1292	Ein bisschen genauer trennen, was extern und was intern von deiner Unternehmung Angeboten wird
+T12	Claim 1294 1378	en Prozess des Eintragens der vorhandenen Kleider vll. mit 12 Bildchen noch erklären

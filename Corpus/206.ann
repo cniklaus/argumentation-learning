@@ -1,0 +1,13 @@
+T1	Claim 10 115	Sehr ausführliche Value Proposition und eine tolle Idee Schöne Gegenüberstellung der Pains/Pain Relievers
+T2	Claim 117 223	Du könnten die Unterpunkte jedoch stärker strukturieren, so dass auf jeden Pain ein Pain Reliever entfällt
+T3	Claim 224 292	Ich würd dieselbe Systematik für die Gains/Gain Creators vorschlagen
+T4	Claim 294 450	Bei den Gain Creators könntest du eine noch stärkere Verbindung zum Produkt vornehmen und erklären welcher Aspekt/Service der Plattform die Gains adressiert
+T5	Claim 452 596	Einiger der Gain Creators sehe ich eher als Gains, wobei du dann in der Kategorie Gain Creators schreiben kannst, wie die Plattform dies umsetzt
+T6	Premise 603 697	wie genau wird das Gefühl wir sind alle nur Menschen durch einen Service der Plattform erfüllt
+R1	supports Arg1:T6 Arg2:T5	
+T7	Claim 699 767	Im Allgemeinen würde ich versuchen, den Text weiter zu strukturieren
+T8	Premise 773 885	mit Bullet Point und Buchstaben wie du schon gemacht hast, um die Value Proposition schneller erfassen zu können
+R2	supports Arg1:T8 Arg2:T7	
+T9	Premise 888 916	Sprich, kürzer und knackiger
+R3	supports Arg1:T9 Arg2:T8	
+T10	Claim 918 948	Alles in allem eine tolle Idee

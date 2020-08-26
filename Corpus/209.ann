@@ -1,0 +1,29 @@
+T1	Claim 17 157	Die Geschäftsmodellidee reduziert auf ein Minimum den administrativen Aufwand beim EBanking und ist somit eine sehr gute Lösung des Problems
+T2	Claim 158 201	Das Preismodell ist sehr attraktiv für User
+T3	Premise 206 251	der USER nur bezahlt, was er wirklich braucht
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 252 361	Die Plattform ist für Kreditoren kostenlos und somit besteht keine Hürde für die Verwendung auf Kreditorseite
+T5	Premise 371 429	Der Nutzen für den Kreditor ist nicht wirklich ersichtlich
+T7	Claim 491 581	Somit müssten Anreize geschaffen werden, damit auch die Kreditoren diese Lösung bevorzugen
+T8	Premise 588 807	schnellere Abwicklung des Rechnungsprozesses, Einfachheit und Individualisierung der Rechnungstellung, einfache Integrierung der Plattform in bestehende Buchhaltungsprozesse, Speicherung wiederkehrender Rechnungen, etc.
+T6	Premise 431 489	Wieso sollte ein Kreditor die Rechnung über PayDay stellen
+R2	supports Arg1:T6 Arg2:T5	
+R3	supports Arg1:T5 Arg2:T7	
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 830 953	Soweit ich es richtig verstanden habe, muss der Debitor ein Guthaben aufladen, um die Dienstleistung von PayDay zu bezahlen
+T10	Claim 955 982	Das ist einerseits sehr gut
+T11	Premise 987 1023	der Kunde immer die Kontrolle behält
+T12	Premise 1025 1065	andererseits aber auch eine kleine Hürde
+R5	supports Arg1:T9 Arg2:T10	
+R7	supports Arg1:T11 Arg2:T10	
+T13	Premise 1069 1111	der Kunde muss die Leistung vorfinanzieren
+T14	Premise 1115 1189	entsteht dadurch ein administrativer Aufwand für das Aufladen des Accounts
+T15	Claim 1191 1369	Wie wäre es mit einer direkten Bezahlung der Kommissionvia EBanking die Daten hat man schon, Kunde muss nur bestätigen und integriert imZahlungsprozess der Rechnung des Kreditors
+T16	Premise 1376 1496	könnte die Rechnung so aussehen Rechnungsbetrag 100 CHF, Kommission 2.5 CHF, Total 102.5 CHF, Zahlungsprozess bestätigen
+R10	supports Arg1:T16 Arg2:T15	
+T17	Premise 1498 1601	Und dann würden 2 Zahlungen ausgelöst, den Rechnungsbetrag an den Kreditor und die Kommission an PayDay
+R11	supports Arg1:T17 Arg2:T15	
+R6	supports Arg1:T12 Arg2:T15	
+R8	supports Arg1:T13 Arg2:T12	
+R9	supports Arg1:T14 Arg2:T12	
+R12	supports Arg1:T9 Arg2:T12	

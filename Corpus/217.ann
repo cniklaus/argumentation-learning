@@ -1,0 +1,55 @@
+T1	Claim 17 95	Grundsätzlich strukturierte Ausarbeitung in kurzer und knapper Bulletpointform
+T2	Claim 97 190	Für ein besseres Verständnis würde sich evtl. Fliesstext oder mehr Bulletpoints besser eignen
+T3	Claim 191 222	Die Pains sind kurz beschrieben
+T4	Claim 224 263	Die Kernpunkte sind aber erwähnt worden
+T5	Claim 264 368	Die Pain Relievers sind grundsätzlich gut ausgearbeitet und lösen die Anfangs genannten Pains der Kunden
+T6	Claim 370 478	Hier sollte jedoch noch der Punkt angefügt werden, dass die Wartezeiten bei der Bestellung verringert werden
+T7	Premise 485 526	eine Verknüpfung mit dem Kalender besteht
+R1	supports Arg1:T7 Arg2:T6	
+T8	Premise 536 677	Bei den Customer Jobs wäre es sinnvoll, wenn die Tätigkeit der Kunden in funktionale Jobs, soziale Jobs und emotionale Jobs unterteilt würden
+T9	Premise 679 749	Dies würde es dann auch vereinfachen Pains und Gains zu identifizieren
+T10	Premise 761 835	sind die drei genannten nicht die einzigen Jobs, welche der Kunde ausführt
+T11	Premise 837 930	Es könnte z.B. die soziale Komponente hinzugefügt werden, dass er einen hohen Status erreicht
+T12	Premise 937 985	er es sich leisten kann immer Essen zu bestellen
+R4	supports Arg1:T12 Arg2:T11	
+R5	supports Arg1:T11 Arg2:T10	
+T13	Premise 987 1154	Ein emotionaler Job ist z.B. die Sicherheit die sich der Kunde wünscht beim bestellen, dass er weiss dass das Essen gesund ist nicht zu viel fett, frische Zutaten etc.
+R6	supports Arg1:T13 Arg2:T10	
+T14	Claim 1156 1196	Diese Punkte sollten noch ergänzt werden
+R2	supports Arg1:T9 Arg2:T8	
+R3	supports Arg1:T8 Arg2:T14	
+T15	Premise 1197 1240	Products  Services sind minimal beschrieben
+T16	Premise 1242 1333	Es ist nicht klar, was genau das Produkt ist und wie sich die Services implementieren lässt
+T17	Claim 1335 1374	Hier sollte noch mehrgeschrieben werden
+R7	supports Arg1:T16 Arg2:T15	
+R8	supports Arg1:T15 Arg2:T17	
+T18	Premise 1376 1556	Wie werden die Lieferzeiten terminiert, wie kann der Kunde sich mit den Freunden verbinden, wie werden die Lieferservices ausgewählt, wie wird garantiert, dass das Essen gesund ist
+T19	Premise 1558 1620	Diese Punkte sollten noch beantwortet und ausgearbeitet werden
+R9	supports Arg1:T18 Arg2:T19	
+R10	supports Arg1:T19 Arg2:T17	
+T20	Premise 1627 1696	das Grundproblem ist ersichtlich, nicht jedoch die konkrete Umsetzung
+R11	supports Arg1:T20 Arg2:T19	
+T21	Premise 1697 1785	Die Gains, welche beschrieben wurden, sind die Lösung zu den bereits beschriebenen Pains
+T22	Premise 1787 1921	Hier wäre es wünschenswert, wenn Punkte genannt werden, welche sich der Kunde wünschte, welche unerwartet sind, welche ihn überraschen
+T23	Premise 1923 2013	Das wäre z.B. eine Funktion die ihn jeden Tag um eine Uhrzeit fragt ob er bestellen möchte
+T24	Premise 2020 2122	er ja jeweils und diese Zeit das Büro verlässt, dass wenn er zu Hause ankommt das Essen bereits da ist
+R12	supports Arg1:T24 Arg2:T23	
+R13	supports Arg1:T23 Arg2:T22	
+T25	Premise 2129 2236	die erwähnte Kalenderanbindung sollte ebenfalls hier rein, damit sie unten bei den Gain Creators Sinn macht
+R15	supports Arg1:T25 Arg2:T24	
+T26	Claim 2238 2319	Hier sollte nochmals nachgebessert werden und konkrete Gains ausgearbeitet werden
+R14	supports Arg1:T22 Arg2:T21	
+R16	supports Arg1:T21 Arg2:T26	
+T27	Premise 2320 2393	Die Gain Creators korrelieren nicht mit den Gains und stehen lose im Raum
+R17	supports Arg1:T27 Arg2:T26	
+T28	Premise 2395 2559	Hier sollten die Gains überarbeitet werden und dann entsprechend ausgearbeitet werden, ob die vorgeschlagene Lösung die gewünschten Gains der Kunden erfüllen können
+R18	supports Arg1:T28 Arg2:T27	
+T29	Premise 2583 2670	Es sind gute Ansätze vorhanden, es fehlt aber oftmals an der Präzision und der Struktur
+T30	Premise 2672 2782	Es empfiehlt sich für jeden Punkt nochmals zu überlegen, was es braucht, um dann den Roten Faden durchzuziehen
+T31	Premise 2784 2882	Dieser fehlt im Moment. Insbesondere die Products  Services sind sehr dürftig ausgearbeitet worden
+T32	Claim 2884 2917	Hier besteht noch Handlungsbedarf
+R19	supports Arg1:T31 Arg2:T30	
+R20	supports Arg1:T29 Arg2:T30	
+R21	supports Arg1:T30 Arg2:T32	
+T33	Premise 2919 3065	m Besten werden alle Punkte, welche zum Value Proposition gehören nochmals konkret angeschaut, verbessert und dann in ein stimmiges Bild eingefügt
+R22	supports Arg1:T33 Arg2:T30	

@@ -1,0 +1,47 @@
+T1	Claim 30 145	ist die Geschäftsidee generell und auch die Ausarbeitung des Freitextes und der Business Model Canvas sehr gelungen
+T2	Premise 147 266	Es wird sehr schnell deutlich, was der eigentliche Zusatznutzen für den Kunden ist und wie dieser generiert werden soll
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 268 446	Zusätzlich wird deutlich, dass WilhelmTell einen Markt anspricht, der zurzeit über wenig Wettbewerber verfügt, sodass schnell ersichtlich wird, dass ein USP generiert werden kann
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 448 584	Es wird jedoch nicht ganz ersichtlich, ob die eigentlichen Kunden nur aus der Schweiz sind oder ob das Unternehmen global agieren möchte
+T5	Premise 586 650	Dies wäre sicherlich auch aus rechtlicher Sicht noch interessant
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 663 851	solltest du eventuell den letzten Punkt bezüglich Assets under Management noch etwas mehr ausbauen, damit der Freitext nicht mit einem eigentlichen Risiko für die Unternehmung beendet wird
+T7	Premise 853 1030	Am besten wäre es, wenn du diesen Punkt so aufbauen könntest, dass der Leser das Gefühl bekommt, dass auch durch die Umgehung dieses Risikos ein Vorteil für WilhelmTell entsteht
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 1036 1108	Insgesamt finde ich die Ausarbeitung vollständig und inhaltlich sehr gut
+T9	Premise 1201 1234	Key Partners  Gut und vollständig
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 1238 1304	Key Activities  Es wird klar, was das Unternehmen eigentlich macht
+R6	supports Arg1:T10 Arg2:T8	
+T11	Premise 1306 1404	Du könntest aber die Aktivität Bereitstellung des Anlagetools noch etwas detaillierter beschreiben
+R7	attacks Arg1:T11 Arg2:T8	
+T12	Premise 1420 1502	Anbieten eines Anlagetools zur Risikoevaluation, Aufstellen eines Portfolios, etc.
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 1505 1610	Key Resources  Sehr gut ausgearbeitet, insbesondere das Anlagetool als wichtigste Ressource finde ich gut
+R9	supports Arg1:T13 Arg2:T8	
+T14	Premise 1615 1677	hierdurch bestimmt ein Wettbewerbsvorteil erreicht werden kann
+R10	supports Arg1:T14 Arg2:T13	
+T15	Premise 1679 1763	Eventuell könntest du hier noch eine starke Beziehung zu den Partnerbanken aufzeigen
+T16	Premise 1768 1851	diese sicherlich auch eine wichtige Ressource für die Leistungserbringung darstellt
+R11	supports Arg1:T16 Arg2:T15	
+R12	attacks Arg1:T15 Arg2:T8	
+T17	Premise 1856 1946	Value Proposition  Alles vollständig und gut, das Werteversprechen wird sehr klar deutlich
+R13	supports Arg1:T17 Arg2:T8	
+T18	Premise 1951 2075	Customer Relationships  Die angezeigten Wege reichen sicher aus, um die Beziehung zum Kunden zu stärken bzw. stark zu halten
+T19	Premise 2077 2381	Eventuell könntest du noch einen regelmässigen Anruf oder ähnliches mit einbringen, damit der Kunde sich individuell gut beraten fühlt oder beispielsweise beim Abschluss des Vertrags den Kunden selbst entscheiden lassen, in welchem Rhythmus und über welches Medium er am liebsten informiert werden möchte
+R14	attacks Arg1:T19 Arg2:T18	
+R15	supports Arg1:T18 Arg2:T8	
+T20	Premise 2386 2421	Channels  Alles vollständig und gut
+R16	supports Arg1:T20 Arg2:T8	
+T21	Premise 2426 2485	Customer Segments  Sehr gut erklärt, wer die Zielgruppe ist
+R17	supports Arg1:T21 Arg2:T8	
+T22	Premise 2487 2596	Vielleicht solltest du noch erwähnen, ob du beispielsweise global aktiv sein möchtest oder nur in der Schweiz
+R18	attacks Arg1:T22 Arg2:T8	
+T23	Claim 2601 2660	Cost Structure  Alle offensichtlichen Kosten wurden erwähnt
+T24	Premise 2665 2805	Revenue Stream  Du nennst sehr genau, woher du deine Einkünfte beziehen möchtest, sodass man ein klares Bild von der Ertragsmechanik bekommt
+R19	supports Arg1:T24 Arg2:T8	
+T25	Premise 2818 2974	könntest du noch etwas näher erläutern, was beispielweise zusätzliche Beratungsleistungen sein könnten und auch wie die AbonnementAngebote kalkuliert werden
+T26	Premise 2976 3118	Insbesondere sollte ersichtlich werden, was deine primäre Ertragsquelle ist bzw. wie diese anhand der Wichtigkeit und Grösse gestaffelt werden
+R20	supports Arg1:T26 Arg2:T25	
+R21	attacks Arg1:T25 Arg2:T8	

@@ -1,0 +1,16 @@
+T1	Claim 10 91	Geschäftsmodell und Business Model Canvas sind hinreichend ausfürlich beschrieben
+T2	Claim 93 244	Der Autor legt dar, dass Lösungen auf dem Gebiet der Fahrtenvermittlung bereits existieren, es aber immer noch eine Nische gibt, welche Potenzial biete
+T3	Premise 247 275	Dieser Analyse stimme ich zu
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 277 553	Eine seit längerem existierende, aber nicht sehr erfolgreiche Lösung, die ebenfalls in die Richtung der Vermittlung von Fahrten mit eher kurzen Distanzen unter Verwendung von Algorithmen zur optimalen Zuteilung von Fahrern und Mitfahrern geht wäre hier Flinc https//flinc.org/
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 555 623	Problematisch sehe ich die langfristige Sicherung der RevenueStreams
+T6	Premise 630 741	dem Pendeln eigen ist die Tatsache, dass immer die gleichen Strecken zu ähnlichen Uhrzeiten durchgeführt werden
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 743 940	Das birgt die Gefahr, dass sich Fahrer und Mitfahrer nach erstmaliger erfolgreicher Vermittlung die auch einen RevenueStream generiert anschliessend anderweitig kontaktieren und Fahrten vereinbaren
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 947 960	über WhatsApp
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 962 1080	Dieses Problem liesse sich beispielsweise durch eine jährliche Gebühr abschwächen, aber auch nicht vollständig beheben
+R6	supports Arg1:T9 Arg2:T5	
+T10	Claim 1082 1184	Ansonsten hat ein Portal, welches Pendler besser zusammenbringt, in meinen Augen ein grosses Potenzial

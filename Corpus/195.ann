@@ -1,0 +1,42 @@
+T1	Premise 39 175	das zielgerichtete Zusammenführen von optionalen Services von Drittanbietern stellt eine Differenzierung zu herkömmlichen Programmen dar
+T2	Premise 181 250	Dies ist ein sehr interessanter Aspekt beim Geschäftsmodell von Equip
+T3	Claim 252 328	Ich würde darauf in der weiteren Ausarbeitung ein besonderes Augenmerk legen
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T1 Arg2:T3	
+T4	Premise 472 570	in Betracht gezogen werden sollte eine Öffnung sämtlicher gesammelter Daten für externe Entwickler
+T5	Premise 572 674	Somit könnte zusätzliches EntwicklerPotenzial ausgeschöpft werden vgl. Mehrseitige Märkte VL1 Folie 14
+T6	Claim 331 465	nteressant wird es, sobald Equip flächendeckend eingesetzt wird und Daten dann auch unternehmensübergreifend ausgewertet werden können
+R3	supports Arg1:T4 Arg2:T6	
+R4	supports Arg1:T5 Arg2:T4	
+T7	Claim 680 893	m Gegensatz zu gewöhnlichen BetriebsmittelwartungsProgrammen bietet Equip eine intuitive Erstellung der Wartungs und Kalibrierpläne und vor allem die Möglichkeit schnell und effizient im Bedarf Ersatz zu bestellen
+T8	Premise 898 1045	Viele Business Software Lösungen haben das Problem, dass die Usability im Vergleich zu Consumer Electronics Produkten stark zu wünschen übrig lässt
+T9	Premise 1047 1160	Einfache Bedienbarkeit sowie Visualisierung werden bei den Anwendern mit Sicherheit auf positive Resonanz stossen
+R5	supports Arg1:T8 Arg2:T7	
+R6	supports Arg1:T9 Arg2:T7	
+T10	Premise 1196 1329	ermöglicht es einen effizienteren Wartungsaufwand bestehender Anlangen, wodurch eine um 30 erhöhte Anlagenverfügbarkeit erreicht wird
+T11	Premise 1335 1356	Woher kommen diese 30
+T12	Claim 1358 1455	In dieser frühen Phase der Geschäftsmodellentwicklung würde ich auf genaue Zahlen noch verzichten
+R7	supports Arg1:T10 Arg2:T11	
+R8	supports Arg1:T11 Arg2:T12	
+T13	Premise 1457 1556	Wenn man Zahlen nennen will, dann würde ich diese höchstens als Zielformulierung einfliessen lassen
+T14	Premise 1563 1685	Ziel ist es, durch einen effizienten Wartungsaufwand bestehender Anlagen die Anlagenverfügbarkeit um bis zu 30 zu steigern
+R9	supports Arg1:T14 Arg2:T13	
+R10	supports Arg1:T13 Arg2:T12	
+T15	Premise 1693 1830	Das Portal Equip bietet die Möglichkeit die Betriebsmittellandschaft einer Produktionsanlage effizient und übersichtlich zu visualisieren
+T16	Premise 1832 1968	Zusammen mit dem unterstützenden Erstellen von Wartungsplänen wird der administrative Dokumentationsaufwand der Instanthaltung minimiert
+T17	Claim 1973 2184	Diese Features sind für die Person, welche alle diese Wartungspläne, Dokumentationen etc. erstellen muss zwar nice to have, aber was ist die Motivation für den Entscheider diese Software tatsächlich anzuschaffen
+R11	supports Arg1:T15 Arg2:T17	
+R12	supports Arg1:T16 Arg2:T17	
+T18	Premise 2186 2219	Kann bspw. viel eingespart werden
+R13	supports Arg1:T18 Arg2:T17	
+T19	Premise 2221 2304	In diesem Zusammenhang steht auch die Frage, wie leicht die Software einführbar ist
+R14	supports Arg1:T19 Arg2:T17	
+T20	Premise 2306 2342	Muss alte Software abgestellt werden
+R15	supports Arg1:T20 Arg2:T17	
+T21	Premise 2344 2456	Was ist wenn diese Software aber noch Abhängigkeiten zu anderen Systemen der Unternehmung bspw. dem CRM etc. hat
+R16	supports Arg1:T21 Arg2:T17	
+T22	Claim 2472 2525	Alles in allem ein sehr interessantes Business Modell
+T23	Claim 2538 2663	würde ich bei der weiteren Erarbeitung unbedingt beachten, dass der Anwender in den meisten Fällen nicht der Käufer sein wird
+T24	Premise 2666 2839	nter diesem Aspekt ist es wichtig, dass es nicht nur für den Anwender gute Features gibt, sondern dass für den Käufer wahrsch. aus dem Management ein Anreiz zum Kauf besteht
+R17	supports Arg1:T24 Arg2:T23	
+T25	Claim 2841 2940	Potezial sehe ich wie gesagt im Bereich der Datenöffnung und der Einbindung von externen Developern

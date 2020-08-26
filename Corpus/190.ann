@@ -1,0 +1,15 @@
+T1	Claim 68 105	Tolle B2B Lösung mit echtem Potenzial
+T2	Claim 107 159	Sehr fundierte und durchdachte Ausarbeitung der Idee
+T3	Claim 252 327	Nicht erkennbar, welche Unternehmensklasse man diese Lösung anbieten möchte
+T4	Premise 329 401	Von Einzelunternehmer bis hin zur internationaltätigen Maschinenbaufirma
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 403 458	Aufgrund der Skalierbarkeit der Lösung duchraus möglich
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 511 565	per se Benötigt Screwup! tatsächlich ein eigenes Lager
+T7	Premise 567 668	Bei der ganzen Datenmenge wäre es doch sicherlich möglich direkt vom Hersteller zum Kunden zu liefern
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 670 756	Screwup! würde dann nur noch Daten sammeln, optimieren, bestellen und versenden lassen
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 758 787	Reduziert die Kosten für alle
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 932 996	Zielgruppe noch mal ausbauen wie oben angemerkt konkretiersieren

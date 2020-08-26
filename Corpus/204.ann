@@ -1,0 +1,43 @@
+T1	Claim 18 97	Happy Home ist eine gute Idee um den Wellbeing Ansatz im Wohnbereich umzusetzen
+T2	Premise 99 192	Happy Home beinhaltet die zentralen Elemente einer umfassenden Assistenzlösung für den Kunden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 194 309	Die zusätzlichen Funktionen illustrieren, wie durch die Verknüpfung der Geräte im Haushalt weiterer Nutzen entsteht
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 316 336	Fernsehkonsum Kinder
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 344 458	bietet die App alles aus einer Hand und der Kunde kann seine ganzen Home Devices darüber verwalten und analysieren
+R4	supports Arg1:T5 Arg2:T1	
+T6	Premise 460 528	Dabei lässt die App dem Kunden die Freiheit für spontane Aktivitäten
+R5	supports Arg1:T6 Arg2:T1	
+T7	Claim 541 676	Das Customer Segement ist aufgrund der Beschreibung des Geschäftsmodells nicht ganz nachvollziehbar und könnte evt. noch ergänzt werden
+T8	Premise 678 814	Aspekte wie Nachhaltigkeit, Reduktion der Energieausgaben, Convenience oder Begeisterung für Technik könnten weitere Beschreibungen sein
+R6	supports Arg1:T8 Arg2:T7	
+T9	Premise 816 1076	Aspekte wie Sicherheitsgefühl oder AlleinSein müssten näher beschrieben sein um zu verstehen, warum dies im Zusammenhang mit der Stromsteuerung des Hauses wichtig sind resp. wurde auf das Thema Sicherheit in der Geschäftsmodellbeschreibung zu wenig eingegangen
+R7	supports Arg1:T9 Arg2:T7	
+T10	Claim 1079 1163	Bei Customer Relationship könnte auch noch der Support/Service berücksichtigt werden
+T11	Premise 1169 1203	bei Fehlermeldungen oder Störungen
+R8	supports Arg1:T11 Arg2:T10	
+T12	Premise 1205 1297	Zentral für den WellBeing Ansatz ist die AllesauseinerHand Lösung resp. eine Assistenzlösung
+R9	supports Arg1:T12 Arg2:T10	
+T13	Claim 1299 1387	Zusätzliche Ansprechpartner wie Vertriebsfirmen könnten daher eher weniger geeignet sein
+T14	Premise 1389 1638	Vielleicht braucht es für die einzelnen Ansteuerung der Buchsen gar keinen aufwändigen Vertrieb, sondern die Buchsen können einfach durch den Elektriker ersetzt werden online bestellt oder im Baumarkt gekauft und dann mit dem Router verbunden werden
+R10	supports Arg1:T14 Arg2:T13	
+T15	Claim 1647 1746	beim Revenue Stream könnte Komplexität reduziert werden und der Service mehr zu einer Lösung werden
+T16	Premise 1748 1847	Der Kunde bezahlt einerseits für die App und die Abonnemente, anderseits aber auch für die Hardware
+T17	Premise 1849 1930	Dies sollte vielleicht gleich alles in eine monatliche Rechnung integriert werden
+R11	supports Arg1:T16 Arg2:T17	
+R12	supports Arg1:T17 Arg2:T15	
+T18	Premise 1932 1992	Möglich wäre dies z.B. auch über den Stromanbieter zu machen
+R13	supports Arg1:T18 Arg2:T15	
+T19	Premise 1997 2151	die Anwendung auch den Energieverbrauch steuert und der Kunde so sieht, wo er im Haus wie viel Strom verbraucht oder wie hoch seine momentane Rechnung ist
+R14	supports Arg1:T19 Arg2:T18	
+T20	Claim 2155 2203	Bei den Key Resources werden die AppAbos genannt
+T21	Premise 2205 2299	Diese sind jedoch bereits bei Revenue Streams erwähnt und sollten eher nur dort genannt werden
+R15	supports Arg1:T21 Arg2:T20	
+T22	Premise 2301 2407	Hingegen könnte die Hardware und standardisierte Produkte mit Schnittstellen eine Key Resources darstellen
+R16	supports Arg1:T22 Arg2:T20	
+T23	Premise 2409 2480	Der Vertrieb über Partner gehört dann eher wieder zu den Key Activities
+R17	supports Arg1:T23 Arg2:T22	
+T24	Claim 2482 2540	Der Punkt mit den Partnerfirmen sollte zu den Key Partners
+T25	Claim 2567 2635	Überarbeitung des Business Model Canvas Kundensegment, Key Resources
+T26	Claim 2638 2755	eitere Reduzierung der Ansprechpersonen Vertrieb, Service, Rechnung und Vereinheitlichung aller Funktionen in der App

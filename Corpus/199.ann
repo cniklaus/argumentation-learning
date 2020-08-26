@@ -1,0 +1,18 @@
+T1	Claim 10 51	Grundsätzlich finde ich Deine VP sehr gut
+T2	Claim 53 103	Sie ist sehr ausführlich fast etwas zu detailliert
+T3	Premise 110 163	die Customer Jobs und zeigt die entscheidenden Punkte
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 165 239	Ich selbst spiele auch Tennis und kenne die von Dir beschriebenen Probleme
+R2	supports Arg1:T4 Arg2:T1	
+T5	Claim 241 357	Was ich auch sehr gut finde ist, dass sich die Unternehmenspunkte wirklich auf die Gains  Pains des Kundens beziehen
+T6	Claim 504 615	Bestehen diese Pains wirklich auch für diese Spieler oder habe diese bereits solche Möglichkeiten über den Club
+T7	Premise 359 502	Was ich mich ein bisschen frage, ist folgendes Viele Tennisspieler nehmen regelmässig Stunden oder spielen regelmässig in einem bestimmten Club
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 623 757	bin ich mir nicht sicher, ob ein Chip die richtige Lösung ist, oder ob allenfalls irgendeine Intelligente Saite erfunden werden könnte
+T9	Claim 760 821	ielleicht könnte man zudem noch über weitere Gains nachdenken
+T10	Premise 833 873	eine Auswertung der Geschwindigkeit, etc
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 874 1004	Ich denke aber, dass Deine Idee / Deine VP auch so umsetzbar ist, wie Du sie beschrieben hast, und meine Inputs eher optional sind
+R5	attacks Arg1:T11 Arg2:T9	
+R6	attacks Arg1:T11 Arg2:T8	
+R7	attacks Arg1:T11 Arg2:T6	

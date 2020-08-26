@@ -1,0 +1,17 @@
+T1	Claim 18 81	Gute und ausführliche Beschreibung des Value Proposition Canvas
+T2	Premise 83 205	Der Customer Job umfasst genau die Bedürfnisse der Kunden und das Problem, welches sie mit den zahlreichen Verträgen haben
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 208 308	ie Pains werden ebenfalls gut hervorgehoben und gezeigt, welche ungewollten Kosten für sie entstehen
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 310 390	Product  Services sind nachvollziehbar und zeigen einen schönen Wellbeing Ansatz
+T5	Premise 392 554	Die Pain Relievers gehen direkt auf die vorhin definierten Pains ein und zeigen auf, wie die negativen Emotionen und unerwünschte Situation verhindert werden kann
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 567 707	Products  Services könnte vielleicht noch ein wenig vertieft werden und noch breiter auf den Service, den die App bietet, eingegangen werden
+T7	Premise 709 854	Gibt es z.B. eine SupportHotline, Erfassung bestehender Verträge, Kündigung über App, Offerten etc. sodass die Assistenzlösung ersichtlicher wird
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 863 918	haben die Gains bereits einen sehr starken Produktbezug
+T9	Premise 920 1179	Die Gains sollten allgemeiner beschrieben werden weniger Zeitbedarf für Vertragsmanagement, Schnelligkeit, einfacher, immer die Übersicht, nichts mehr verlieren, keine Kündigung verpassen, Geld sparen, weniger Platzbedarf im Büro, immer und überall dabei etc.
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1205 1228	Überarbeitung der Gains
+T11	Premise 1230 1357	Erwähnung von weiteren nicht produktspezifischen Aspekten wie emotionale und ökonomische Dinge Zeit, Geld, WorkLifeBalance etc.
+R6	supports Arg1:T11 Arg2:T10	

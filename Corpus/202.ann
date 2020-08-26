@@ -1,0 +1,12 @@
+T1	Claim 10 125	Ich finde es gut erklärt, man bekommt eine vermutung um was es sich dabei handelt ohne das Businessmodell zu kennen
+T2	Claim 126 222	Eine der schwächen welche ich sehe ist, wie sich diese App differenziert von einem Kundenberater
+T3	Premise 224 282	Der Mensch vertraut eher einem Menschen als einer Software
+T5	Claim 445 560	könnte man als zusätzlichen Gain das vereinfachte überweisen von Gelder via andere APP oder KreditKarte integrieren
+T4	Claim 284 436	Von daher, müsste man bei den Gains noch mehr Informationen haben respektive Ansätze wo ein wirklicher Gain gegenüber existierenden Technologien besthet
+R1	supports Arg1:T3 Arg2:T2	
+T6	Claim 562 602	Fachlich finde ich es jedoch gut gemacht
+T7	Premise 604 711	Es besteht ein Fit zwischen den beiden Sphären und die Probleme der beiden Kundenarten sind gut beschrieben
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 713 815	Weiter ausführen könnte man zum beispiel das Verhalten des End Kunden in den verschiedenen Situationen
+T9	Premise 817 866	diese Info könnte man wiederum der Bank verkaufen
+R3	supports Arg1:T9 Arg2:T8	

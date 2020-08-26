@@ -1,0 +1,21 @@
+T1	Claim 17 157	Der Pain ist sehr gut getroffen persönliche Erfahrungen und das Bedürfnis für einen Abholservice der Post beim Kunden ist bestimmt vorhanden
+T2	Claim 159 273	Die Idee mit der Plattform und den verschiedenen Zahlungsmöglichkeiten ist gut und würde dem Kunden entgegenkommen
+T3	Claim 274 334	Der Beschrieb der Idee ist sehr gut und treffend geschrieben
+T4	Claim 344 425	Es ist nicht klar dargestellt wie die Übergabe des Pakets/Briefs stattfinden soll
+T5	Premise 427 538	Hat der Kunde die Möglichkeit die Briefe vor der Haustüre zu deponieren oder muss er diese persönlich übergeben
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 540 631	Falls das erste der Fall ist, wie wird sichergestellt dass die Briefe nicht abhanden kommen
+R2	supports Arg1:T6 Arg2:T4	
+T7	Premise 633 752	Falls er das Paket persönlich übergibt, erfordert diese eine gute Koordination zwischen den Kunden und dem Abholservice
+R3	supports Arg1:T7 Arg2:T4	
+T8	Premise 753 925	Dieser Service wird wahrscheinlich zur Folge haben, dass Pakete und Briefe die abgeholt werden müssen teurer sind, als solche die der Kunde persönlich zur Poststelle bringt
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 949 1012	Für die Übergabe der Post muss eine gute Lösung gefunden werden
+T10	Premise 1020 1170	ein TrackingSystem das dem Kunden auf dem Smartphone anzeigt, wo sich der Lieferdienst gerade befindet und wann er beim Kunde sein könnte wie bei Uber
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1172 1224	Somit weiss der Kunde wann die Übergabe statt findet
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 1225 1360	Eine weitere Möglichkeit die auch bereits von der Post geprüft wird wäre der Einsatz von Drohnen, die Pakete bis zu 20kg tragen können.
+R7	supports Arg1:T11 Arg2:T9	
+T13	Premise 1361 1432	Dies ist aber zum heutigen Zeitpunkt noch eine sehr teure Angelegenheit
+R8	attacks Arg1:T13 Arg2:T12	

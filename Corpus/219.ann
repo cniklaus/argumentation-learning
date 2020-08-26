@@ -1,0 +1,37 @@
+T1	Claim 12 64	Contractary ist grundsätzlich eine interessante Idee
+T2	Premise 66 120	Ich denke viele wichtige Aspekte wurden berücksichtigt
+T3	Premise 131 180	die Datensicherheitsbedürfnisse, digitale ID etc.
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T2 Arg2:T1	
+T4	Premise 181 263	Insbesondere eine Grundvoraussetzung, die digitale ID, gibt es ja bereits suisseID
+T5	Premise 278 364	ist es bei verschiedenen Firmen bereits möglich, die Verträge digital zu unterzeichnen
+R4	supports Arg1:T5 Arg2:T4	
+T6	Premise 366 541	Den Mehrwert der Plattform sehe ich deshalb darin, dass man alle Verträge an einem Ort gespeichert hat, also die Funktion der Organisation/einer Bibliothek mit nur einem Login
+R3	supports Arg1:T4 Arg2:T6	
+R5	supports Arg1:T6 Arg2:T1	
+T7	Premise 543 607	Ein guter Zusatznutzen besteht zudem in der rechtlichen Beratung
+R6	supports Arg1:T7 Arg2:T1	
+T8	Claim 623 682	sehe ich diese Idee in diesem Rahmen als eher unrealistisch
+T9	Premise 689 867	für Kunden aber speziell für Firmen besteht ein zu kleiner Anreiz, die persönlichen Daten einem Zwischenhändler zur Verfügung zu stellen sowie für diesen Dienst etwas zu bezahlen
+R7	supports Arg1:T9 Arg2:T8	
+T10	Premise 869 1044	Gerade für die Endkonsumenten gibt es nur eine überschaubare Anzahl an Verträgen, die man mit einem etwas grösseren Aufwand schriftlich mit Unterschrift etc. abschliessen muss
+R8	supports Arg1:T10 Arg2:T9	
+T11	Premise 1047 1243	eist sind diese dann auch längerfristig, man schliesst also nur alle paar Jahre einen solchen neuen Vertrag ab ansonsten verlängert man sie einfach, ohne nochmals speziell unterschreiben zu müssen
+R9	supports Arg1:T11 Arg2:T10	
+T12	Claim 1280 1441	Spontan wäre es mein Vorschlag, ein ähnliches Geschäftsmodell wie jenes von PayPal aufzubauen Unternehmen können auf ihrer eigenen Website einen Button einbinden
+T13	Premise 1447 1483	Vertrag mit Contractary abschliessen
+R10	supports Arg1:T13 Arg2:T12	
+T14	Premise 1485 1694	Über Contractary werden dann alle relevanten Daten direkt dem Unternehmen übermittelt ohne dass man sie alle in einem Formular eingeben muss und gleichzeitig wird der Vertrag mit der digitalen ID unterzeichnet
+R11	supports Arg1:T14 Arg2:T12	
+T15	Premise 1696 1829	Im Contractary Tool sieht der Kunde dann, welche Verträge er mit diesem Dienst abgeschlossen hat Bibliothek, Vertragslaufzeiten, etc.
+R12	supports Arg1:T15 Arg2:T14	
+T16	Premise 1831 1976	Unternehmen zahlen entweder für die Einbindung des Buttons eine Pauschale, oder sie zahlen jedes Mal, wenn jemand damit einen Vertrag abschliesst
+R13	supports Arg1:T16 Arg2:T12	
+T17	Premise 1979 2053	e nach dem zahlt der Kunde zudem eine jährliche Gebühr für die digitale ID
+R14	supports Arg1:T17 Arg2:T12	
+T18	Premise 2058 2302	Bei diesem Modell müsste man aber genau analysieren, was man mit der bestehenden suisseID bereits machen kann wäre wohl ein sehr ähnlicher Service bzw. wie man sich davon abheben könnte oder ob man ein komplementierendes Produkt anbieten könnte
+R15	attacks Arg1:T18 Arg2:T12	
+T19	Claim 2309 2469	Eine nützliche Funktion könnte noch sein, dass der Endkonsument Benachrichtigungen erhält, sobald ein Vertrag ausläuft bzw. wenn ein Kündigungstermin bevorsteht
+T20	Claim 2478 2577	kann man sich überlegen, ob mit den gewonnen Daten etwas nützliches gemachen kann Big DataAnwendung
+T21	Premise 2583 2666	anonym Verträge und Preise vergleichen und so einen Dienst wie comparis.ch anbieten
+R16	supports Arg1:T21 Arg2:T20	

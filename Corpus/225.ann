@@ -1,0 +1,43 @@
+T1	Claim 19 45	Übersichtliches Storyboard
+T2	Premise 47 126	Klar verständlich nur mit den Bildern und ohne dass zusätzlicher Text nötig ist
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 129 180	Liebe zum Detail bei der Erstellung des Storyboards
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 182 245	App Menü finde ich super gemacht, auch mit dem kleinen Händchen
+T5	Premise 247 278	Teilweis lustige Illustrationen
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 281 332	Storyboard Kundenprozesse machen hauptsächlich Sinn
+T7	Claim 369 438	Kunenprozess Prozessgrafik stimmt nicht 11 mit dem Storyboard überein
+T8	Premise 440 513	Ich bin mir jedoch auch nicht sicher, ob das unbedingt der Fall sein muss
+R4	attacks Arg1:T8 Arg2:T7	
+T9	Claim 516 561	Prozessgrafik Würde ich knackiger formulieren
+T10	Premise 569 601	Abfrage Lebensmittel Kühlschrank
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 603 711	Prozessgrafik Wenn ich die Grafik mit dem Storyboard vergleiche, dann scheinen mir Prozessschritte zu fehlen
+R6	supports Arg1:T11 Arg2:T7	
+T12	Premise 719 766	Auswahl der Lebensmittel, Scan der Lebensmittel
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 770 875	Storyboard Evtl zwischen IV V noch ein Bildchen einbauen, dass die Frau beim Scannen der Salatsauce zeigt
+R8	supports Arg1:T13 Arg2:T12	
+T14	Premise 890 1050	Aus der reinen Betrachtung des Storyboards wird mir nicht ganz ersichtlich, wie der Bezahlvorgang funktioniert Bezahlung nun über das App oder beim SelfCheckout
+T15	Premise 1052 1190	Muss der Kunde die Produkte nochmals scannen oder kann er einen Barcode auf dem App vom Scanner beim Self checkout scannen lassen oder wie
+T16	Premise 1195 1303	Oder kann er evtl. gleich per Paypal oder Kreditkarte im App bezahlen und erhält eine elektronische Quittung
+T17	Claim 1402 1513	Musst das ganze nur noch irgendwie ins Storyboard bringen, so dass es für den unerfahrenen Betrachter klar wird
+R9	supports Arg1:T16 Arg2:T14	
+R10	supports Arg1:T15 Arg2:T14	
+R11	supports Arg1:T14 Arg2:T17	
+T18	Claim 1517 1595	Allgemeine Ideen / Food for Thought zur Geschäftsidee  Verlinkung mit Aktionen
+T19	Premise 1605 1673	man gleich Bescheid bekommt, wenn Zutat XY im Geschäft AB Aktion ist
+R12	supports Arg1:T19 Arg2:T18	
+T20	Premise 1676 1705	Wie wird das Produkt gescannt
+T21	Premise 1707 1729	Verwendete Applikation
+R13	supports Arg1:T20 Arg2:T18	
+R14	supports Arg1:T21 Arg2:T18	
+T22	Claim 1732 1797	Eventuell Thumbnails der Produkte zeigen bei Storyboard IV und VI
+T23	Premise 1807 1852	der Kunde sofort weiss, wonach er suchen muss
+R15	supports Arg1:T23 Arg2:T22	
+T24	Claim 1855 1931	Ich denke es ist sehr schwierig eine solche Lösung erfolgreich zu vermarkten
+T25	Premise 1936 2132	sie sehr viel abdecken Rezepte, alle Produkte, Scanner etc... muss und eine grosse Eigenininitiative des Benutzer verlangt, sprich ständiges Halten des Smartphones neben Körbchen/Einkaufswägelchen
+R16	supports Arg1:T25 Arg2:T24	
+T26	Premise 2142 2177	Rahmen dieses Kurses sicher passend
+R17	attacks Arg1:T26 Arg2:T24	

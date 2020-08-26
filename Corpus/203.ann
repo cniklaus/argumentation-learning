@@ -1,0 +1,14 @@
+T1	Claim 10 49	Die Aufgabe beurteile ich als bestanden
+T2	Premise 51 178	Dies weil Sie den Value Proposition Canvas klar ausformuliert haben und so Ihr Wertversprechen an den Kunden verdeutlicht haben
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 180 251	Die Pains der Kunden können den Pain Relivers gegenüber gestellt werden
+T4	Premise 256 415	Zeit und Kostenintensive Prozesse welche vom Konsumenten als Pain empfunden werden und ihr Tool, welches diese durch Ihr Tool lindert und effizienter gestaltet
+R2	supports Arg1:T4 Arg2:T3	
+R3	supports Arg1:T3 Arg2:T2	
+T5	Premise 417 510	Gleiches gilt auch für die abstimmung der Gains und GainCreators und die Customer Jobs und PS
+R4	supports Arg1:T5 Arg2:T2	
+T6	Claim 512 661	Die einzige Frage die sich mir stellt ist, ob man nicht auch noch hätte einen Fliesstext schreiben müssen, welcher die einzelnen Punkte zusammenfasst
+T7	Premise 663 718	Vgl. Vorlesungsfolien guter Value Proposition slide 24.
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 719 812	Ich habe jedoch beim Feedback geben bereits beides gesehen Fliesstext und einzeln aufgelistet
+R6	attacks Arg1:T8 Arg2:T6	

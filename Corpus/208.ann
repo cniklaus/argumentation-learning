@@ -1,0 +1,28 @@
+T1	Premise 68 191	Das Geschäftsmodell ,,Chunch ist ein Plattformgeschäft, das eine optimale WinWinWin Situation bei allen Parteien realisiert
+T2	Claim 193 271	Dies ist sicherlich eine wenn nicht die grösste Stärke dieses Geschäftsmodells
+R1	supports Arg1:T1 Arg2:T2	
+T3	Premise 273 441	Den teilnehmenden Parteien entstehen aufgrund der transaktionsbasierten Vergütung keine UpfrontInvestitionen, was das die Teilnahme am bei Chunch für sie lukrativ macht
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 443 568	Zudem ist bei dem vom Kommilitonen beschrieben Geschäftsmodell auch die technische Realisierbarkeit gut möglich und umsetzbar
+T5	Premise 573 782	die Gericht einfach und bequem durch den Anbieter Restaurant auf der Plattform eingestellt werden können, entfallen beim Plattformbetreiber auch grosse Kostenblöcke wie zum Beispiel ein Teil des Aussendienstes
+R3	supports Arg1:T5 Arg2:T4	
+R4	supports Arg1:T4 Arg2:T1	
+T6	Premise 874 1037	Wie bei fast alle Plattformgeschäften wird es eine grosse Herausforderung sein, bei den Anbietern Restaurants eine kritische Masse zu erreichen schnelle Skalierung
+T7	Premise 1039 1165	Denn nur mit einem grossen Netzwerk an Restaurants ist die Plattform für den Kunden auch interessant indirekte Netzwerkeffekte
+T8	Claim 1167 1244	Eventuell wäre hierbei Partnerschaften mit grossen RestaurantKetten hilfreich
+R5	supports Arg1:T6 Arg2:T8	
+R6	supports Arg1:T7 Arg2:T8	
+T9	Premise 1385 1484	Die Lösung ist bereits ziemlich detailliert ausgeführt und greift bereits viele wichtige Punkte auf
+T10	Claim 1485 1597	Es wäre es sicherlich noch interessant, wie die Strategie für die Skalierung in der Anfangsphase aussehen könnte
+R7	attacks Arg1:T9 Arg2:T10	
+T11	Premise 1598 1666	Wie kann die kritische Masse an Anbieter Restaurants erreicht werden
+R8	supports Arg1:T11 Arg2:T10	
+T12	Premise 1667 1715	Was für MarketingMöglichkeiten gibt es hier noch
+R9	supports Arg1:T12 Arg2:T10	
+T13	Premise 1716 1783	Was machen ähnliche Plattformanbieter wie beispielsweise eat.ch gut
+R10	supports Arg1:T13 Arg2:T10	
+T14	Premise 1784 1857	Wie kann man sich genügend stark von diesen Plattformkonkurrenten abheben
+R11	supports Arg1:T14 Arg2:T10	
+T15	Claim 1858 2034	Bei den Revenu Streams wäre es besser, wenn die transaktionsbasierte Vergütung prozentual vom Verkaufspreis abhängig wäre und nicht ein Pauschalbetrag eingefordert werden würde
+T16	Premise 2036 2104	Dies wäre sicherlich für Anbieter von günstigeren Speisen lukrativer
+R12	supports Arg1:T16 Arg2:T15	

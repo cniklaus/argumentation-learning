@@ -1,0 +1,24 @@
+T1	Claim 68 162	Aufgrund der nicht sehr umfangreichen Arbeit kann ich als einzige Stärkedie Idee selber nennen
+T2	Claim 383 494	Man merkt auch an den Flüchtigkeitsfehlern, dass nicht besonders viel Zeit in die Ausarbeitung investiert wurde
+T3	Premise 495 561	Diese Aufgabenstellung sieht eigentlich keine Kurzbeschreibung vor
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 563 722	Letzten Mittwoch 02.12 wurde darauf hingewiesen, dass Was Fur wen und Wozu nicht in die Kurzbeschreibung gehören, sondern als Beschreibung eines Modells dienen
+R2	supports Arg1:T4 Arg2:T2	
+T5	Claim 723 814	Das Ziel der Softwarelösung ist sehr oberflächlich beschrieben und lässt viele Fragen offen
+T6	Premise 815 1051	Es wurde zwar in der Vorlesung gesagt, dass Stichpunkte reichen, jedoch dient das Lastenheft zur Auftragsklärung und ich bezweifle sehr, dass ein Programmierer auf Basis der Beschreibung derFunktionalitäten eine Software entwickeln kann
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 1118 1188	Was, für wen und wozu Löschen und am besten die ganze Kurzbeschreibung
+T8	Premise 1195 1261	sie nicht gefragt ist und in dieser Übung auch nicht notwendig ist
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1262 1320	Ein paar Zeilen mehr zur Beschreibung wären nicht schlecht
+T10	Premise 1322 1367	Was heisst optimal nutzen und einsetzten kann
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1370 1404	Was für eine Webbasierte Plattform
+R6	supports Arg1:T11 Arg2:T9	
+T12	Premise 1407 1433	Was ist mit den B2B Kunden
+R7	supports Arg1:T12 Arg2:T9	
+T13	Premise 1435 1468	Für was brauchen sie die Platform
+R8	supports Arg1:T13 Arg2:T9	
+T14	Claim 1477 1519	Funktionalitäten ausführlicher beschreiben
+T15	Premise 1521 1544	Wie sollen die aussehen
+R9	supports Arg1:T15 Arg2:T14	

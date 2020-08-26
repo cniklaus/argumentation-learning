@@ -1,0 +1,24 @@
+T1	Claim 28 160	Deine Lösung gefällt mir bereits gut und ich glaube trotz der eher marginal gehaltene Beschreibung verstanden zu haben worum es geht
+T2	Claim 162 469	Deine prägnante Beschreibung der Lösung unter Zielsetzung und Softwareeinsatz gibt bereits ein gutes Bild darüber, wie dein Geschäftsmodell funktionieren könnte, jedoch wäre ich froh gewesen, wenn hervorgehoben worden wäre, worin denn nun genau der Vorteil deiner Lösung gegenüber bestehenden Lösungen liegt
+T3	Premise 471 633	Ich bin mir nicht sicher ob es sich bei den von dir genannten Events um Konzerte, Partys oder anderweitige Events wie beispielsweise Zirkusveranstaltungen handelt
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 635 687	Für sehr viele Events gibt es ja bereits Plattformen
+T5	Premise 693 823	Ticketcorner, die die Events übersichtlich darstellen, nach Präferenzen anordnen können und auch direkt ein Ticketkauf möglich ist
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 825 1043	Interessant wäre die Lösung allenfalls im Bereich von Partys in Nachtclubs, wobei dann aber klar hervorgehen müsste, weshalb ich mich schon vor dem Ausgang fix an eine Party binden möchte und ein Ticket bereits bezahle
+R4	supports Arg1:T6 Arg2:T2	
+R2	supports Arg1:T4 Arg2:T6	
+T7	Premise 1044 1147	Was mir bei der Funktionalität der Software dann aber komplett fehlt, sind die Partner und Backendseite
+T8	Premise 1149 1363	Du beschreibst zwar die Grundfunktionalitäten und was der Kunde machen kann, aber was beispielsweise deine Partner machen können müssen wenn der Kunde mit dem Ticket an der Kasse steht, wird mit keinem Wort erwähnt
+T9	Premise 1365 1505	Scannfunktion, Abgleich mit Datenbank und andere Funktionalitäten, auf die der Kunde nicht direkten Einfluss nimmt werden aussenvor gelassen
+T10	Premise 1507 1536	Gleiches gilt für das Backend
+R5	supports Arg1:T8 Arg2:T9	
+R6	supports Arg1:T8 Arg2:T10	
+T11	Premise 1569 1749	dort verschiedene Funktionalitäten wie beispielsweise das Editieren von Veranstaltungen, spezielles Hervorheben zu Werbezwecken, Auslesen von Kundendaten etc. vorhanden sein müssen
+T12	Claim 1751 1946	An dieser Stelle solltest du dir also nochmals einige Gedanken zu den Abläufen im Hintergrund machen, um an deiner Lösung zu feilen, sofern solche Softwarefunktionen denn tatsächlich geplant sind
+T13	Premise 1948 2044	Du bist ja letzten Endes der Experte und weisst, was deine Lösung alles können muss und was nich
+R10	supports Arg1:T13 Arg2:T12	
+R7	supports Arg1:T7 Arg2:T12	
+R8	supports Arg1:T10 Arg2:T7	
+R9	supports Arg1:T9 Arg2:T7	
+R11	supports Arg1:T11 Arg2:T7	

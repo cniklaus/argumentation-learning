@@ -1,0 +1,37 @@
+T1	Claim 30 129	Die Lösung ist eine echte Assistenzlösung, welche dem Kunden die Entscheidungs und Suchlast abnimmt
+T2	Premise 130 218	Dank dem intelligenten Einsatz von Technologie werden sonst mühsame Prozesse erleichtert
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 219 303	Die Kombination der unterschiedlichen Funktionen deckt den kompletten Tankprozess ab
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 305 377	Von der Suche bis zur Bezahlung und begleitet den Kunden somit end 2 end
+R3	supports Arg1:T4 Arg2:T3	
+T5	Claim 428 536	Im Grunde genommen finde ich deine Idee sehr gut und ich bin davon überzeugt, dass es einen Markt dafür gibt
+T6	Claim 538 658	Ich würde jedoch empfehlen, ein paar Gedanken in die Umsetzungsvarianten als reines AddOn oder eigenständige App stecken
+T7	Premise 663 738	sie für die wiederholte Nutzung deines Dienstes eine zentrale Rolle spielen
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 739 763	Braucht es eine App mehr
+R5	supports Arg1:T8 Arg2:T6	
+T9	Premise 765 860	Bei der Vielfalt von existierenden Apps ist die Frage, ob der Kunde heute eine App mehr braucht
+R6	supports Arg1:T9 Arg2:T6	
+T10	Premise 862 938	Bzw., lohnt sich der Zusatzaufwand für die Verwendung einer zusätzlichen App
+R7	supports Arg1:T10 Arg2:T6	
+T11	Premise 940 1071	Ich kann mir vorstellen, dass die App zuerst die Route vom Kunden kennen muss, bevor sie ihm die optimale Tankstelle empfehlen kann
+T12	Premise 1073 1130	Dazu braucht es zuerst eine manuelle Eingabe vom Fahrziel
+R8	supports Arg1:T11 Arg2:T12	
+T13	Premise 1132 1257	So müsste neu jeder Kunde vor seiner Fahrt nicht nur sein Navi, sondern auch deine App konfigurieren, bevor er losfahren kann
+R9	supports Arg1:T12 Arg2:T13	
+T14	Premise 1259 1424	Du hast ja im Teil Products  Services unterschiedliche Möglichkeiten zur Umsetzung deiner Lösung aufgezeigt entweder als Standalone App oder als AddOn für NaviGeräte
+T15	Premise 1426 1484	Die zweite Möglichkeit wäre mE aus Kundensicht praktischer
+R10	supports Arg1:T13 Arg2:T6	
+R11	supports Arg1:T14 Arg2:T6	
+R12	supports Arg1:T15 Arg2:T6	
+T16	Claim 1508 1576	Deine Lösung als reines AddOn entwickeln und nicht als StandaloneApp
+T17	Premise 1578 1681	Für Leute die nur ein Handy und kein Navi haben, würde ich ein simples AddOn für Google Maps entwickeln
+R13	supports Arg1:T17 Arg2:T16	
+T18	Premise 1683 1793	So kannst du die Nutzung deiner Lösung auch langfristig animieren, indem auf bestehende Plattformen aufsteigst
+R14	supports Arg1:T18 Arg2:T17	
+T19	Premise 1808 1986	Deine Customer Jobs sind sehr generisch formuliert und es wird bei der Lektüre vom VP Canvas nicht sofort ersichtlich, in welchen Aufgaben deine Lösung einen Mehrwert bieten soll
+T20	Claim 2011 2141	Ich würde konkretere Customer Jobs im Bezug auf deine Lösung formulieren, so dass es von Anfang an klar ist, worum es sich handelt
+T21	Premise 2152 2218	Tankstelle suchen, Preise vergleichen, bei der Tankstelle bezahlen
+R15	supports Arg1:T21 Arg2:T20	
+R16	supports Arg1:T19 Arg2:T20	

@@ -1,0 +1,21 @@
+T1	Claim 12 117	Ich finde die Idee sehr gut und entspricht der Lebenssituationen von vielen Personen in der heutigen Zeit
+T2	Claim 121 258	Sehr langer Text  ich würde beim Freitext versuchen, den Leser mehr zu packen  vielleicht ein direktes Beispiel, das jeder kennt vorneweg
+T3	Premise 266 337	man sich angesprochen fühlt und sich selbst in dieser Situation erkennt
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 342 425	Customer Segment Ich würde auch die Händler/Anbieter als deine Kunden mitreinnehmen
+T5	Premise 432 524	du ja eine Plattform bietest zweiseitiger Markt auf der sie sich anbieten oder werben können
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 526 638	Vielleicht könntest du auch spezifizieren, ob es für dich eher ein Massenmarkt oder einen Nischenmarkt anspricht
+T7	Claim 642 774	Value Proposition Ich finde du zeigst das Problem und das Bedürfnis des Konsumenten gut auf und welche Vorteile er durch das App hat
+T8	Claim 776 832	Ich würde aber noch auf den Händler/Produzenten eingehen
+T9	Premise 834 886	Was hat er für Vorteile auf dieser Plattform zu sein
+R3	supports Arg1:T9 Arg2:T8	
+T10	Claim 889 997	Channel Vielleicht noch zusätzlich wie du auf die App und die Installation dieser Sensoren aufmerksam machst
+T11	Premise 999 1075	Wie erreichst du die Aufmerksamkeit und das Kauf/Erwerbsbedürfnis des Kunden
+R4	supports Arg1:T11 Arg2:T10	
+T12	Claim 1080 1166	evenue Streams Kann vom Kunde auch eine Ertragsstrom generiert werden über den AppKauf
+T13	Premise 1168 1193	Premium Version eventuell
+R5	supports Arg1:T13 Arg2:T12	
+T14	Claim 1198 1319	KeyResources Ich würde die Ressourcen ein bisschen mehr strukturieren in ITKosten, physische/ menschliche Ressourcen etc.
+T15	Premise 1322 1415	Entwicklung App, Software und Sensoren plus evtl. Installation bei den Kunden nicht vergessen
+R6	supports Arg1:T15 Arg2:T14	

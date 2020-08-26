@@ -1,0 +1,14 @@
+T1	Claim 19 52	Zweiseitige Bedürfnisbefriedigung
+T2	Claim 52 84	Sehr einfach skalierbares Modell
+T3	Claim 84 173	Kann insbesondere für KMUs sehr interessant sein die sich keine eigene App leisten können
+T4	Claim 173 270	Möglichkeit zu vielseitigem Gamification der App Freunden empfehlen, Dienstleistung bewerten etc.
+T5	Premise 298 361	Nicht ganz klar welche Dienstleistungen angeboten werden sollen
+T6	Claim 363 461	Konkretisieren oder Beispiele geben von Customer Jobs Kleiderreinigung, TakeAway, Bücherladen etc.
+R1	supports Arg1:T5 Arg2:T6	
+T7	Claim 461 517	Zum Teil wäre eine detailliertere Beschreibung hilfreich
+T8	Premise 525 651	Kunden müssen nicht nur Dienstleistungen erwerben sondern sich auch darüber informieren und ähnliche Dienstleister vergleichen
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 717 852	Zusätzlicher Pain Kunden die sich in einer Region nicht auskennen müssen weniger Zeit aufwenden für die Suche eines geeigneten Services
+T10	Premise 867 965	Pain Reliever schnellere Orientierung  finden von neuen Dienstleistungen in einer fremden Umgebung
+R3	supports Arg1:T10 Arg2:T9	
+T11	Claim 965 1143	Detailliertere Beschreibung der Customer Jobs auf Seiten der Endkunden und Ergänzung der Customer Jobs der Dienstleister hinsichtlich Bewerbung ihrer Dienstleistung v.a. für KMUs

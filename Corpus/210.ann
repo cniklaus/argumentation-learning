@@ -1,0 +1,32 @@
+T1	Claim 13 113	Das Geschäftsmodell zielt besonders gut auf eine mühselige Herausforderung von Austauschstudenten ab
+T2	Premise 115 530	Ziemlich gut in Deinem Modell finde ich dabei, dass der gesamte Prozess im Austauschprozess abgedeckt Von der quasi erste Konfrontation durch die Idee, ein Austauschsemester zu machen, wobei anschliessend auch die Zeit während dem eigentlichen Semester abgedeckt ist, bis hin zur Betreuung im Anschluss an das Austauschsemester, wobei durch die gemachten Erfahrungen der nächsten Austauschstudierenden geholfen wird
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 533 616	Dein Konstrukt ist dabei sehr stringent, was eine weitere Stärke deines Modells ist
+T4	Premise 617 737	Die Pain Relievers zielen konkret auf die Pains ab und Gain Creators adressieren gewünschte Gains der Austauschstudenten
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 741 831	Einen kleinen Schwachpunkt bei deiner Lösung sehe ich dem Beschrieb bei Products  Services
+T6	Premise 833 1030	Hier würde ich mir vorstellen, dass Du deine konkreten Vorstellungen ein bisschen genauer ausführst auch wenn sowohl für dich und mich klar sein wird, was eine solche Plattform zu bieten haben soll
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 1032 1100	Wie interagieren die einzelnen Anspruchsgruppen auf deiner Plattform
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 1102 1128	Gibt es ein AlumniNetzwerk
+R5	supports Arg1:T8 Arg2:T6	
+T9	Premise 1130 1282	Wie werden die jeweiligen Anspruchsgruppen motiviert, deine Plattform auch im Anschluss an den Austausch weiter zu nutzen und Informationen preiszugeben
+R6	supports Arg1:T9 Arg2:T6	
+T10	Premise 1291 1404	würde ich mir wünschen, dass du mir als Austauschstudent angibst, wie die konkreten Informationen geordnet werden
+R7	supports Arg1:T10 Arg2:T6	
+T11	Premise 1406 1450	Zählen hierbei lediglich qualitativ Faktoren
+R8	supports Arg1:T11 Arg2:T10	
+T12	Premise 1452 1478	Was wird als gut empfunden
+R9	supports Arg1:T12 Arg2:T10	
+T13	Premise 1480 1690	Erscheint etwas eine Unterkunft zu oberst auf der Liste, weil viele User dort waren und deshalb einen Kommentar hinterlassen haben  oder schaffst du es sogar, die qualitativen Kommentare quantitativ zu bewerten
+R10	supports Arg1:T13 Arg2:T10	
+T14	Premise 1692 1758	Vielleicht lohnt sich die Integration eines 5SterneSystesms hierbe
+R11	supports Arg1:T14 Arg2:T13	
+T15	Premise 1920 1967	Mit deiner Idee hast du mich vollends überzeugt
+T16	Premise 1763 1918	Bitte beachte, dass meine Kommentare hier sehr weit ins Detail gehen und dein Geschäftsmodell ein absolut notwendiges Muss für jeden Austauschstudenten ist
+T17	Claim 1969 2114	Beim Überarbeiten deiner Lösung würde ich deshalb darauf achten, bei dem einen oder anderen Punkt eine klein wenig detaillierte Auskunft zu geben
+R12	supports Arg1:T16 Arg2:T17	
+R13	supports Arg1:T15 Arg2:T17	
+T18	Premise 2116 2259	Bedenke, dass Dir deine Lösung völlig bewusst ist  versuche jedoch, dein Modell so zu beschreiben, damit es auch unsere Eltern verstehen würden
+R14	supports Arg1:T18 Arg2:T17	

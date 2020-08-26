@@ -1,0 +1,38 @@
+T1	Claim 13 133	Mit deinem Geschäftsmodell hast Du ein wichtiges, teilweise latentes Bedürfnis der heutigen Grossstadtvelofahrer erkannt
+T2	Premise 135 320	Dein Geschäftsmodell wird am Markt nicht als weiteres Business zur schnellen Geldmacherei betrachtet und kann durch das Ziel einer verminderten Unfallrelevanz mit Image am Markt punkten
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 322 442	Das Geschäftsmodell verbindet zudem ein Produkt mit einer Dienstleistung, was zu einem innovativen Geschäftsmodell führt
+T4	Claim 451 533	finde ich besonders spannend, dass du bereits auf Netzwerkeffekte hinweisen kannst
+T5	Premise 538 600	ein komplementärer CommunityGedanke bei deinem Modell entsteht
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 607 835	die bereits vorgängig bewusste Kundensegmentierung nach sportlich, ökologisch und ökonomisch Aspekten erlaubt dir eine unterschiedliche Ansprechweise der Kunden und womöglich auch eine differenzierende Ausgestaltung der Features
+T7	Premise 840 976	Eine potentielle Schwachstelle in deinem Geschäftsmodell sehe ich in der Kostenstruktur und der damit einhergehenden Einkommenserwartung
+T8	Premise 978 1095	Wahrscheinlich wird es nämlich schwierig sein, Krankenkassen zum kostenfreien Anbieten der Gesamtlösung zu überzeugen
+T9	Premise 1097 1236	Gerade auch deswegen, weil die Lösung neu am Markt ist und keine Erfahrungsberichte und Zahlen einer garantierten Unfallreduktion vorliegen
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 1238 1435	An diesem Punkt war es für auch schwierig nachzuvollziehen, warum gerade die Fahrradgeschäfte und nicht die Krankenkassen für den Lenker werben sollen er wird ja quasi gratis an den Nutzer verteilt
+T11	Claim 1438 1521	Ein weitere Punkt sehe ich in den öffentlichen Behörden als unabhängig Empfehlenden
+T12	Premise 1523 1550	orin liegt deren Motivation
+R5	supports Arg1:T12 Arg2:T11	
+T13	Premise 1552 1707	Öffentliche Werbung erachte ich eher als problematisch zu erwerben, und würde sie wahrscheinlich schlüssigkeitshalber weglassen ist aber ein kleines Detail
+R6	supports Arg1:T13 Arg2:T12	
+T14	Premise 1710 1878	Bei den Key Partner fehlt meines Erachtens eine Softwareentwicklungsfirma, die Google Maps spezifisch weiterentwickelt, damit die Lösung auf dein Produkt abgestimmt ist
+T15	Claim 1895 2020	fehlt bei den Key Ressourcen die Aufzählung der wichtigen, physischen Attribute neben dem reinen Qualitätsniveau der Leistung
+T16	Claim 2025 2096	Bitte überdenke deine Kostenstruktur mit dem reinen Krankenkassensystem
+R3	supports Arg1:T8 Arg2:T7	
+R7	supports Arg1:T7 Arg2:T16	
+T17	Premise 2098 2288	Ich würde analog beim Kauf eines Fitnessabonnements davon ausgehen, dass die Krankenkassen einen prozentualen Anteil bis hin zu einem maximalen Fixbetrag beim Erwerb eines Lenkers übernehmen
+R8	supports Arg1:T17 Arg2:T16	
+T18	Premise 2290 2357	Ein kleiner Beitrag könnte immer hin noch vom Lenker bezahlt werden
+R9	supports Arg1:T18 Arg2:T17	
+T19	Premise 2359 2486	Vielleicht bietest du die ersten drei Monate kostenlos an, bevor ein monatlich anfallender Betrag an dich geleistet werden soll
+R10	supports Arg1:T19 Arg2:T16	
+T20	Premise 2488 2585	Die Überarbeitung der Kostenstruktur wird dir helfen, dich selber profitabel am Markt zu erhalten
+R11	supports Arg1:T20 Arg2:T16	
+T21	Premise 2588 2699	Mach dir an dieser Stelle auch Gedanken zu deinen Key Ressourcen und ergänze etwaige Lagerhallen für die Lenker
+R12	supports Arg1:T21 Arg2:T16	
+T22	Premise 2701 2875	An dieser Stelle bitte auch das Konstrukt ergänzen, wer nun den Lenker promotet Krankenkasse oder Fahrradgeschäft und wer etwaige Wartungs und Reparaturarbeiten anbieten soll
+R13	supports Arg1:T22 Arg2:T21	
+T23	Claim 2884 3013	überlege dir im Sinne der Key Partner, ob etwa Google Maps persönlich als SoftwareWeiterentwickler von Google Maps in Frage kommt
+R14	supports Arg1:T14 Arg2:T23	
+T24	Claim 3017 3123	Grundsätzlich hat mich dein Geschäftsmodell überzeugt und ich bin mir sicher, dass es auch praktikabel ist

@@ -1,0 +1,24 @@
+T1	Claim 14 191	Das Ziel und der Einsatz der Software sind grundsätzlich verständlich beschrieben und stellen klar, dass die Sicherheit und der Datenschutz bei dieser Software sehr wichtig sind
+T2	Claim 193 321	Speziell gefällt mir, dass du als Ziel nicht die Nutzung an sich nennst, sondern die Begründung eines neuen zweiseitigen Marktes
+T3	Claim 328 485	Bei den Zielgruppen könnte man noch etwas genauer darauf eingehen, welche Privatpersonen und welche Unternehmen genau angesprochen werden zumindest zu beginn
+T4	Premise 492 609	je nach Alter der Privatnutzer oder je nach Branche der Unternehmen muss die Software dann anders ausgestaltet werden
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 612 710	Die Beschreibung der Funktionalitäten klingt für mich zu sehr nach der Geschäftsmodellbeschreibung
+T6	Premise 712 829	Es wird eher beschrieben, was das Unternehmen machen wird, nicht aber welche Funktionen die Software genau haben soll
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 831 1015	Beim Softwareeinsatz heisst es z.B. Es bietet ein selbst organisierbares Register stellt digitale Adressen zur Verfügung um im Programm selber den Kunden oder das Unternehmen zu finden
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 1017 1193	Dieser Satz beinhaltet ja eigentlich bereits Funktionen, welche die Software mitbringen sollte also dass man das Register selbst organisieren kann was genau selbst organisieren
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 1195 1322	und dass Adressen zur Verfügung gestellt werden müssen werden die Adressen automatisch beim Hinzufügen des Vertrags eingetragen
+R5	supports Arg1:T9 Arg2:T7	
+T10	Premise 1327 1581	Weitere Funktionen könnten z.B. sein, dass die WebApplikation eine Zahlfunktion aufweisen muss, damit man für den Service bezahlen kann, oder dass entsprechende Schnittstellen vorhanden sind, welche die Integration des Buttons in externe Websites zulässt
+R6	supports Arg1:T10 Arg2:T6	
+T11	Claim 1588 1751	Bei der Überarbeitung würde ich also darauf achten, dass bei den Funktionalitäten genauer darauf eingegangen wird, welche Funktionen wirklich vorhanden sein müssen
+R7	supports Arg1:T6 Arg2:T11	
+T12	Claim 1759 1818	könnte man diese mit Untertiteln etwas besser strukturieren
+T13	Premise 1822 1918	Generell sind zum Teil sehr lange Sätze im Text, die über keine Kommas oder einen Punkt verfügen
+T14	Premise 1920 1990	Dies macht es etwas schwer, den Text flüssig zu lesen und zu verstehen
+R8	supports Arg1:T13 Arg2:T14	
+T15	Claim 1992 2090	Bei der Überarbeitung würde ich deshalb auch darauf achten, die Sätze etwas einfacher zu gestalten
+R9	supports Arg1:T14 Arg2:T15	

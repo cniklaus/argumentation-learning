@@ -1,0 +1,16 @@
+T1	Claim 99 146	Gute kurze Beschreibung nach dem Magic Triangle
+T2	Claim 147 173	Ziel klar und verständlich
+T3	Claim 173 237	Softwareeinsatz prinzipiell gut, etwas viel Prosa vrgl. punkt 22
+T4	Claim 327 405	Softwareeinsatz könnte mit etwas weniger prosa noch genauer umschrieben werden
+T5	Premise 412 477	1 Datagenerierung bzgl. Art des geladenen Gerätes, Ladedauer etc.
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 478 516	2 Überprüfung der Funktionstüchtigkeit
+T7	Premise 517 565	3 Überwachung und Regulierung des Stromzuflusses
+R2	supports Arg1:T6 Arg2:T4	
+R3	supports Arg1:T7 Arg2:T4	
+T8	Claim 570 656	Funktionalitäten könntest du noch je nach Nutzergruppe unterscheiden Firmen / Customer
+T9	Premise 658 736	beim Nutzer selbst wäre z.b eine Benachrichtigung nach Ladeschluss von Vorteil
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 736 778	Du hast die Zielgruppe aussen vor gelassen
+R5	supports Arg1:T10 Arg2:T8	
+T11	Claim 925 951	Siehe 2Zielgruppe ergänzen

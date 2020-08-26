@@ -1,0 +1,41 @@
+T1	Claim 21 46	finde ich eine coole Idee
+T2	Premise 48 105	Der Lenker würde sich bestimmt in Grossstädten gut eignen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 107 173	Ich finde es vor allem gut, dass du es mit Zonen lösst das Problem
+T4	Premise 178 212	das GPS nicht immer ganz genau ist
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 214 301	Die einzelnen Abschnitte hast du gut erfasst und die Ausführungen sind gut verständlich
+T6	Claim 308 397	sind die einzelnen Abschnitte logisch nachvollziehbar, was zu einem guten Lesefluss führt
+T7	Claim 398 555	Beim Customer Jobs finde ich es gut, dass du nichts absolut schreibst, jedoch bin ich bei einem Punkt skeptisch Vergnügen ist beim Fahradfahren nicht gegeben
+T8	Premise 557 585	Dem möchte ich widersprechen
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 590 687	ich viele Leute aus der Stadt kenne, welche tatsächlich Fahrrad fahren, weil es ihnen Spass macht
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 689 758	Auch der sportliche Faktor ist bei vielen aus eigener Erfahrung gross
+R5	supports Arg1:T10 Arg2:T8	
+T11	Premise 760 854	Ich gebe dir recht, dass es den meisten wahrscheinlich nur um die schnelle Erreichbarkeit geht
+T12	Premise 856 979	ich würde aber den sportilchen und emotionalen Aspekt nicht so stark in den Hintergrund stellen, wie du es beschrieben hast
+R6	attacks Arg1:T11 Arg2:T12	
+R7	supports Arg1:T12 Arg2:T8	
+T13	Premise 998 1130	die Freude am Fahrradfahren nicht nur extrinsisch durch schöne Landschaften oder Grünflächen bestimmt wird, sondern auch intrinsisch
+R8	supports Arg1:T13 Arg2:T12	
+T14	Premise 1133 1218	ine Person kann auch Fahrradfahren, weil er/sie die Beleuchtung am Abend schön findet
+T15	Premise 1241 1392	du bei den Gain Creators auf diese Aspekte mehr eingehst als auf die ZeitersparnisIch würde zudem aufpassen, dass du noch keine Behauptungen aufstellst
+R9	supports Arg1:T15 Arg2:T14	
+R10	supports Arg1:T14 Arg2:T13	
+T16	Premise 1402 1517	bei Product  Services ...was das Risiko für Unfälle und Gefahrensituationen drastisch reduziert > reduzieren könnte
+R11	supports Arg1:T16 Arg2:T15	
+T17	Premise 1519 1545	Du weisst es ja noch nicht
+R12	supports Arg1:T17 Arg2:T15	
+T18	Claim 1546 1629	Worüber ich nachdenken würde ist vielleicht auch eine Ergänzug zum Vibrationssignal
+T19	Premise 1631 1702	Eine akkustische Hilfe oder vielleicht ein Blinklicht jedoch ungeeignet
+R13	supports Arg1:T19 Arg2:T18	
+T20	Premise 1707 1734	man nach unten schauen muss
+R14	supports Arg1:T20 Arg2:T19	
+T21	Premise 1736 1916	Das Problem das ich sehe ist, dass wenn man im Winter beispielsweise Handschuhe trägt oder die Finger taub sind oder allgemein man sich nicht darauf achtet, die Vibration überfühlt
+R15	attacks Arg1:T21 Arg2:T18	
+T22	Premise 1918 2029	Das Problem wenn man die Vibration stärker macht ist, dass man sich erschrickt und dadurch auch in Gefahr gerät
+R16	attacks Arg1:T22 Arg2:T18	
+T23	Claim 2085 2150	Bei den Gain Creators fehlt meiner Ansicht nach die sichere Fahrt
+T24	Premise 2152 2198	Das ist doch worauf dein Produkt abzielt, oder
+R17	supports Arg1:T24 Arg2:T23	

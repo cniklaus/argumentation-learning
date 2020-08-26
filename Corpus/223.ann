@@ -1,0 +1,14 @@
+T1	Claim 38 220	Die Idee an sich ist ganz okay, jedoch denke ich, dass es schon mehrere Plattformen die du ja selbst genannt hast, und welche auch regional kategorisiert sind in dieser Richtung gibt
+T2	Claim 222 299	Durchzu vieleverschiedene Filterungsmöglichkeiten geht der Überblick verloren
+T3	Premise 306 380	die Anbieter wissen dann nicht, wo sie ihre Veranstaltung einordnen sollen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 381 613	Die integrierteZahlungsfunktion sowie die Teilnahme per Klick finde ich sehr gut und ist wahrscheinlich ein USP gegenüber bestehenden Veranstaltungsapps/seiten etc., jedoch gibt es Konkurrenz von den Grossen Starticket, Ticketportal
+T5	Claim 613 782	Business Model Canvas Key Partners Für mich sehr fraglich, ob du Starticket und Ticketportal als Partner beschreiben kannst wie du es im Geschäftsmodell beschrieben hast
+T6	Premise 787 839	diese eine Vormachtstellung haben in diesem Business
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 841 952	Einanderer Ansatz wäre vielleicht, dass die Zahlung über deren Plattform, aber in deiner App integriert abläuft
+R3	supports Arg1:T7 Arg2:T5	
+T8	Claim 954 1077	Key Activity Würde ich noch die Tätigkeit reinnehmen, wie du die kritische Masse Stichwort Netzwerkeffekte erreichen willst
+T9	Premise 1083 1103	Werbemassnahmen etc.
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 1105 1207	ostStructure Würde mich z.B. als Investor noch interessieren, wie die Kosten in etwa aufgeteilt werden

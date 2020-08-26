@@ -1,0 +1,13 @@
+T1	Claim 28 203	Deine Idee ist sehr spannend und ich denke wirklich, dass es eine Möglichkeit ist, langfristig nachhaltiger einzukaufen und sich inspirieren lassen, neue Gerichte zu entdecken
+T2	Claim 204 256	Das Storyboard ist sehr gut und verständlich gemacht
+T3	Premise 258 340	ich verstehe auf den ersten Blick die unterschiedlichen Schritte vom Kundenprozess
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 360 472	Im allgemeinen war für mich noch nicht klar, wie die Liste der bisher vorhandenen Lebensmittel in die App kommen
+T5	Premise 474 529	mE beginnen deine Customer Jobs schon vor dem Einkaufen
+T6	Claim 537 613	deckst du in der aktuellen Abbildung nicht die ganze Prozesskette vom Kunden
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T4 Arg2:T6	
+T7	Claim 615 783	Verbesserungsvorschlag den gesamten Kundenprozess aufzeigen, inklusive wie die Lebensmittel in die App eingepflegt werden dies im Prozess, sowie im Storyboard aufzeigen
+T8	Claim 784 951	Alternative Idee / Input Wäre es für den Kunden nicht einfacher, wenn er per App die Lebensmittel bestellen könnte und vor Ort im Einkaufszentrum nur noch abholen muss
+T9	Premise 954 1008	Würde den gesamten Kundenprozess um einiges reduzieren
+R4	supports Arg1:T9 Arg2:T8	

@@ -1,0 +1,16 @@
+T1	Claim 10 52	Insgesamt gut und übersichtlich gegliedert
+T2	Claim 56 72	Gute Darstellung
+T3	Claim 74 129	Eine kurze Erklärung der Schritte wäre nützlich gewesen
+T4	Premise 131 220	Ich verstehe leider nicht genau was die App genau macht wie Sicherheit gewährleistet wird
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 226 292	DURING hätte eventuell etwas ausführlicher gestaltet werden können
+T6	Premise 296 385	elche Daten muss der User eingeben, wie kann er seine Präferenzen und Interessen eingeben
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 387 413	Gibt es ein Drop Down Menü
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 415 456	Oder kann der User an sich alles eingeben
+R4	supports Arg1:T8 Arg2:T6	
+T9	Claim 462 510	Ich hätte die Reihenfolge etwas anders gestaltet
+T10	Premise 512 614	Zusatzleistungen hätte ich noch zu DURING geordnet währenddessen Feedback für mich eher zu POST gehört
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 619 655	Insgesamt aber eine sehr gute Arbeit

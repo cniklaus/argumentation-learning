@@ -1,0 +1,21 @@
+T1	Claim 12 143	Ich finde v.a. die zusätzlichen Funktionen wie Kalender, erfassen von Aufgaben etc. sehr nützlich, auch der Blog ist eine gute Idee
+T2	Premise 145 264	So fungiert die Plattform nicht nur als Vermittlung, sondern auch als Management, Informations und Kommunikationssystem
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 272 415	er Fokus auf Seniorinnen ist meiner Meinung zwar eine naheliegende Strategie aufgrund demografischem Wandel etc. doch wohl etwas zu eng gefasst
+T4	Premise 417 542	Wenn man z.B. auf babysitting24.ch schaut, sind von insgesamt 23611 Kinderbetreuern Angeboten nur 262 davon über 60 Jahre alt
+T5	Premise 544 656	Entsprechend würde diese Vermittlungsplattform eher ein Nischenprodukt darstellen und eine Skalierung erschweren
+R2	supports Arg1:T4 Arg2:T5	
+R3	supports Arg1:T5 Arg2:T3	
+T6	Claim 659 900	Die persönlichen Überprüfung der Seniorinnen wäre für die Kunden zwar ein Zusatznutzen, stellt für das Unternehmen aber einen enormen Aufwand dar und wäre eher als variable Kosten zu verstehen und nicht wie im Canvas als Fixkosten bezeichnet
+T7	Premise 902 1088	Falls diese Plattform ein PremiumNischenprodukt darstellen soll, wäre dieser Zusatznutzen wohl vertretbar, ansonsten müsste man hingegen eher auf eine automatisierte Lösung zurückgreifen
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 1093 1212	Hinsichtlich Revenue Stream Ich frage mich, wie das mit der Bezahlung nach erfolgreicher Vermittlung funktionieren soll
+T9	Premise 1214 1297	Müsste man nicht eher dafür bezahlen, dass man jemanden überhaupt kontaktieren kann
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1299 1374	Diesen Punkt würde ich noch überdenken bzw. etwas detaillierter beschreiben
+R6	supports Arg1:T8 Arg2:T10	
+T11	Claim 1381 1561	Generell kann man sich überlegen, ob man sich nicht nur auf eine WebPlattform inkl. mobile App als Management und Kommunikationssystem konzentrieren möchte anstelle der Vermittlung
+T12	Premise 1568 1686	eine spezielle Applikation, mit dem Mütter und Väter mit dem Babysitter/der Tagesmutter Termine abgleichen können etc.
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 1687 1755	Vielleicht könnte auch gleich die Bezahlung Lohn über die App laufen
+R8	supports Arg1:T13 Arg2:T11	

@@ -1,0 +1,43 @@
+T1	Claim 12 74	Für mich hat das Geschäftsmodell von Kaboo sehr viel Potential
+T2	Premise 76 234	Mir gefällt besonders gut wie ein heutzutage grosses Bedürfnis der Zeit und Energiesparnis für Einkäufe und Kochen durch diese Assistenzlösung befriedigt wird
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 236 314	Das Geschäftsmodell erfüllt wichtige Voraussetzungen für eine Wellbeing Lösung
+T4	Premise 316 438	Die aktive Mitgestaltung und individuelle Bedienung des Kunden ist sichergestellt Rezepte hochladen, Koch zusammenarbeiten
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 446 600	bietet Kaboo enorm viel Flexibilität in der Gestaltung, indem verschiedene Faktoren wie Allergien, Bio vs. NonBio etc. vom Kunden ausgewählt werden können
+R3	supports Arg1:T5 Arg2:T3	
+T6	Claim 608 729	finde ich eine grossen Vorteil von Kaboo, dass die gesamte Assistenzlösung über eine App abgewickelt wird Digital Natives
+T7	Claim 731 861	Die Möglichkeit des Premiums Abo Kaboo Plus ist eine weitere Stärke der integrierten Lösung, welche die Kunden in Gruppen einteilt
+T8	Claim 995 1118	Ein grösseres Fragezeichen ergibt sich aus meiner Sicht bei der Preis Gestaltung einer solchen Essensplanung und Bestellung
+T9	Premise 1125 1227	wie wird der Preis zusammengestellt und wie werden dabei die verschiedenen Lieferanten miteinberechnet
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 1229 1281	Wie ich es verstanden habe, ist Kaboo als App gratis
+R5	supports Arg1:T10 Arg2:T8	
+T11	Premise 1283 1319	Gibt es einen Grundtarif für ein Abo
+R6	supports Arg1:T11 Arg2:T8	
+T12	Claim 1321 1498	Die Idee möglichst individuelle Kochlösungen anzubieten ist zwar sehr gut, könnte aber auch enorme Schwierigkeiten in der Koordination mit den verschiedenen Lieferanten bedeuten
+T13	Premise 1500 1636	Das Geschäftsmodell ist von ziemlich vielen, verschiedenen Lieferanten abghängig, was zu hohen Koordinationschwierigkeiten führen könnte
+R7	supports Arg1:T13 Arg2:T12	
+T14	Claim 1638 1725	Eine dritte Schwachstelle, die sich aus meiner Sicht ergibt, ist die Zahlungsabwicklung
+T15	Premise 1727 1872	Wie wird die Planung und Bestellung abgerechnet und sichergestellt, dass alle Lieferanten und Schlüsselpartner für ihre Leistung honoriert werden
+R8	supports Arg1:T15 Arg2:T14	
+T16	Premise 1874 1933	Zudem werden Kosten für Mitarbeiterlöhne von Kaboo anfallen
+R9	supports Arg1:T16 Arg2:T14	
+T17	Claim 1935 2099	Beheben der Schwächen Die Preisgestaltung könnte z.B. konkreter in der Beschreibung der Geschäftsidee miteinfliessen und im Revenue Stream des Canvas erwähnt werden
+T18	Premise 2101 2266	Man müsste sich dazu überlegen, welche Preise Sinn machen damit der Kunde eine optimale, individuelle Lösung erhält und zudem die Lieferanten zufrieden gestellt sind
+R10	supports Arg1:T18 Arg2:T17	
+T19	Claim 2268 2485	Um die Koordinationsschwierigkeiten mit den Lieferanten zu lösen, könnten einige wenige Lieferanten ausgewählt werden um 80 der Bestellungsbedürfnisse zu decken und nur in Aussnahmefällen auf andere zugegriffen werden
+T20	Premise 2487 2539	Dies würde die Anzahl der Ansprechpartner reduzieren
+R11	supports Arg1:T20 Arg2:T19	
+T21	Claim 2541 2683	Zur Zahlungsabwicklung könnte die Überlegung gemacht werden z.Bsp eine integrierte InApp Lösung wie z.Bsp. Mobino in die Kaboo App einzubinden
+T22	Premise 2685 2737	Dies würde den gesamten Zahlungsprozess vereinfachen
+R12	supports Arg1:T22 Arg2:T21	
+T23	Claim 2741 2891	Die Überarbeitung sollte so erfolgen, dass 23 Punkte der Schwachstellen ausgewählt werden und versucht wird eine optimalere Lösung für diese zu finden
+T24	Premise 2893 2976	Dabei sollte darauf geachtet werden, dass man sich nicht zu tief im Detail verliert
+T25	Premise 2978 3041	Die Bestimmung des Preises kann demnach auf 12 Faktoren beruhen
+T26	Premise 3043 3163	Zudem sollte kurz Recherche zu verschiedenen Zahlungsmöglichkeiten gemacht werden und die beste Lösung integriert werden
+T27	Premise 3165 3317	In einem zweiten Schritt könnte überlegt werden, wie die Abhängigkeiten und Koordinationsschwierigkeiten im Lieferantenprozess vereinfacht werden können
+R13	supports Arg1:T24 Arg2:T23	
+R14	supports Arg1:T25 Arg2:T23	
+R15	supports Arg1:T26 Arg2:T23	
+R16	supports Arg1:T27 Arg2:T23	
