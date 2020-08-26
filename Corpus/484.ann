@@ -1,0 +1,36 @@
+T1	Claim 126 165	Die Plattform fürs Wochenende ist super
+T2	Premise 167 254	Facebook wird das mit sein Events machen, aber etwas die am Wahl helfen kann wäre super
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 256 327	Du hast auch der Geschäftsfeldbeschreibungsvorlage super gut eingefüllt
+T4	Claim 328 395	Du hast Recht, dass die Ticketindustrie ein bisschen bewegen müsste
+T5	Premise 397 467	TicketCorner und Starticket und die andere haben viel zu höhe Gebühren
+T6	Premise 474 554	sie ein Physisches Infrastruktur mit dem Post, Shops beim Manor usw haben müssen
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 556 589	Heutzutage brauchen wir das nicht
+R2	supports Arg1:T5 Arg2:T7	
+R4	supports Arg1:T7 Arg2:T4	
+T8	Premise 821 901	Ich verstehe aber nicht die grosse Vorteil von deine Lösung über die Mitbewerber
+T9	Premise 903 974	TicketCorner und die andere haben schon ein Webseite, und auch eine App
+T10	Premise 976 1223	Du hast einige neue Ideen, wie die Plattform fürs Wochenende, und könnte tiefer Gebühren anbieten dank Fehlen von physischen Infrastruktur... aber ich bin nicht sicher, dass es würde genügend, um die schon implementierten Mitbewerber überzusteigen
+T11	Claim 1225 1316	Du solltest mit etwas neu Ankommen, die alle Players Benutzer, Veranstalter... helfen würde
+R5	supports Arg1:T9 Arg2:T8	
+R6	supports Arg1:T10 Arg2:T8	
+R7	supports Arg1:T8 Arg2:T11	
+T12	Premise 1318 1400	Eine Idee könnte die Veranstalter die Bedürfnisse von die Zuschauer kennenzulernen
+R8	supports Arg1:T12 Arg2:T11	
+T13	Premise 1402 1471	Vielleicht könntest du Packs verkaufen, mit z.B. ein Getränke  Ticket
+R9	supports Arg1:T13 Arg2:T11	
+T14	Premise 1473 1575	Der Kunde würde Geld sparen, und der Veranstalter könnte seine FBInfrastruktur präziser dimensionieren
+R10	supports Arg1:T14 Arg2:T13	
+T15	Premise 1577 1751	Vielleicht wollten die Veranstalter mehr auf ihren Kunden wissen... du könntest ein Verbindung mit ein SocialMedia Profil machen gegen eine kleine Rabatt auf dem Ticket, usw.
+R11	supports Arg1:T15 Arg2:T11	
+T16	Premise 1752 1797	In allen Fällen musst du etwas neuer anbieten
+R12	supports Arg1:T16 Arg2:T11	
+T17	Claim 1798 1888	Du könntest auch dein Wahl für ein externe Partner für Hardware ein bisschen klarer machen
+T18	Premise 1890 1895	Warum
+T19	Premise 1897 1918	Wer würdest du nützen
+T20	Premise 1921 1966	ielleicht könnte Amazon eine gute Option sein
+R13	supports Arg1:T18 Arg2:T17	
+R14	supports Arg1:T19 Arg2:T17	
+R15	supports Arg1:T20 Arg2:T17	
+T21	Claim 1967 2063	Ausser das gibt es nichts zu sagen, du hast alles gut eingefüllt, und deine Strategie macht Sinn

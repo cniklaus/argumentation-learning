@@ -1,0 +1,23 @@
+T1	Claim 20 62	Das Drehbuch zu deiner Geschäftsidee passt
+T2	Claim 64 121	Der Aufbau deiner Arbeit ist systematisch und zielführend
+T3	Claim 123 164	Der Kundenprozess ist logisch beschrieben
+T4	Claim 166 261	Ich finde es gut, dass du den Kundenprozess genau aus der Perspektive des Kunden erläutert hast
+T5	Claim 263 357	Positiv aufgefallen ist mir, dass du den Kundenprozess in Pre, During und Post eingeteilt hast
+T6	Claim 368 436	Deine Darstellung mit den Bildern ist sauber, aber doch eher einfach
+T7	Premise 438 495	Die Bilder hätten etwas kreativer gestaltet werden können
+R1	supports Arg1:T7 Arg2:T6	
+T8	Premise 506 621	sind deine Bilder selbsterklärend, man kann sofort erkennen, was du mit deinem Storyboard dem Leser erzählen willst
+R2	attacks Arg1:T8 Arg2:T7	
+T9	Claim 645 679	Ändern würde ich persönlich nichts
+T10	Premise 681 746	die Arbeit wurde einwandfrei gelöst und ist für mich schlüssig so
+R3	supports Arg1:T10 Arg2:T9	
+T11	Claim 748 835	Falls du Zeit und Lust hast, könntest du deine Zeichnungen noch etwas schöner gestalten
+T12	Premise 837 875	Eventuell mit Bildern aus dem Internet
+R4	supports Arg1:T12 Arg2:T11	
+T13	Claim 887 999	wäre es vielleicht doch hilfreich, wenn eine kurze Zusammenfassung deiner Geschäftsidee am Anfang eingefügt wird
+T14	Premise 1001 1085	dies macht es im späteren Verlauf wesentlich einfacher, dein Storyboard zu verstehen
+R5	supports Arg1:T14 Arg2:T13	
+T15	Claim 1129 1165	du beim Bild 9 einen Tippfehler hast
+T16	Premise 1167 1209	Dort steht Qulität, dies ist zu verbessern
+R6	supports Arg1:T16 Arg2:T15	
+T17	Claim 1215 1278	im Grossen und Ganzen hast du eine einwandfreie Arbeit erledigt

@@ -1,0 +1,26 @@
+T1	Claim 11 136	Deine Arbeit habe ich sehr gut gefunden, alle Punkte waren kurz und klar formuliert, damit das ganze einfach zu verstehen war
+T2	Premise 138 294	Vor allem waren die KurzCharakteristika des Unternehmens, die strategische Ausrichtung und die Massnahmen sehr gut und hier habe ich keine Schwäche gefunden
+T3	Premise 299 360	du alle wichtigsten Informationen gut ausformulieren konntest
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T2 Arg2:T1	
+T4	Claim 489 632	Bei der Abgrenzung des Geschäftsfeldes Marktleistung könntest du eventuell sagen, dass es um Restaurants, Bars, usw. oder auch nur Gericht geht
+T5	Premise 634 748	Sonst ist sehr schwierig, die Marktleistung zu verstehen, ohne dass du vorher die KurzCharakteristika gelesen hast
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 749 915	Bei der qualitativen Beschreibung hast du die aktuelle Lage der Lieferung von Konsumgüter beschrieben, aber es wäre quasi ein Teil der SWOTAnalyse Chance und Gefahren
+T7	Premise 917 1053	Ich würde nur sagen, dass es auch andere Plattformen für die Bestellung von Gerichten existieren, die sich auf die Lieferung fokussieren
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 1054 1139	Bei den Kernkompetenzen bin ich nicht sicher, dass First Mover eine Kernkompetenz ist
+T9	Premise 1141 1201	Es könnte aus meiner Sicht ein kritischer Erfolgsfaktor sein
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1203 1329	Das gleiche auch für Alternativangebote zu herkömmlichen Bestellservices, die eventuell auch ein kritischer Erfolgsfaktor wäre
+T11	Claim 1337 1395	ürde ich vielleicht ein paar mehr Kernkompetenzen erwähnen
+T12	Premise 1414 1479	die Ableitung neuer Informationen aus der Analyse der Kundendaten
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1480 1533	Bei der SWOTAnalyse sind die Gefahren nicht ganz klar
+T14	Premise 1535 1612	Ich würde die Punkt hohe Geschwindigkeit bei Wettbewerbern besser formulieren
+R7	supports Arg1:T14 Arg2:T13	
+T15	Premise 1619 1684	sagen, dass die Marktpositionen der Wettbewerber schnell wechseln
+R8	supports Arg1:T15 Arg2:T14	
+T16	Claim 1686 1825	Die Abhängigkeit von der fortlaufenden Existenz der Partnerrestaurants/cafés sollte auch keine grosse Gefahr für dieses Unternehmen spielen
+T17	Premise 1832 1951	das Angebot von verschiedener Restaurants sehr flexibel sein muss, damit auch diese Situationen vermieden werden können
+R9	supports Arg1:T17 Arg2:T16	

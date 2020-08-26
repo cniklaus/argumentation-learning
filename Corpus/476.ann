@@ -1,0 +1,19 @@
+T1	Claim 70 167	Die Aufgabe wurde vollständig gelöst und alle relevanten Teilpunkte wurden ausführlich bearbeitet
+T2	Claim 169 237	Mir gefällt vor allem auch die Idee des Supports via App und Telefon
+T3	Premise 239 298	Das nutzen von Blockchain ist ein sehr interessanter Ansatz
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 300 382	Die SWOTAnalyse zeigt alle relevanten Stärken, Schwächen, Chancen und Gefahren auf
+T5	Premise 490 703	vor allem bei den Partnern daran gedacht werden sollte, dass Werkzeughersteller unglaublich wichtig für das gelingen des Geschäftsmodels sind, denn nur so kann man unglaublich schnell die neusten Produkte anbieten
+T6	Claim 722 798	nur durch diesen Vorteil, der neusten Produkte das Modell funktionieren kann
+R2	supports Arg1:T5 Arg2:T6	
+T7	Claim 939 1110	Als Kooperationskanäle könnte ich mir auch eine enge Zusammenarbeit mit Werkzeugherstellern vorstellen, welche die neusten Maschinen auf Leasingbasis zur Verfügung stellen
+T8	Premise 1112 1187	Durch die neuste Technik könnte man sich so auch von der Konkurrenz abheben
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 1189 1283	Diese Werzeughersteller müssten meiner Meinung nach auch bei den Lieferanten aufgeführt werden
+R4	supports Arg1:T8 Arg2:T9	
+T10	Claim 1285 1330	Wieso als geographischer Standort Deutschland
+T11	Premise 1332 1366	Wieso nicht Schweiz und Österreich
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 1368 1507	Bei dem App ist vor allem zu beachten, dass dies nur sinnvoll ist, wenn das App unglaublich ausgereift ist und viele Features abdecken kann
+T13	Premise 1509 1643	Individuell auf die Bedürfnisse der Endkunsumenten abgestumen sind, also ein anderes Profil für Privatpersonen als für Profihandwerker
+R6	supports Arg1:T13 Arg2:T12	

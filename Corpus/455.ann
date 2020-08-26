@@ -1,0 +1,18 @@
+T1	Claim 70 110	Dein Storyboard ist einfach verständlich
+T2	Premise 112 195	Auch ohne das vorhergehende Lesen der Beschreibung hätte ich den Prozess verstanden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 196 301	Du konntest in deinem Storyboard fast alle Elemente des Kundenprozesses aufeinander abgestimmt darstellen
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 395 448	Bei einigen Bildern ist Deine Schrift schlecht lesbar
+T5	Premise 454 492	ProtfolioSharing oder Eigenes Porfolio
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 494 575	Mit einer saubereren Schrift kannst Du dem Betrachter das Verständnis erleichtern
+R4	supports Arg1:T6 Arg2:T4	
+T7	Premise 576 695	Wenn ich es richtig verstehe, kommen in deiner Story alle Elemente des Kundenprozesses vor mit Ausnahme von P2PKrediten
+T8	Claim 697 775	Dieses Element könntest Du vollständigkeitshalber noch mit einem Bild ergänzen
+R5	supports Arg1:T7 Arg2:T8	
+T9	Premise 781 797	vor dem Autokauf
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 863 1006	Im Allgemeinen besteht noch keine explizite Verknüpfung zwischen der ersten Folie mit der Beschreibung und der zweiten Folie mit dem Storyboard
+T11	Claim 1018 1188	es wäre hilfreich für den Betrachter, wenn Du auf den Bildern des Soryboards jeweils einen kleinen Verweis auf den entsprechenden Punkt in der Beschreibung machen würdest
+R7	supports Arg1:T10 Arg2:T11	

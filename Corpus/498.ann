@@ -1,0 +1,15 @@
+T1	Claim 69 90	Super Geschäftsmodell
+T2	Premise 94 119	ein top aktuelles Problem
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 121 166	Gute Geschäftsfeldabgrenzung und Beschreibung
+T4	Claim 267 326	Bei den Mitbewerbern könnte man noch etwas konkreter werden
+T5	Premise 341 419	für den hiesigen Markt Anbieter wie Digitialhaus oder verschiedene KNXAnbieter
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 421 529	Bei Umwelt/Technologie könnte man noch auf die gesamten ökologischen Aspekte von Heimautomatisation eingehen
+T7	Premise 534 589	hier enormes Potential für Effizienzsteigerungen liegen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 591 781	Bei der Preispolitik würde ich vorsichtiger sein, sehr wenige Bauherren sind bereit für sehr hohe Qualität zu zahlen, mit ein Grund warum nach wie vor wenige SmartHomes in der Schweiz stehen
+T9	Claim 905 1041	Oben genannte Punkte beachten und vielleicht betreffen Preispolitik eine Strategie erarbeiten mit der IntelligentesWohnen bezahlbar wird
+T10	Premise 1043 1078	Das wäre wirklich Marktbeherrschend
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 1085 1124	top Arbeit, würde ich sofort einsteigen

@@ -1,0 +1,27 @@
+T1	Claim 19 109	Die Aufteilung der Kunden in K1 und K2 gefällt mir gut und ist auch notwendig und sinnvoll
+T2	Premise 114 182	es auch die Aufpasser benötigt, welche die Applikation nutzen werden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 184 261	Die Abhängigkeit zu den Lieferanten wurde kurz erwähnt, was ich wichtig finde
+T4	Premise 263 365	Gerade bei den Lieferanten geht es nämlich um die Abhängigkeit der Lieferantenprodukte bzw. Leistungen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 367 488	Die abgeleiteten Stärken gefallen mir sehr gut und bilden eine solide Grundlage für die weitere Entwicklung der Plattform
+T6	Claim 499 568	Bei der Abgrenzung des Geschäftsmodells fehlen die Kooperationskanäle
+T7	Premise 570 703	Es ist mir bewusst, dass dies in dem Fallbeispiel zu Gamma fehlt, dies ist jedoch wegen dem spezifischen Geschäftsmodell von Gamma so
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 705 728	Ist ein geringer Fehler
+T9	Premise 733 900	auch in der Aufgabenstellung betont wird, dass die Aufgabe analog des Fallbeispieles zu lösen ist, jedoch finde ich die Information zu den Kooperationskanälen relevant
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T8 Arg2:T6	
+T10	Claim 902 988	Bei der Kurzcharakteristika fehlt mir die Umsetzung der Idee welche ich gelungen finde
+T11	Claim 990 1106	Bei der strategischen Ausrichtung hätte ich mir eine genauere Unterteilung des Produkt/Leistungsportfolios gewünscht
+T12	Claim 1131 1197	Kooperationskanäle bei der Abgrenzung des Geschäftsfeldes ergänzen
+T13	Claim 1199 1279	Ergänzen Sie die Kurzcharakteristika mit der Art der Umsetzung des GPS Trackings
+T14	Premise 1284 1368	indem die Senioren Smartphones bei sich tragen und ihre Routen über diese ansteueren
+T15	Premise 1370 1423	Dies verdeutlicht die eigentliche Leistung ihrer Idee
+R6	supports Arg1:T15 Arg2:T14	
+T16	Claim 1425 1546	Bei der strategischen Ausrichtung kann spezifischer auf das Angebot an die K1 und K2 Kunden eingehen und dies beschreiben
+T17	Premise 1551 1714	kann man erwähnen, dass man dafür ein mobiles Endgerät benötigt und man durch verschiedene Dienste betreut werden kann Ähnlich wie in der Marktleistung beschrieben
+R7	supports Arg1:T17 Arg2:T16	
+T18	Claim 1715 1915	Bei den Massnahmen könnte ich mir bei der anfänglichen Marktdurchdringung Schweiz auch ein anfängliches Pilotprojekt vorstellen, welches Aufschlüsse über die Bedienbarkeit der App bei Senioren liefert
+T19	Claim 1926 2061	Die Idee gefällt mir sehr gut und auch die Geschäftsfeldabgrenzung, sowie Beschreibung waren ausführlich, prägnant und klar ersichtlich
+T20	Claim 2063 2074	Gut gemacht

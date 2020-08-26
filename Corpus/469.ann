@@ -1,0 +1,32 @@
+T1	Claim 71 128	Generell finde ich die Geschäftsmodellidee sehr innovativ
+T2	Premise 133 209	das Thema Gesundheit ein Megatrend ist und zukünftig viel Potential aufweist
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 211 322	Ich fand es sehr schön, dass im Gegensatz zu anderen Beschreibung, die Aufgabe auf drei Seiten beschränkt wurde
+T4	Claim 333 391	wurde die Aufgabenstellung vollständig und komplett gelöst
+T5	Claim 396 507	Abgrenzung des Geschäftsfeldes  Es wurde alle wichtigen Variablen miteinbezogen sowie kurz und sinnvoll erklärt
+T6	Claim 515 629	KurzCharakteristika Ihres Unternehmens  Sofort wird dem Lesenden klar, um was es sich bei mHealth Solutions haltet
+T7	Claim 637 777	Qualitative Beschreibung  Auch hier wurde auf alle wichtigen Aspekte eingegangen, besonders schön finde ich die Beschreibung der Mitbewerber
+T8	Premise 779 887	Obwohl es derzeit keine direkte Konkurrenten gibt wird die Gefahr von anderen Unternehmen nicht unterschätzt
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 895 972	Kritische Erfolgsfaktoren  Es wurde vier sinnvolle Erfolgsfaktoren ausgewählt
+T10	Premise 974 1068	Besonders kritisch ist die Akzeptanz der Ärzte, auf welche jedoch noch später eingegangen wird
+R3	supports Arg1:T10 Arg2:T9	
+T11	Claim 1094 1150	Die Kernkompetenzen wurden ebenfalls sinnvoll ausgewählt
+T12	Premise 1152 1230	Besonders wichtig ist natürlich ein hochqualifiziertes interdisziplinäres Team
+R4	supports Arg1:T12 Arg2:T11	
+T13	Claim 1252 1285	Sinnvolle ausgefüllte SWOTAnalyse
+T14	Claim 1294 1464	Strategische Ausrichtung  Auch hier merkt man, dass der/die Studierende sich bereits ausgiebig mit dem Thema beschäftigt hat und sinnvolle Ausrichtungen ausgewählt wurden
+T15	Claim 1485 1556	Die Massnahmen wurden kausal aus dem vorher beschrieben Teil ausgewählt
+T16	Claim 1657 1804	Die Aufgabe wurde vom Kommilitonen sehr schön und kompakt ausgeführt, daher gibt es nur wenige Punkte welche man aus meiner Sicht verbessern könnte
+T17	Premise 1812 1926	Ich sehe besonders eine schwierige Herausforderungen Hausärzte dafür zu gewinnen bei mHealth Solutions mitzumachen
+T18	Premise 1928 2057	Bereits jetzt beschweren sich Ärzte darüber, dass sie zu wenig Kundenkontakt haben und viel zu viel Papierarbeit erledigen müssen
+T19	Claim 2059 2132	Ich würde hierfür ein gutes Argument finden, warum Ärzte mitmachen müssen
+R5	supports Arg1:T18 Arg2:T17	
+R6	supports Arg1:T17 Arg2:T19	
+T20	Claim 2189 2277	Betreff der zukünftigen Strategie würde bereits Prototypen für ein App entwickeln lassen
+T21	Premise 2283 2306	diese mit Kunden testen
+R7	supports Arg1:T21 Arg2:T20	
+T22	Premise 2311 2500	dies ein recht langwieriger Prozess ist, könnte damit nebst der Forschung parallel bereits schnelle Fortschritte gemacht werden und somit den Vorteil als First Mover weiter ausgebaut werden
+R8	supports Arg1:T22 Arg2:T21	
+T23	Claim 2689 2899	Ein simples aber gutes Argument könnte sein, dass Ärzte durch den Staat verpflichtet werden bei mHealth Solutions mitzumachen, damit zukünftig die Leistungsfähigkeit im Gesundheitsbereich gesteigert werden kann
+T24	Claim 2908 3091	Unter dem Punkt Basisstrategie sowie Massnahmen würde ich hinzufügen, dass parallel zur Forschung bereits erste Prototypen für die App entwickelt werden und mit Kunden getestet werden

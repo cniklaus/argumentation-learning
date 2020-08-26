@@ -1,0 +1,29 @@
+T1	Claim 71 115	Generell wurde die Aufgabe sehr schön gelöst
+T2	Premise 117 219	Vergleichsweise wurde diese Leistung von diesem Studierenden sehr übersichtlich und kompakt absolviert
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 221 341	Besonders sinnvoll empfinde ich die Kurzbeschreibung des Geschäftsmodells, welche bereits einen ersten Überblick schafft
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 344 389	Weiter wurden auch alle Anforderungen erfüllt
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 397 535	Abgrenzung des Geschäftsfeldes  Sehr sinnvoll unterteilt und benutzte Vorlage, besonders gut finde ich Kundensegmentierung nach Reisezweck
+T6	Claim 542 666	KurzCharakteristika Ihres Unternehmens  Kurz und kompakt das Wichtigste beschrieben, sofort wird klar um was es sich handelt
+T7	Claim 668 713	Finde auch Geschäftsmodell ist sehr innovativ
+T8	Claim 721 819	Qualitative Beschreibung  Ebenfalls gemäss Vorlage die Kategorien benutzt, und sinnvoll ausgefüllt
+T9	Claim 826 929	Kritische Erfolgsfaktoren  Kausale zusammenhängend ausgewählt, und übersichtlich in 3 Punkte unterteilt
+T10	Premise 937 1025	Personentransportanbieter müssen kooperieren damit Geschäftsmodell umgesetzt werden kann
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 1033 1097	Kernkompetenzen  Dasselbe wie bei den kritischen Erfolgsfaktoren
+T12	Premise 1099 1149	Kausel zusammenhängende Kernkompetenzen ausgewählt
+R5	supports Arg1:T12 Arg2:T11	
+T13	Claim 1158 1215	SWOTAnalyse  Alle 4 Kategorien wurden sinnvoll ausgefüllt
+T14	Claim 1224 1363	Strategische Ausrichtung  Vorgegeben Kategorien wurden benutzt wie Basisstrategie, Produkt/Leistungsportfolie etc.. und sinnvoll ausgefüllt
+T15	Claim 1384 1477	Abschliessend wurden auch die Massnahmen sinnvoll ausgewählt und in grobe Schritte unterteilt
+T16	Premise 1497 1522	kritische Masse erreichen
+R6	supports Arg1:T16 Arg2:T15	
+T17	Claim 1724 1842	Als einzigen Punkt würde ich vorschlagen bei diesem Geschäftsmodell mehr Gewicht auf die politischen Aspekte zu setzen
+T18	Premise 1844 2144	Grund dafür ist weil eine weltweite Lösung beabsichtigt wird und teils der öffentliche Verkehr auch durch den Staat reguliert ist und weiter da Ticketless hohes Potential zu einer Monopol Stellung hat, denke ich dass aktiv mit verschiedenen Institutionen bzw. politisch zusammengearbeitet werden muss
+R7	supports Arg1:T18 Arg2:T17	
+T19	Claim 2310 2342	gibt es nicht viel zu verbessern
+T20	Claim 2426 2579	Qualitative Beschreibung Den Aspekt Politik hinzufügen und kurz schildern welche Herausforderungen seitens der verschiedenen Staaten Regierungen bestehen
+T21	Claim 2587 2690	Kritische Erfolgsfaktor Die öffentlichen Institute auf deine Seite bringen, ebenfalls ein Erfolgsfaktor
+T22	Claim 2699 2767	SWOT Analyse Regulierungen seitens von Staaten ebenfalls eine Gefahr

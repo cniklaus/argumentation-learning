@@ -1,0 +1,24 @@
+T1	Claim 21 56	die Aufgabe hast du sehr gut gelöst
+T2	Premise 58 180	Die Illustrationen erklären den Prozess ich konnte den Ablauf bereits verstehen, ohne dass ich den Fliesstext gelesen habe
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 182 217	Der Detailgrad macht ebenfalls Sinn
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 272 367	Die Digitalisierung des Kleiderschrankes erfolgt bereits bei Kauf der einzelnen Kleidungsstücke
+T5	Premise 369 439	Dies ist allerdings nicht Teil des eigentlichen Entscheidungsprozesses
+T6	Premise 441 506	Dieser Satz leuchtet zwar ein, und erklärt einen wichtigen Aspekt
+T7	Premise 508 570	Ich frage mich aber, inwiefern er zu diesem Punkt relevant ist
+T8	Premise 572 637	Wenn dann müsste dieser Prozesschritt vor dem Aufwachen passieren
+T9	Premise 644 679	kauft sich ein neues Kleidungsstück
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 681 714	Das würde ich nochmals überdenken
+R3	supports Arg1:T5 Arg2:T10	
+R4	supports Arg1:T4 Arg2:T5	
+R5	attacks Arg1:T6 Arg2:T5	
+R7	supports Arg1:T7 Arg2:T5	
+R8	supports Arg1:T8 Arg2:T5	
+T11	Claim 721 866	das letzte Storyboard ist zwar unterhaltsam und bringt mich zum schmunzeln. Hat aber aus meiner Sicht nicht direkt mit dem Vorteil der App zu tun
+T12	Premise 873 1038	man würde sich ja wohl auch schön anziehen, wenn man die Kleider selber aussuchen würde aber man wäre wohl etwas schlechter gelaunt weil man nicht frühstücken konnte
+R9	supports Arg1:T12 Arg2:T11	
+T13	Premise 1042 1118	ielleicht gibt es eine Illustration welche noch besser die Gains illustriert
+R10	supports Arg1:T13 Arg2:T11	
+T14	Claim 1317 1350	du hast die Aufgabe tiptop gelöst

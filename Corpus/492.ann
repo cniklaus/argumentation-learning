@@ -1,0 +1,7 @@
+T1	Claim 11 83	Wow, deine Ausarbeitung ist sehr detailliert und lässt kaum Fragen offen
+T2	Premise 85 248	Das Ganze klingt für mich extrem schlüssig und da ich mich in der Branche und technisch gar nicht auskenne, wäre es jetzt total unsachlich Kritikpunkte aufzuzählen
+T3	Premise 253 274	ich keine Ahnung habe
+R1	supports Arg1:T3 Arg2:T2	
+R2	supports Arg1:T2 Arg2:T1	
+T4	Claim 276 362	Ich finde, dass die Geschäftsfelder sehr vernünftig und vor allem klar abgegrenzt sind
+T5	Claim 369 496	finde ich es sehr gut, dass du die Gerätehersteller als grosses Problem ansiehst und auf dieses sehr lösungsorientiert eingehst

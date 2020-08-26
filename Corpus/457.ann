@@ -1,0 +1,29 @@
+T1	Claim 69 283	Besonders gut gefällt mir, dass der Kundenprozess durch das letzte Bild im Storyboard nochmals zusammengefasst wird  mit der Beschreibung des Prozesses ist der Kundenprozess für einen Laien sehr gut nachvollziehbar
+T2	Claim 292 450	finde ich emotionale Aussagen des Konsumenten, wie bspw. Genial sehr gut, um die Vorteile der Dienstleistung hervorzuheben  dies ist dem Kommilitonen gelungen
+T3	Claim 547 731	Es ist nur schwer erkennbar was das eigentliche Kundenbedürfnis des Konsumenten C ist, also was das eigentliche Bedürfnis ist, wieso sich der Konsument den Kühlschrank aufrüsten sollen
+T4	Premise 733 836	Die Vorteile einer Aufrüstung werden auf dem Storyboard schliesslich im zweitletzten Bild hervorgehoben
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 841 925	der Kundenprozess aber auf Basis eines konkreten Bedürfnisses erstellt werden sollte
+T6	Claim 927 1108	wäre es evtl. hilfreich das Storyboard um ein Bild mit Pain, bzw. GainPoints aus Sicht des Konsumenten zu erweitern, um konkrete Kundenbedürfnisse schliesslich hervorheben zu können
+R2	supports Arg1:T5 Arg2:T6	
+T7	Premise 1110 1188	Welche konkreten Probleme werden durch das Upgrade aus Sicht des Kunden gelöst
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 1191 1339	Der Kommilitone könnte bei der Überarbeitung des Storyboards noch eingehender auf den PreKonsum, bzw. AfterKonsum aus Sicht des Konsumenten eingehen
+T9	Premise 1341 1466	Momentan ist der Prozess sehr stark auf die Installation des Kühlschranksensors sowie der mobilen Einkaufsliste eingeschränkt
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 1468 1644	Hat aber der Kunde bspw. die Möglichkeit die erhaltenen Produkte zu bewerten oder könnte man hier zusätzliche Benefits mit den CumulusPunkten aus Sicht des Konsumenten einbauen
+R5	supports Arg1:T10 Arg2:T8	
+T11	Premise 1646 1761	Ergo würden sich durch zusätzliche AfterKonsum Möglichkeiten auch weitere Incentives für die Einkaufsmärkte ergeben
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 1766 1859	sie durch zusätzliche Daten von den Kunden  generiert durch die App  auch profitieren könnten
+R7	supports Arg1:T12 Arg2:T11	
+T13	Claim 1861 2048	in weitere Punkt hat indirekt mit dem Kundenprozess zu tun, allerdings finde ich die ausschliessliche Ermöglichung des Updates bei genügender Anzahl von Cumulus Punkten sehr eingeschränkt
+T14	Premise 2050 2155	Wieso kann der Kunden diese Dienstleistung nicht auch ohne genügend Anzahl von Cumulus Punkten wahrnehmen
+R8	supports Arg1:T14 Arg2:T13	
+T15	Premise 2157 2274	Der Kunde könnte für die App ja genau so gut bezahlen und viele Personen wären vermutlich auch dafür bereit zu zahlen
+R9	supports Arg1:T15 Arg2:T14	
+T16	Premise 2279 2417	es den kompletten Einkaufsprozess aus der Perspektive des Kunden outsourct und somit eine sinnvolle, zeitsparende Dienstleistung darstellt
+R10	supports Arg1:T16 Arg2:T15	
+T17	Claim 2562 2790	Bei der Überarbeitung des Storyboards empfehle ich dem Kommilitonen den gesamten Kundenprozess nochmals zu analysieren umschliesslich das Storyboard um weitere Schritte vor allem im PreKonsum sowie AfterKonsum einbauen zu können
+T18	Premise 2798 2910	wie kann der Kunde sicherstellen, dass er ein Produkt welches er nicht mochte auch nicht mehr automatisch erhält
+R11	supports Arg1:T18 Arg2:T17	

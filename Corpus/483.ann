@@ -1,0 +1,21 @@
+T1	Claim 11 43	Sehr schöne und gelungene Lösung
+T2	Premise 45 161	Positiv fällt vor allem das durchdachte Konzept, die Ganzheitlichkeit der Lösung und die Geschäftsfeldabgrenzung auf
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 221 382	Ich habe mich lediglich gefragt, ob nicht als Alternative auch Daten von Supermarktketten genutzt werden können, wenn dies von deren Kunden erlaubt/gewünscht ist
+T4	Premise 384 562	Denn auch beim Scannen an der Kasse werden ja Produktinformationen gespeichert, die dann beispielsweise über Rabattkarten Kumulus einem bestimmten Kunden zugeordnet werden können
+T5	Premise 564 645	Dies könnte die problematische RFID Abhängigkeit möglicherweise etwas abschwächen
+R3	supports Arg1:T4 Arg2:T5	
+R2	supports Arg1:T5 Arg2:T3	
+T6	Claim 647 784	öglicherweise könnte auch ein zusätlicher Mehrwert über das Bereitstellen und die Visualisierung bestimmter Statistiken geschaffen werden
+T7	Premise 790 814	Wie gesund kaufe ich ein
+T8	Premise 816 858	Was sind evtl. gesündere Alterntivprodukte
+T9	Premise 862 961	Die Schweiz zum Beispiel mit einem im europäischen Vergleich sehr hohen Salzanteil in den Einkäufen
+R4	supports Arg1:T7 Arg2:T6	
+R5	supports Arg1:T8 Arg2:T6	
+T10	Premise 964 995	Probleme für Herz und Blutdruck
+T11	Claim 998 1035	Krankenkassen als zusätzliche Partner
+R7	supports Arg1:T10 Arg2:T9	
+R6	supports Arg1:T9 Arg2:T7	
+R8	supports Arg1:T9 Arg2:T8	
+T12	Premise 1041 1179	ich glaube die Idee hätte auch Potential für eine gesundheitliche Anwendung.Alles in allem aber eine sehr schöne Geschäftsfeldbeschreibung
+R9	supports Arg1:T12 Arg2:T11	

@@ -1,0 +1,34 @@
+T1	Claim 83 124	Schöne, sehr selbsterklärendes Storyboard
+T2	Claim 126 242	Mir gefällt, dass du noch eine Beschreibung zu GoOn hinzugefügt hast und nicht nur den Kundenprozess abgebildet hast
+T3	Premise 247 296	wird dein Geschäftsmodell schnell klar vermittelt
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 300 379	Mir gefällt die Idee, dass sich hier eine Art Auktion für Einkaufszettel ergibt
+T5	Claim 476 551	Der Kunde ist immer abhängig davon, welche Produkte der Supermarkt anbietet
+T6	Premise 553 685	Eventuell gibt es Präferenzen Zum Beispiel lieber die Falafel von Coop als die vom Migros, die hier schlecht angegeben werden können
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 687 832	Wenn einem Kunden das aber egal ist, dann finde ich die Idee, aus den Einkaufszetteln der Käufer eine Auktion für die Supermärkte zu machen super
+R3	attacks Arg1:T7 Arg2:T5	
+T8	Claim 835 907	Der Transport der Lebensmittel dürfte teilweise recht kompliziert werden
+T9	Premise 914 998	hierfür aber die Supermärkte und Anbieter von Lebensmittelherstellern zuständig sind
+T10	Premise 1000 1055	ist dies aber nicht das Problem von GoOn sehr praktisch
+R4	supports Arg1:T9 Arg2:T10	
+R5	attacks Arg1:T10 Arg2:T8	
+T11	Premise 1057 1105	Ich habe nämlich schon Erfahrung hiermit gemacht
+T12	Premise 1107 1169	Nicht nur Hitze ist ein Problem, sondern auch Kälte bzw. Frost
+R6	supports Arg1:T11 Arg2:T12	
+R7	supports Arg1:T12 Arg2:T8	
+T13	Premise 1175 1292	der Frust der Kunden, wenn die Lebensmittel nicht gut ankommen, wird sich schlussendlich leider auch auf GoOn richten
+R8	supports Arg1:T13 Arg2:T8	
+T14	Premise 1438 1503	Weshalb sehen die Äpfel aus, als wären sie auf den Boden gefallen
+T15	Premise 1510 1680	Coop eventuell Äpfel verschickt hat, die nicht mehr sehr frisch waren, dafür zu einem günstigeren Preis, oder weil der Transport nicht für die Lebensmittel angemessen war
+T16	Claim 1682 1780	Das könntest du in dem Storyboard nochmals etwas genauer ausarbeiten/ selbsterklärender darstellen
+R9	supports Arg1:T15 Arg2:T14	
+R10	supports Arg1:T14 Arg2:T16	
+T17	Claim 1782 1985	Du kannst dich auch überlegen, ob GoOn irgendwie sicherstellen kann, dass die Produkte auch wirklich in guter Qualität beim Kunden ankommen bzw. welche Möglichkeiten er bei einer schlechten Lieferung hat
+T18	Premise 1987 2080	Oder hält sich GoOn hier komplett raus und verweist den verärgerten Kunden an den Lieferanten
+T19	Premise 2082 2204	eventuell wurde dieser Punkt bereits bei einem der früheren ITPAs behandelt, dann kannst du diesen Aspekt gerne ignorieren
+R11	attacks Arg1:T19 Arg2:T17	
+R12	supports Arg1:T18 Arg2:T17	
+T20	Claim 2209 2333	Man könnte mehrere Bilder auf einer Slide zusammenfassen, damit man einen besseren Überblick über die einzelnen Schritte hat
+T21	Premise 2335 2431	Dies ist aber eine rein subjektive Anmerkung und kommt stark auf die persönlichen Präferenzen an
+R13	attacks Arg1:T21 Arg2:T20	

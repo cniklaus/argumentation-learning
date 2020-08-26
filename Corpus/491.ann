@@ -1,0 +1,25 @@
+T1	Claim 69 116	Grundsätzlich finde ich die Idee wirklich super
+T2	Premise 118 151	Es trifft genau den Nerv der Zeit
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 153 274	Immer mehr Menschen shoppen online oder lassen sich online von Modeberatern wie z.B. bei Outfittery oder Modomoto beraten
+T4	Premise 283 322	st der Markt hier sicherlich am Wachsen
+R2	supports Arg1:T3 Arg2:T4	
+R3	supports Arg1:T4 Arg2:T2	
+T5	Claim 324 420	Sehr gut ist auch die Einteilung der Kundensegmente in verschiedene Alters und Geschlechtsstufen
+T6	Premise 422 543	Dadurch lassen sich später potentielle Kunden besser targeten, wodurch die Conversion und auch die Retention steigen wird
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 545 624	Auch wurde gut erkannt, dass die Datenverarbeitung eine Kernkompetenz darstellt
+T8	Premise 626 726	Wenn das beherrscht wird, ist das ein Wettbewerbsvorteil, der nicht so schnell eingeholt werden kann
+T9	Claim 738 799	ist das Potential der App wirklich gross und vielversprechend
+R5	supports Arg1:T7 Arg2:T9	
+R6	supports Arg1:T8 Arg2:T7	
+T10	Claim 956 1079	der Punkt hoher technischer Aufwand in der Umsetzbarkeit eher in die Gefahren und nicht die Schwächen der SWOTAnalyse passt
+T11	Claim 1081 1140	Die Massnahmen könnten noch ausführlicher formuliert werden
+T12	Claim 1333 1403	Grundsätzlich bitte auch auf Rechtschreibung und Zeichensetzung achten
+T13	Claim 1405 1455	Die Massnahmen könnten noch etwas ausgebaut werden
+T14	Premise 1457 1555	Eventuell konkrete Zwischenschritte, was genau am Anfang essentiell ist, um den Erfolg einzuleiten
+R7	supports Arg1:T14 Arg2:T13	
+T15	Premise 1566 1647	das Einstellen von Data ScienceExperten, um die intelligente Datenbank aufzubauen
+R8	supports Arg1:T15 Arg2:T14	
+T16	Premise 1649 1796	Ziel wird es ja irgendwann sein, dass der Algorithmus die Modeberater ersetzt und eventuell sogar bessere Vorschläge geben kann auf Basis von Daten
+R9	supports Arg1:T16 Arg2:T15	

@@ -1,0 +1,12 @@
+T1	Claim 11 125	Bitte zum Verständnis der Tabelle bei Abgrenzung  noch einfügen, ansonsten sehr gute Aufteilung der Kundensegmente
+T2	Premise 127 185	Marktleistung und Kooperationskanäle   x     y     z     d
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 189 254	KurzCharakteristika und Qualitative Beschreibung sehr detailliert
+T4	Claim 264 287	SWOTAnalyse etwas knapp
+T5	Premise 289 355	Diese ist das wichtigste Werkzeug zur Ableitung von Leitstrategien
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 360 404	wenige Schwächen und Gefahren vorhanden sind
+T7	Claim 406 521	ist zunächst die Strategie nur auf die Entwicklung der App und des Schützens des Intellectual Property ausgerichtet
+R3	supports Arg1:T6 Arg2:T7	
+T8	Premise 523 696	wie sieht es nun hingegen aus, wenn ein Konkurrent aus dem Ausland beispielsweise aus Amerika mit einer Kollaboration mit Amazon als international agierender Player auftritt
+R4	supports Arg1:T8 Arg2:T7	

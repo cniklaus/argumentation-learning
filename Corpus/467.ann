@@ -1,0 +1,16 @@
+T1	Claim 12 148	Die Idee mit der Matrixstruktur für das Aufzeigen der Geschäftsfeldeinteilung finde ich sehr gut und man gewinnt schnell einen Überblick
+T2	Claim 160 211	stark ist deine kurze Beschreibung des Unternehmens
+T3	Claim 218 365	die qualitative Beschreibung, die Analyse der Mitbewerber, der Lieferanten, der Umwelt und der Marktleistung machen sinn und sind gut ausgearbeitet
+T4	Claim 367 420	Insgesamt sehr ausführlich und spezifisch beschrieben
+T5	Claim 422 496	Bei der Matrixstruktur fehlt mir trotzdem noch die geografische Komponente
+T6	Premise 498 593	Wo gibt es die meisten LOHAS, in welchen Ländern gibt es die höchste Rate von Diabetispatienten
+R1	supports Arg1:T6 Arg2:T5	
+T7	Premise 595 672	Dies kommt dann vor allem auch bei den Chancen bzw Stärken/Schwächen zum Zuge
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 674 754	Du schreibst, dass das Marktpotenzial bei den LOHAS bei 540 Mrd. US Dollar liegt
+T9	Claim 756 828	Dies ist sicherlich eine Chance, welche unter 10. aufgeführt werden muss
+R3	supports Arg1:T8 Arg2:T9	
+T10	Claim 830 1030	Ebenfalls muss eine geografische Eingrenzung vorgenommen werden, was dazu führt, dass du bei deinen Stärken und Schwächen eine genauere Analyse machen kannst, vor allem im Hinblick auf den Kundenstamm
+T11	Claim 1032 1066	Insgesamt ist das ganze etwas lang
+T12	Premise 1067 1080	max. 3 Seiten
+R4	supports Arg1:T12 Arg2:T11	

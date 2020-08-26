@@ -1,0 +1,35 @@
+T1	Claim 141 231	deine Lösung eine sehr gute Produkt ist, etwas ein Metasuchmaschine für Tipps für Reisende
+T2	Premise 233 303	Es gibt viel zu viel Apps für Reisende, die am Ende das gleiche machen
+T3	Premise 307 345	man weisst nicht, was er nutzen sollte
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 347 431	Im Ende sind die Empfehlungen von Freunde die beste Ratschläge, und dein App hat das
+R1	supports Arg1:T2 Arg2:T4	
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 432 512	Die Name der App ist auch super geil, und du hast die Vorlage perfekt eingefüllt
+T6	Claim 604 674	Du hast deine Schwächen schon in deine SWOTAnalyse schon identifiziert
+T7	Premise 676 746	die Daten, ohne die dein App nutzlos ist, kommen von deine Mitbewerber
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 748 911	Deine App will diese anderen Apps ersetzen und die Leute helfen, nur ein App auf ihren Handy zu haben, aber wie das verloren die Mitbewerber ihren Einkommensquelle
+T9	Premise 913 959	Das gibt ihr kein Grund, ihren Daten zu teilen
+T10	Claim 961 984	Du solltest eine finden
+R5	supports Arg1:T9 Arg2:T8	
+R6	supports Arg1:T8 Arg2:T10	
+T11	Claim 985 1059	Ich bin auch nicht sicher, das ein Crawler ein Zugriff an diesen Daten hat
+T12	Premise 1061 1153	Ich glaube auch nicht, dass Facebook ein Zugriff an die Likes und Besuchen von Freunden gibt
+R7	supports Arg1:T12 Arg2:T11	
+T13	Claim 1154 1299	Ich habe auch Zweifeln, ob es wirklich kompatibel ist, ein Art von Reiseführer mit Noten usw zu sein, aber auch Geld von die Geschäften zu nehmen
+T14	Premise 1301 1348	Sollte ein solches Plattform nicht neutral sein
+R8	supports Arg1:T14 Arg2:T13	
+T15	Claim 1411 1452	Werbung könnte eine Einkommensquelle sein
+T16	Claim 1593 1700	Du musst ein Lösung finden, um die anderen Firmen deine Datenlieferanten Interesse in deine Lösung zu geben
+T17	Premise 1702 1810	Es könnte durch ein Austeilung der Einkommen, oder vielleicht auch ein Teilung von Kundendaten, oder Werbung
+R9	supports Arg1:T17 Arg2:T16	
+T18	Premise 1812 1833	Du musst etwas finden
+T19	Premise 1840 1919	die andere Firmen werden nie ihren Daten an ein App die sie ersetzen will geben
+R10	supports Arg1:T19 Arg2:T18	
+R11	supports Arg1:T18 Arg2:T16	
+T20	Claim 1938 1988	haben diese Führer ein Problem mit die Preisstufen
+T21	Premise 1990 2167	Vielleicht könntest du hier ein System entwickeln, um diese zu lösen. Die Begriffe ,  usw sind nicht genug, es wäre super die Preise von verschiedene Standardprodukten zu wissen
+R12	supports Arg1:T21 Arg2:T20	
+T22	Premise 2179 2248	ein Bier, eine Fondue in der Schweiz oder Patatas Bravas in Barcelona
+R13	supports Arg1:T22 Arg2:T21	

@@ -1,0 +1,22 @@
+T1	Claim 70 191	Klare und übersichtliche Darstellung der Geschäftsidee Wichtigste Charakteristika des Unternehmens sehr gut hervorgehoben
+T2	Claim 193 238	Gute Verständlichkeit der angestrebten Lösung
+T3	Claim 240 320	Klare Abgrenzung des Kundensegments, jedoch eine eher schwerfällige Beschreibung
+T4	Claim 322 375	Kernkompetenzen sehr gut erkannt und klar dargestellt
+T5	Claim 377 419	Sehr übersichtliche und stimmige Strategie
+T6	Claim 512 565	Mitbewerber werden nur sehr oberflächlich beschrieben
+T7	Claim 589 643	Weiter wurden keine Schwächen der Lösung identifiziert
+T8	Claim 645 687	Sehr gute Bearbeitung der Aufgabenstellung
+T9	Claim 805 868	Die Mitbewerber könnten noch detaillierter ausgearbeitet werden
+T10	Premise 870 972	in welchen Belangen sind sie uns evt schon bereits voraus, auf welche Kundengruppen zielen sie ab etc.
+R1	supports Arg1:T10 Arg2:T9	
+T11	Claim 973 1048	Bei den KEF ist das Erreichen einer kritischen Anzahl von Benutzern zentral
+T12	Premise 1053 1207	ohne eine gewisse Grösse der Netzwerkeffekt nicht genutzt werden kann und somit ein Teil der Marktleistung der App nur beschränkt einen Mehrwert generiert
+R2	supports Arg1:T12 Arg2:T11	
+T13	Claim 1209 1274	Ein weitere KEF den ich hinzufügen würde ist die Qualität der App
+T14	Premise 1276 1395	Sind die Kunden mit den berechneten Lösungen nicht zufrieden, wenden sie sich sehr schnell einer anderen Applikation zu
+R3	supports Arg1:T14 Arg2:T13	
+T15	Claim 1397 1533	In der SWOT wurden teilweise einfach die einzelnen Punkte gegenübergestellt, jedoch keine strategischen Implikationen daraus beschrieben
+T16	Premise 1535 1604	Agressive Kundenanwerbung könnte als weitere Massnahme genannt werden
+T17	Premise 1609 1675	es wichtig ist schnell eine kritische Masse an Kunden zu erreichen
+R4	supports Arg1:T17 Arg2:T16	
+R5	supports Arg1:T16 Arg2:T15	

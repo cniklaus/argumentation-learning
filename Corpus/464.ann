@@ -1,0 +1,26 @@
+T1	Claim 16 66	Sehr ausführliche Aufarbeitung des Themas chapeaux
+T2	Premise 68 285	Die Beschreibung der Idee und der Value Proposition am Anfang des Dokuments ist sehr hilfreich, um die Idee und den nachfolgenden Kundenprozess/Storyboard zu verstehen, auch wenn es nicht in der Aufgabe verlangt wurde
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 301 340	Genaue Beschreibung des Kundenprozesses
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 341 425	Storyboard Deine Darstellungen sind sehr anschaulich und man versteht sie auf Anhieb
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 450 568	Kundenprozess Die Kundensicht würde ich entweder richtig ausarbeiten und auf dein Produkt anpassen oder ganz weglassen
+T6	Claim 584 697	Customer Pains  Gains würde ich nicht als Teil der Prozesskette einfügen, auch wenn es zur Verständlichkeit hilft
+T7	Premise 702 773	würde ich mich wirklich explizit an die Aufgabenstellung/Methode halten
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 785 821	ist so die Darstellung nicht logisch
+T9	Premise 826 892	es in der Pfeilform eine Progression abbildet, was es ja nicht ist
+R5	supports Arg1:T9 Arg2:T8	
+R6	supports Arg1:T8 Arg2:T6	
+T10	Premise 904 1029	Im Unteren Teil der Slides die Pains  Gains in zwei separaten Boxen darstellen mit einem Progressionspfeil von Pains zu Gains
+R7	supports Arg1:T10 Arg2:T6	
+T11	Claim 1031 1135	Kundenprozess Betrieb und Nutzung würde ich noch in einzelne Subprozesse aufteilen, damit es klarer wird
+T12	Claim 1137 1211	Du hast den Fokus jetzt sehr stark auf den ganzen SignUp Prozess gerichtet
+T13	Premise 1213 1332	Interessant wäre jedoch zu erfahren, wie der Kundenprozess dann wirklich abläuft, wenn das Ganze ins Rollen geraten ist
+R8	supports Arg1:T13 Arg2:T12	
+T14	Claim 1345 1393	Der vorherige Punkt gilt auch für das Storyboard
+T15	Premise 1395 1592	Viel interessanter wäre, den Prozess während der Betrieb und Nutzung noch genauer zu erfahren und auszugestalten, d.h. zu erfahren, wie die beiden Kundengruppen tatsächlich miteinander interagieren
+R9	supports Arg1:T15 Arg2:T14	
+T16	Claim 1605 1730	würde ich aber trotzdem noch ein bis zwei Sätze pro Darstellung schreiben, um den Verständlichkeitsgrad zusätzlich zu erhöhen
+T17	Claim 1732 1942	Storyboard Mich würde zusätzlich interessieren, wie die ganze Verrechnung, Reports und Feedback funktionieren, d.h. in der Software angezeigt werden, um die Arbeit für den Arzt wirklich effizienter zu gestalten

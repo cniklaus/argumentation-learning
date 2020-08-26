@@ -1,0 +1,22 @@
+T1	Claim 71 152	Eine Stärke der Lösung des Kommilitonen ist meiner Meinung nach die kreative Ader
+T2	Claim 154 292	Durch die pragmatische Skizze wird schnell klar um was es geht, wo die jeweilige Situation abspielt und was die Überlegungen dahinter sind
+T3	Claim 294 436	Ich stimme dem Autor bezüglich der Wahl des zentralen Kundenbedürfnisses zu, und auch die Kurzbeschreibung auf Slide Nr. 2 ist enorm hilfreich
+T4	Claim 533 667	Eine kleine Schwäche der Lösung des Kommilitonen ist meiner Meinung nach die Wahl der einzelnen Kundenprozessschritte auf Slide Nr. 2.
+T5	Premise 673 769	gemäss Definition beinhaltet der Kundenprozess alle Schritte, in denen der Kunde involviert ist.
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 770 906	Der Prozessschritt Appvorschlag ist meiner Meinung nach ein Schritt, der durch algorithmische Auswertung der genannten Parameter erfolgt
+R2	supports Arg1:T6 Arg2:T4	
+T7	Premise 908 993	Ein besserer Name für diesen Prozessschritt wäre vielleicht Prüfung der Appvorschläge
+R3	supports Arg1:T7 Arg2:T4	
+T8	Premise 994 1111	Damit ist gewährleistet, dass der Kunde diesen Schritt ausführt und es sich nicht um einen Hintergrundprozess handelt
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 1113 1164	Dasselbe gilt für den letzten Prozessschritt Alltag
+R5	supports Arg1:T9 Arg2:T6	
+T10	Premise 1166 1229	Ich selbst würde wohl auf diesen Prozessschritt ganz verzichten
+T11	Premise 1234 1314	mir hier nicht klar wird, wie der Kunde hier in Verbindung mit Dressmeup handelt
+R6	supports Arg1:T11 Arg2:T10	
+R7	attacks Arg1:T10 Arg2:T9	
+T12	Premise 1316 1409	Vielleicht könnte man hier die etwas griffigere Bezeichnung Bewältigung des Alltags verwenden
+R8	supports Arg1:T12 Arg2:T9	
+T13	Claim 1418 1516	hat es noch einen kleinen Satzfehler im Text auf Slide zwei im letzten Satz des zweiten Abschnitts
+T14	Claim 1661 1957	Bei der Überarbeitung der Lösung sollte der Kommilitone nicht nur meine Verbesserungsvorschläge prüfen und gegeben falls umsetzen, sondern er sollte sich selbst noch eine kurze Zeit nehmen und prüfen, ob alle Prozessschritte auch wirklich Kundeninteraktionen in Verbindung mit Dressmeup aufweisen

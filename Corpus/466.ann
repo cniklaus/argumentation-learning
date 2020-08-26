@@ -1,0 +1,11 @@
+T1	Claim 22 160	Ich finde, dass dein Storyboard sehr gut gestaltet und visualisiert wurde und verstehe den zentralen Kundenprozess deines Geschäftsmodells
+T2	Claim 162 253	Die einzelnen Prozessschritte sind im Bezug auf das Wertversprechen logisch nachvollziehbar
+T3	Claim 287 381	finde ich die Abbildung des Kunzenprozesses als Storyboard sehr gelungen und klar visualisiert
+T4	Premise 383 565	Lediglich die Darstellung des Kundenprozesses verwirrt mich persönlich etwas, denn ich verstehe nicht ganz was die einzelnen Formen und Farben, die du gewählt hast, zu bedeuten haben
+R1	attacks Arg1:T4 Arg2:T3	
+T5	Claim 593 733	Ich würde die Abbildung des Kundenprozesses etwas komprimieren und genau erklären, was die unterschiedlichen Formen/Farben zu bedeuten haben
+T6	Premise 750 850	erwähnst du im Storyboard, dass der Nutzer in der App auch Angaben zu seinen Präferenzen machen kann
+T7	Premise 852 930	Ich als aussenstehende Person kann mir diesbezüglich nichts genaues vorstellen
+T8	Claim 932 1116	Hier könnte man vielleicht noch etwas spezifischer schreiben in welchem Bezug die Präferenzen stehen, sprich Präferenzen bezüglich Restaurants? Oder auf das Bereitstellen der Dokumente
+R2	supports Arg1:T7 Arg2:T8	
+R3	supports Arg1:T6 Arg2:T7	

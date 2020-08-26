@@ -1,0 +1,22 @@
+T1	Premise 11 121	Kurze, prägnante und qualitativ hochwertige Geschäftsfeldbeschreibung, die das wichtigste auf den Punkt bringt
+T2	Claim 123 143	Gefällt mir sehr gut
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 144 206	Zu Beginn fehlt die klare Geschäftsfeldabgrenzung vgl. Österle
+T4	Premise 208 376	Hier würde ich dein Paper mit der entsprechenden Tabelle ergänzen und dabei beispielsweise auf Marktleistung und Kundensegmente eingehen und diese entsprechend zuordnen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 376 463	Marktleistung Hier sollte kurz erwähnt werden, was mit dem Gerät analysiert werden kann
+T6	Claim 463 601	Kurz Charakteristika Hier würde ich noch die wichtigsten Nutzen herausheben Convenience, Zeitersparnis, Einfachheit, Kosteneinsparung etc.
+T7	Claim 601 714	Quantitative Beschreibung Sind die Hersteller nur Konkurrenten oder könnten auch Kooperationen eingegangen werden
+T8	Claim 715 808	Lieferanten Mir ist noch nicht ganz klar was selber produziert wird und was fremdbezogen wird
+T9	Claim 809 932	Kritische Erfolgsfaktoren Hier würde ich in einer ersten Phase insbesondere auch die Erreichung der kritischen Masse nennen
+T10	Claim 933 1029	KundenakquiseKernkompetenzen Diese hast du sehr gut auf die kritischen Erfolgsfaktoren angepasst
+T11	Claim 1030 1085	Stärken Die Multifunktionalität würde ich hier ergänzen
+T12	Claim 1085 1146	Chancen auch steigender Kostendruck Für Labs dient als Chance
+T13	Claim 1146 1204	Preispolitik Den tiefen Preis würd ich nochmals überdenken
+T14	Premise 1209 1255	die Produktion in der Schweiz hergestellt wird
+R3	supports Arg1:T14 Arg2:T13	
+T15	Premise 1273 1359	du aufgrund der Kosteneinsparung beim Kunden auch einen höheren Preis verlangen kannst
+R4	supports Arg1:T15 Arg2:T13	
+T16	Claim 1360 1470	Massnahmen enthalten die wichtigsten nächsten Schritte, ggf. noch Zukunftsmassnahmen langfristig aufnehmen wie
+T17	Premise 1484 1507	Wartung der Geräte o. Ä
+R5	supports Arg1:T17 Arg2:T16	

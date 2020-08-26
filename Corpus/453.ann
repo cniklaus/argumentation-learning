@@ -1,0 +1,23 @@
+T1	Claim 18 27	Sehr geil
+T2	Premise 29 150	Sehr sehr einfach und verständlich dargestellt, mit Abstand das am einfachsten und effizientesten dargestellte Storyboard
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 151 256	Der Kundenprozess gibt zu Beginn einen guten Überblick über die Aufgaben der jeweiligen Prozessteilnehmer
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 257 356	Die Darstellung des Storyboards mit der Zweiteilung und den Piktogrammen ist wirklich sehr effektiv
+R3	supports Arg1:T4 Arg2:T2	
+T5	Claim 357 366	Gute Idee
+T6	Premise 368 557	bringt etwas Transparenz in den eher undurchsichtigen FahrlehrerMarkt und hilft den Fahrlehrern ihr Angebot dynamischer zu gestalten und flexiblen Fahrschülern dabei ihre Ausgaben zu senken
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 592 695	Am Storyboard selbst würde ich so nichts ändern, der zentrale Kundenprozess ist wirklich gut abgebildet
+T8	Claim 696 877	Was ich mir losgelöst vom zentralen Prozess noch überlegen würde hast du vlt. schon gemacht, ist hier aber natürlich nicht ersichtlich ist die Kriterien zur Bewertung der Fahrlehrer
+T9	Premise 879 977	Sehe ich als Fahrschüler bei der Entscheidung noch detailliertere Parameter oder nur Sterne von 15
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 979 1024	Interessant wären z.B. noch Raucher ja / nein
+T11	Premise 1027 1038	Fahrzeug XY
+T12	Premise 1046 1126	eine Art Abschlussbewertung XY benötigte Stunden bis zur bestandenen Fahrprüfung
+R6	supports Arg1:T10 Arg2:T9	
+R7	supports Arg1:T11 Arg2:T9	
+R8	supports Arg1:T12 Arg2:T9	
+T13	Claim 1134 1183	Ermangelung an wirklich nützlichem Feedback sorry
+T14	Premise 1185 1307	du hast im Kundenprozess zwei Typos Bewetung, Fahschüler sowie eine Stunde zu viel Fahrstunde und Stunde bestätigen lassen
+R9	supports Arg1:T14 Arg2:T13	

@@ -1,0 +1,37 @@
+T1	Claim 69 159	Die Beschreibung von den Geschäftsfeldern istdetailliert und vollständig ausgefüllt worden
+T2	Premise 161 239	Alle Punkte wurden dabei behandelt und es ist klar und verständlich aufgeführt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 240 319	Die3 Hauptkonkurrenten und deren Geschäftsmodelle wurden sehr gut hervorgehoben
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 321 408	Es wird daraus deutlich wie sich TicketFix gegenüber der Konkurrenz differenzieren kann
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 414 525	die Beschreibung der Marktleistung von TicketFix, nämlich die eines Technologiepartners finde ich sehr gelungen
+T6	Premise 527 606	Dies lässt Raum für eine Erweiterung in andere Geschäftsbereiche in der Zukunft
+R4	supports Arg1:T5 Arg2:T1	
+R5	supports Arg1:T6 Arg2:T5	
+T7	Claim 698 753	Kundensegment Weshalb hast du nach Anzahl TN unterteilt
+T8	Premise 755 840	Für TicketFix ist die Leistungsbereitstellung ja die selbe, egal wie viele TN es gibt
+R6	supports Arg1:T8 Arg2:T7	
+T9	Premise 842 964	Ich hätte eher nach Leistung, bsp. Individualisierungsmöglichkeiten beim Shop Basic, Medium, Premium Version unterschieden
+R7	supports Arg1:T9 Arg2:T7	
+T10	Premise 966 1034	Ich sehe aber auch, dass ein Kunde mit mehr TN mehr Einnahmen bringt
+T11	Premise 1039 1072	du eine Provision pro Ticket hast
+R8	supports Arg1:T11 Arg2:T10	
+R9	attacks Arg1:T10 Arg2:T7	
+T12	Premise 1074 1172	Dies kommt zu Beginn aber noch nicht zum Ausdruck, weshalb ich dort eine Ergänzung vornehmen würde
+R10	attacks Arg1:T12 Arg2:T10	
+T13	Claim 1173 1328	KurzCharakteristika Dubeschreibst sehr schön den Kundenprozess und ich würde hiernebenbei noch konkret erwähnen, was das eigentliche Ziel von TicketFix ist
+T14	Premise 1336 1405	Günstigere und flexiblere Lösung im OnlineTicketingUmwelt/Technologie
+R11	supports Arg1:T14 Arg2:T13	
+T15	Claim 1406 1493	Die Trends sind gut aufgeführt jedoch fehlt mir hiernoch etwas der Blick in die Zukunft
+T16	Premise 1495 1547	Wie könnte sich das OnlineTicketing weiter verändern
+T17	Premise 1549 1675	Vielleicht in Zukunft direkt auf ID laden, spezifischereWerbung aufschalten, weitere Aufgaben die der Anbieter übernimmt, ect,
+R12	supports Arg1:T17 Arg2:T16	
+R13	supports Arg1:T16 Arg2:T15	
+T18	Claim 1679 1787	Basisstrategie Hier würde ich nochmals den Zielmarkt nennen DACH und die klareDifferenzierung zum Wettbewerb
+T19	Claim 1788 1980	Preispolitik Hier würde ich nicht nur einen Preis pro Ticket verlangen sondern auch etwas für dieBereitstellung der Software OnlineShop die der Veranstalter auf seiner Website integrieren kann
+T20	Premise 1989 2066	kannst du ein AddOn Pricing machen, je nach Anzahl Funktionen sie auch Jimdo3
+R14	supports Arg1:T20 Arg2:T19	
+T21	Claim 2130 2254	Ich finde die Beschreibung der Geschäftsfelder sehr gut aufgeführt und würde lediglich die einzelnePunktenoch etwas ergänzen
+T22	Premise 2256 2425	Insbesondere das Pricing würde ich nochmals überarbeiten, die Basisstrategie etwasdetaillierter aufzeigen sowie die Unterteilung in die Kundensegment nochmals überdenken
+R15	supports Arg1:T22 Arg2:T21	

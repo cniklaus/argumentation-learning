@@ -1,0 +1,47 @@
+T1	Claim 11 125	Deine Idee ist sehr gut und sieht nach einer durchaus funktionierenden Lösung aus, die im Markt gut ankommen würde
+T2	Claim 132 230	dein Text zeigt, dass du viel Zeit investiert hast und das Modell von Österle ggut verstanden hast
+T3	Claim 242 310	formulierst du klare Sätze und hast einen sehr logischen Schreibstil
+T4	Claim 312 484	Du fokussierst dich wie Österle auf eine spezifische Marktleistung und gehst dann durch die Punkte durch, was zeigt, dass du dich gut mit den Themen auseinandergesetzt hast
+T5	Premise 508 705	Ich bin mir nicht sicher ob die Geschäftsfeldbeschreibung eher lean und stichwortartig erfolgen muss, also eine Art Canvas darstellen soll, oder ob ein Essay wie du ihn schreibst Sinn der Sache ist
+T6	Claim 707 939	Ich finde deinen Essay wirklich toll, ich denke wenn ich Österle nicht gelesen hätte würde ich deine Ausarbeitung der Stichwortartigen Auflistung der einzelnen Argumente bevorzugen, aber ich glaube du hast dir zu viel Arbeit gemacht
+R1	supports Arg1:T5 Arg2:T6	
+T7	Premise 941 1078	Ich würde das ganze nicht wie einen essay gestalten, ich denke das ganze ist in eine Tabelle eingetragen und möchte lean und einfach sein
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 1079 1125	Einführung Weglassen, möglichst lean gestalten
+T9	Premise 1127 1144	das ist redundant
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 1146 1213	Alle haben den gleichen Text gelesen, mach dir nicht so viel Arbeit
+R4	supports Arg1:T10 Arg2:T8	
+T11	Premise 1216 1276	KurzCharakteristika so viele Abkürzungen die ich nicht kenne
+T12	Claim 1281 1333	Würdest du bitte einfach keine Abkürzungen verwenden
+T13	Premise 1335 1363	Würde das Lesen vereinfachen
+R5	supports Arg1:T11 Arg2:T12	
+R6	supports Arg1:T13 Arg2:T12	
+T14	Premise 1377 1456	ist hier Kurzcharakteristika gefragt, also was dein Unternehmen charakterisiert
+T15	Claim 1458 1590	Dass es Rivalität aus dem Markt nimmt, ist kein Charakteristikum sondern eine Spezifizierung der Marktleistung oder eine SWOT Chance
+R7	supports Arg1:T14 Arg2:T15	
+T16	Premise 1592 1726	Ich würde beispielsweise eine einfache Bedienung oder geringe Wartungskosten der Software oder auch geringer Personaleinsatz schreiben
+R8	supports Arg1:T16 Arg2:T15	
+T17	Premise 1728 1787	Oder ein Plattformaufbau, transparente Funktionsweise, etc.
+R9	supports Arg1:T17 Arg2:T15	
+T18	Claim 1787 1859	Qualitative Beschreibung Ich würde hier die einleitenden Sätze weglassen
+T19	Premise 1861 1877	sie sind unnötig
+R10	supports Arg1:T19 Arg2:T18	
+T20	Premise 1879 1945	Deine Leser wissen, was du da gemacht hast und wen du gelesen hast
+R11	supports Arg1:T20 Arg2:T19	
+T21	Premise 1947 2038	Das ist einfach doppelt und dreifach erwähnt und lohnt sich bei drei Seiten Text doch nicht
+R12	supports Arg1:T21 Arg2:T19	
+T22	Premise 2039 2080	Konkurrenten Wer wären den die indirekten
+T23	Premise 2082 2092	Die Banken
+T24	Premise 2094 2136	Irgendwelche anderen Anlageberatungsfirmen
+T25	Premise 2138 2185	Anlagefonds mit eigenen Vermittlungsplattformen
+T26	Claim 2187 2359	Ich würde hier irgendwas schreiben, auch wenn es indirekte Mitbewerber sind, natürlich gibt es deine Idee so noch nicht, aber eine ähnliche Leistung bietet sicher jemand an
+R13	supports Arg1:T23 Arg2:T22	
+R14	supports Arg1:T24 Arg2:T22	
+R15	supports Arg1:T25 Arg2:T22	
+R16	supports Arg1:T22 Arg2:T26	
+T27	Premise 2361 2434	Das wäre wichtig um deinen Horizont breit zu behalten und Trends zu sehen
+R17	supports Arg1:T27 Arg2:T26	
+T28	Claim 2436 2627	Umwelt/technologie ich fand mit Technologie ist irgendwie die Technologie die du brauchst oder brauchen könntest gemeint und nicht Spekulationen übre zukünftige Marktrestriktionen und Gesetze
+T29	Premise 2629 2727	Man muss auch nicht zwanghaft was für Umwelt haben, besser etwas das passt und sonst Mut zur Lücke
+R18	supports Arg1:T29 Arg2:T28	

@@ -1,0 +1,42 @@
+T1	Claim 24 39	Eine tolle Idee
+T2	Claim 41 117	Die Visualisierung im Kundenprozess könnte etwas einfacher verständlich sein
+T3	Premise 124 172	spätestens nach dem Storyboard ist die Idee klar
+R1	attacks Arg1:T3 Arg2:T2	
+T4	Claim 174 313	Das Problem sehe ich darin, dass ein Fahrlehrer die Schwächen und Stärken eines Schülers besser einschätzen kann, als bei ständigem Wechsel
+T5	Premise 321 420	erscheint es etwas mühsam, wenn der Fahrlehrer nach jeder Stunde den Bewertungsbogen ausfüllen muss
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 422 526	Des Weiteren erweist sich der Nachteil, dass es für den Fahrlehrer schwieriger ist die Stunden zu planen
+T7	Premise 531 586	er nicht genau weiss, was der Schüler bereits geübt hat
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 587 734	Zu bedenken gilt es auch den Datenschutz, ob es in Ordnung ist, dass alle Fahrlehrer Einsicht in die Daten über alle potentiellen Fahrschüler haben
+T9	Premise 741 856	vielleicht ist es von dir auch bereits angedacht nur jenen die Einsicht zu gewähren, welche sich bei Ihnen anmelden
+R4	attacks Arg1:T9 Arg2:T8	
+T10	Claim 857 1020	Den Nachteil für den Schüler sehe ich in den wechselnden Fahrlehrern, welche alle wieder etwas andere lehren kleine Abweichungen, welche den Neulenker verunsichern
+T11	Claim 1022 1236	Gleichzeitig könnte es aber auch einen finanziellen und zeitlichen Vorteil sein, denn der Anreiz des Fahrlehrers den Schüler für zu viele Stunden an sich zu binden, bevor er ihn an die Prüfung anmeldet, sinkt damit
+T12	Premise 1237 1373	Die Bewertung des Fahrlehrer finde ich eine super Idee, sehe darin aber auch die Problematik, dass die Besten dann stets ausgebucht sind
+T13	Premise 1375 1517	Dies mindert gegebenenfalls die Bereitschaft den eigenen Fahrlehrer nach jeder Fahrstunde zu positiv zu bewerten um diese Gefahr zu verhindern
+T14	Claim 1519 1665	Aus Sicht des Fahrlehrers wäre es dann fairer erst am Ende wenn Schüler Prüfung bestanden hat ein ausführliches Feedback und Bewertung zu erhalten
+R5	supports Arg1:T12 Arg2:T13	
+R6	supports Arg1:T13 Arg2:T14	
+T15	Claim 1666 1701	Wie ist die Preisstruktur definiert
+T16	Premise 1703 1763	Kann jeder Fahrlehrer wie gewohnt zu seinen Preisen anbieten
+T17	Premise 1765 1821	Wie kann er sich positionieren nebst Bewertung und Preis
+R7	supports Arg1:T16 Arg2:T15	
+R8	supports Arg1:T17 Arg2:T15	
+T18	Claim 1822 1878	StoryboardEine tolle Visualisierung deiner Geschäftsidee
+T19	Premise 1880 1978	Besonders gelungen finde ich die Unterteilung der beiden Kundensegmente Fahrschüler und Fahrlehrer
+R9	supports Arg1:T19 Arg2:T18	
+T20	Premise 1980 2110	Es ist klar ersichtlich und einfach verständlich wer welche Funktion inne nimmt und welche Schritte er im Kundenprozess durchläuft
+R10	supports Arg1:T20 Arg2:T19	
+T21	Claim 2111 2158	Kann der Fahrlehrer einen Schüler auch ablehnen
+T22	Premise 2160 2213	Dies meine ich insbesondere in Bezug zum Abholungsort
+T24	Claim 2298 2369	Gibt es hier im App die Funktion Fahrlehrer nach Abholungsort zu suchen
+T23	Premise 2220 2296	für die Fahrlehrer wie auch für den Fahrschüler teilweise ist dieser zentral
+R11	supports Arg1:T23 Arg2:T22	
+R12	supports Arg1:T22 Arg2:T21	
+R13	supports Arg1:T23 Arg2:T24	
+T25	Premise 2391 2620	sehe ich es als notwendig, dass der Fahrlehrer angeben müsste, was er genau mit dem Fahrschüler gemacht hat e.g. welche Manöver, sodass der Schüler nicht zur Prüfung geschickt wird und ein Manöver wie Notbremse noch nie geübt hat
+T26	Claim 2622 2687	Hier gilt es zu überlegen wie sich dies am besten gestalten lässt
+R14	supports Arg1:T25 Arg2:T26	
+T27	Premise 2705 2922	ein App mit allen notwenigen Visualisierungen gross hier Abhilfe schaffen könnte, sodass der Fahrlehrer während der Fahrt auf dem IPad die erforderlichen Einträge vornehmen kann anstelle der Handnotizen in seinem Heft
+R15	supports Arg1:T27 Arg2:T26	

@@ -1,0 +1,26 @@
+T1	Claim 22 164	Der Kundenprozess wurde deutlich dargestellt und ist dank der Zusatzbeschreibung von Home Integration Slide 2 mit Fliesstext klar verständlich
+T2	Premise 166 290	Die einzelnen Schritte sind auch unabhängig von einander verständlich und können im grösseren Kontext gut eingeordnet werden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 292 404	Beim Storyboard wurden die Schritte passend zum richtigen Bild zugeordnet, was dem Leser als Hilfestellung dient
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 423 579	Beim Storyboard sind zwar die dazugehörigen Schritte dem Bild zugerodnet, jedoch braucht es noch Fliesstext, welches die einzelnen Bilder genauer beschreibt
+T5	Premise 581 704	Allein durch die Prozessschritte und die Sketch Bilder, wird das Verständnis zu den einzelnen Schritten nicht ganz deutlich
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 706 825	Eine kurze Beschreibung zum jeweiligen Bedürfnis des Kunden pro Bild hätte geholfen, das Storyboard besser zu verstehen
+R4	supports Arg1:T6 Arg2:T4	
+T7	Premise 840 998	baust du hiermit einen Prototypen deiner Idee, wobei lieber mehr Beschreibung als zu wenig gefragt ist, damit du deine Kritiker von der Idee überzeugen kannst
+R5	supports Arg1:T7 Arg2:T4	
+T8	Claim 1003 1074	Man hätte den Kundenprozess noch etwas detaillierter beschreiben können
+T9	Premise 1082 1197	existiert die SupportMöglichkeit bei Fragestellungen ab dem Entscheid des Kunden, wo er eine Home Integration sucht
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 1208 1394	hätte der Prozess nach dem letzten Schritt Implementierung personalisierter Lösung weitergehen können, indem noch Schritte wie Stetige Optimierung der Home Integration hinzugefügt werden
+R7	supports Arg1:T10 Arg2:T8	
+T11	Premise 1434 1530	Beim ersten Kritikpunkt habe ich die parallel läufige Support Möglichkeit für den Kunden erwähnt
+T12	Claim 1532 1651	Hier hätte ein paralleler  vielleicht gestrichelter  Pfeil unter dem Namen Suche nach Support hinzugefügt werden können
+R8	supports Arg1:T11 Arg2:T12	
+T13	Premise 1653 1792	Damit wird die stetige Verfügbarkeit nach Support deutlich und wird durch das gestrichelte aber unabhängig vom zentralen Prozess aufgezeigt
+R9	supports Arg1:T13 Arg2:T12	
+T14	Claim 1797 2116	Für die Weiterführung des Prozesses nach dem letzten Prozessschritt, hätte man Stetige Optimierung der Home Integration oder Wunsch nach stetiger Optimierung hinzufügen können, wobei der ProzessSchritt dann wieder zur Beratung geführt hätte, ab wo es dann zu einem Cycle geworden wäre und zu Beginn ein linearer Prozess
+T15	Premise 2118 2313	In etwa so    > > > > > >   I __ __I  Die Strichlein sollten Pfeile im Uhrzeigersinn aufzeigen, aufgrund mangelnder Möglichkeiten den Prozess zu formatieren, kann ich ihn leider nur so aufstellen
+R10	supports Arg1:T15 Arg2:T14	
+T16	Claim 2331 2453	Mit Filzstift hätte man die Zeichnungen etwas besser erkennen können, beim Bleistift waren einige Zeichnungen etwas unklar

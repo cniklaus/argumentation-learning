@@ -1,0 +1,27 @@
+T1	Claim 31 169	eine tolle Idee, die unser aller Studentenleben vereinfachen würde und obendrauf den Bildungsinstitutionen echte Vorteile verschaffen kann
+T2	Claim 171 280	Als Plattform hast du richtig erkannt, dass es zwei Seiten von Kunden gibt und somit auch zwei Kundenprozesse
+T3	Claim 284 404	Was ich nicht ganz verstehe Der Student kann während dem Semester Informationen über Kursinhalte, Painpoints etc abrufen
+T4	Premise 406 433	Wer generiert diese Inhalte
+T5	Premise 435 577	Sind dies andere User mittels Reviews oder laufenden Kritiken oder sind das die Bildungsinstitutionen dann müsste deren Kundenprozess anpassen
+R1	supports Arg1:T5 Arg2:T4	
+R2	supports Arg1:T4 Arg2:T3	
+T6	Claim 586 646	verstehe ich die Bedeutung eines gewählten Kurses nicht ganz
+T7	Premise 648 725	Ist man dann angemeldet oder hat man dann den Kurs für weitere News abonniert
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 734 884	sind mir die Vorteile der individuell zusammengestellten Kurse nicht ganz klar, sowie die Reihenfolge 4. Kurs wählen 5. Informieren 6. Zusammenstellen
+T9	Premise 886 960	Wird das Zusammenstellen nicht durch das Kurs wählen automatisch generiert
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 966 1057	Der Prozess für die Bildungsinstitutionen finde ich sehr gut beschrieben sowie visualisiert
+T11	Premise 1059 1143	Ich verstehe einzig nicht ganz was du mit Parameter für eine BrandingKampagne meinst
+R5	attacks Arg1:T11 Arg2:T10	
+T12	Claim 1156 1268	kommt es manchmal so vor, also ob eher die Funktionen der Plattform beschrieben werden anstatt der Kundenprozess
+T13	Premise 1270 1371	Dies hat natürlich auch damit zu tun, dass die Funktionen nicht alle zwingend gebraucht werden müssen
+R6	supports Arg1:T13 Arg2:T12	
+T14	Premise 1382 1530	könnte man zum Beispiel beim 2. Punkt des Studentenprozesses folgendermassen beschreiben Der Student wählt sich die gewünschte Universtität/Kurs aus
+R7	attacks Arg1:T14 Arg2:T13	
+T15	Premise 1544 1614	Der Student sucht nach Kursprofilen und wählt den gewünschten Kurs aus
+T16	Premise 1616 1687	Anschliessend kann er die Beschreibung, Ziele und Bewertungen anschauen
+T17	Claim 1691 1785	So wirkt es weniger wie die Beschreibung der Plattform, sondern eher wie der Prozess des Users
+R8	supports Arg1:T15 Arg2:T17	
+R9	supports Arg1:T16 Arg2:T17	
+T18	Claim 1813 1880	hast du jedoch eine sehr gute Arbeit gemacht und auch gut skizziert

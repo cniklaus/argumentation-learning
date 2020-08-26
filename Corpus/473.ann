@@ -1,0 +1,38 @@
+T1	Claim 20 117	Ein grosser Pluspunkt bei deiner Lösung ist, dass sie leicht verständlich und klar formuliert ist
+T2	Premise 118 187	Die Kunden hast du klar und verständlich definiert beim dritten Punkt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 188 307	Der Punkt bei den Mitbewerbern zeigt, dass du dir genügend Zeit genommen hast über andere Wettbewerber zu recherchieren
+T4	Premise 308 386	Die KEF und die Kernkompetenzen sind äusserst klar und verständlich formuliert
+R2	supports Arg1:T4 Arg2:T1	
+T5	Claim 386 438	.Ich finde deine Idee sehr innovativ und ansprechend
+T6	Claim 453 506	finde ich den Online Chat als Kundenberatung sehr gut
+T7	Claim 507 563	Die Massnahmen sind sehr klar und verständlich definiert
+T8	Claim 615 659	Was ist bspw. mit den Key Account Kunden KAK
+T9	Premise 661 697	Diese hast du noch gar nicht erwähnt
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 699 738	Vielleicht könnten Unternehmen KAK sein
+R4	supports Arg1:T10 Arg2:T8	
+T11	Premise 743 807	sie genügend gross sind und daher besser gemanaged werden müssen
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 808 870	Ich bin mir nicht genau sicher wie deine Software funktioniert
+T13	Premise 899 968	es schwierig sein könnte, sämtliche Standorte auf der Welt abzudecken
+R6	supports Arg1:T13 Arg2:T12	
+T14	Premise 975 1121	ist es für den Computer gleich einfach die amerikanische und die japanische Sprache zu verstehen und die entsprechenden Daten richtig zu speichern
+R7	attacks Arg1:T14 Arg2:T13	
+T15	Claim 1122 1193	Der Punkt Umwelt / Technologie ist für mich etwas suboptimal formuliert
+T16	Premise 1195 1305	Hier sprichst du meines Erachtens von unterschiedlichen Dingen, die nichts mit deinem Unternehmen zu tun haben
+T17	Premise 1311 1365	Entsorgungsproblematik, Minergiezertifiziertes Gebäude
+R8	supports Arg1:T17 Arg2:T16	
+R9	supports Arg1:T16 Arg2:T15	
+T18	Premise 1367 1488	Ich würde hier auf die fortschreitende Digitalisierung hinweisen à die Menschen machen immer mehr in der digitalen Umwelt
+R10	supports Arg1:T18 Arg2:T15	
+T19	Premise 1490 1532	Genau diesen Punkt greift deine Lösung auf
+R11	supports Arg1:T19 Arg2:T18	
+T20	Claim 1533 1600	Ich verstehe nicht genau, wieso die Instandhaltungskosten hoch sind
+T21	Premise 1602 1655	Kostet die Software und Serverwartung wirklich so vie
+R12	supports Arg1:T21 Arg2:T20	
+T22	Premise 1658 1731	Sind nicht eher die Kosten für FE hoch und die Instandhaltungskosten tief
+R13	supports Arg1:T22 Arg2:T21	
+T23	Premise 1732 1804	Du sagst in deiner Basisstrategie, dass KeepinTrack schon IT Knowhow hat
+T24	Claim 1806 1886	Dies könntest du noch in deine Kernkompetenzen integrieren Aufbau von IT Knowhow
+R14	supports Arg1:T23 Arg2:T24	

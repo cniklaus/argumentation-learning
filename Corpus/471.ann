@@ -1,0 +1,31 @@
+T1	Claim 22 132	Coole Idee erstmal, es gefällt mir besonders gut, wie du die Idee in der Kurz Charakteristika beschrieben hast
+T2	Premise 134 182	Mich hat das Konzept dort insbesondere überzeugt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 189 337	merkt man, dass du dich mit dem Thema wirklich schon sehr aufwändig auseinandergesetzt hast, indem du die richtigen Erfolgsfaktoren aufgelistet hast
+T4	Premise 339 478	Eine intensive Auseinandersetzung mit derer, wird dir zukünftig helfen, die richtigen Massnahmen abzuleiten, um den Erfolg zu gewährleisten
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 480 500	Wirklich gute Arbeit
+T6	Premise 518 634	Ich sehe ein, weshalb es möglich sein könnte die Lieferanten die du aufgelistet hast unter diese Kategorie zu setzen
+T7	Claim 660 729	es sich bei den aufgezählten Lieferanten wohl eher um Partner handelt
+R3	attacks Arg1:T6 Arg2:T7	
+T8	Premise 731 838	Zwar sind sie für den Inhalt der Empfehlungen zuständig, streng gesehen agieren sie dennoch als Lieferanten
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 840 930	Diesen Punkt musst du auch unter der SWOT Analyse anpassen, falls du diese Kritik annimmst
+T10	Claim 935 1069	Ich hätte bei der SWOT Analyse sicher mind. 2 Punkte pro Block mitaufgenommen, um die Repräsentierbarkeit der Analyse zu gewährleisten
+T11	Premise 1071 1154	Ein Punkt alleine, wie bei Chancen aufgelistet, bietet noch nicht viel Aussagekraft
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 1159 1235	Bei der Vertriebspolitik erwähnst du die Blogger als einen möglichen Channel
+T13	Premise 1237 1398	Diese dienen jedoch lediglich als Marketing Instrument, um die App zu promoten, dennoch heisst das nicht, dass sie automatisch als Channel zu identifizieren sind
+T14	Premise 1400 1473	Der Channel der sich meiner Meinung nach ergibt, ist die Plattform selber
+R6	supports Arg1:T13 Arg2:T14	
+R7	supports Arg1:T14 Arg2:T12	
+T15	Claim 1516 1554	Lieferanten würde ich andere auflisten
+T16	Premise 1556 1643	Vielleicht gibt es jemanden, der die technischen Dienstleistungen für Nutshell aufsetzt
+T17	Premise 1655 1690	die Entwicklung der App outsourcing
+R8	supports Arg1:T16 Arg2:T15	
+R9	supports Arg1:T17 Arg2:T16	
+T18	Claim 1695 1836	Die Swot Analyse muss noch etwas ergänzt werden, insbesondere beim Block Chancen, damit die Aussagekraft der Analyse wieder etwas stärker ist
+T19	Claim 1839 1932	Deine Vertriebspolitik könntest du noch anpassen, indem du den Punkt mit den Bloggern löschst
+T20	Premise 1934 1991	Aber dafür die Online Plattform als Hauptchannel erwähnst
+R10	supports Arg1:T20 Arg2:T19	
+T21	Claim 1995 2017	Ansonsten, gute Arbeit

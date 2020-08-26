@@ -1,0 +1,44 @@
+T1	Claim 16 64	Interessantes Geschäftsmodell mit viel Potential
+T2	Premise 82 127	hier tatsächlich hier eine Marktlücke besteht
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 129 178	Die strategische Ausrichtung gefällt mir sehr gut
+T4	Claim 185 233	die Massnahmen sind meiner Meinung nach sinnvoll
+T5	Premise 272 353	Du bist bei deiner Beschreibung nicht auf ein einzelnes Geschäftsfeld eingegangen
+T6	Claim 371 494	hast du dich bei KurzCharakteristika ff. an der Gesamtleistung deines Unternehmens orientiert, statt an einem Geschäftsfeld
+R2	supports Arg1:T5 Arg2:T6	
+T7	Claim 496 611	Eine ganz kurze Begründung 1 Satz warum du dich für welches Geschäftsfeld entscheidest, würde ich auch noch anfügen
+T8	Claim 613 678	Die Abgrenzung des Geschäftsfeldes würde ich noch etwas ausführen
+T9	Premise 685 777	begründen warum du es so aufteilst und welches zum Start die/das interessanteste Segment ist
+R3	supports Arg1:T9 Arg2:T8	
+T10	Claim 779 939	Eventuell kannst du auch die Beschreibung, welche du bei der Qualitativen Beschreibung bei Kunden in Anführungsund Schlusszeichen gesetzt hast, nach oben ziehen
+T11	Claim 942 1018	Die Marktleistung würde ich noch etwas präziser ausführen Umwelt/Technologie
+T12	Premise 1019 1211	Da sind die gesellschaftlichen und technologischen Entwicklungen/Trends gemeint, welche deinen Geschäftsbereich in Zukunft beeinflussen können, und nicht die Nachhaltigkeit deines Unternehmens
+R4	supports Arg1:T12 Arg2:T11	
+T13	Premise 1223 1297	Zunehmende Flexibilisierung der Gesellschaft trägt zu mehr Freelancern bei
+R5	supports Arg1:T13 Arg2:T12	
+T14	Claim 1327 1379	Umwelt/Technologie wieso ist dein Produkt nachhaltig
+T15	Premise 1381 1461	Dies kann schnell zum Buzzword werden, man sollte es also genau begründen können
+R6	supports Arg1:T15 Arg2:T14	
+T16	Claim 1463 1604	Kritische Erfolgsfaktoren Bei Zuverlässigkeit der Freelancer würde ich mich fragen, wie du als Unternehmen die Zuverlässigkeit erhöhen kannst
+T17	Premise 1606 1642	Das wäre der kritische Erfolgsfaktor
+R7	supports Arg1:T17 Arg2:T16	
+T18	Claim 1649 1724	Wie kannst du als Unternehmen Freelancer anziehen, was macht dich attraktiv
+T19	Premise 1726 1761	Das ist der kritische Erfolgsfaktor
+R8	supports Arg1:T19 Arg2:T18	
+T20	Claim 1763 1847	Kernkompetenzen schnelle Reaktion ist nur ein Resultat einer möglichen Kernkompetenz
+T21	Premise 1849 1928	Welche Kernkompetenz hast du, welche dich innovativ und schnell reagieren lässt
+R9	supports Arg1:T21 Arg2:T20	
+T22	Claim 1940 2022	würde ich  falls du Innovation als Kernkompetenz siehst  dies zusätzlich begründen
+T23	Premise 2024 2157	Innovation als Kernkompetenz zu haben, muss tief in der Firmenstruktur, Strategie, Kultur, etc. verankert sein und ist sehr schwierig
+R10	supports Arg1:T23 Arg2:T22	
+T24	Claim 2164 2240	Teamarbeit musst du besser begründen, wenn du es als Kernkompetenz aufführst
+T25	Premise 2242 2331	Teamarbeit ist normalerweise keine Kernkompetenz, ich würde es eher als Stärke bezeichnen
+R11	supports Arg1:T25 Arg2:T24	
+T26	Claim 2333 2383	Das Gleiche gilt für WebsiteProgrammierfähigkeiten
+T27	Premise 2385 2508	Mögliche Kernkompetenzen wären Vermittlung von Arbeitskärften / Betreiben einer intuitiven und zugänglichen OnlinePlattform
+R12	supports Arg1:T27 Arg2:T26	
+T28	Claim 2509 2558	SWOT Wieso ist dein Geschäftsmodell unvorhersehba
+T29	Premise 2562 2600	st nicht eher der Markt unvorhersehbar
+R13	supports Arg1:T29 Arg2:T28	
+T30	Claim 2602 2665	SWOT Wieso sind die Kunden mit bestehenden Lösungen unzufrieden
+T31	Claim 2668 2790	WOT Wenn du wachsende Konkurrenz als Gefahr aufführst, musst du es spezifizieren.Jetzt ist es ein bisschen länger geworden

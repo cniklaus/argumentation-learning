@@ -1,0 +1,26 @@
+T1	Claim 48 167	Die Eventvorschläge aufgrund vorgegebener Präferenzen sowie Korrelation mit Nutzungsverhältnis finde ich eine gute Idee
+T2	Claim 169 217	Gute Ausarbeitung der Kritischen Erfolgsfaktoren
+T3	Claim 227 328	Der Leser erfährt erst auf der zweiten Seite vom Firmennamen, dies schafft keine Nähe zum Unternehmen
+T4	Claim 329 430	Die Kundesegmente kannst du erst in deine Einteilung integrieren, wenn Sie deine App bereits benutzen
+T5	Premise 437 581	der Kunde muss deine App schon gekauft haben und muss sie bereits über eine längere Zeit auf seinem Handy haben, damit er eingeteilt werden kann
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 583 725	Die Differenzierung der Kundengruppen sollte jedoch vor der Nutzung möglich sein, damit du weisst, wen du ansprichst und wie du sie ansprichst
+T7	Premise 727 823	Es wäre für dich ausserdem äussert schwierig, alle Events aus den USA und aus Europa zu erfassen
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 825 888	Die USA und Europa sind vermutlich ein zu großer Einstiegsmarkt
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 889 947	Risiken gehören nicht in die SWOT Analyse, sondern Chancen
+T10	Claim 960 1114	Ich würde die Kundensegmente neu formulieren, die Chancen in die SWOTAnalyse hinzufügen und dir überlegen, ob du einen kleineren Markt ansprechen möchtest
+T11	Premise 1116 1294	Es ist zwar sehr interessant, wenn ich mich z.B. für Yoga und Jazz interessieren und dann je nach Standort Vorschläge erhalte oder ganze Ferien zu einer Veranstaltung buchen kann
+T12	Premise 1296 1405	Aber ob du dies in einer App individualisiert für eine so große Kundengruppe anbieten kannst, weiss ich nicht
+R4	attacks Arg1:T12 Arg2:T11	
+R5	attacks Arg1:T11 Arg2:T10	
+T13	Premise 1407 1505	Ein eingegrenztes Kundensegment kannst du auch mit deinen MarketingMassnahmen gezielter ansprechen
+R6	supports Arg1:T13 Arg2:T10	
+T14	Premise 1516 1591	können Key Account Manager nicht alle Events im geografischen Feld abdecken
+R7	supports Arg1:T14 Arg2:T10	
+T15	Premise 1593 1763	Wenn du alle Events abdecken willst, musst du es so organisieren, dass Eventveranstalter ihre Events selbstständig hochladen können, zusätzlich zu den Key Account Manager
+R8	supports Arg1:T15 Arg2:T14	
+T16	Claim 1771 1831	könntest du deine Kernkompetenzen noch um 12 Punkte ergänzen
+T17	Premise 1846 1966	ist ein Logarithmus, welcher mir die richtigen, auf mich zugeschnittenen Events anzeigt, sehr essentiell für deine Firma
+R9	supports Arg1:T17 Arg2:T16	

@@ -1,0 +1,22 @@
+T1	Claim 80 144	sind Kundenprozess und Storyboard deutlich und klar verständlich
+T2	Premise 152 231	fallen besonders die detailliert ausgeführten Nutzungsmöglichkeiten positiv auf
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 233 380	Ich finde es mutig und cool, dass du für deine Zeichnungen von Hand gezeichnet hast und sie nicht durch eine Software oder ähnliches generiert hast
+T4	Premise 382 432	Macht deine Lösung mega sympathisch und persönlich
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 531 655	Ich finde es schade, dass du beim Kundenprozess nicht berücksichtigt hast, wie der Kunde auf die App aufmerksam gemacht wird
+T6	Premise 657 741	Wird er durch Werbung auf die App aufmerksam gemacht und wenn ja, über welchen Kanal
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 748 801	basiert die Vermarktung auf Empfehlungen von Freunden
+R4	supports Arg1:T7 Arg2:T5	
+T8	Claim 810 999	fehlt mir auch der Grund, warum der Kunde sich zum Kauf/Herunterladen dieser App entschieden hat ist sie besser als die Konkurrenz oder gefällt ihm das Kosten/NutzenVerhältnis besonders gut
+T9	Claim 1004 1122	Dasselbe gilt auch für das Storyboard, hier kannst du vielleicht von der Frage Warum sucht der Kunde nach einer Lösung
+T10	Premise 1124 1207	Du kannst hier auch nochmals auf die Pains vom Value Proposition Canvas zurückgehen
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 1209 1326	Um die Prozesse vor dem Kauf besser zu visualisieren, würde ich dir empfehlen, eine fiktive Person/Avatar einzubinden
+T12	Premise 1336 1385	lässt sich die Geschichte viel einfacher erzählen
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1480 1578	solltest du beim Kundenprozess wie auch beim Storyboard die Prozesse vor dem Kauf noch einbeziehen
+T14	Claim 1591 1714	könntest du dir noch überlegen, wie du den Kunden dazu bringst, die App wieder zu verwenden nach der ersten Kleiderwaschung
+T15	Premise 1716 1786	Was hat den Kunden so zufrieden gestellt, dass er die App wieder nutzt
+R7	supports Arg1:T15 Arg2:T14	

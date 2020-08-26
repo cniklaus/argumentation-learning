@@ -1,0 +1,24 @@
+T1	Claim 74 229	finde ich, dass dieses Geschäftsmodell sehr interessant ist und dass es vermutlich eine potentiell hohe Nachfrage nach einer solchen Plattform geben könnte
+T2	Claim 232 349	Eine stärke finde ich die Aufteilung der Kunden bei der qualitativen Beschreibung, nämlich in Nachfrager und Anbieter
+T3	Claim 453 523	dies eine sehr gelungene ITPA deswegen, kann ich nur wenig kritisieren
+T4	Claim 525 576	Mein Kommilitone hat sie, kurz und knackig gehalten
+T5	Premise 578 691	Er/Sie verzichtet auf grosse Argumentationsstränge und kommt direkt auf den Punkt, was ich als sehr positiv werte
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 694 781	Eine Sache welche ich noch ändern würde ist die Beschreibung der Dienstleister/ Wäscher
+T7	Premise 783 911	Ich würde nicht mit Klischees argumentieren Hausfrauen die zu Hause bleiben, sondern ich würde eine gewisse Flughöhe beibehalten
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 914 1036	Trotz der positiven Wertung des direkt auf den Punkt kommen hätte ich gerne kurze Ausformulierung der Mittbewerber gesehen
+R3	attacks Arg1:T8 Arg2:T4	
+T9	Premise 1038 1103	An diesem Punkt war es meiner Meinung nach zu knapp ausformuliert
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 1106 1170	Ein weiterer Punkt der mir nicht ganz klar ist, sind die Partner
+T11	Premise 1172 1283	Laut der KurzCharakteristika des Unternehmens handelt es sich um eine Zusammenarbeit mit einem externen Partner
+T12	Premise 1285 1365	Einerseits wäre interessant zu erfahren welche Partner in Frage kämen Velokurier
+T13	Premise 1367 1464	und andererseits wäre es interessant zu wissen wie diese von der Partnerschaft profitiere könnten
+R5	supports Arg1:T11 Arg2:T12	
+R6	supports Arg1:T11 Arg2:T13	
+R7	supports Arg1:T13 Arg2:T10	
+R8	supports Arg1:T12 Arg2:T10	
+T14	Claim 1533 1666	Die Geschäftsmodelle der Mitbewerber sollten in einem Satz ausgeschrieben werden und nicht lediglich auf die Website verwiesen werden
+T15	Claim 1670 1851	Die Partner sollten konkretisiert werden indem der fehlende Punkt Lieferanten bei der qualitativen Beschreibung ergänzt wird und darin auf diese Partner konkretisiert werden könnten
+T16	Claim 1855 1888	Nicht mit Klischees argumentieren

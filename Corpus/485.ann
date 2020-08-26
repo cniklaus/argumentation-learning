@@ -1,0 +1,40 @@
+T1	Claim 20 87	Deine Arbeit zur Geschäftsfeldbeschreibung gefällt mir wirklich gut
+T2	Premise 89 152	Du hast dir viel Mühe gegeben und das merkt man auch beim Lesen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 154 335	Insbesondere gefällt mir deine SWOT Analyse, die sehr klar und deutlich die zu behandelnden Problempunkte aufzeigt, gleichzeitig aber auch die Stärken deines Unternehmens hervorhebt
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 342 427	gefallen mir die Punkte, die du für die kritischen Erfolgsfaktoren identifiziert hast
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 429 575	Ich stimme dir vollkommen zu, dass diese Faktoren, bei der Umsetzung deiner Unternehmensidee einen grossen Einfluss haben werden auf deinen Erfolg
+R4	supports Arg1:T5 Arg2:T4	
+T6	Claim 577 588	Gute Arbeit
+T7	Premise 608 748	Ich denke bei der Abgrenzung des Geschäftsfeldes unter der Beschreibung der Marktleistung wolltest du noch einen Satz beenden ab Langfristig
+T8	Claim 753 862	Ansonsten einfach rauslöschen, ich finde die Beschreibung auch vorher schon vollständig und in sich schlüssig
+R5	supports Arg1:T7 Arg2:T8	
+T9	Claim 867 928	Bei der Abgrenzung hast du noch die Vertriebskanäle vergessen
+T10	Premise 930 1040	Ich würde diese trotzdem erwähnen, auch wenn es sich dabei nur in erster Linie um die Online Plattform handelt
+R6	supports Arg1:T10 Arg2:T9	
+T11	Claim 1055 1144	die Beschreibung zu den KurzCharakteristika deines Unternehmens ist etwas zu lang geraten
+T12	Premise 1146 1205	Du könntest insbesondere am Anfang ein paar Sätze streichen
+T13	Premise 1210 1267	du vieles davon bereits in der Marktleistung erwähnt hast
+R7	supports Arg1:T13 Arg2:T12	
+R8	supports Arg1:T12 Arg2:T11	
+T14	Claim 1273 1411	Bei der qualitativen Beschreibung zu den Kunden hättest du noch die Punkte erwähnen können, die den einzelnen Kundensegmenten wichtig sind
+T15	Premise 1413 1508	Alle Kunden haben verschiedene Bedürfnisse, die sich genau in diese Segmente unterteilen lassen
+R9	supports Arg1:T15 Arg2:T14	
+T16	Premise 1514 1573	Mir ist die Beschreibung der Basisstrategie nicht ganz klar
+T17	Premise 1575 1633	Wieso sollte der Aufwand pro Kunde nahezu gleich Null sein
+T18	Claim 1635 1679	Das müsstest du noch etwas genauer begründen
+R10	supports Arg1:T17 Arg2:T16	
+R11	supports Arg1:T16 Arg2:T18	
+T19	Claim 1684 1771	das ein sehr wichtiger Punkt ist, der einen hohen Einfluss auf deine Kostenstruktur hat
+T20	Claim 1812 1873	Vertriebskanäle müssen bei der Abgrenzung noch erwähnt werden
+T21	Claim 1888 1947	würde ich die Kurz Charakteristika Beschreibung noch kürzen
+T22	Premise 1949 2017	Hier kannst du die ersten Sätze entweder weglassen oder etwas kürzen
+R12	supports Arg1:T22 Arg2:T21	
+T23	Claim 2019 2130	Bei der qualitativen Beschreibung würde ich bei den Kunden noch die einzelnen Bedürfnisse der Segmente benennen
+T24	Premise 2132 2206	Bei wem steht Qualität mehr im Fokus, bei wem mehr das Thema Schnelligkeit
+R13	supports Arg1:T24 Arg2:T23	
+T25	Premise 2208 2274	Dies wird dir bei der weiteren Erarbeitung und Fokussierung helfen
+R14	supports Arg1:T25 Arg2:T24	
+T26	Claim 2291 2397	würde ich die Basisstrategie noch erweitern, um den Punkt den ich oben bei den Schwächen noch genannt habe

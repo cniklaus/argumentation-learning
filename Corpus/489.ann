@@ -1,0 +1,11 @@
+T1	Claim 69 127	Die Aufgabe Lösung ist gut strukturiert und korrekt gelöst
+T2	Premise 128 244	Es wurde erkannt, dass es bei den Kunden nicht nur die Endkomsumenten zu adressieren gilt, sondern auch die Anbieter
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 246 362	Es wurde zudem auch richtig erkannt, dass potenziell jede Person ein Kunde Konsument von Book your Snack sein könnte
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 363 462	Richtig identifiziert, dass ein grosses Anbieternetzwerk der wichtigste kritische Erfolgsfaktor ist
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 554 699	Der einleitende Satz bei 2. KurzCharakteristika Ihres Unternehmens ist sehr verwirrend geschrieben, sollte in simpleren Sätzen umschrieben werden
+T6	Claim 842 924	In der SWOTAnalyse würde ich den Punkt First Player auf dem Markt als Chance sehen
+T7	Premise 929 1003	dies im Verhältnis zu den Wettbewerbern, also einem externen Faktor, steht
+R4	supports Arg1:T7 Arg2:T6	

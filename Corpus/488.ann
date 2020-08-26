@@ -1,0 +1,15 @@
+T1	Claim 90 111	Gute, praktische Idee
+T2	Premise 113 155	Würde ich selber am liebsten gleich nutzen
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 253 380	Bei Kundensegmenten am Anfang und bei Kunden solltest du noch klarer abgrenzen was für verschiedene Kunden du bedienen möchtest
+T4	Premise 402 499	potentiell jeder auf das App zurückgreifen wird, trotzdem solltest du noch eine Abgrenzung machen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 502 550	Bei Mitbewerber würde ich noch eat.ch hinzufügen
+T6	Claim 620 677	Die Kundensegmente noch genauer beschreiben und abgrenzen
+T8	Premise 808 877	Damit hast du auch kein Problem Qualitätskontrolle aufbauen zu müssen
+T7	Premise 680 752	Vielleicht kannst du noch eine Kooperation mit Tripadvisor etc. einbauen
+T9	Premise 754 806	Dass das Rating der Restaurants auch noch hinzukommt
+R3	supports Arg1:T9 Arg2:T7	
+R4	supports Arg1:T8 Arg2:T9	
+T10	Premise 879 968	Jedes Restaurant, welches unter ein gewisses Rating fällt wird aus der Plattform geworfen
+R5	supports Arg1:T10 Arg2:T8	

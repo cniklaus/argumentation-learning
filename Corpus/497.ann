@@ -1,0 +1,15 @@
+T1	Claim 11 114	Sehr gut gefällt mir, dass du zu Beginn eine kurze Zusammenfassung deines Geschäftmodells angefügt hast
+T2	Premise 119 208	hat man von Anfang an verstanden um was es geht und man weiss weshalb du was gemacht hast
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 269 421	finde ich Punkt 1 die Abgrenzung des Geschäftfelds zu knapp beschrieben und es ist nicht ersichtlich, wie du genau auf die beiden Geschäftsfelder kommst
+T4	Premise 422 530	In Kapitel zwei vonÖsterle et al. 2011 wird beschrieben und an einem Beispiel gezeigt, wie du vorgehen musst
+T5	Claim 532 633	Ich rate dir deshalb diesen Abschnitt nochmals zu lesen und es wie das vorgegebene Beispiel zu machen
+R2	supports Arg1:T3 Arg2:T5	
+R3	supports Arg1:T4 Arg2:T3	
+T6	Premise 635 777	Zuerst musst geeignete Segmentierungsvariablen definieren und dann diese als Matrix darstellen und so die relevanten Geschäftsfelder bestimmen
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 779 851	Der Rest ist verständlich und besitzt aus meiner Sicht einen roten Faden
+T8	Claim 861 983	rate ich dir bei der Überarbeitung auf Punkt 1 zu konzentrieren und diesen detaillierter bzw. systematischer zu bearbeiten
+T9	Premise 990 1061	es sonst schade wäre für den Rest der Arbeit, der wirklich sehr gut ist
+R5	supports Arg1:T9 Arg2:T8	
+R6	supports Arg1:T7 Arg2:T8	

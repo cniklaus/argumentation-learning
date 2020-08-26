@@ -1,0 +1,15 @@
+T1	Claim 11 89	Du hast dein Geschäftsfeld sauber beschrieben und somit die Aufgabe gut gelöst
+T2	Claim 91 130	Dein Geschäftsmodell ist gut durchdacht
+T3	Premise 212 314	Kundensegmente Meiner Meinung nach macht die Segmentierung nach psychographischen Merkmalen wenig Sinn
+T4	Premise 316 429	Verschiedene Kundensegmente zeichnen sich dadurch aus, dass sie unterschiedlich auf Marketingmassnahmen reagieren
+T5	Premise 431 652	Hinzu kommt, dass z.B. das Segment Pendler sehr unterschiedliche Kunden beinhalten kann solche, die den ÖV nehmen, Autofahrer, solche, die Ruhe haben bzw. schlafen wollen oder solche, die auf dem Weg arbeiten möchten etc.
+T6	Claim 654 795	Du musst dir noch einmal genau überlegen, wie du segmentieren willst  nach Marketingkanal, nach Bedürfnissen bezüglich Preis vs. Service o.Ä.
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T3 Arg2:T6	
+T7	Claim 797 1002	Kunden Ich finde die Idee einer Bewertung gut, allerdings würde ich die verschiedenen Transportmodi bewerten lassen Taxi in St. Gallen, Trams in Zürich, vers. Airlines etc. und nicht die gesamte Reiseroute
+T8	Premise 1007 1087	letztere sehr unterschiedlich sein können und die Vergleichbarkeit eher tief ist
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1101 1176	Als wichtige Massnahme würde ich zusätzlich die Kundenakquisition aufführen
+T10	Premise 1181 1369	die Anzahl Nutzer die Attraktivität deiner Plattform für strategische Partner erhöht und somit die Zusammenarbeit mit diesen vereinfacht, also um von Netzwerkeffekten profitieren zu können
+R5	supports Arg1:T10 Arg2:T9	

@@ -1,0 +1,23 @@
+T1	Claim 18 205	Die beschriebene Marktleistung sieht interessant und vielversprechend aus, jedoch gibt es bereits sehr viele Lösungen wie auch der Author erwähnt, die sehr ähnlichen Leistungsumfang haben
+T2	Claim 207 344	ie Aufgabe wurde vollumfänglich bearbeitet, es gibt eine klare Vorstellung wie die Lösung umgesetzt und an dem Markt gebracht werden soll
+T3	Claim 354 396	Warum die Einbindung von Facebook Messenge
+T4	Premise 399 588	Man kann ja ziemlich schnell einen Chat selbst nachbauen und dann bleiben die Daten intern, bzw. gehören nicht Facebook.Geographischer Standort ist vor allem für den Anfang zu breit gefasst
+R1	supports Arg1:T4 Arg2:T2	
+T5	Premise 590 667	USA Bewohner haben nicht unbedingt die gleichen Bedürfnisse wie die in Europa
+T6	Premise 669 747	Bewohner in Portugal nicht unbedingt die gleichen wie die Bewohner der Schweiz
+T7	Claim 748 838	Die Plattform wird einmal entwickelt und kann übergreifend über alle Länder genutzt werden
+R2	supports Arg1:T5 Arg2:T7	
+R3	supports Arg1:T6 Arg2:T7	
+T8	Premise 841 953	Vermutlich es wird gemeint, dass Plattform nicht einmal entwickelt und danach keine Entwicklungen gemacht werden
+R4	attacks Arg1:T8 Arg2:T7	
+T9	Premise 955 1177	Wenn Nachfrage/LeistungsMatch nicht kontinuierlich sichergestellt wird, ist es sehr wahrscheinlich, dass die Lösung ziemlich schnell unbrauchbar wird.Lieferanten man braucht ja Rechenleistung, wie wird diese sichergestellt
+R5	supports Arg1:T9 Arg2:T7	
+T10	Claim 1178 1226	Trends sind in die SWOTAnalyse nicht integriert.
+T11	Claim 1249 1386	Es ist empfehlenswert, geographischen Standort vor allem für den Anfang stärker einzugrenzen, dadurch könnte man Qualität der App erhöhen
+T12	Premise 1388 1476	Es ist auch viel leichter, eine kritische Masse auf einem bestimmten Gebiet zu erreichen
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1477 1573	Bei den kritischen Erfolgsfaktoren fehlen die Mitarbeiter, bzw. Programmierer und DesignExperten
+T14	Premise 1580 1741	laut der Aussagen sind usability und reibungslose Funktionalität sind die wichtigsten Erfolgsfaktoren und diese nur durch gute Mitarbeiter erreicht werden können
+R7	supports Arg1:T14 Arg2:T13	
+T15	Claim 1742 1801	Trends in Chancen und Gefahren Analyse soll man integrieren
+T16	Claim 1802 1894	Bei den Lieferanten wäre es noch sinnvoll zu erwähnen, woher die Rechenleistung bezogen wird
