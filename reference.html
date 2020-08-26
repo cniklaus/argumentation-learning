@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+    <!--<script type="text/javascript" src="https://visjs.org/dist/vis.js"></script>-->
+    <!--<link href="https://visjs.org/dist/vis-network.min.css" rel="stylesheet" type="text/css"/>-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-network.min.css" rel="stylesheet" type="text/css"/>
+
+    <style>
+      body {
+        font-size: 18px; // this is not the "correct" bootstrap way, you should overwrite the bootstrap variables instead
+      }
+      h1 {
+        font-size: 22px;
+        font-weight: bold;
+      }
+      #description {
+        max-width: 800px;
+      }
+      #result {
+        max-width: 1000px;
+      }
+      .inputarea {
+        width: 100%;
+        height: 150px;
+      }
+      #outputarea {
+        width: 100%;
+        height: 300px;
+        overflow-y: scroll;
+      }
+      #arrow {
+        max-width: 150px
+      }
+      .mybutton {
+        height: 50px;
+      }
+      
+
+    </style>
+
+  </head>
+
+  <body class="d-flex flex-column h-100">
+
+    <main role="main" class="flex-shrink-0">
+
+      <!-- NAVIGATION-BAR -->
+      <nav class="navbar navbar-expand bg-primary navbar-dark sticky-top py-0">
+        <a class="navbar-brand" href="#">
+            Reference-Tool
+        </a>
+      </nav>
+
+      <!-- MAIN CONTENT -->
+      <div id="maincontent" class="container-fluid mt-2 mb-2">
+        <div class="row">
+            <div id="description" class="container-fluid text-center">
+                Bitte nutze die Eingabemasken mit Claims und Prämissen, um einen argumentativen Text zu schreiben.
+                <div class="text-black-50">
+                    Wenn du auf den <i>Hinzufügen</i> Button klickst, wird dein Argument in den Text eingefügt.
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-xl-5">
+                <div><h1>Claim (Aussage)</h1></div>
+                <textarea id="claiminput" class="inputarea">Hier deinen Claim eingeben</textarea>
+            </div>
+            <div class="col-xl-2 align-self-center">
+                <div class="text-center">
+                    <div>Unterstützt</div>
+                    
+                    <img id="arrow" class="w-100" src="http://cliparting.com/wp-content/uploads/2016/05/Blue-left-arrow-transparent-clip-art-image.png"/>
+                </div>
+                
+
+            </div>
+            <div class="col-xl-5">
+                <div><h1>Prämisse (Beleg, Beispiel)</h1></div>
+                <textarea id="premiseinput" class="inputarea">Hier die zugehörige Prämisse eingeben</textarea>
+
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div id="result" class="container-fluid text-center">
+                <div class="mb-5">
+                    <button id="submit" type="button" class="mybutton btn btn-primary" onclick="addElement()">Hinzufügen</button>
+
+                </div>
+                <div><h1>Text (Aussage und Prämissen)</h1></div>
+                <textarea id="outputarea" onkeyup="onOutputareaKeyUp()"></textarea>
+                <div># Wörter: <span id="wordcount">0</span></div> 
+            </div>
+        </div>
+
+      </div>
+
+    </main>
+
+
+
+
+
+
+
+    <!-- MODALS -->
+    <div id="claim-premise-modal" class="modal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+
+          <!-- Modal Header -->
+          <div class="modal-header">
+            <h4 class="modal-title">Erklärung Claims und Prämissen</h4>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+          </div>
+
+          <!-- Modal body -->
+          <div class="modal-body">
+            Ein <b>Argument</b> (<i>lateinisch argumentum ‚Darlegung; Gehalt, Beweismittel, Beweisgrund‘ von lateinisch arguere ‚deutlich zu erkennen geben, behaupten, beweisen, zeigen‘</i>) wird typischerweise dazu verwendet, etwas zu begründen oder jemanden zu überzeugen. In Sprachwissenschaft und Philosophieversteht man unter einem Argument eine Abfolge von Aussagen (<b>Claims</b>), die aus einer Konklusion und möglicherweise mehreren <b>Prämissen</b> besteht, wobei die Konklusion diejenige Aussage ist, die durch die Prämissen begründet (man sagt auch: gestützt) werden soll. Umgangssprachlich werden unter einem Argument dagegen oft allein die Prämissen verstanden, die zur Begründung der Konklusion (des Claims) dienen.
+            <br/>
+            <br/>
+            Als <b>Prämisse</b> (<i>lat. praemissa „das Vorausgeschickte“</i>) oder Vordersatz bezeichnet man in der Logik eine Voraussetzung oder Annahme. Sie ist eine Aussage, aus der eine logische Schlussfolgerung gezogen wird.
+            Beispiel:
+            <br/>
+            Aus <i>„Alle Menschen sind sterblich“</i> und <i>„Alle Griechen sind Menschen“</i> folgt <i>„Alle Griechen sind sterblich“</i>. Die beiden erstgenannten Aussagen sind dabei die Prämissen, die letztgenannte Aussage ist die Konklusion (Claim).
+          </div>
+
+          <!-- Modal footer -->
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal">Schliessen</button>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+
+
+    <script type="text/javascript">
+
+        function addElement() {
+            var c = document.getElementById('claiminput');
+            var p = document.getElementById('premiseinput');
+            var o = document.getElementById('outputarea')
+
+            var claim = c.value;
+            var premise = p.value;
+
+            if ((o.value.length) <= 0) {
+                o.value = checkPrevText(claim) + premise;
+            } else {
+                o.value = checkPrevText(checkPrevText(o.value) + claim) + premise;
+            }
+            updateWordCount();
+        }
+
+        function checkPrevText(text) {
+            var res = text;
+            if (!(/[\s\t\n\r]$/.test(res))) {
+                res = res + ' ';
+            }
+            return res;
+        }
+
+        function updateWordCount() {
+            var o = document.getElementById('outputarea')
+            var value = o.value;
+            var wordCount = 0;
+            if (value.length > 0) {
+              wordCount = value.split(' ').length;
+            }
+            var d = document.getElementById("wordcount");
+            d.innerHTML = wordCount;
+          }
+
+        function onOutputareaKeyUp() {
+            updateWordCount();
+        }
+
+    </script>
+
+
+
+  </body>
+</html>
+
