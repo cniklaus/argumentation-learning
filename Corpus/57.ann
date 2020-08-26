@@ -1,0 +1,34 @@
+T1	Claim 10 96	Die URS ist sehr gut aufgebaut und überzeugt nicht nur formal, sondern auch inhaltlich
+T2	Premise 98 237	Besonders zeichnet sich die URS durch eine gelungene Beschreibung der Anforderungen aus, welche sich von den Software Details unterscheidet
+T3	Premise 244 290	die UserSichtweise wurde sehr gut festgehalten
+R1	supports Arg1:T2 Arg2:T3	
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 293 491	Um das bereits sehr vielversprechende Projekt dem Leser noch ein stückweit fassbarer zu machen, schlage ich vor man bringt in die Beschreibung des Projekts noch ein wenig mehr konkrete Ziele mit ein
+T5	Premise 493 621	Hierfür eigenen sich auch SMART Kriterien, mit denen du dein Ziel immer überprüfen kannst und die dir auch eine Guideline bieten
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 623 681	Ziele können schlussendlich von unterschiedlicher Art sein
+T7	Premise 683 803	du kannst bspw. ServiceZiele oder auch UmsatzZiele integrieren, um dem Leser noch ein wenig mehr Informationen zu bieten
+R4	supports Arg1:T7 Arg2:T6	
+R5	supports Arg1:T6 Arg2:T5	
+T8	Claim 805 1088	Gerne habe ich ein Beispiel Ziel ist es innerhalb des nächsten Jahres einen Smart Service anzubieten, welcher mit Hilfe von ERS innerhalb von Sekunden emotionale Stimmungen zu erfassen vermag und diese in Verbindung mit Lichtsensorik in geeignete Beleuchtungsfarben am besten umsetzt
+T9	Premise 1090 1170	Als Stakeholder würde ich sogar noch einen Farbpsychologen/Therapeuten aufnehmen
+T10	Premise 1175 1235	negative Stimmungslagen sicherlich adressiert werden könnten
+R6	supports Arg1:T10 Arg2:T9	
+R7	supports Arg1:T9 Arg2:T8	
+T11	Claim 1237 1354	Ich glaube dem Nutzer müsste aber auch die Möglichkeit gegeben werden, nicht seine echte Stimmungslage preis zu geben
+T12	Premise 1359 1475	das Offenlegen von Stimmungen v.a. gegenüber Dritten nicht immer von Vorteil ist Könnte in Funktionen ergänzt werden
+R8	supports Arg1:T12 Arg2:T11	
+T13	Claim 1673 1833	könnte man die Definierung der Zielgruppen hier Stakeholder Nutzer von Smart Home Systemen und potenziellen zukünftigen Nutzer noch ein wenig klarer beschreiben
+T14	Premise 1838 1944	ein Stakeholder schwierig in ein Projekt gebracht werden kann, wenn er nicht eindeutig identifizierbar ist
+R9	supports Arg1:T14 Arg2:T13	
+T15	Claim 1597 1665	Im Moment scheint nicht so klar, ob alle Hausbewohner abgedeckt sind
+T16	Premise 1478 1594	Bei den Stakeholdern könnte ich mir vorstellen, dass du mit einem weiteren Bullet Point die allg. Hausnutzer erwähns
+R10	supports Arg1:T16 Arg2:T15	
+T17	Claim 1947 2155	Zum Datenmodell könnte noch ein Satz hilfreich sein, inwiefern sich Stimmungslagen von den individuellen Bewohnern miteinander vereinen können, bzw. wie verarbeitet eine Lampe zwei verschiedene Stimmungslagen
+T18	Premise 2157 2323	Der Leser erwartet hier sicherlich keine Rechtfertigung, wie das gehen soll, jedoch könnte es ihm helfen, wenn diese Situation von deiner Lösung clever umgesetzt wird
+R11	supports Arg1:T18 Arg2:T17	
+T19	Claim 2325 2435	Ein anderer Vorschlag wäre, wenn du die eben beschriebene Situation in den Funktionalen Anforderungen eingibst
+T20	Claim 2438 2581	Die Kosten könnten noch in Technologie/IT Kosten, Personalkosten etc. aufgeteilt werden, solltest du bspw. den Farbtherapeuten noch inkludieren
+T21	Claim 2584 2686	Achte bei allfälligen Änderungen darauf, dass du die Gesamtlogik und Struktur der URS nicht veränderst
+T22	Premise 2693 2741	die ist formal und inhaltlich sehr gut aufgebaut
+R12	supports Arg1:T22 Arg2:T21	

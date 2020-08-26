@@ -1,0 +1,22 @@
+T1	Claim 136 275	Die Abgabe ist nicht nur formal gut aufgebaut und strukturiert, sondern ist auch inhaltlich leicht nachvollziehbar und ineinander schlüssig
+T2	Premise 277 426	Der User Cycle ist problemlos wiederholend anwendbar und durch die Benennung der 3 UserCycle Phasen ist auch die Darstellung vollständig verständlich
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 434 499	wurde der User Cycle mit zahlreichen passenden Value Gaps ergänzt
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 514 647	sind die einzelnen Phasen auch im Detaillierten sehr verständlich beschrieben und die einzelnen UserBedürfnisse gut abgegrenzt worden
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 739 831	Ich sehe keine Verbesserungsmöglichkeiten, welche die Hauptlogik der Abgabe in Frage stellen
+T6	Premise 842 1029	gibt es vor allem bei Persona 2, welche sich meiner Meinung nach noch zu wenig von Persona 1 abgrenzt und beim User Cycle, speziell in der During und Post Phase noch Optimierungspotenzial
+T7	Premise 1030 1103	Für die Persona 2 würde ich vorschlagen einen anderen Slogan zu verwenden
+R4	supports Arg1:T6 Arg2:T7	
+T8	Premise 1108 1226	mit der Wahl desselben Slogans automatisch unklar wird, inwiefern die Personas unterschiedliche Populationen vertreten
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 1228 1302	Dies wäre also eine schnelle und einfache Art eine Abgrenzung zu erreichen
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 1304 1425	Aus Sicht des User Cycles fehlen mir noch die Schritte der Schlüsselübergabe DURING und der endgültigen Finanzierung POST
+T11	Premise 1427 1536	Diese würden sich ideal mit den Value Gaps Terminplanung mit Handwerkern und Beurteilung des Baus vereinbaren
+R7	supports Arg1:T11 Arg2:T10	
+T12	Claim 1602 1686	Achten Sie bei der Verbesserung darauf, dass nicht mit der Hauptlogik gebrochen wird
+T13	Premise 1693 1747	dies ist der bereits klar dargestellte Kern der Arbeit
+R8	supports Arg1:T13 Arg2:T12	
+T14	Claim 1749 1916	Sollten Sie die in Punkt 2 vorgeschlagenen Verbesserungen implementieren, empfehle ich keine zu grossen Absätze zu machen, sodass auch visuell noch alles lesbar bleibt

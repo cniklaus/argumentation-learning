@@ -1,0 +1,24 @@
+T1	Claim 65 213	Allgemein finde ich deine Idee sehr schön und man merkt, dass du dir Mühe gegeben hast, die Idee anhand des Frameworks von Österle zu klassifizieren
+T2	Premise 215 297	Du hast dich gut an die Struktur gehalten und alle relevanten Punkte identifiziert
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 304 377	hast du es verständlich ausformuliert und in der richtigen Länge gehalten
+T4	Claim 379 495	Besonders schön finde ich die Idee und ich denke, dass es durchaus Nachfrage geben wird und die Lösung Potential hat
+T5	Claim 651 738	Ich würde mir überlegen, ob es Sinn macht deine Kunden lediglich nach Alter zu clustern
+T6	Premise 740 937	Vielleicht kannst du dir da noch einmal Gedanken machen, ob zum Beispiel eine Gliederung nach Hobbyköche, Berufsköche oder gegebenenenfalls Student, Young Professional, Familie, etc mehr Sinn macht
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 939 1076	Was meiner Meinung nach fehlt ist der Kooperationspartner in der Produktion, oder planst du den Aufbau eigener Fabriken und Teststationen
+T8	Premise 1078 1135	Hier sind LebensmittelStartups oft auf Partner angewiesen
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 1137 1246	Als kritischen Erfolgsfaktor würde ich zudem das Erreichen einer kritischen Masse bzw. eines Hypes ansprechen
+T10	Premise 1248 1350	Trendige Produkte wie coole Gewürze verbreiten sich oftmals über WordofMouth oder direkte Empfehlungen
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 1428 1595	würde ich das geringere Umsatzpotential erwähnen, bzw. mir überlegen ob es nicht doch Sinn macht die selbst produzierten Gewürze im stationären Einzelhandel anzubieten
+T12	Premise 1355 1426	du in der SWOT Analyse ansprichst, dass kein Massenvertrieb geplant ist
+R5	supports Arg1:T12 Arg2:T11	
+T13	Premise 1597 1652	immer mehr FoodStartups wagen diesen Schritt inzwischen
+T14	Premise 1657 1767	die Masse an Wettbewerbern enorm wächst. Bei Gefahren würde ich so auch den enormen Wettbewerbsdruck aufzeigen
+R6	supports Arg1:T14 Arg2:T13	
+R7	supports Arg1:T13 Arg2:T11	
+T15	Premise 1769 1827	In der Masse an Essensstartups geht man sehr schnell unter
+T16	Claim 1838 2021	Schau dir mal https//www.justspices.de/ an, das geht glaube ich in eine ähnliche Richtung wie deine Idee  die haben inzwischen aber auch ihren Vertrieb in den lokalen Handel etabliert
+R8	supports Arg1:T15 Arg2:T16	

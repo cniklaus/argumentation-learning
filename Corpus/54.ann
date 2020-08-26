@@ -1,0 +1,25 @@
+T1	Claim 19 78	Man merkt, dass du dich eingehend mit der Idee befasst hast
+T2	Premise 95 169	sprichst du verschiedene spezifische Anforderungen wie IATA Richtlinien an
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 171 227	Mir gefällt, dass es sich um einen RealLife Case handelt
+T4	Claim 476 602	Ich würde anstelle einer neuen Buchungsmaske schreiben, dass es sich um einen neue Buchungsplattform handelt, um sicherzugehen
+T5	Premise 280 474	Beim Durchlesen der Arbeit wurde mir nicht ganz klar, ob es sich bei einer neue Buchungsmaske um ein eigenes Produkt handelt und somit, gemäss Auftragsbeschreibung, eine Softwarelösung darstellt
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 604 777	Ansonsten würde ich die Buchungsmaske lediglich als eine Funktion mit Nebenanforderungen wie Sortieren nach Abflugszeit oder mehrere mögliche Abflugs  Ankunftshafen erachten
+R3	attacks Arg1:T6 Arg2:T4	
+T7	Claim 794 879	Beim Datenmodell erachte ich es als wichtig, dass man die zentralen Modelle darstellt
+T8	Premise 881 983	Bei einer Buchungsplattform würde ich mir dabei beispielsweise Kunden, Flüge oder Buchungen vorstellen
+T9	Premise 985 1097	Dabei kann aufgezeigt werden, wie die Beziehungen zwischen den Modellen sind oder wie die Daten verwendet werden
+R4	supports Arg1:T9 Arg2:T8	
+R5	supports Arg1:T8 Arg2:T7	
+T10	Premise 1099 1189	Die bei dir dargestellten Bullet Points sind aus meiner Sicht nur Attribute dieser Modelle
+R6	supports Arg1:T10 Arg2:T7	
+T11	Premise 1191 1258	Eine Abstraktion auf die Modellebene erachte ich daher als sinnvoll
+R7	supports Arg1:T11 Arg2:T10	
+T12	Claim 1260 1355	Ich finde es jedoch gut, dass aufgezeigt wird, wofür die gesammelten Attribute verwendet werden
+T13	Premise 1385 1519	Die Funktionale Anforderung Flugdaten umfasst Abflugszeit, Fluglänge  Preis pro Buchungsklasse gehört für mich eher in das Datenmodell
+T14	Claim 1521 1619	Man könnte es aus meiner Sicht jedoch umformulieren und eine funktionale Anforderung daraus machen
+R8	supports Arg1:T13 Arg2:T14	
+T15	Premise 1636 1764	könne dies folgendermassen lauten Die Nutzer kann Informationen über die Abflugzeit, Fluglänge  Preis pro Buchungsklasse abrufen
+R9	supports Arg1:T15 Arg2:T14	
+T16	Claim 1777 1943	der Punkt Mehrsprachigkeit gehört gemäss Volere in die Kategorie 11b Personalization and Internationalization Requirements und nicht in die funktionalen Anforderungen

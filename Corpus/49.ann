@@ -1,0 +1,20 @@
+T1	Claim 69 241	Die Wellbeinglösung ist klar ersichtlich und man kann aus der Lösung verschiedenste Möglichkeiten ableiten um das Leben der User im Koch oder Einkaufsbereich zu erleichtern
+T2	Premise 243 328	Es wird sehr gut aufgezeigt in welche Richtung sich die moderne Küche entwickeln kann
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 331 446	Es hat mir sehr gefallen, wie das Produkt in der Wertschöpfungskette verknüpft mit dem OnlineShopping gemacht wurde
+T4	Claim 448 557	Somit wird eine integrierte Lösung erstellt die nicht nur einen Teilaspekts des Kochens abdeckt gewährleistet
+R2	supports Arg1:T3 Arg2:T4	
+T5	Claim 565 669	der soziale Aspekt einer WellbeingLösung ist mit dem Erstellen und Teilen der Rezepte sehr gut abgedeckt
+T6	Claim 765 828	Der BMN ist meiner Meinung nach nicht vollständig ausgearbeitet
+T7	Premise 830 960	Hierbei würde ich auf die einzelnen Stichworte, welche im Template abgebildet sind, verstärkt eingehen und diese einzeln abhandeln
+T8	Premise 962 1091	Somit würden beispielsweise unter dem Punkt How die Partner, welche für diese wellbeeinglösung unabdingbar sind, behandelt werden
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 1093 1196	So sehe ich beispielsweise Schwierigkeiten bei der Implementierung der Lösung bei bestehenden Produkten
+R3	supports Arg1:T7 Arg2:T9	
+R5	supports Arg1:T9 Arg2:T6	
+T10	Premise 1198 1287	Mit dem Beschrieb der Zusammenarbeit mit den Parnern würde dies besser zur Geltung kommen
+T11	Claim 1290 1317	Gewisse Rechtschreibefehler
+T12	Premise 1320 1366	Warden anststatt werden bei den Pain Relievers
+R6	supports Arg1:T12 Arg2:T11	
+R7	supports Arg1:T10 Arg2:T9	
+T13	Claim 1539 1600	würde ich im BMN verstärkt auf die einzelnen Aspekte eingehen

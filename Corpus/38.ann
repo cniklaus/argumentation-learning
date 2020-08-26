@@ -1,0 +1,31 @@
+T1	Claim 89 136	ist das Beispiel Mobile SBB eine sehr gute Wahl
+T2	Premise 141 308	gerade in der heutigen Zeit nur noch wenige ihr Zugticket über den PC/Laptop buchen und die Mobile Version durchaus noch Luft zur Verbesserung bzw. Value Gaps aufweist
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 310 468	Bei der Entwicklung der Persona, sind für mich sehr gut die zwei verschiedenen Zielgruppen, mit Ihren unterschiedlichen Bedürfnissen und Werten hervorgekommen
+T4	Claim 701 819	.Bei der Entwicklung der Persona sind wie bereits erwähnt, für mich sehr gut zwei verschiedene Zielgruppen zu erkennen
+T5	Claim 832 992	würde ich bei den Persönlichkeitsmerkmalen versuchen, solche Merkmale zu finden, welche für die repräsentierte Zielgruppe in Bezug auf das Produkt relevant sind
+T6	Claim 1004 1220	sollte die Biographie noch etwas ausführlicher gestaltet werden, d.h. das ganze etwas mehr ausschmücken, vielleicht erwähnen worauf die Person in ihrem Leben besonders viel Wert legt, was sie für einen Lebensstil hat
+T7	Premise 1231 1286	Ruben studiert seit 2010 an der HSG Business Innovation
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 1289 1484	ls Student steht ihm leider nicht so viel Geld zur Verfügung und er möchte deshalb so früh wie möglich sein Musterstudium abschliessen, um schon bald mit dem richtigen Job gutes Geld zu verdienen
+R3	supports Arg1:T8 Arg2:T6	
+T9	Premise 1486 1615	Da Ruben sehr gut mit Technologie umgehen kann, ist für ihn ganz klar, dass die Technologiebranche das richtige für ihn sein wird
+R4	supports Arg1:T9 Arg2:T6	
+T10	Premise 1617 1746	In seiner Freizeit programmiert er mit Leidenschaft und ist in einem kleinen Startup auch an der Entwicklung neuer Apps beteiligt
+R5	supports Arg1:T10 Arg2:T6	
+T11	Premise 1748 1929	Er ist nicht nur Entwickler sondern auch leidenschaftlicher AppNutzer. In seinem Alltag kommt es nur selten vor, dass ich nicht zumindest einmal die YouTubeApp oder die SBBApp nutzt
+R6	supports Arg1:T11 Arg2:T6	
+T12	Claim 1930 2023	Bei der Entwicklung der Persona sollte ausserdem nochmals über die TechSkills gegangen werden
+T13	Premise 2025 2196	Für mich ist nicht ganz klar, wie beide Persona, Zielgruppe für Mobile SBB sein können, obwohl Hans Peter keine bzw. nur wenige Tech Skills im Bereich Mobile Apps aufweist
+R7	supports Arg1:T13 Arg2:T12	
+T14	Claim 2197 2395	Der Journey Cycle ist recht übersichtlich, allerdings sollten hier die einzelnen Schritte innerhalb des User Journey Cycles etwas allgemeiner formuliert werden und immer mit einem Verb versehen sein
+T15	Premise 2403 2558	anstatt Information über das Gleis besser Reiseinformationen abrufen oder anstatt Die verschiedenen Anschlüsse schauen besser Anschlussverbindungen abrufen
+R8	supports Arg1:T15 Arg2:T14	
+T16	Claim 2571 2646	würde ich als Schritt in der User Journey noch die Ticketkontrolle einbauen
+T17	Claim 2657 2728	fände ich es super, würden noch innovativere Value Gas eingebaut werden
+T18	Premise 2736 2942	könnte in Zukunft eine App das Bestellen eines Kaffees etc. im Zug direkt beim Bordbistro ermöglichen, sodass man nicht mehr selbst laufen muss sondern nur noch eingeben muss was man möchte und wo man sitzt
+R9	supports Arg1:T18 Arg2:T17	
+T19	Claim 2943 3050	Bei der Überarbeitung sollte darauf geachtet werden, dass jemand am ende nochmals über die Grammatik schaut
+T20	Claim 3062 3192	sollte nach der Überarbeitung nochmals jeder Schritt im User Journey Cycle auf die Konsistenz mit der Zielgruppe angeschaut werden
+T21	Premise 3199 3333	für welche Zielgruppe, bedeutet dieser Schritt was genau, bzw. wie unterscheiden sich die Zielgruppen möglicherweise in diesem Schritt
+R10	supports Arg1:T21 Arg2:T20	

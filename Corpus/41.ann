@@ -1,0 +1,33 @@
+T1	Claim 10 132	Ich sehe hier klare Stärken bei der Kreativität der Personas sowie dem schönen Design des beschriebenen Produktes/Services
+T2	Premise 134 227	Die User Journey ist sehr ausführlich beschrieben und die Beschreibung der User Stories passt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 267 347	einzelne Schritte des User Journey Cycles nicht mit User Stories versehen wurden
+T4	Claim 355 509	könnten allenfalls meiner Meinung nach die User Stories bei der Benennung etwas kreativer ausfallen anstelle Persona 1/2 ein Begriff für den Personentypen
+T5	Premise 527 603	Ich empfinde die Personas als sehr treffend gewählt mit guten Beschreibungen
+T6	Claim 613 672	erhält man einen guten Eindruck über die typischen Personen
+R2	supports Arg1:T5 Arg2:T6	
+T7	Premise 674 725	Die Kurzbeschreibung der Personas sind sehr kreativ
+R3	supports Arg1:T7 Arg2:T1	
+T8	Claim 758 950	könnte man aus meiner Sicht bei der zweiten Persona in der Biographie hinter Launch des ersten iPhones noch eine Jahreszahl erwähnen, damit nicht AppleFanatiker auch eine ungefähre Idee hätten
+T9	Claim 954 1045	Zum User Journey Cycle  New Nespresso ExpertMilk als schöne Übersicht, gefällt mir sehr gut
+T10	Claim 1191 1339	Aus meiner Sicht ein umfangreicher User Journey Cycle, der die traditionellen Aktivitäten abdeckt und interessante, innovative Value Gaps beinhaltet
+T11	Claim 1047 1137	Allgemein bin ich mir nicht sicher, ob der Wechsel auf Englisch gewünscht ist für mich ega
+T12	Premise 1140 1189	mag mich erinnern, dass es in Deutsch sein sollte
+T13	Premise 1341 1502	Bei den Value Gaps zur Boutique experience besteht meiner Meinung nach bereits heute die Möglichkeit, eine solche Experience zu geniessen zumindest bei Nespresso
+R6	supports Arg1:T13 Arg2:T10	
+R4	supports Arg1:T12 Arg2:T11	
+T14	Claim 1634 1792	Die Value Gaps im PostBereich scheinen meiner Meinung nach teils bereits traditional activites zu sein, was entsprechend angepasst kategorisiert werden könnte
+T15	Premise 1799 1849	Online/overthephone order oder auch der Newsletter
+R5	supports Arg1:T15 Arg2:T14	
+T16	Premise 1505 1632	Eine Unklarheit zu Setting desired cup size and temp.  bezieht sich dies ebenfalls auf die Steuerungsmöglichkeit via Mobile App
+R7	supports Arg1:T16 Arg2:T14	
+T17	Claim 1851 1996	automatic reminder to buy new capsules würde ich persönlich eventuell noch weiterführen und als Nachbestellknopf für Lieblingskapseln beschreiben
+T18	Claim 2019 2083	Die User Stories scheinen für mich sehr gut und klar beschrieben
+T19	Premise 2085 2150	Ziel und Wunsch sind aus meiner Sicht jeweils treffend formuliert
+R8	supports Arg1:T19 Arg2:T18	
+T20	Claim 2152 2336	Anstelle vieler einzelner Slides würde ich persönlich alles auf eine packen, damit man gleich eine Gesamtübersicht über die spezifische Phase sowie deren User Stories PRE, DURING, POST
+T21	Claim 2338 2436	Die Einleitung Als Persona 1/2 könnte aus meiner Sicht etwas abwechslungsreicher formuliert werden
+T22	Premise 2438 2488	siehe Beispiel in den Vorlesungsfolien As a runner
+T23	Premise 2490 2505	muss aber nicht
+R9	supports Arg1:T22 Arg2:T21	
+R10	attacks Arg1:T23 Arg2:T21	

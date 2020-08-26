@@ -1,0 +1,15 @@
+T1	Claim 10 46	Eine schöne Aufbereitung der Aufgabe
+T2	Premise 47 117	Die Tabellen sind sehr übersichtlich und hilfreich für das Verständnis
+T3	Premise 119 188	Die ausgeführten Punkte sind überlegt beschrieben und nachvollziehbar
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 226 408	Ziele des Projekts  Gut beschrieben, nur den letzten Satz ...,welche die Anforderungen an die Leistungen eines Auftragnehmers aus der Sicht des Endkunden beschreibt ist etwas komisch
+T5	Claim 410 455	Den Teil nach dem Komma würde ich rauslöschen
+R3	supports Arg1:T4 Arg2:T5	
+T6	Premise 485 615	Die funktionalen Anforderungen beantworten nicht nur die Fragestellung was das System tun soll, sondern was das System können muss
+T7	Claim 622 719	Anforderungen an die Benutzerschnittstellen  Dieser Punkt könnte sicherlich noch erweitert werden
+R4	supports Arg1:T6 Arg2:T7	
+T8	Premise 726 799	mit Ansprechendes Design resp. ansprechende Ausgestaltung der Oberflächen
+R5	supports Arg1:T8 Arg2:T7	
+T9	Claim 806 933	Performanceanforderungen  Verbesserungsvorschläge  Hier gäbe es Erweiterungsmöglichkeiten wie   Zuverlässigkeit   Verfügbarkeit
+T10	Claim 939 1087	Risiken  Verbesserungsvorschläge  Weitere Risiken könnten an dieser Stelle z.B. Sicherheitslücken im System vgl. Zahlungstool oder FakeAnbieter sein

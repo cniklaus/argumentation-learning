@@ -1,0 +1,11 @@
+T1	Claim 10 76	Ich finde Du hast eine wirklich coole und kreative Idee entwickelt
+T2	Claim 78 194	Die Überlegungen zum Customer und den jeweiligen Pains/Gains sind sehr ausführlich und nachvollziehbar ausgearbeitet
+T3	Claim 196 328	Auch das vorgesehene Revenue Model ist sehr interessant und die Möglichkeit einer Erweiterung durch das Freemium Modell ist spannend
+T6	Claim 560 673	Ich nehme an die App ist für die eigentlichen User grundsätzlich kostenlos aber würde dies noch explizit erwähnen
+T7	Claim 675 732	Bei den Channels könntest Du noch Modemagazine hinzufügen
+T8	Premise 737 845	man so wohl auch die Zielkunden erreicht und die Vorschläge ja laut Beschreibung auch auf Magazinen basieren
+R1	supports Arg1:T8 Arg2:T7	
+T4	Claim 849 970	Bzgl. Partnerschaften würde ich auch noch soziale Medien in Betracht ziehen, anstatt diese rein für Werbezwecke zu nutzen
+T5	Claim 1030 1079	ich finde die Ausarbeitung wirklich sehr gelungen
+T9	Premise 974 1028	Das sind verhältnismässig aber eher kleinere Anpassung
+R2	supports Arg1:T9 Arg2:T5	

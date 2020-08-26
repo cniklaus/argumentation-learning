@@ -1,0 +1,18 @@
+T1	Claim 32 239	 In deiner Erarbeitung des ITPA 3 gefällt mir insbesondere, dass du mit wenig Stichworten pro Kapitel also z.B. Funktionale Anforderungen, Datenmodell etc. die grundlegenden Requirements schön abgedeckt hast
+T2	Claim 241 384	Deine Beschreibungen bauen aufeinander auf, sodass deine Gesamtidee deiner SoftwareasaSerivce Lösung für alle Leser einfach nachvollziehbar ist
+T3	Claim 482 626	Vielleicht kannst du dir in der Überarbeitung überlegen, ob du auch Ratings der institutionellen Kunden durch die Privatnutzer zulassen möchtest
+T4	Premise 628 886	Zwar suchen die Privatkunden womöglich eher nach einem bestimmten Uhrentyp, wo der Service an zweiter Stelle steht, jedoch würde ein Rating vor allem jenen Privatkunden einen grossen Nutzen stiften, welche nicht a priori Wissen, welche Uhr sie mieten möchten
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 888 1042	Auf diese Weise wird die Entscheidungsfindung des Privatkunden nicht allein durch das Produkt selbst, sondern zusätzlich noch durch das Rating beeinflusst
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 1408 1559	Damit die Plattform mehr Service anbieten kann wäre es ein grosser Vorteil, wenn beispielsweise eine Vorwärts oder Rückwärtsintegration angestrebt wird
+T7	Premise 1561 1758	Also wird die Uhr beispielsweise als Service der Plattform direkt nach Hause geliefert, so entsteht dem Kunden weniger Aufwand und der Nutzen durch die Nutzung der Plattform steigt für den Customer
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 1760 1946	Falls du diesen Service einbauen möchtest, müsstest du im User Requirement die entsprechenden Anpassungen bei Stakeholder evtl. Logistikunternehmen als Kooperationspartner etc. vornehmen
+T9	Premise 2023 2127	ist dies kein grosses Risiko einfach Adresse eingeben und schauen, ob diese schon besetzt ist oder nicht
+T10	Premise 1952 2002	Risiko von www. aatchswitch.ch ist bereits benutzt
+T11	Claim 2188 2346	Dies ist jedoch von Anfang an bekannt und stellt aus diesem Grund für mich kein Risiko dar, auf das man während der Erarbeitung der Softwarelösung achten muss
+R4	supports Arg1:T10 Arg2:T9	
+R5	supports Arg1:T9 Arg2:T11	
+T12	Premise 2348 2411	ist die Domain gesichert, gehört sie einem ja mehr oder weniger
+R6	supports Arg1:T12 Arg2:T11	

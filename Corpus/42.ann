@@ -1,0 +1,15 @@
+T1	Claim 68 123	Gute Beschreibung der Ziele und Frustration der Persona
+T2	Premise 125 197	Die identifizierten Traditional Activities sowie die Valua Gaps sind gut
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 199 343	Die Detailbeschreibung ist ebenfalls schlüssig, d.h. sowohl die unterschiedlichen Bedürfnisse/Nutzen als auch die gemeinsamen sind gut evaluiert
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 435 498	Du fokussiert besonders auf den Value Gaps rund um einen Anlass
+T5	Claim 510 577	es gäbe noch weitere Value Gaps die mit dem Hemd tragen einhergehen
+R3	supports Arg1:T4 Arg2:T5	
+T6	Premise 579 635	Könnte man evt. das Value Gap Pflege des Hemdes einbauen
+T7	Premise 637 704	Ich persönliche finde die korrekte Pflege des Hemdes sehr aufwendig
+R4	supports Arg1:T7 Arg2:T6	
+R5	supports Arg1:T6 Arg2:T5	
+T8	Claim 845 909	Bitte füge noch Bilder ein welche die Personas versinnbildlichen
+T9	Claim 916 1048	sollte bei der Personalität bei beiden Personen die gleichen Attribute bewertet werden, ansonsten macht der Schieberegler wenig sinn
+T10	Claim 1050 1081	Für TechSkills gilt das gleiche

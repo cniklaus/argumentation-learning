@@ -1,0 +1,39 @@
+T1	Claim 78 149	Das Geschäftsmodell wurde sehr verständlich und ausführlich beschrieben
+T2	Claim 151 191	Für die Idee besteht definitiv ein Markt
+T3	Premise 223 304	sich sowohl professionelle Musikschulen als auch Privatleute dort anmelden können
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 333 370	der Preis selbst bestimmt werden kann
+R2	supports Arg1:T4 Arg2:T2	
+T5	Claim 372 445	Es wurden alle wichtigen Aspekte abgedeckt und bei Bedarf näher erläutert
+T6	Claim 447 476	Gefällt mir wirklich sehr gut
+T7	Claim 487 558	Sehr gute und detaillierte Beschreibung der Pains, Gains, Relievers etc
+T8	Claim 560 610	Sinnvolle Unterteilung von Nachfrager und Anbieter
+T9	Claim 621 695	Gute und ausführliche Beschreibung, auf wichtige Aspekte wurde eingegangen
+T10	Premise 697 734	Es sind keine groben Lücken erkennbar
+R3	supports Arg1:T10 Arg2:T9	
+T11	Claim 837 941	Die Art und Weise, wie TeachInstruments genau Geld verdient, könnte noch etwas besser beschrieben werden
+T12	Claim 959 1059	Eine Lerneinheit über z.B. Skype wäre noch von Vorteil, um den Wettbewerb und das Angebot zu erhöhen
+T13	Claim 1062 1102	Satzbaufehler zu Beginn der Beschreibung
+T14	Claim 1113 1207	Zusätzlich bei Gains würde ich noch Informationen über die Qualität des Musiklehrers schreiben
+T15	Claim 1217 1278	bei Gains sehe ich noch den Vorteil von Einsparungen von Geld
+T16	Claim 1281 1350	Gains Nachfrager kann einen Nebenverdienst als Privatperson verdienen
+T17	Claim 1353 1420	Pain Relievers Ermöglicht den Kontakt zu potentiellen Musikschülern
+T18	Claim 1432 1509	Musikunterricht ist sehr teuer und ausserhalb von Schulen schwierig zu finden
+T19	Premise 1517 1612	ist es schwierig für den Anbieter die Konsumenten zu kontaktieren und seine Leistung anzubieten
+T20	Claim 1614 1645	würde ich unter HOW beschreiben
+R4	supports Arg1:T19 Arg2:T20	
+T21	Claim 1649 1717	Why würde ich noch wie oben beschrieben durch Webeeinnahmen ergänzen
+T22	Premise 1869 1979	Geld könnte z.B. durch Werbung von Instrumentenherstellern oder lokalen Musikschulen zusätzlich gemacht werden
+T23	Claim 1982 2064	Hier kann ich mir vorstellen, dass nicht alle Instrumente über Skype funktionieren
+R5	supports Arg1:T22 Arg2:T23	
+T24	Premise 2066 2124	Instruemente wie z.B. Klavier dürfte aber sicherlich gehen
+R6	attacks Arg1:T24 Arg2:T23	
+T25	Claim 2486 2534	Musikschüler kann ein Rating über Lehrer abgeben
+T26	Claim 2536 2591	Dieses Rating ist für alle Plattformteilnehmer sichtbar
+T27	Claim 2595 2708	Musikschüler spart Geld, durch Auswahl des günstigsten Anbieters/durch Auswahl keiner professionellen Musikschule
+T28	Claim 2711 2774	Nachfrager kann einen Nebenverdienst als Privatperson verdienen
+T29	Claim 2777 2829	Ermöglicht den Kontakt zu potentiellen Musikschülern
+T30	Claim 2868 2945	Musikunterricht ist sehr teuer und ausserhalb von Schulen schwierig zu finden
+T31	Premise 2953 3048	ist es schwierig für den Anbieter die Konsumenten zu kontaktieren und seine Leistung anzubieten
+T32	Claim 3050 3081	würde ich unter HOW beschreiben
+R7	supports Arg1:T31 Arg2:T32	

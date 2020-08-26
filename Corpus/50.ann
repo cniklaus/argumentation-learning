@@ -1,0 +1,25 @@
+T1	Claim 21 138	Die Modelle VPC und BMN sehr gut angewandt  Interessantes Geschäftsmodell mit nachvollziehbarem Nutzen für die Nutzer
+T2	Premise 140 224	In diesem Sinne hat der User mehr Komfort, was somit eine WellBeing Lösung bestätigt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 228 328	Qualität und Frische wird ein grosses Unterscheidungsmerkmal, was Hauptbestandteil dieser Lösung ist
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 444 516	Falls dies wirklich so ist, hast du einen tollen Differenciator gefunden
+T5	Premise 330 384	Frage als NichtVater bisher muss BabyBrei gekühlt sein
+T6	Premise 386 442	Ich sehe im Verkauf immer nur abgepackte ungekühlte Ware
+R3	attacks Arg1:T6 Arg2:T5	
+R4	supports Arg1:T5 Arg2:T4	
+T7	Claim 519 591	Klar ersichtlich ist ausserdem, wie die Supply Chain aufgebaut sein soll
+T8	Claim 645 702	Schwierig wird voraussichtlich die Lieferung in der Nacht
+T9	Premise 707 767	dann kaum Kurierdienste arbeiten v.a. in ländlichen Gebieten
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 771 865	Ergänzen würde ich folgendes  Jobs Babynahrung kaufen, Pains Unübersichtlichkeit bei Angeboten
+T11	Premise 871 916	welche Marke ist am besten für mein Baby, etc
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 992 1015	Falls ja, spezifizieren
+T13	Premise 919 990	Costs Miete ist zwei Mal aufgeführt gibt es hier noch einen Unterschied
+R7	supports Arg1:T13 Arg2:T12	
+T14	Claim 1017 1089	Channels hier würde ich noch verstärkt auf die Verkaufschannels eingehen
+T15	Claim 1120 1178	Ergänzungen bei Jobs, Pains und Costs wie oben beschrieben
+T16	Claim 1180 1249	Channels als VerkaufsChannel könnte auch ein Retailer gewonnen werden
+T17	Premise 1255 1352	Lidl Food Box. Spitäler und Baby/MütterCommunities können auch als Verkaufschannel genutzt werden
+R8	supports Arg1:T17 Arg2:T16	

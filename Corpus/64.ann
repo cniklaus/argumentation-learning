@@ -1,0 +1,24 @@
+T1	Claim 81 134	hast du das Template grundsätzlich korrekt angewendet
+T2	Claim 137 258	Gute Herausarbeitung der kritischen Erfolgsfaktoren sehr selbstkritisch, auch die SWOT Analyse scheint mir sehr schlüssig
+T3	Claim 293 404	Ein kurzer Beschrieb eingangs zum Dokument hätte geholfen, sich deine Geschäftsidee besser vorstellen zu können
+T4	Premise 406 449	Kontaktaustausch ist extrem breit gegriffen
+T5	Premise 451 513	handelt es sich um ein Facebook, eine GamingPlattform, Parship
+T6	Claim 515 607	Hier wäre eine Konkretisierung sehr hilfreich, auch für die Vergabe eines tieferen Feedbacks
+R1	supports Arg1:T4 Arg2:T6	
+R2	supports Arg1:T5 Arg2:T4	
+T7	Claim 620 700	Bei der Abgrenzung des Geschäftsfeldes sehe ich aktuell keine klare Segmentation
+T8	Premise 702 836	Du hast jene ansatzweise ja bereits angeführt, vielleicht kannst du für eine Zielgruppe z.B. Sportaffine ein Geschäftsfeld beschreiben
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 838 983	Ein Geschäftsfeld sollte ja gemäss Literatur ähnliche Umsatzerwartungen aufweisen bei ähnlichem Geschäftskontext Mitbewerber, Umweltfaktoren etc.
+R4	supports Arg1:T9 Arg2:T7	
+T10	Claim 999 1078	itbewerber Ich stimme nicht ganz überein, dass es keine direkte Konkurrenz gibt
+T11	Premise 1080 1115	Kennst du z.B. die Plattform Meetup
+T12	Premise 1117 1183	Da können sich auch interessensbasierte Gruppen zusammenschliessen
+R5	supports Arg1:T11 Arg2:T10	
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1451 1478	Dies könnte man diskutieren
+T14	Premise 1185 1449	Ich stimme zu, MeetUp ist eher nicht zu einer 11 Koordination von Privatpersonen geeignet, ist aber bereits eine etablierte Plattform, um Gleichgesinnte in einem sicheren Rahmen treffen zu können, was vermutlich das Grundbedürfnis deiner Zielgruppe auch befriedigt
+R7	supports Arg1:T14 Arg2:T13	
+T15	Premise 1486 1679	gibt es eine Vielzahl von Foren oder öffentliche FacebookGruppen die eine Selbstorganisation der User erlauben, ohne dass dies alle Mitglieder sehen würden  was wäre anders bei deiner Plattform
+T16	Claim 1681 1732	Vielleicht kannst du dies noch etwas herausarbeiten
+R8	supports Arg1:T15 Arg2:T16	

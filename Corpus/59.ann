@@ -1,0 +1,21 @@
+T1	Claim 18 117	Viele der von dir ausgearbeiteten Punkte entsprechen meiner Ansicht nach nicht der Aufgabenstellung
+T2	Claim 529 589	Stakeholder ist so in Ordnung und muss nicht geändert werden
+T3	Claim 592 638	Datenmodell Das sollte so auch in Ordnung sein
+T4	Claim 640 811	Was Du noch an Daten mit hineinnehmen kannst ist so etwas wie Geolocation um zu schauen, wie die Abdeckung im Gebiet ist Internet oder als Zusatz eine OnlinePayment option
+T5	Claim 815 914	Sicherheitsanforderung Ist wenig detailliert, aber inhaltlich richtig vielleicht noch etwas genauer
+T6	Premise 921 980	separate Server für Kundendaten um Datenlecks zu verhindern
+R1	supports Arg1:T6 Arg2:T5	
+T7	Claim 1092 1145	Gehe noch mehr darauf ein, was du entwickeln möchtest
+T8	Claim 1147 1278	Versetze dich also in die Position des Gründers und frage dich, welche Technologie benötige ich, um das ganze zum Laufen zu bringen
+T9	Claim 1281 1533	Einbettung in das Arbeitsgebiet Hier würde ich mir die Frage stellen, an welche anderen technischen Systeme mein zu entwickelndes System benötigt, um zu Funktionieren Bspw. Anschluss an die Informationen der Stadtwerke bzgl. Glasfaseranschlussabdeckung
+T10	Claim 1572 1701	würde ich mich an deiner Stelle auf Folie 18 der Vorlesung LU PSIII beziehen und die Tabelle in die Arbeit kopieren und ausfüllen
+T11	Claim 1705 1812	Anforderung an die Benutzerschnittstelle Inhaltlich richtig, aber ich würde es eher als Auftrag formulieren
+T12	Claim 1816 1880	Performanceanforderung Hier kannst du ebenfalls ins detail gehen
+T13	Premise 1888 2119	Der Online Analyse und Kaufprozess benötigt maximal 10 klicks, die Analyse der Kundenbedürfnisse und die Erstellung des Angebots darf maximal 4 Sekunden dauern, die Bestätigungsemail kommt innerhalb von 10 Sekunden nach dem Kauf an
+R2	supports Arg1:T13 Arg2:T12	
+T14	Claim 2124 2180	isiko Hier solltest Du das Risiko des Projekts eintragen
+T15	Premise 2182 2265	Also die Frage, was kann bei der Erstellung der Website oder ähnliches schief gehen
+R3	supports Arg1:T15 Arg2:T14	
+T16	Premise 2267 2388	Zeit und Budgetüberschreitungen, Datenintegration der Partnerangebote funktioniert nicht weil Änderung der Schnittstellen
+R4	supports Arg1:T16 Arg2:T15	
+T17	Claim 2397 2469	Kosten Diese sollten sich ebenfalls auf das Projekt stützen Projektbudge

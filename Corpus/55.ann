@@ -1,0 +1,20 @@
+T1	Claim 10 43	Die Aufgabe wurde sehr gut gelöst
+T2	Premise 45 144	Zu jedem Punkt in der User Requirements Specification wurde eine sinnvolle Beschreibung hinzugefügt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 147 258	Bei der Beschreibung des Projektziels erhält man einen guten Eindruck, um was es bei dieser Softwarelösung geht
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 267 310	wurde der letzte Satz nicht zu Ende geführt
+T5	Premise 312 366	Für was gibt die Plattform andererseits eine Übersicht
+T6	Claim 368 397	Dies muss noch ergänzt werden
+R3	supports Arg1:T4 Arg2:T6	
+R4	supports Arg1:T5 Arg2:T4	
+T7	Claim 400 470	Bei den Stakeholdern sind zum Projekt passende Personen notiert worden
+T8	Claim 472 670	Jedoch könnte noch angegeben werden, wer der Auftraggeber des Projektes ist und die Stakeholder, die bei der Entwicklung der App mitwirken wie Technologieexperten, SystemDesigner oder Rechtsexperten
+T9	Claim 674 748	ehr schöne Darstellung des Datenmodells und der funktionalen Anforderungen
+T10	Premise 751 820	ie funktionalen Anforderungen können dadurch gut nachvollzogen werden
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 824 919	ei den Anforderungen zur Benutzerschnittstelle ist nicht erwähnt, wo die Plattform abrufbar ist
+T12	Claim 921 1029	Ich würde hier nochmals erwähnen, dass sie über das Web und über eine Android  iOS App abgerufen werden kann
+R6	supports Arg1:T11 Arg2:T12	
+T13	Premise 1032 1131	Ansonsten wurde der Teil der nichtfunktionalen Anforderungen und der Projektaspekte sehr gut gelöst
+R7	supports Arg1:T13 Arg2:T12	

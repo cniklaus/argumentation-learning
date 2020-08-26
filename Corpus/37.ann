@@ -1,0 +1,26 @@
+T1	Claim 19 97	Die Personas und User Cycles sind sehr strukturiert und aufeinander abgestimmt
+T2	Claim 99 188	Man versteht den Nutzen des Produkts und auch die Value Gaps sind verständlich dargstellt
+T3	Claim 191 236	Die Personas sind meiner Meinung nach zu grob
+T4	Premise 244 311	kann er Handwerker oder CEO sein, das ist schon ein weites Spektrum
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 313 406	Man versteht um welche Art demographischer Gruppe es sich handelt, aber es fehlen die Details
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 408 492	Eine Persona sollte eine ganz spezifische Person sein und kein Querschnitt/Statistik
+R3	supports Arg1:T6 Arg2:T3	
+T7	Premise 504 563	man kann noch mehr auf den Charakter eines Nutzers eingehen
+T8	Premise 565 649	Die Persona unterscheiden sich auch kaum, der zweite ist einfach älter wie die erste
+T9	Claim 651 748	Hier würde ich eine Persona detaillieren und eine neue kreieren, welche sich fester unterscheidet
+R4	supports Arg1:T7 Arg2:T9	
+R5	supports Arg1:T8 Arg2:T7	
+T10	Claim 751 790	Der User Cycle ist sehr gut beschrieben
+T11	Premise 792 851	Die einzelnen Punkte sind in der Reihenfolge gut durchdacht
+R6	supports Arg1:T11 Arg2:T10	
+T12	Premise 853 913	Die einzelnen User Stories sind verständlich und machen Sinn
+R7	supports Arg1:T12 Arg2:T11	
+T13	Claim 915 975	Die zwei Aspekte der Leistung finde ich sehr gut dargestellt
+T14	Premise 978 1151	Bei den User Cyclen habe ich verstanden, dass die Wahl des Angebots und die Bezahlung im Pre passiert, During ist die Nutzung des Produkts siehe Nike Beispiel aus den Folien
+R8	supports Arg1:T14 Arg2:T10	
+T15	Premise 1153 1242	Es ist schwierig und diesem Cycle, die eigentliche Nutzung des Produkts zu identifizieren
+T16	Premise 1244 1323	Hier würde ich eventuell nochmal nachschärfen und die Phasen genauer betrachten
+R9	supports Arg1:T15 Arg2:T16	
+R10	attacks Arg1:T16 Arg2:T10	

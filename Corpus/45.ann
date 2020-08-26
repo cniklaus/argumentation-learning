@@ -1,0 +1,35 @@
+T1	Claim 33 118	finde das Geschäftsmodell gut durchdacht und der Aufgabenstellung entsprechend gelöst
+T2	Premise 120 211	Die vorgeschlagenen Services bringen einen praktischen Nutzen und sind sehr kreativ gewählt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 212 325	Grundsätzlich würde ich mir einen Satz wünschen, der erklärt, wie Kleidungsstücke im Kleiderkasten erkannt werden
+T4	Premise 326 343	per Chip im Kleid
+T5	Premise 346 356	nach Platz
+R2	supports Arg1:T4 Arg2:T3	
+R3	supports Arg1:T5 Arg2:T3	
+T6	Premise 371 444	finde ich die Einteilung der Kleidungsstücke in Kategorien eine gute Idee
+T7	Premise 451 503	warum nicht den User die Kategorien bestimmen lassen
+T8	Premise 505 577	Oder wenigstens Rubriken wie Nachtkleidung, Unterwäsche, etc. hinzufügen
+R4	attacks Arg1:T7 Arg2:T6	
+R5	attacks Arg1:T8 Arg2:T6	
+T9	Premise 579 644	Dies würde meiner Meinung nach den Service noch weiter verbessern
+R6	supports Arg1:T9 Arg2:T8	
+R7	supports Arg1:T9 Arg2:T7	
+T10	Claim 651 717	frage ich mich, inwiefern eine App Kleidungsvorschläge machen kann
+T11	Premise 720 766	o weit ist A.I. meiner Meinung nach noch nicht
+R8	supports Arg1:T11 Arg2:T10	
+T12	Claim 774 820	Auch das VPC wurde grundsätzlich gut gestaltet
+T13	Premise 821 956	Für mich ist hier nicht ganz klar, inwiefern Zeitdruck, immer alles im Kopf haben müssen und sich wohl fühlen Customer Jobs sein sollen
+T14	Claim 958 994	Diese würde ich persönlich streichen
+R9	supports Arg1:T13 Arg2:T14	
+T15	Claim 995 1141	Zum BMNBei What? würde ich die Punkte aus dem VPC noch hinunterkopieren, anstatt einen Verweis anzubringen, dass man die Punkte weiter oben findet
+T16	Premise 1143 1192	Dies würde die Leserfreundlichkeit weiter erhöhen
+R10	supports Arg1:T16 Arg2:T15	
+T17	Premise 1193 1316	Hier finde ich noch einen heiklen Punkt, dass das Geschäftsmodell darauf beruht, dass Unternehmen Kundendaten kaufen können
+T18	Premise 1323 1425	nach der Aufgabenstellung sollten wir uns an die Idee des Wellbeing von Österle und Senger 2011 halten
+T19	Premise 1427 1513	Diese sieht jedoch vor, dass der Kunde selber über seine Daten entscheiden können muss
+T20	Premise 1515 1576	Dies ist für mich ein Wiederspruch mit deinem Geschäftsmodell
+R12	supports Arg1:T20 Arg2:T19	
+R13	supports Arg1:T19 Arg2:T18	
+T21	Claim 1589 1652	würde ich evtl. bei Revenues eher ein klassisches Modell wählen
+R11	supports Arg1:T18 Arg2:T17	
+R14	supports Arg1:T17 Arg2:T21	

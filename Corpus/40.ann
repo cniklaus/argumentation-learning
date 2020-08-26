@@ -1,0 +1,47 @@
+T1	Claim 115 206	Die zwei Persona sind unterschiedlich was verschiedene Blickwinkel auf den Cycle ermöglicht
+T2	Claim 215 306	wäre ein richtiges Bild ein hilfreiches Mittel, um ein klareres Bild der Person zu erhalten
+T3	Claim 335 406	Nathan nicht allzu gut geeignet ist, als typischer Kunde eines SmartTVs
+T4	Premise 418 517	seine Lebenssituation ist eher spezielle und nicht allzu häufig zu finden unter den Kunden von SONY
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 519 643	Evtl. wäre hier ein normaler Student, der seine erste Wohnung einrichtet und über ein knappes Budget verfügt besser geeignet
+R2	supports Arg1:T5 Arg2:T3	
+T6	Claim 647 771	Sowohl bei Nathan als auch bei Martina finde ich, könnte man das Zitat besser nutzen um die Essenz der Personen auszudrücken
+T7	Premise 778 864	könnte man bei Martina auf ihre Serien oder die geplante Gründung ihrer Firma eingehen
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 874 965	Ich spare für meine eigene Kosmetikfirma und entspanne bei meiner Lieblingsserie vor dem TV
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 974 1030	empfinde ich Martina als eine gute stereotypische Kundin
+R5	supports Arg1:T9 Arg2:T6	
+T10	Premise 1039 1081	müsste sie in sich etwas konsistenter sein
+R6	attacks Arg1:T10 Arg2:T9	
+T11	Premise 1093 1174	die Problematik mit dem Geld und dann teurere Brands ist mir nicht ganz schlüssig
+T12	Claim 1182 1284	müsste man den Punkt mit der Familie besser ausarbeiten und dies auch in ihren User Story unterbringen
+R7	supports Arg1:T11 Arg2:T12	
+T13	Premise 1311 1413	Martina will Inhalte für Kinder sperren können, um ihre Kinder vor unangebrachten Inhalten zu schützen
+R8	supports Arg1:T13 Arg2:T12	
+T14	Claim 1418 1471	User Journey Cycle  Toll visualisiert mit den Bildern
+T15	Premise 1473 1544	Man erhält schnell einen Überblick und ein Verständnis über die Nutzung
+R9	supports Arg1:T15 Arg2:T14	
+T16	Claim 1546 1629	Die einzelnen Aktivitäten sind gut gewählt und sinnvoll auf die Sektoren aufgeteilt
+T17	Claim 1632 1745	PRE/DURING/POST  Grundsätzlich sind sehr gute Gedanken gemacht worden und wichtige Punkte wurden herausgearbeitet
+T18	Premise 1754 1872	finde ich, müsste man sich bei den User Stories konsequenter an die Formatvorlage aus der PPP und der Vorlesung halten
+R10	attacks Arg1:T18 Arg2:T17	
+T19	Premise 1878 1986	möchte ich , um . Beispielsweis bei der Aktivität nach Angeboten suchen fehlt der zweite Teil mit dem Nutzen
+R11	supports Arg1:T19 Arg2:T18	
+T20	Premise 1988 2099	Es bräuchte noch eine Ergänzung wie ... Features ausgestattet ist, um all seine Games und Abos nutzen zu können
+R12	supports Arg1:T20 Arg2:T19	
+T21	Premise 2102 2182	Bei einigen Aktivitäten wie Kauf von TV oder TV schauen fehlt die Story komplett
+R13	supports Arg1:T21 Arg2:T18	
+T22	Premise 2219 2302	Dort kann sich auch sehr gut die User Story unterscheiden zwischen den zwei Persona
+R14	supports Arg1:T22 Arg2:T18	
+T23	Premise 2307 2383	Martina eher Serien schaut und Nathan, wenn überhaupt, evtl. LiveSportEvents
+R15	supports Arg1:T23 Arg2:T22	
+T24	Premise 2386 2513	Um eine in sich konsistente Arbeit zu haben, müsste bei jeder UserStory klar sein, wieso die Persona genau diese Story hier hat
+T25	Claim 2515 2571	Dies ist, wie ich finde, noch nicht ganz überall gegeben
+R16	supports Arg1:T24 Arg2:T25	
+T26	Premise 2588 2661	beim Punkt nach Angeboten selektionieren fordert Martina Energieeffizienz
+T27	Premise 2663 2720	In dem Personabeschrieb findet sich aber kein Grund dafür
+R17	supports Arg1:T27 Arg2:T26	
+T28	Premise 2722 2820	Hier würde Aufnahmefunktionen, Preis oder Kinderschutz, als Forderung von Martina mehr Sinn machen
+R18	supports Arg1:T26 Arg2:T28	
+R19	supports Arg1:T28 Arg2:T25	

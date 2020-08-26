@@ -1,0 +1,26 @@
+T1	Claim 68 104	Alle Punkte wurden gut ausgearbeitet
+T2	Premise 106 132	Die Arbeit ist vollständig
+T3	Premise 134 171	Gute Visualisierung anhand der Grafik
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 178 243	die funktionalen Anforderungen wurden gut per Tabelle aufgelistet
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 336 476	Idee Hier sehe ich die Gefahr das Youtube Tutorials bzw. die Kombination an Angeboten von verschiedenen anderen Plattformen bereits zu gross
+T6	Premise 478 522	Nichts desto trotz, wäre es ein Versuch wert
+R4	attacks Arg1:T6 Arg2:T5	
+T7	Claim 673 773	Deine Ausführungen welche eher ITLastig sind, sind jedoch spannend und zeugen von guten Überlegungen
+T8	Claim 775 909	Die Grafik könnte man ggf. noch übersichtlicher machen, in dem man die von Dir aufgeführten Boxen um eine Box Plattform aufbauen würde
+T9	Premise 911 1034	Dies würde aus meiner Sicht klar machen, dass aller Traffic und die Schnittstellen schlussendlich über die Plattform laufen
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1176 1254	Stakeholder könnten ggf. nach St. Galler Mgmt Modell noch ausgearbeitet werden
+T11	Premise 1260 1476	Kapitalgeber wäre auch noch ein interessanter Punkt Anforderungen an die Benutzerschnittstellen Guter Ansatz, vielleicht könnte man den einen oder anderen Punkt in Richtung Nutzerfreundlichkeit noch etwas ausarbeiten
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 1478 1580	Risiken Für die Sicherheit während des Zahlungsprozesses ist der Zahlungssystemanbieter verantwortlich
+T13	Premise 1582 1628	Kein Risiko, ich sehe den Zweck der Auflistung
+T14	Claim 1630 1700	Jedoch könnte man dies aus meiner Sicht weglassen in Klammer schreiben
+R7	attacks Arg1:T13 Arg2:T14	
+T15	Premise 1702 1802	Schlussendlich wird das Risiko sofern etwas nicht klappt dennoch der Plattform zum Verhängnis werden
+R8	supports Arg1:T15 Arg2:T14	
+T16	Premise 1804 1851	Auch wenn der Zahlungssystemanbieter schuld ist
+R9	supports Arg1:T16 Arg2:T15	
+T17	Claim 1860 1921	Ich denke Marketingkosten sollten nicht vernachlässigt werden

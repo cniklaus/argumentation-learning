@@ -1,0 +1,33 @@
+T1	Claim 10 56	Ich finde die Idee von WatchSwitch interessant
+T2	Claim 74 158	du dich intensiv mit der Idee auseinandergesetzt und dir viele Gedanken gemacht hast
+T3	Premise 181 264	du dir bereits viele Gedanken über die technische Umsetzung des Ganzen gemacht hast
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 266 323	Die Beschreibung der Projektziele finde ich sehr gelungen
+T5	Premise 328 362	du verschiedene Seiten beleuchtest
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 374 424	finde ich den Beschrieb der Datenelemente sehr gut
+T7	Premise 429 524	man ein Gefühl bekommt, welche Daten alle anfallen werden und wie diese abgefragt werden können
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 725 787	Ich denke es macht Sinn, wenn du den Begriff API kurz erklärst
+T9	Premise 527 612	Unter Einbettung in das Arbeitsmodell beschreibst du die Anforderungen sehr technisch
+T10	Premise 614 723	Ich verstehe nicht wie die Plattform durch APIs in eine bestehende ECommerce Umgebung eingebettet werden kann
+R4	supports Arg1:T9 Arg2:T10	
+R5	supports Arg1:T10 Arg2:T8	
+T11	Claim 876 1012	Wenn der Nutzer bereits einige Male eine Uhr bestellt hat, soll der Algorithmus ihm eine Uhr vorschlagen, die seinen Wünschen entspricht
+T12	Premise 1014 1114	Die Plattform soll den Nutzer somit immer besser kennen lernen und ihm passende Produkte vorschlagen
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 791 874	Eine weitere Funktionale Anforderung ist für mich der Vorschlag von passenden Uhren
+R7	supports Arg1:T13 Arg2:T11	
+T14	Claim 1116 1175	Eine weitere Möglichkeit wäre das Abspeichern von Favoriten
+T15	Premise 1177 1284	Der Nutzer bekommt eine PushNotification, wenn seine WunschUhr oder eine sehr ähnliche wieder verfügbar ist
+R8	supports Arg1:T15 Arg2:T14	
+T16	Claim 1463 1505	Es wäre gut, wenn du dies klarer schreibst
+T17	Premise 1348 1461	Ich nehme an, dass du diese als CEO von WatchSwitch dazu verpflichten möchtest, dass sie deine Plattform aufbauen
+T18	Premise 1288 1346	Bei den Kosten sprichst du zum ersten Mal von der Firma XY
+R9	supports Arg1:T18 Arg2:T17	
+R10	supports Arg1:T17 Arg2:T16	
+T19	Premise 1517 1624	sehe ich es als Risiko an, wenn die ganze Konfiguration der Plattform ausserhalb des Unternehmens geschieht
+T20	Claim 1626 1690	Ich denke das Unternehmen sollte intern die Fähigkeiten aufbauen
+T21	Premise 1695 1830	es so die Plattform schneller adaptieren und bei Problemen selbst eingreifen kann und nicht auf externe Spezialisten zurückgreifen muss
+R11	supports Arg1:T21 Arg2:T20	
+R12	supports Arg1:T19 Arg2:T20	

@@ -1,0 +1,24 @@
+T1	Claim 28 81	Ich finde du hast eine tolle Geschäftsidee entwickelt
+T2	Premise 88 194	du damit ein reales Kundenproblem angehst und gerade Paartanz wieder beliebter ist, auch bei jungen Leuten
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 196 297	Du hast deine Geschäftsidee gut durchdacht und hast die die Pains, Gains etc. ausführlich beschrieben
+T4	Claim 318 446	Teilweise fehlen meiner Meinung nach noch ein paar Aspekte, die man beachten müsste und beim BMN hast du dich sehr kurz gehalten
+T5	Claim 498 556	würde ich die Customer Jobs mit Tanzschritte üben ergänzen
+T6	Premise 561 671	dies der logische Zwischenschritt zwischen Regelmässiger Tanzkursbesuch und Gelernte Tanzschritte anwenden ist
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 678 791	Ich weiss nicht inwiefern Organisation der Termine ein Pain ist, der durch deine Geschäftsidee erlöst werden kann
+T8	Premise 793 915	Ich nehme an, dass die Tanzkurse weiterhin an fixen Daten stattfinden und diese nicht für jede Woche neu festgelegt werden
+T9	Claim 917 975	Daher wird dieses Problem meiner Ansicht nach nicht gelöst
+R3	supports Arg1:T8 Arg2:T9	
+R4	supports Arg1:T7 Arg2:T8	
+T10	Claim 978 1056	in weiterer Pain könnte aber sein Sich an Anlässen beim Tanzen unsicher fühlen
+T11	Claim 1062 1131	BMN Ich denke du könntest deine Kunden noch etwas genauer beschreiben
+T12	Premise 1138 1192	BMN Bei diesen Punkten hast du dich sehr kurz gehalten
+T13	Claim 1194 1318	Ich würde hier die Gains, Pains etc. vom VPC kopieren, damit es auch beim BMN nach einer durchdachten Geschäftsidee aussieht
+R5	supports Arg1:T12 Arg2:T13	
+T14	Premise 1324 1432	BMN Aus deiner Beschreibung der Revenues geht nicht hervor, wie du deine Geschäftsidee monetarisieren willst
+T15	Claim 1434 1489	Überlege dir wie du mit deiner App Geld machen möchtest
+R6	supports Arg1:T14 Arg2:T15	
+T16	Claim 1513 1585	bei den Kosten auch die Tanzlehrer dazukommen, welche Online Tipps geben
+T17	Premise 1590 1626	dies zusätzliche Arbeitsstunden sind
+R7	supports Arg1:T17 Arg2:T16	

@@ -1,0 +1,19 @@
+T1	Claim 19 97	Sehr interessantes Konzept der Bezahlung ähnlich wie massgeschneiderte Werbung
+T2	Premise 97 159	Sicherlich für Modelinien kein uninteressantes Geschäftsmodell
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 159 210	Gesamtes Konzept wirkt schlüssig und gut durchdacht
+T4	Claim 219 300	Alle aufgeführten Customer Jobs sind gut, aber ich denke es gibt noch einige mehr
+T5	Claim 301 390	raucht die Bedienung der App nicht fast mehr Zeit als die eigentliche Auswahl der Kleider
+T6	Claim 395 536	Einbau einer Wetterfunktion finde ich interessant, aber woher weiss die App wo ich mich aufhalten werde und wie lange ich draussen sein werde
+T7	Premise 560 678	Wenn an meinem Wohnort kein Nebel liegt aber an meinem Arbeitsplatz schon, welche Kleidung wird mir dann vorgeschlagen
+T8	Claim 680 745	Daher würde ich diese Frage in die Wetterfunktion mit einbeziehen
+R2	supports Arg1:T7 Arg2:T8	
+T9	Premise 746 824	Es macht einen grossen Unterschied wie lange ich mich draussen aufhalten werde
+T10	Claim 831 895	würde ich auch diese Frage in die Wetterfunktion mit einbeziehen
+R3	supports Arg1:T9 Arg2:T10	
+T11	Claim 896 986	Ich würde mir auch überlegen ob nicht auch dir Zielgruppe nach unten erweitert werden kann
+T12	Premise 988 1035	Wieso sollten die App keine Jugendlichen nutzen
+R4	supports Arg1:T12 Arg2:T11	
+T13	Claim 1036 1091	Vielleicht findest du noch einige weitere Customer Jobs
+T14	Premise 1097 1162	Outfit für den Abend, für Bewerbungsgespräch, für gewisse Anlässe
+R5	supports Arg1:T14 Arg2:T13	

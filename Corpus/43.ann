@@ -1,0 +1,7 @@
+T1	Claim 11 58	Sehr detaillierte und gut beschriebene Personas
+T2	Claim 58 126	Vollständigkeit der PrePhase, ausser die unten beschrieben Abklärung
+T3	Claim 128 299	In PrePhase ist es nicht klar, ob Value Gap Online app, das Anzüge... und Trad. Activity gap Beratung und Wahl eines passenden Anzug... gleichzeitig oder nicht stattfinden
+T4	Premise 346 467	Ich würde noch eine Value Gap Evaluation des Anzuges einsetzen, die z.B. mit dem Tragen des Anzuges verbunden sein konnte
+T5	Claim 300 344	Fehlt es nicht einige Value Gap in PostPhase
+R1	supports Arg1:T4 Arg2:T5	
+T6	Claim 503 612	Ich würde vorschlagen, die PostPhase ein bisschen dichter zu machen, mit einen oder mehreren neuen Value Gaps
