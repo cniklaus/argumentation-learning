@@ -1,0 +1,18 @@
+T1	Premise 12 85	Eine gut verständliche und logisch aufgebaute Geschäftsmodellbeschreibung
+T2	Claim 87 225	Man merkt, dass du dir konkrete Gedanken zur Marktleistung mit den dazugehörigen Stärken und Schwächen deines Geschäftmodells gemacht hast
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 227 290	Mir gefällt zudem wie du einige Schlagwörter Fett markiert hast
+T4	Claim 299 430	Qualitative Beschreibung   Lieferanten Wie sieht es mit den Hausärzten als Lieferanten aus, welche die Patientendaten bereitstellen
+T5	Premise 437 530	Marktleistung Erwähnst du diese Leistung im Bezug auf andere Leistungen die im Markt bestehen
+T6	Claim 532 574	Evtl. könnte hier der Name geändert werden
+R2	supports Arg1:T5 Arg2:T6	
+T7	Premise 581 675	es sich nicht um die im ersten Punkt beschriebene Marktleistung deines Geschäftmodells handelt
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 677 742	Verwirrungsgefahr     Strategische Ausrichtung   Vertriebspolitik
+T9	Premise 743 790	Wie sieht es da bezüglich Marketing der App aus
+R4	supports Arg1:T9 Arg2:T8	
+T10	Claim 800 961	Du könntest dir noch einmal kurz überlegen, wer sonst als Lieferant miteinbezogen werden müsste resp. wer für die Lieferung der Patientendaten verantwortlich ist
+T11	Claim 966 1032	Der Punkt Marktleistung unter qualitativer Beschreibung umbenennen
+T12	Premise 1034 1258	Aus dem Grund, das du die Marktleistung deiner App bereits unter Abgrenzung Geschäftsfeldes beschrieben hast, könntest du die Erkenntnis, über die vom Staat angebotene Leistung, auch unter dem Punkt Umwelt einfliessen lassen
+R5	supports Arg1:T12 Arg2:T11	
+T13	Claim 1263 1309	23 kleine TippFehler haben sich eingeschlichen

@@ -1,0 +1,5 @@
+T1	Claim 17 81	Die Idee an sich ist gut und hat sicherlich auch genug Nachfrage
+T2	Claim 83 198	Die Vereinheitlichung von verschiedenen Akteuren sowie die kombinierte Möglichkeit zu kommunizieren ist überzeugend
+T3	Claim 212 315	finde die Idee eigentlich gut und könnte mir höchsten vorstellen, dass es mit den Behörden Problem gibt
+T4	Premise 317 397	Dies lässt sich jedoch nicht im Flowchart widerspiegeln bzw. vertieft darstellen
+R1	attacks Arg1:T4 Arg2:T3	

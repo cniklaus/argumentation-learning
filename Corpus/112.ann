@@ -1,0 +1,30 @@
+T1	Claim 16 132	Du hast die Aufgabe gut und ausführlich bearbeitet und dabei alle in der Fallstudie gewählten Aspekte berücksichtigt
+T2	Claim 134 194	Besonders gut finde ich die Kurzerklärung der Idee zu Beginn
+T3	Premise 204 312	kennt man die Geschäftsidee direkt von Beginn an und kann die weiteren Erläuterungen sehr gut nachvollziehen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 319 413	die Abgrenzung des Geschäftsfeldes und die Wahl der Segmentierungsvariablen finde ich gelungen
+T5	Claim 422 551	Zur Abgrenzung des Geschäftsfeldes könntest du so eine Tabelle wie aus der Vorlesung anhand der Segmentierungsvariablen erstellen
+T6	Premise 553 597	Dies würde die Abgrenzung noch verdeutlichen
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 601 763	Bei der eigentlichen Marktleistung ist meines Erachtens viel mehr von Relevanz, dass du die Technologie und Applikation zur Identifizierung der Kleidung anbietest
+T8	Premise 765 838	Die Bereitstellung dieser ist meiner Meinung nach nur eine Zusatzleistung
+R3	supports Arg1:T8 Arg2:T7	
+T9	Claim 842 921	Unter der Qualitativen Beschreibung solltest du die Lieferanten näher erläutern
+T10	Premise 923 961	Die Modehäuser sind ja keine Kategorie
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 963 1039	Innerhalb der Lieferanten solltest du die Serviceanbieter der IT etc. nennen
+T12	Claim 1042 1094	Auch die Marktleistung musst du noch näher erläutern
+T13	Premise 1096 1162	Dabei kannst du dich aber gut an den Punkten 1. Und 2. Orientieren
+R5	supports Arg1:T13 Arg2:T12	
+T14	Claim 1166 1202	Umfeld/Technologie fehlt leider ganz
+T15	Premise 1204 1295	Hier solltest du insbesondere die Technologie zur Erkennung der Kleidungsstücke einbeziehen
+R6	supports Arg1:T15 Arg2:T14	
+T16	Claim 1298 1485	Unter den kritischen Erfolgsfaktoren könntest du eventuell noch die Aufstellung eines Algorithmus zur Identifizierung der Kleidungsstücke und dessen kontinuierliche Verbesserung aufführen
+T17	Claim 1494 1590	innerhalb der strategischen Ausrichtung und der Massnahmen musst du auf die Technologie eingehen
+T18	Premise 1595 1640	nur diese dein Unternehmen einzigartig machen
+R7	supports Arg1:T18 Arg2:T17	
+T19	Claim 1643 1741	Insgesamt bist du mit der Lösung sicherlich auf dem richtigen Weg und die Ansätze sind gut gewählt
+T20	Premise 1743 1806	Jedoch musst du alles noch etwas ausführen und runder gestalten
+R8	supports Arg1:T20 Arg2:T19	
+T21	Premise 1808 1866	Dann steht einer sehr guten Lösung aber nichts mehr im Weg
+R9	supports Arg1:T21 Arg2:T20	

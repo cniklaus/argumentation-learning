@@ -1,0 +1,15 @@
+T1	Claim 28 111	Ganz ehrlich Geile Idee, die Bezahlung an Tankstellen mittels App zu automatisieren
+T2	Premise 113 276	Dies nimmt nicht nur den Tankstellen die Unsicherheit, dass der Tankende ohne Bezahlung abfährt, sondern auch den Flottenmanagern die lästige Arbeit der Abrechnung
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 278 376	Ist das erste wirklich innovative Geschäftsmodell, welches im Rahmen dieses Kurses reviewen konnte
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 397 453	Betreffend Mitbewerber sind Deine Informationen veraltet
+T5	Premise 455 524	Mittlerweise gibt es zahlreiche Anbieter von SpritpreisvergleichsApps
+T6	Premise 526 793	Die Preise kommen dabei heutzutage zum allergrössten Teil nicht mehr von den Usern, sondern werden automatisch von der sogenannten Markttranzparenzstelle des Bundeskartellamtes übermittelt, welche die Daten wiederum von den Tankstellen automatisch übermittelt bekommt
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 795 860	Würde ich entsprechend ändern in deiner Geschäftsfeldbeschreibung
+R3	supports Arg1:T5 Arg2:T4	
+R5	supports Arg1:T4 Arg2:T7	
+T8	Claim 884 1010	Dein Produkt in Kombination mit einem FahrtenbuchProgramm und / oder mit einem FlottenmanagementSystem würde es perfekt machen
+T9	Premise 1012 1215	Dafür müsstest Du diese zusätzlichen Features nicht zwangsläufig selber bereitstellen, sondern könntest mittels einer Schnittstelle dein Produkt mit entsprechend existierenden Lösungen verknüpfbar machen
+R6	supports Arg1:T9 Arg2:T8	

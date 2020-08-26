@@ -1,0 +1,23 @@
+T1	Claim 68 133	Die Geschäftsidee wurde kompakt und sehr verständlich beschrieben
+T2	Claim 142 214	wurde die Struktur gut beibehalten und die Lösung vollständig bearbeitet
+T3	Claim 318 372	mir dir Abgrenzung der Geschäftsfelder nicht ganz klar
+T4	Premise 374 456	Ich verstehe nicht was mit den Prozentzahlen bei dem Budget der Kunden gemeint ist
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 458 652	Es ist auch nicht ganz klar warum bei der Marktleistung zwischen Fast Fashion Marken, Premium Marken und Luxusmarken unterschieden wird, aber danach nur noch von Fast Fashion Marken geredet wird
+R2	supports Arg1:T5 Arg2:T3	
+T6	Claim 662 761	würde ich bei der qualitativen Beschreibung die Markleistung ausführlicher, bzw. exakter definieren
+T7	Premise 768 873	die Marktleistung ist nicht nur Erkennung von mistmögliche Kleidung sondern es gibt ja auch mehr Features
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 883 953	würde ich mir Gedanken machen was ich mit den alten Kollektionen mache
+T9	Premise 960 1009	die Leute tragen nicht nur die neuen Kollektionen
+T10	Premise 1014 1150	stellt sich bei mir die Frage was mache ich wenn ein User ein Kleidungsstück fotografiert und sucht, dass aus einer alten Kollektion ist
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 1152 1187	Kann er/sie es dann trotzdem kaufen
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 1253 1380	Bei ersten Punkt, sollte einfach geklärt werden was die Zahlen bedeuten und der Fokus auf die Fast Fashion Marken gelegt werden
+T13	Claim 1380 1513	Bei zweiten Punkt sollte die Beschreibung auch auf die anderen Features wie z.B. Community, Folgen von Model, usw. eingegangen werden
+T14	Premise 1513 1575	Letztlich ist es wichtig sich über eine Lösung Gedanken machen
+T15	Premise 1582 1668	anstatt alte ware wegzuschmeissen diese zu Lagern und über deine Platform zu verkaufen
+T16	Claim 1670 1730	Diese fehlende Lösung könnte als Schwäche hinzugefügt werden
+R6	supports Arg1:T14 Arg2:T16	
+R7	supports Arg1:T15 Arg2:T14	

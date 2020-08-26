@@ -1,0 +1,19 @@
+T1	Claim 92 124	das ist eine erstklassige Lösung
+T2	Premise 126 303	Man sieht deutlich an der Qualität und dem Detailgrad der abgearbeiteten Punkte, dass du viel Zeit und Fleiss in die Umsetzung der Übung auf dein Geschäftsmodell investiert hast
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 367 447	Sehr präzise Ausarbeitung der Kundensegmente inkl. Aufzeigen der Gemeinsamkeiten
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 452 554	Relevanten Umweltbedingung deutlich erläutert und entsprechend in der SWOT Analyse wieder aufgegriffen
+R3	supports Arg1:T4 Arg2:T2	
+T5	Premise 560 588	Aussagekräftige SWOT Analyse
+R4	supports Arg1:T5 Arg2:T2	
+T6	Claim 703 729	finde ich die Lösung super
+T7	Premise 747 789	konnte ich nicht viele Schwächen entdecken
+R5	supports Arg1:T7 Arg2:T6	
+T8	Claim 791 947	Ein Punkt der mir aufgefallen ist welcher ich aber als ein allgemeines Problem der SWOT Analyse ansehe ist die Ableitung von Massnahmen von der SWOT Analyse
+T9	Premise 949 1083	Vielleicht solltest du die Massnahmen noch mehr an die Erkenntnisse der SWOT Analyse richten, um die Konsistenz der Lösung zu steigern
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 1290 1361	Schwäche Keine persönliche Kontaktperson für die Kundin oder den Kunden
+T11	Premise 1365 1444	efahr Viele Kunden und Kundinnen benötigen das Leistungsangebot nur sehr selten
+T12	Claim 1456 1579	Kontinuierliche Umsatzgenerierung anhand von Sekundärdienstleistungen welcher der Kunde auch benötig, wenn er nicht umzieht
+R7	supports Arg1:T11 Arg2:T12	

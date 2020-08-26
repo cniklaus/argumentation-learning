@@ -1,0 +1,12 @@
+T1	Claim 10 95	Es ist dir gelungen, die Prozesse übersichtlich, einfach und funktional aufzuzeichnen
+T2	Claim 102 168	hast du das Prinzip von e3 Value verstanden und richtig angewendet
+T3	Claim 208 273	Die vielen verschiedenen Begriffe für das Gleiche sind verwirrend
+T4	Premise 275 322	Aufträge, Ladegerät, Innovation, Dienstleistung
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 337 454	ist daher auch nicht klar, ob Schreiner, Möbelhändler und Kunde das gleiche Produkt bekommen oder jeder etwas anderes
+R2	supports Arg1:T5 Arg2:T3	
+T6	Premise 461 568	ich habe ja auch sehr wenige Informationen, allenfalls wäre das ja auch aufgrund des Geschäftsmodelles klar
+R3	attacks Arg1:T6 Arg2:T3	
+T7	Premise 569 630	Bei deiner Darstellung fehlt der senario path indentification
+T8	Claim 632 650	Dies noch ergänzen
+R4	supports Arg1:T7 Arg2:T8	

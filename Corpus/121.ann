@@ -1,0 +1,10 @@
+T1	Claim 18 74	Sehr detailierte Ausführung des gesamten Geschäftsmodell
+T2	Claim 76 173	Was ich besonders gut finde ist wie du die Vorteile der Tankstellen aufzeigst, wenn sie mitmachen
+T3	Premise 175 209	Das ist für mich DER Erfolgsfaktor
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 247 350	Bei Umwelt/Technologisches Umfeld ist meines Erachtens noch das Thema mobile Payment mit hineinzunehmen
+T5	Premise 352 471	Mobile Payment hat sich vor allem im DACHRaum noch nicht durchgesetzt und dürfte auch ein kritischer Erfolgsfaktor sein
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 472 529	Weitere Kernkompetenz ist bestimmt das Account Management
+T7	Premise 552 640	der Erfolg der App auch stark davon ab ob grosse Tankstellengruppen mitmachen oder nicht
+R3	supports Arg1:T7 Arg2:T6	

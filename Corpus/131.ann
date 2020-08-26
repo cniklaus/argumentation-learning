@@ -1,0 +1,13 @@
+T1	Claim 10 90	Hi!e3Value Network die Darstellung ist sehr übersichtlich und methodisch korrekt
+T2	Premise 92 372	Die Darstellung des Value Networks lässt erahnen, dass die Zahlung von den Basis und PremiumPrivatkunden direkt an die Geschäftskunden z.B. Migros, Powerfood etc. erfolgt, jedoch sollte die Zahlung ja über die Plattform abgewickelt werden und indirekt beimGeschäftskunden eingehen
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Premise 374 459	Der PremiumPrivatkunde zahlt wie der BasisPrivatkunden ebenfalls noch mit Kundendaten
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 461 561	Servicepartner sollte vielleicht auf der Zeichnung noch mit ein paar Beispielen konkretisiert werden
+T5	Premise 567 606	Rezeptanbieter, Ernährungsberater, etc.
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 627 698	gute Einleitung mit der kurzen Umschreibung deiner Idee, sehr hilfreich
+T7	Claim 700 742	Tipp Integration von Smart HomeAnwendungen
+T8	Premise 748 817	Kühlschrank, der automatisch über die Plattform Produkte nachbestellt
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 819 872	Wo ist der Mehrwert gegenüber bestehenden Plattformen

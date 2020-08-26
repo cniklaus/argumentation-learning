@@ -1,0 +1,35 @@
+T1	Claim 18 87	KurzCharakteristika Präzise und gute Beschreibung deines Unternehmens
+T2	Claim 128 168	Sauber gewählte strategische Ausrichtung
+T3	Claim 224 261	Struktur und Umfang der Lösung passen
+T4	Claim 263 313	Eine der besten Ideen, die ich bisher gesehen habe
+T5	Premise 315 356	Ich denke, hier schlummert viel Potential
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 367 424	Formelles Könnte etwas übersichtlicher dargestellt werden
+T7	Premise 431 473	Zeilenabstände nach einzelnen Punkten etc.
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 474 547	Umwelt / Technologie Teils zu grosse Ausschweifung auf irrelevante Themen
+T9	Premise 549 606	Was hat Berlin und London mit deiner Geschäftsidee zu tun
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 608 656	Du bewegst dich in der deutschsprachigen Schweiz
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 658 770	Kundengruppe Einerseits sprichst du von handwerklichen Unternehmen, andererseits von Startups Umwelt/Technologie
+T12	Premise 772 861	Kannst das ja gut für beide Gruppen machen, jedoch würde ich das dann auch so formulieren
+R5	supports Arg1:T12 Arg2:T11	
+T13	Claim 863 996	Strategische Ausrichtung Der Fokus auf Firmenanpassung statt Firmengründungen kommt im übrigen Teil deiner Lösung zu wenig klar rüber
+T14	Premise 998 1064	Du argumentierst im einen Teil ja, dass immer mehr gegeründet wird
+T15	Premise 1066 1162	Der Wachstumstreiber/Erfolgstreiber wäre dann aber nicht Neugründungen sondern Firmenanpassungen
+R7	supports Arg1:T15 Arg2:T14	
+T16	Premise 1170 1252	finde ich auch den beschriebenen Dauerrabatt für Neugründungen etwas problematisch
+R6	supports Arg1:T14 Arg2:T16	
+R8	supports Arg1:T16 Arg2:T13	
+T17	Claim 1314 1363	schaue dir doch die Kommaregeln nochmals etwas an
+T18	Premise 1365 1425	In der Arbeitswelt wird oftmals noch viel Wert darauf gelegt
+R9	supports Arg1:T18 Arg2:T17	
+T19	Premise 1427 1506	Mit relativ wenig Aufwand, kannst du so dein schriftliches Auftreten verbessern
+R10	supports Arg1:T19 Arg2:T17	
+T20	Claim 1515 1582	gibt es einige Rechtschreibefehler bezüglich Gross  Kleinschreibung
+T21	Premise 1584 1704	Falls du das Assignment im Stress geschrieben hast, und die Fehler dadurch entstanden sind, ignoriere bitte diesen Punkt
+R11	attacks Arg1:T21 Arg2:T20	
+T22	Claim 1711 1830	Ich denke nicht, dass es ein winner takes it allMarkt ist. Es gibt ja auch nicht nur eine Anwaltskanzlei für Gründungen
+T23	Premise 1832 1893	Wieso sollte es nicht mehrere verschiedene OnlinePlayer geben
+R12	supports Arg1:T23 Arg2:T22	

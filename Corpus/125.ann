@@ -1,0 +1,7 @@
+T1	Claim 24 54	finde ich alles korrekt gelöst
+T2	Claim 64 136	Eine etwas ausführlichere Beschreibung des Geschäftsmodells würde helfen
+T3	Premise 142 226	verstehe ich nicht wie mit den Behörden als Plattform zusammengearbeitet werden kann
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 229 291	an muss sich ja nur An und Abmeldung und das leider persönlich
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 293 367	VerbesserungenAlle Texte in dieselbe Richtung, PDF als Querformat einfügen

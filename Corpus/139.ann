@@ -1,0 +1,15 @@
+T1	Claim 17 107	Säuberlich durchgeführte Beschreibung und Abgrenzung des Geschäftsfelds analog zur Vorlage
+T2	Claim 110 142	ichtige KEF wurden identifiziert
+T3	Claim 152 291	Um bei den Kunden eine hohe Akzeptanz zu erreichen, wird eine erste Barriere eingebaut, bei der die Software nur online bezogen werden kann
+T4	Premise 293 338	Inwiefern wird hierdurch Akzeptanz geschaffen
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 339 428	Bei der SWOTAnalyse werden Chancen, Gefahren, Stärken und Schwächen miteinander vermischt
+T6	Claim 452 632	Bei der Unterteilung der Geschäftskunden wäre es evt. hilfreicher, nicht nach der Anzahl Mitarbeiter zu unterscheiden, sondern nach der Anzahl von Vertragspartnern des Unternehmens
+T7	Premise 634 722	Zwei gleich grosse Unternehmen können hier je nach Branche grosse Unterschiede aufweisen
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 723 817	Möglicherweise wäre die Nutzung der BlockchainTechnologie geeignet zur Abwicklung der Verträge
+T9	Premise 819 895	hier gibt es besonders viel Potential für Sicherheit und Manipulationsschutz
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 897 959	analog wie die Blockchain bspw. für Wahlen genutzt werden kann
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 960 1190	Bei der SWOTAnalyse zunächst die interne Strengths  Weaknesses und die externe Opportunities Threats Analyse getrennt durchführen und auf dieser Basis für die verschiedenen Felder der Matrix SO, ST, WO  WT die Strategien festlegen

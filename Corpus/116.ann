@@ -1,0 +1,17 @@
+T1	Claim 68 105	DasGeschäftsfeldwurde gut beschrieben
+T2	Premise 112 235	empfinde ich die Idee der SpecialOffers welche Rabatte geben, um eine optimaleAuslastung zu gewähren alserfolgsentscheidend
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 393 442	Die Konkurrenz könnte noch mehr analysiert werden
+T4	Premise 444 517	Esgibtzurzeit schon sehr viele Plattformen, welche diesesService anbieten
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 524 589	die Restaurants selber sollten als Mitbewerbern betrachtet werden
+T6	Premise 594 635	viele selber online Buchungen ermöglichen
+R3	supports Arg1:T6 Arg2:T5	
+R4	supports Arg1:T5 Arg2:T4	
+T7	Claim 697 754	Wenn das noch nicht der Fall ist, könnte man es einführen
+T8	Premise 636 695	Mir war nicht klar, ob man als User ein Konto kreieren muss
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 756 840	Somit könnte man vermeiden, dass die Kunden nicht hingehen wenn sie reserviert haben
+R6	supports Arg1:T9 Arg2:T7	
+T10	Premise 841 924	Es wäre möglich, dass zu verfolgen Denn dies ist auch problematisch in dem Business
+R7	supports Arg1:T10 Arg2:T9	

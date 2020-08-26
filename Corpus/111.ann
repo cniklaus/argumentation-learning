@@ -1,0 +1,16 @@
+T1	Claim 17 74	Klare Idee, prägnante Beschreibung des gesamten Dokuments
+T2	Premise 74 229	Finde es sehr gut, dass du bei der qual. Beschreibung / Mitbewerber darauf eingehst, welche Schwächen dein ausländischer Konkurrent im Vergleich zu dir hat
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 262 287	Vorgabe war max. 3 Seiten
+T4	Claim 290 349	kürze ein wenig ab, damit du die formalen Vorgaben erfüllst
+R2	supports Arg1:T3 Arg2:T4	
+T5	Premise 353 490	Abgrenzung des Geschäftsfeldes / Budget der Kunden verstehe ich nicht genau, was mit unterste 40 des durchschn. Preises genau gemeint ist
+T6	Claim 492 530	evtl. kannst du das anders formulieren
+R3	supports Arg1:T5 Arg2:T6	
+T7	Premise 531 599	was ist bei Marktleistungen mit Kontakt mit Modehäuser genau gemeint
+T8	Claim 601 642	Wäre gut, wenn du das genauer beschreibst
+R4	supports Arg1:T7 Arg2:T8	
+T9	Claim 642 806	Bei der qual. Beschreibung deiner Marktleistung würde ich nicht nur Erkennung von meistmögliche Kleidungen schreiben sondern ein wenig detaillierter, 12 ganze Sätze
+T10	Premise 813 955	Erkennung von Kleidern durch Fotografieren sowie Anzeige von Kaufmöglichkeiten derselben oder einer ähnlichen Marke inkl. Lieferung nach Hause
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 955 1142	Bei Massnahmen / Aufbau von Kundenbindung Massnahmen würde ich genau sagen, was. z.B. Credits sammeln pro geschossenes Foto, welche man später gegen Rabatt eintauschen kann / Gamification

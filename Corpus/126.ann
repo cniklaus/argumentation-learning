@@ -1,0 +1,11 @@
+T1	Claim 10 55	insgesamt vollständig und leicht verständlich
+T2	Premise 56 91	Beziehung zu Behörden etc. ist klar
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 92 224	Beziehung zwischen Portal und Partnerunternehmen könnte noch konkretisiert werden hier meine ich insbes. die monetären Transaktionen
+T4	Premise 225 360	Soweit ich es verstehe zahlt das Partnerunternehmen eine Nutzungsgebühr und erhält dafür Informationen, den Auftrag und eine Abrechnung
+T5	Premise 362 421	Ist diese Abrechnung eine Zahlung an das Partnerunternehmen
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T4 Arg2:T3	
+T6	Premise 423 498	Sonst würde dieses ja gar nicht für die Umzugsdienstleistung bezahlt werden
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 500 593	Je nach Geschmack könntest du die Umzugsdienstleistungen noch in 23 Stichworten aufschlüsseln

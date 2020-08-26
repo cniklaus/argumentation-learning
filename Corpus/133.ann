@@ -1,0 +1,15 @@
+T1	Claim 71 159	Gute und übersichtliche Darstellung, denke auch die Anspruchsgruppen sind alle vorhanden
+T2	Premise 160 372	Evt. vielleicht noch das Grundbuchamt oder der Staat, bei welchem einfachgründen.ch die Gründung im Namen des Kunden melden könnte, damit dies einfacher und aus einer Hand von statten geht und korrekt dargestellt
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Claim 472 550	Zwischen einfachgründen.ch und den Kunden gibt es keinerlei direkte Verbindung
+T4	Premise 552 579	Wie treten diese in Kontakt
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 581 733	Über die Plattform nehme ich an  dann würden zumindest die Informationen bereitgestellt im Austausch gegen Kundendaten, welche dann weitergegeben werden
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 735 801	Es sind eigentlich nur die ergänzenden Dienstleistungen abgebildet
+T7	Claim 923 999	Ich würde noch eine Verbindung zwischen Kunde und einfachgründen.ch ergänzen
+T8	Premise 1001 1093	Der Szenario Pfad verläuft offensichtlich schon entlang einer Verbindung zwischen den Beiden
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1097 1210	In der Kurzbeschreibung hat es noch kleine grammatikalische Fehler, welche eventuell noch kurz zu verbessern sind
+T10	Premise 1212 1248	Fall nach erstem Komma, Drittanbiete
+R5	supports Arg1:T10 Arg2:T9	

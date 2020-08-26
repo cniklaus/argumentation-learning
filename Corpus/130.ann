@@ -1,0 +1,18 @@
+T1	Claim 17 103	Grundsätzliche logisches Value Network, welches die wichtigsten Akteure berücksichtigt
+T2	Claim 105 183	er Syntax des e3ValueModells scheint überall korrekt angewendet worden zu sein
+T3	Premise 204 277	wurde keine Unterscheidung zwischen normalen und stacked Akteuren gemacht
+R1	attacks Arg1:T3 Arg2:T2	
+T4	Premise 284 329	der rote Szenariopfad wurde nicht dargestellt
+R2	attacks Arg1:T4 Arg2:T2	
+T5	Premise 336 460	bei der Schnittstelle zwischen dem Tankstellenbetreiber wird ein 3PortInterface verwendet, obwohl bloss 2 Ports besetzt sind
+R3	attacks Arg1:T5 Arg2:T2	
+T6	Premise 467 564	fehlt meiner Meinung nach die Einbindung der Affiliates, mit welchen die App beworben werden soll
+R4	attacks Arg1:T6 Arg2:T2	
+T7	Premise 671 790	der Einbau des Stacked Actor Shapes bei allen Akteuren ausser My Tankstelle und die Skizzierung des roten Szenariopfads
+T8	Claim 591 656	Verbesserung würde ich die Verbesserung der Schwächen vorschlagen
+R5	supports Arg1:T7 Arg2:T8	
+T9	Premise 798 890	können die Affiliates ebenfalls eingebaut werden vgl. S. 31 aus der entsprechenden Vorlesung
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 891 994	Allgemein würde ich die Verwendung von Microsoft Visio empfehlen und das e3ValueModell neu darzustellen
+T11	Premise 999 1048	es doch einige darstellungstechnische Fehler gibt
+R7	supports Arg1:T11 Arg2:T10	

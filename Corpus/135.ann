@@ -1,0 +1,31 @@
+T1	Premise 104 151	du das e3value Modell insgesamt verstanden hast
+T2	Premise 153 231	Du hast die wichtigsten Akteure identifiziert und korrekt in Beziehung gesetzt
+T3	Premise 273 323	du die meisten Value Exchange korrekt benannt hast
+T4	Claim 326 393	Insgesamt eine saubere Lösung für ein sehr komplexes e3value Modell
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T1	
+R3	supports Arg1:T1 Arg2:T4	
+T5	Claim 493 543	Schwäche deiner Lösung ist die formale Korrektheit
+T6	Premise 545 589	Da haben sich ein paar Fehler eingeschlichen
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 593 665	Ein Value Interface soll jeweils nicht ganz im Kasten / Akteur drin sein
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 671 717	Möbelhersteller, Kunden, Schreiner, Zulieferer
+R6	supports Arg1:T8 Arg2:T7	
+T9	Claim 720 814	Leider erkenne ich kein Stimulus, den hast du wohl vergessen und müsstest ihn noch einzeichnen
+R7	supports Arg1:T9 Arg2:T6	
+T10	Premise 816 864	Der Stimulus beginnt und endet jeweils im Kasten
+R8	supports Arg1:T10 Arg2:T9	
+T11	Premise 867 948	Mehrere Akteure zusammengefasst, müssen als mehrere Kästchen eingezeichnet werden
+R9	supports Arg1:T11 Arg2:T9	
+T12	Claim 1125 1188	solltest du die Fehler welche ich angesprochen habe, ausbessern
+T13	Premise 1206 1254	der Stimulus beginnt und endet jeweils im Kasten
+R10	supports Arg1:T13 Arg2:T12	
+T14	Claim 1297 1366	Aufträge zwischen Schreiner und Indugration für mich kein Sinn ergibt
+T15	Premise 1368 1404	Dann eher die Übergabe des Produktes
+T16	Premise 1406 1528	Oder, der Kunde bezahlt direkt bei Indugration, welche dem Schreiner nachher den Privatauftrag für den Kunden weiterleitet
+R11	supports Arg1:T15 Arg2:T14	
+R12	supports Arg1:T16 Arg2:T14	
+T17	Premise 1530 1630	Dann müsste der Bestellvorgang oder das Geld direkt zu Indugration gelangen und eingeziechnet werden
+R13	supports Arg1:T17 Arg2:T16	
+R14	supports Arg1:T17 Arg2:T15	

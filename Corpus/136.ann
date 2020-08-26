@@ -1,0 +1,7 @@
+T1	Claim 21 78	Ich fand die Kurzbeschreibung hilfreich und sehr prägnant
+T2	Claim 82 143	Die Übersichtlichkeit der e3valueModellierung gefiel mir sehr
+T3	Premise 188 286	Mir ist aufgefallen, dass bei der e3valueModellierung der rote Pfad, falls er den so heisst, fehlt
+T4	Premise 287 324	siehe z.B. Folie 33 aus der Vorlesung
+T5	Claim 326 374	Dieser sollte wahrscheinlich noch ergänzt werden
+R1	supports Arg1:T4 Arg2:T3	
+R2	supports Arg1:T3 Arg2:T5	

@@ -1,0 +1,17 @@
+T1	Claim 68 133	Die Geschäftsidee wurde kompakt und sehr verständlich beschrieben
+T2	Claim 142 214	wurde die Struktur gut beibehalten und die Lösung vollständig bearbeitet
+T3	Claim 221 291	die strategische Ausrichtung und die Massnahmen sind gut ausgearbeitet
+T5	Premise 416 475	Dieser ist für die Lösung nicht relevant, aber nice to have
+T6	Claim 484 531	ist die Kundenbeschreibung ein wenig verwirrend
+T4	Claim 390 414	fehlt mir der Firmenname
+R1	supports Arg1:T5 Arg2:T4	
+T7	Premise 553 593	ist eine solche Trennung nicht notwendig
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 600 651	die Kunden Segmente sich immer überschneiden werden
+T9	Premise 652 700	Wollen nicht alle bei Umzug Geld und Zeit sparen
+R3	supports Arg1:T9 Arg2:T8	
+R4	supports Arg1:T8 Arg2:T7	
+T10	Claim 767 831	ei ersten Punkt, sollte einfach ein Firmenname ausgewählt werden
+T11	Claim 831 896	Bei zweiten Punkt sollte die Kundensegmentierung überdacht werden
+T12	Premise 917 999	können meiner Meinung nach die zwei Kundensegmente zu einer Zusammengefasst werden
+R5	supports Arg1:T12 Arg2:T11	

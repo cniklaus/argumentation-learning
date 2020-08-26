@@ -1,0 +1,2 @@
+review536
+Stärken    Ich fand die Kurzbeschreibung hilfreich und sehr prägnant.   Die Übersichtlichkeit der e3valueModellierung gefiel mir sehr.    Schwächen und Verbesserungsvorschläge   Mir ist aufgefallen, dass bei der e3valueModellierung der rote Pfad, falls er den so heisst, fehlt siehe z.B. Folie 33 aus der Vorlesung. Dieser sollte wahrscheinlich noch ergänzt werden.

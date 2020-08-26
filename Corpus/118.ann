@@ -1,0 +1,13 @@
+T1	Claim 12 45	Deine Lösung gefällt mir sehr gut
+T2	Claim 47 116	Die Geschäftsmodelbeschreibung ist logisch aufgebaut und verständlich
+T3	Claim 124 247	merkt man, dass du dir ausreichend Gedanken zu den einzelnen Mitbewerbern und Abhängigkeiten der Marktleistung gemacht hast
+T4	Claim 336 525	Marktleistungen Die Bespannungsdienstleistung wird sicherlich die primäre Leistung des Geschäftsmodells sein, jedoch könnten an dieser Stelle kurz weitere Marktleistungen beschrieben werden
+T5	Premise 527 568	Gehört bspw. die Vermarktung der App dazu
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 575 772	KurzCharakteristika ihres Unternehmens Das Ziel und die Vorteile deiner ConvenienceLösung werden gut beschrieben, jedoch fehlt eine kurze Erklärung dazu, was EasySait dem Kunde als Service anbietet
+T7	Premise 774 879	Es wäre hilfreich, wenn du kurz den konkreten Ablauf der Bespannungsdienstleistung zusammenfassen würdest
+R2	supports Arg1:T7 Arg2:T6	
+T8	Premise 885 1111	Stärken SWOT Ein signifikanter Vorteile deiner Lösung muss die Schnelligkeit der Bespannung des Tennisrackets sein, sonst könnte die Gefahr bestehen, dass sich ein Kunde nicht die Mühe macht, das Racket auf die Post zu bringen
+T9	Claim 1113 1182	Die exakte Durchlaufzeit könnte noch etwas konkreter beziffert werden
+R3	supports Arg1:T8 Arg2:T9	
+T10	Claim 1191 1268	Die oben genannten Punkte noch etwas zu konkretisieren resp. auszuformulieren

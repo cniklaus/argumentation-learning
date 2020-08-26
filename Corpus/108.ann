@@ -1,0 +1,17 @@
+T1	Claim 17 147	In der Darstellung wurden alle wichtigen Interaktionen aufgezeigt und es wird verständlich, wer mit wem in welcher Beziehung steht
+T2	Claim 153 200	die Kurzbeschreibung ist an sich sehr schlüssig
+T3	Claim 202 336	Ich würde diesbezüglich aber etwas detaillierter auf die verschiedenen Rollen der Akteure und auch Interaktion zwischen ihnen eingehen
+T4	Claim 342 399	der Aspekt mit den Werbefirmen finde ich sehr interessant
+T5	Premise 401 477	ich frage mich allerdings, ob dieselbe schlussendlich die Nachfrage bedienen
+T6	Premise 479 543	Oder machen diese lediglich die Werbung für spezifische Produkte
+T7	Claim 545 616	Dies könntest du allenfalls noch etwas ausführen resp. genauer erklären
+R1	supports Arg1:T6 Arg2:T7	
+R2	supports Arg1:T5 Arg2:T7	
+T8	Claim 674 762	Ich frage mich, ob die Kunden nicht auch in einer Beziehung mit den Social Medias stehen
+T9	Premise 767 859	dieselben ja eigentlich auch Informationen sammeln müssen, um die dann weitergeben zu können
+T10	Claim 860 930	Bei dem Akteur Plattformen wären, so viel ich meine, mehrere Rechtecke
+T11	Premise 935 1040	sie in lediglich einer Beziehungen stehen siehe dazu Folie 31 aus der Vorlesung 5 Wertschöpfungsnetzwerke
+R4	supports Arg1:T11 Arg2:T10	
+R3	supports Arg1:T9 Arg2:T8	
+T12	Claim 1047 1261	fehlt die rote Linie, welche den Prozessablauf symbolisiert und mit einem StartStimulus anfängt meistens beim Kunden und mit einem Endstimulus endet siehe dazu Folie 28 aus der Vorlesung 5 WertschöpfungsnetzwerkeIm
+T13	Claim 1262 1318	Grossen und Ganzen wurde die Aufgabe jedoch super gelöst

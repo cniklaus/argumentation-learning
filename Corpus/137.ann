@@ -1,0 +1,31 @@
+T1	Claim 50 60	Tolle Idee
+T2	Claim 62 74	Tolle Arbeit
+T3	Premise 76 193	Von allen Kommilitonen, die ich bisher beurteilen musste, ist deine Ausarbeitung die detaillierteste und aufwändigste
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 418 507	Bei Kundensegmente würde ich die SubSegmente gemäss SinusMilieus vollständig ausschreiben
+T5	Premise 509 533	Diverse ist nichtssagend
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 544 713	Kurz Charakteristika Ihres Unternehmens  Sehr gut verständliche und detaillierte Ausführungen. Besonders die fetthervorgehobenen Hauptaussagen vereinfachen den Lesefluss
+T7	Claim 715 804	Vor dem letzten Satz ist zwischen dem Punkt und Dabei ein Leerschlag / Abstand einzufügen
+T8	Premise 817 899	Qualitative Beschreibung  Auch hier ist die Qualität deiner Ausarbeitung sehr hoch
+T9	Premise 934 986	du konkrete Mitbewerber und deren Produkte aufzählst
+T10	Claim 988 1055	Man merkt, dass du dich intensiv mit deiner Lösung beschäftigt hast
+R3	supports Arg1:T9 Arg2:T8	
+R4	supports Arg1:T8 Arg2:T10	
+T11	Claim 1104 1179	Beim Punkt Mitbewerber ist im ersten Satz wahrscheinlich klein zu schreiben
+T12	Claim 1183 1261	Lediglich die ökologische Sicht fehlt mir bei deiner qualitativen Beschreibung
+T13	Premise 1263 1363	U.U. könnte WEorganiseyourtrip auf Wunsch des Kunden besonders umweltfreundliche Reisen organisieren
+R5	supports Arg1:T13 Arg2:T12	
+T14	Premise 1365 1493	Oder man könnte im Sinne eines TripleBottomLine Ansatzes bei der Leistungserbringung Programmieren etc. auf ÖkoStrom setzen o.ä.
+R6	supports Arg1:T14 Arg2:T12	
+T15	Premise 1516 1549	Die SWOTAnalyse ist dein 6. Punkt
+T16	Premise 1551 1602	Im Dokument ist er aber als Punkt 5 gekennzeichntet
+T17	Claim 1604 1636	Dies gilt es noch zu korrigieren
+R7	supports Arg1:T15 Arg2:T17	
+R8	supports Arg1:T16 Arg2:T17	
+T18	Claim 1639 1739	Der Aufbau der Plattform und der Aufbau des Brands sind meiner Meinung nach keine internen Schwächen
+T19	Premise 1741 1782	Sie sind höchstens unausweichliche Fakten
+R9	supports Arg1:T19 Arg2:T18	
+T20	Premise 1784 1866	Ein Schwäche könnte beispielsweise deine Unerfahrenheit als Entrepreneur sein o.ä.
+R10	supports Arg1:T20 Arg2:T18	
+T21	Claim 1902 2021	Vertriebspolitik Falls deine Plattform auch als App angeboten wird, sind hier die jeweiligen AppStores noch zu erwähnen

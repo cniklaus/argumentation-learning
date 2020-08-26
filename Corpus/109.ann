@@ -1,0 +1,27 @@
+T1	Claim 18 43	gute Einleitung zu Beginn
+T2	Premise 45 76	Man weiss direkt um was es geht
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 78 129	Den vorgegebenen Rahmen von drei Seiten eingehalten
+T4	Claim 131 178	Keine unnötigen Ausführungen und Verlängerungen
+T5	Claim 189 234	gute und detaillierte Abarbeitung des Schemas
+T6	Claim 236 270	Praktisch keine inhaltliche Lücken
+T7	Claim 279 329	Ich finde die Kundensegmente nicht optimal gewählt
+T8	Premise 331 396	Entweder Möbelhersteller und Endkunden oder Gross und Kleinkunden
+R2	supports Arg1:T8 Arg2:T7	
+T9	Premise 398 464	Wenn Du eine Mischung von beidem willst, musst Du es umformulieren
+R3	supports Arg1:T9 Arg2:T7	
+T10	Premise 466 505	So wie beider qualitativen Beschreibung
+R4	supports Arg1:T10 Arg2:T9	
+T11	Claim 571 664	Eventuell noch hervorstreichen was die Vorteile sind in Vergleich zu einer normalen steckdose
+T12	Premise 671 732	wenn man möbel machen würde die einfach eine steckdose hätten
+R5	supports Arg1:T12 Arg2:T11	
+T13	Claim 734 823	Was ist mit der Gefahr, dass Induktionsaufladegeräte in Möbel nicht mehr gebraucht werden
+T16	Premise 1044 1093	Wäre es nicht sinnvoll umgekehrt zu argumentieren
+T17	Premise 1095 1157	Wer ist bereit viel Geld für eine bessere Steckdose auszugeben
+R6	supports Arg1:T17 Arg2:T16	
+T18	Premise 1159 1314	Wäre es nicht interessanter günstig zu produzieren und dafür möglichst aggressiv den Markt penetrieren und versuchen so viele Möbel wie möglich auszurüsten
+R7	supports Arg1:T18 Arg2:T16	
+T19	Premise 833 963	in Büros und Unis neben Steckdosen standardmässig Aufladestationen installiert werden was billiger ist als in Möbel zu integrieren
+R8	supports Arg1:T19 Arg2:T13	
+T14	Claim 964 1042	Du sagst Deine Strategie ist Qualität zu liefern. Preis ist da nur zweitrangig
+R9	supports Arg1:T16 Arg2:T14	

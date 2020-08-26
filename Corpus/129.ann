@@ -1,0 +1,19 @@
+T1	Claim 10 52	Sehr ÜberzeugendeGeschäftsfeldbeschreibung
+T2	Premise 53 170	Seh überzeugend finde ich vor allem Gezielter Fokus auf eine Branche mit Hinweis auf Wichtigkeit der Branchenkenntnis
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 171 311	Allgemein die Geschäftsidee kenne die Branche aus eigener Erfahrung und weiss wie viel Energie  Geld für solche Produkte verschwendet werden
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 356 433	Kundensegmente Hier würde ich ev. genauer auf die einzelnen Segmente eingehen
+T5	Premise 440 615	anhand von Segmenierungskriterien diese genauer definieren analog dem Bsp Mitbewerber Hier sollten meiner Meinung nach die klassischen Anbieter von solchen Produkten auch rein
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 617 717	Wenn du eigene Lager etc. haben willst, konkurrenzierst du auch mit diesen um den Distributionskanal
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 718 824	Kritische Erfolgsfaktoren Dort würde ich Punkte wie funktionierende Anbindung an KundenERP auch reinnehmen
+T8	Claim 825 875	Chancen Fast unendlich finde ich etwas übertrieben
+T9	Claim 876 1016	Allgemein Wäre es eine Idee, zuerst nur ITLösungen zur Lagerbewirtschaftung anzubieten und erst dann selber in die Distribution einzusteigen
+T10	Premise 1018 1077	Ich sehe bei Punkten wie Distributionsnetz langsam aufbauen
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 1079 1106	eigenes Lieferantennetzwerk
+T12	Premise 1108 1232	Eigene Fahrzeugflotte und wachsendes Hubsystem eigene Lager seeehr hohe Kosten und ein riesiges Risiko für den Markteintritt
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1233 1251	Sonst wirklich top

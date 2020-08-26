@@ -1,0 +1,21 @@
+T1	Claim 14 132	Mir gefällt deine Idee und ich glaube, dass sie einigen Leuten helfen kann und auch somit einen großen Absatzmarkt hat
+T2	Claim 134 270	Sehr gut gefällt mir, dass du wirklich alle Akteure in deinem e3 Diagramm aufgenommen hast vom App Store bis zu den software Unternehmen
+T3	Premise 277 343	ist deine Unternehmung klar der Zentrale Punkt in diesem Ökosystem
+T4	Claim 351 423	hast du sicherlich eine gewisse Marktmacht gegenüber den anderen Playern
+R1	supports Arg1:T3 Arg2:T4	
+T5	Claim 469 556	im Text beschreibst du wie der Kunde deine Unternehmung für die Kleidungsstücke bezahlt
+T6	Premise 558 612	Ich kann jedoch im Diagramm keinen bezahl Pfeil finden
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 615 676	es gibt bei dir einige Pfeile die nur in eine Richtung laufen
+T8	Premise 687 710	Von AppStore zum Kunden
+T9	Premise 712 799	So wie ich die Methode verstanden habe muss aber immer eine Austauschbeziehung bestehen
+T10	Premise 801 857	Füge z.b. Vom Kunden zum AppStore Download der App hinzu
+T11	Premise 860 916	die orangenem Rahmen und Nummern sind mir nich ganz klar
+T12	Premise 918 957	Ist das die Abfolge des kundenprozesses
+T13	Claim 958 1028	Vielleicht kannst du die genannten Punkte noch etwas klarer darstellen
+R3	supports Arg1:T12 Arg2:T11	
+R4	supports Arg1:T11 Arg2:T13	
+R6	supports Arg1:T8 Arg2:T7	
+R7	supports Arg1:T9 Arg2:T7	
+R8	supports Arg1:T10 Arg2:T13	
+R5	supports Arg1:T7 Arg2:T10	

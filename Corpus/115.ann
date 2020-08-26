@@ -1,0 +1,21 @@
+T1	Claim 10 141	Die kurze Einführung ist sehr gut fürs Verständnis und hilft dem Leser die e3 Value Methode deines Unternehmens besser zu verstehen
+T2	Claim 143 183	Grundsätzlich ist die Aufgabe gut gelöst
+T3	Premise 185 229	Man versteht die einzelnen Vorgänge sehr gut
+R1	supports Arg1:T3 Arg2:T2	
+T5	Premise 403 449	Einerseits wird die App zur Verfügung gestellt
+T6	Premise 451 502	Andererseits muss der Kunde die App auch downloaden
+T7	Claim 504 592	Hier würde ich daher noch einen Pfeil von den Kunden zu Applestore / Google Play anfügen
+R2	supports Arg1:T6 Arg2:T7	
+R3	supports Arg1:T5 Arg2:T7	
+T4	Claim 839 880	würde ich diesen Pfeil anders beschreiben
+T8	Premise 610 727	Wenn ich das richtig verstanden habe, erhalten die Kunden die Kleider nicht von SnapWish sondern von Drittunternehmen
+T9	Premise 735 831	ist meines Erachtens der Pfeil von Snapwish zu kunde Entsprechendes Kleidungsstück nicht richtig
+R4	supports Arg1:T8 Arg2:T9	
+R5	supports Arg1:T9 Arg2:T4	
+T10	Premise 882 926	Es fehlt ein Pfeil, der die Bezahlung regelt
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 928 982	Derzeit ist nicht klar, wie die Kleider bezahlt werden
+T12	Claim 990 1032	würde ich noch ein Pfeil Bezahlung anfügen
+R7	supports Arg1:T11 Arg2:T12	
+T13	Premise 1034 1128	Dabei muss man überlegen ob man den Betrag SnapWish überweist oder gleich dem DrittUnternehmen
+R8	supports Arg1:T13 Arg2:T11	

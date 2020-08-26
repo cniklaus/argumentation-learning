@@ -1,0 +1,28 @@
+T1	Claim 68 156	Insgesamt finde ich es eine gute Lösung die dine Geschäftsmodell stringent widerspiegelt
+T2	Premise 215 290	Du hast alle relevante Parteien involviert und deren Beziehungen aufgezeigt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 291 333	Die Beziehungen sind logisch und stringent
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 334 454	Die hast die einzelnen Elemente in einer Separaten Slide nochmals ausformuliert was die Lösung viel verständlicher macht
+R3	supports Arg1:T4 Arg2:T3	
+T5	Claim 625 716	Du hast Teils Value Interfaces die weissen Balken mit nur einem Value Port schwarzen Punkte
+T6	Premise 718 802	Meinem Verständnis nach sollte jede Value Interface mindestens zwei Value Port haben
+T7	Premise 807 852	eine Partei immer etwas gibt und etwas erhält
+R4	supports Arg1:T7 Arg2:T6	
+R5	supports Arg1:T6 Arg2:T5	
+T8	Premise 863 963	Bereitstellung der App geht vom App Store zum Kunden der Kunde gibt aber dem App Store nichts zurück
+R6	supports Arg1:T8 Arg2:T7	
+T9	Premise 965 1036	Das gleiche mit der Beziehung Vermittlungsgebühr auf Einkauf von Kunden
+R7	supports Arg1:T9 Arg2:T7	
+T10	Premise 1043 1119	dem Lieferanten fehlt jeweils das Gegenstück zum Austausch der Kleiderstücke
+R8	supports Arg1:T10 Arg2:T7	
+T11	Claim 1120 1168	Am sonsen hast du alle formalen Regeln eingalten
+T12	Claim 1326 1366	würde ich noch zwei Beziehungen ergänzen
+T13	Premise 1367 1391	Vom Kunden zum App Store
+R9	supports Arg1:T13 Arg2:T12	
+T14	Premise 1397 1464	Kunden Informationen Beim Lieferant definieren wie er Geld verdient
+R10	supports Arg1:T14 Arg2:T13	
+T15	Premise 1466 1508	Der Kunde sollte für die Kleider bezahlten
+R11	supports Arg1:T15 Arg2:T14	
+T16	Premise 1510 1611	Du solltest durch die Beziehungen klar machen wie der Lieferant und die Modehäuser ihr Geld verdienen
+R12	supports Arg1:T16 Arg2:T12	

@@ -1,0 +1,35 @@
+T1	Claim 10 38	Allgemein Gute Business Idee
+T2	Premise 40 117	Intransparenz im Gastronomiegeschäft ist ein Bedürfnis der Restaurantbesucher
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 120 181	Abgrenzung des GeschäftsfeldesGute Beschreibung der Tätigkeit
+T4	Claim 184 235	KurzCharakteristika Ihres UnternehmensAuch sehr gut
+T5	Premise 237 267	Sehr detaillierte Beschreibung
+R2	supports Arg1:T5 Arg2:T4	
+R3	supports Arg1:T5 Arg2:T3	
+T6	Premise 270 297	Qualitative BeschreibungGut
+R4	supports Arg1:T6 Arg2:T3	
+R5	supports Arg1:T6 Arg2:T4	
+T7	Premise 299 345	Ich frage mich jedoch Wieso nur in der Schweiz
+T8	Premise 347 400	Was macht die Schweiz so attraktiv für diesen Service
+T9	Premise 402 517	Aufgrund der sehr eingeschränkten Öffnungszeiten scheint mir die Schweiz sogar tendenziell eher unattraktiv zu sein
+R7	supports Arg1:T9 Arg2:T8	
+T10	Premise 519 550	Wieso nicht in mehreren Ländern
+T11	Claim 552 572	Vielleicht erläutern
+R6	supports Arg1:T8 Arg2:T7	
+R8	supports Arg1:T10 Arg2:T7	
+R9	supports Arg1:T7 Arg2:T11	
+T12	Claim 573 651	Mitbewerber Integrierte Preisdiskriminierung vielleicht etwas genauer erklären
+T13	Claim 654 682	Kritische ErfolgsfaktorenGut
+T14	Claim 685 795	KernkompetenzenDer Aufbau eines breiten Netzwerk an Restaurants scheint mir weniger eine Kernkompetenz zu sein
+T15	Premise 797 829	Ist ja auch schon bei 4. erwähnt
+R10	supports Arg1:T15 Arg2:T14	
+T16	Claim 832 869	SWOTAnalyseSchwächen sehr gut erkannt
+T17	Claim 870 929	Mögliche Gefahren vielleicht noch die leichte Kopierbarkeit
+T18	Claim 932 985	Strategische AusrichtungPreispolitik gefällt mir sehr
+T19	Premise 987 1025	Jedoch scheint mir 9 sehr hoch zu sein
+R11	attacks Arg1:T19 Arg2:T18	
+T20	Premise 1027 1079	sollte vielleicht eher zwischen 1 und 3 Prozent sein
+R12	supports Arg1:T20 Arg2:T19	
+T21	Premise 1081 1161	Welcher Restaurantbesitzer wäre wohl bereit auf 10 seines Umsatzes zu verzichten
+R13	supports Arg1:T21 Arg2:T20	
+T22	Claim 1164 1182	MassnahmenSehr gut
