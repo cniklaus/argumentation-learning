@@ -1,0 +1,29 @@
+T1	Premise 11 153	Customer Jobs Was meiner Meinung nach hier die Schwierigkeit ist Jeder Kunde hat individuelle Bedürfnisse, welche von Erwartungen geprägt sind
+T2	Premise 161 200	hat auch jeder Kunde wieder andere Jobs
+T3	Premise 202 260	So gut wie kein Kunde will genau den gleichen Event buchen
+T4	Claim 262 414	Aus diesem Grund ist es schwierig, spezifische Customer Jobs zu formulieren wie Räumlichkeit buchen, Catering organisieren, Einladungen verschicken etc.
+R1	supports Arg1:T1 Arg2:T4	
+R2	supports Arg1:T2 Arg2:T1	
+R3	supports Arg1:T3 Arg2:T1	
+T5	Claim 416 510	Die etwas allgemeine Formulierung müsste man meiner Meinung nach hier noch etwas spezifizieren
+T6	Claim 520 594	Die Pains einer Eventplanung hast du meiner Meinung nach sauber formuliert
+T7	Claim 596 650	Man könnte die Pains noch mit dem Suchaufwand ergänzen
+T8	Premise 655 692	noch keine solche Plattform existiert
+T9	Premise 694 757	ist der Suchaufwand nach Location, dem besten Caterer etc enorm
+R4	supports Arg1:T8 Arg2:T9	
+R5	supports Arg1:T9 Arg2:T7	
+T10	Claim 761 903	Gains sprachliche Kritik ohne sich auf unserer Website problemlos zurechtzufinden ich denke das wolltest du wahrscheinlich anders rüberbringen
+T11	Claim 915 986	könnte man die Gains noch durch die Erreichbarkeit der Hotline ergänzen
+T12	Premise 988 1081	Durch dieses Feature der Plattform verkommt das Angebot beinahe zur persönlichen Eventagentur
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1085 1248	Product  services Ich stelle mir bei diesem Punkt die Frage, wie die Plattform auf die individuellen Bedürfnisse, für die es noch kein Angebot gibt, reagieren kann
+T14	Premise 1250 1328	Kann man dann die Hotline anrufen und man kriegt eine massgeschneiderte Lösung
+R7	supports Arg1:T14 Arg2:T13	
+T15	Premise 1335 1477	gibt es ein Tool, wo man die Bedürfnisse anbringen kann und das von anderen Plattformbenutzern gegengelesen werden kann um Lösungen anzubieten
+R8	supports Arg1:T15 Arg2:T13	
+T16	Claim 1481 1571	Pain Relievers Ich denke wichtig ist, die Erwartungen der Eventbucher richtig einzustellen
+T17	Premise 1573 1681	Sind die Erwartungen anders, treffen einige der Pains zu, auch wenn das restliche Angebot super geklappt hat
+R9	supports Arg1:T17 Arg2:T16	
+T18	Premise 1683 1735	Videos und Bewertungen können da sicher unterstützen
+R10	supports Arg1:T18 Arg2:T16	
+T19	Claim 1757 1854	hast du das Werteversprechen nicht formuliert, was auch Teil der Aufgabe gewesen wäre laut Folien

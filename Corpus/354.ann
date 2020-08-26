@@ -1,0 +1,37 @@
+T1	Claim 69 113	Die Lösungspricht einen Pain der Senioren an
+T2	Premise 114 232	In seinen Grundprinzipien ist GPS Smart Senior eineErweiterungvon Google Mapsmit Adaptoon auf ein klares Kundensegment
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 234 396	DieseIdee befriedigt das Bedürfnis, die Sicherheit und Flexibilität der Senioren im öffentlichen Verkehr zu bewegen, damit sie auch im hohen Alter noch mobil sind
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 398 510	Hinsichtlich Form des Geschäftsmodells bleibt zu sagen, dass die Beschreibung des Geschäftsmodells gut aufgebaut
+T5	Premise 515 595	jede Funktion des Apps anhand eines Pains oder Gains beispielshafterläutert wird
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 602 671	bezüglich Inhalt deckt das Business Modell Canvas wichtige Aspekte ab
+T7	Premise 673 806	Die Value Proposition, die Kundenbeziehung sowie die Kundensegmente finde ich passend umschrieben und beinhalten die relevanten Infos
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 808 939	Die Features des Notfallknopfs oder der Überwachung finde ich sehr interessant und können einen wahren Mehrwert des Apps darstellen
+R5	supports Arg1:T8 Arg2:T7	
+T9	Claim 1032 1226	Eine Schwäche sehe ich darin, dass zwar mit dem Geschäftsmodell einen Pain des Kundensegments Seniorenangesprochen wird, aber die Handhabung für nichtdigitale Senioren sehr schwierig sein könnte
+T10	Premise 1228 1410	Dadurch sehe ich vor allem in der Umsetzung einige Hindernisse aus Erfahrung sind ältere Menschen nicht so digital, wodurch der Umgang mit einem Smartphone sehr schwierig sein könnte
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 1412 1513	Vielleicht gäbe es da einige Ideen, wie die Handhabung dieses Apps vereinfacht werden könnte siehe 3.
+R7	supports Arg1:T11 Arg2:T9	
+T12	Claim 1514 1656	Je nach weiterer Definition des Geschäftsmodells,müsste das noch im Business Modell Canvasunter den jeweiligen Attributenberücksichtigt werden
+T13	Claim 1657 1787	Aus dem Business Modell Canvas wird zudem nicht ganz ersichtlich, wie genau die Aufteilung zwischenEigenproduktion und Einkauf ist
+T14	Claim 1855 1942	Für dieÜberarbeitunghabe ich die folgenden Punkte anzumerken Einfachheit der Handhabung
+T15	Premise 1958 2077	könnte diesem Problem entgegen gewirkt werden, dass das Angebot mit einem Einführungskurs für Senioren ausgeweitet wird
+R8	supports Arg1:T15 Arg2:T14	
+T16	Premise 2085 2151	würden die Senioren den Umgang mit Smartphone und der App erlernen
+R9	supports Arg1:T16 Arg2:T15	
+T17	Premise 2158 2215	ein telefonischer Kundendienst könnte Unterstüzung bieten
+R10	supports Arg1:T17 Arg2:T14	
+T18	Premise 2217 2253	Oder eine sehr einfache Eingabehilfe
+R11	supports Arg1:T18 Arg2:T14	
+T19	Premise 2255 2313	Da könnte sicher die Kundenbeziehung noch erweitert werden
+R12	supports Arg1:T19 Arg2:T14	
+T20	Premise 2317 2478	detailliertere Definition des Revenuestreams und der Kostenstruktur, Key Resources welche Kosten fallen durch den Zukauf an, welche Kosten werden inhouseerichtet
+T21	Claim 2480 2522	Hier sollte eine klare Abgrenzung erfolgen
+R13	supports Arg1:T20 Arg2:T21	
+T23	Premise 2589 2678	Sind die Senioren bereit für ein App zu bezahlen nebst den kostenlosenKonkurrenzangeboten
+T22	Claim 2553 2587	womit erzielt man genau den Umsatz
+R14	supports Arg1:T23 Arg2:T22	

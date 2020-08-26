@@ -1,0 +1,18 @@
+T1	Claim 11 115	Ich finde die Idee gut der Aspekt einer Lösung aus einer Hand, bzw. one face to the customer ist gegeben
+T2	Claim 117 171	Die Geschäftsmodellidee wurde sorgfältig ausgearbeitet
+T3	Premise 173 295	Es ist ein klarer Nutzen für den Kunden vorhanden, für welchen meiner Meinung nach eine Zahlungsbereitschaft bestehen wird
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 296 364	Im Business Model Canvas könnte man die Kundengruppen klarer trennen
+R2	supports Arg1:T4 Arg2:T2	
+T5	Premise 366 478	Zum einen sind es ja die Personen, welche eine Reise/Fahrt suchen, zum anderen sind es Anbieter des Ridesharings
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 480 552	Beide Gruppen haben unterschiedliche Interessen in der Benutzung der App
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 554 693	Die Value Proposition ist vollständig, könnte jedoch nach den beschriebenen beiden Gruppen sortiert und so anschaulicher dargestellt werden
+T8	Claim 695 800	Gleichzeitig stellt sich die Frage, ob die Anbieter des Ridesharings nicht eher Partner sind statt Kunden
+T9	Claim 812 997	würde ich mir bei den Customer Segments eine konkretere Beschreibung der Zielgruppen wünschen, wie sie in der Freitextbeschreibung bereits vorhanden ist moderne, mobile Individuen, etc.
+T10	Claim 998 1260	Schliesslich habe ich folgende Denkanstösse optional für das Geschäftsmodell evtl. könnte man auch eine Kooperation mit Mobility > Partner anstreben ich bezweifle ob es schlau ist, den Anbietern vom Ridesharing direkt bei der Buchung schon das Geld zu überweisen
+T11	Premise 1262 1310	Welchen Anreiz haben sie dann noch, aufzutauchen
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 1312 1446	verbunden mit dem letzten Punkt braucht es wahrscheinlich einen stärkeren Fokus auf ein Bewertungssystem der Anbieter des Ridesharings
+T13	Claim 1517 1673	Value Proposition klarer trennen nach Nutzer Anbieter des Ridesharings eher bei Partners aufführen Customer Segments konkretere Beschreibung der Zielgruppen

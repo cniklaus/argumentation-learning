@@ -1,0 +1,29 @@
+T1	Claim 73 197	Die Lösung richtet sich nach dem Ansatz von Oesterle und Senger 2011 und will eine unterstützende Serviceleistung darstellen
+T2	Premise 199 402	ProductSoul ergänzt dabei bestehende Angebote und stellt nicht nur Wert für die Konsumenten sondern auch für die zahlreichen Unternehmen dar, welche die verlinkten Produkte bzw. Dienstleistungen anbieten
+T3	Premise 406 534	Ein zusätzlicher Nutzen ist die gezielte Zurverfügungstellung von Informationen rund um die Produkte und die Erinnerungsfunktion
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 536 619	So muss der Konsument nicht für jedes Produkt bzw. jede Marke eine App installieren
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 624 694	ihm bei ProductSoul alles kompakt in einer App verpackt geliefert wird
+R4	supports Arg1:T5 Arg2:T4	
+T6	Claim 696 806	All diese Features können tatsächlich die Wahrscheinlichkeit eines Zusatzkaufs bzw. Wiederholungskaufs erhöhen
+T7	Claim 809 938	BMC Key Partners wurden ausführlich und vollständig aufgeführt und auch die Value Proposition für die Endkonsumenten ist sehr gut
+T8	Claim 940 1016	Gleichzeitig wurde eine sinnvolle Lösung bzgl. dem Revenue Stream erarbeitet
+T9	Claim 1115 1187	Wettebewerbsvorteile Es wird kein direkter Bezug zur Konkurrenz genommen
+T10	Premise 1189 1442	Dabei kann aufgezeigt werden, dass die aktuellen Konkurrenten Händler und Hersteller, welche eigene App anbieten möchten zu Partnern transformieren können Händler und Hersteller erklären sich dazu bereit, ihre Informationen in ProductSoul zu integrieren
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1445 1693	Mulitsided Platform/Kundensegment Die Lösung im BMC zeigt zwar auf, dass auch Händler und Hersteller zu den Kunden gehören, jedoch wurde für diese keine spezifische Value Proposition formuliert und entsprechende Relationships und Channels definiert
+T12	Claim 1695 1735	Diese Angaben können noch ergänzt werden
+R6	supports Arg1:T11 Arg2:T12	
+T13	Premise 1738 1839	Netzwerk Der Wert dieser Lösung nimmt mit der Anzahl involvierter Unternehmen sowie Endkonsumenten zu
+T14	Claim 1841 1980	So stehen vor allem Kosten für die Sales an und auch die Channels zu Konsumenten und Unternehmen müssen ergänzt und intensiv genutzt werden
+R7	supports Arg1:T13 Arg2:T14	
+T15	Premise 1982 2058	Dies ist in der vorliegenden Lösung noch nicht genügend ausgearbeitet worden
+R8	supports Arg1:T15 Arg2:T14	
+T16	Claim 2206 2309	In erster Linie muss die Lösung um die Value Proposition für die Händler und Unternehmen ergänzt werden
+T17	Claim 2311 2395	Logischerweise muss gleichzeitig der gesamte BMC dementsprechend überarbeitet werden
+T18	Claim 2409 2463	sollte ein Fokus auf die Netzwerkeffekte gelegt werden
+T19	Claim 2465 2645	Es würde sich auch anbieten, den Endkonsumenten die Möglichkeit zu geben, Erfahrungsberichte und Bewertungen zu den einzelnen Produkten, Informationen und Dienstleistungen zu geben
+T20	Premise 2650 2830	können sie selber Content schaffen, die anderen Konsumenten bei Kaufentscheiden mit relevanten Informationen unterstützen und den Unternehmen gleichzeitig wertvolles Feedback geben
+R9	supports Arg1:T20 Arg2:T19	

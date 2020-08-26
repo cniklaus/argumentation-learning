@@ -1,0 +1,22 @@
+T1	Claim 11 63	Die Idee hinter portal gefällt mir ausgesprochen gut
+T2	Premise 65 220	Die Integration verschiedener Transportmittel in eine Plattform ist aus meiner Sicht ein richtiger Schritt in einem immer unübersichtlicher werdenden Markt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 222 330	Besonders gut gefällt mir dabei, dass neue Mobility Konzepte wie Uber und Mitfahrzentralen integriert wurden
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 339 418	finde ich die Idee des Kundenprofils mit vorhandenen Abos und Präferenzen super
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 419 480	Etwas kritisch sehe ich die enorme Komplexität deines Modells
+T6	Premise 482 583	Wie du es in deinem Geschäftsmodell erwähnt hast, sind Partner für ein solches Vorhaben unentbehrlich
+T7	Premise 585 697	Es stellt sich mir somit die Frage, welche Anreize die Mobilitäts/ GPSanbieter hätten, um mit dir zu kooperieren
+R4	supports Arg1:T6 Arg2:T7	
+T8	Claim 699 755	Vielleicht könnte man diese noch etwas genauer ausführen
+R5	supports Arg1:T7 Arg2:T8	
+T9	Claim 756 817	Der Revenue Stream ist meiner Meinung auch noch nicht optimal
+T10	Premise 819 959	Gerade wenn Du auch Flüge vermitteln möchtest, könnten die pauschal berechneten 5 schnell die Zahlungsbereitschaft vieler Kunden übertreffen
+R6	supports Arg1:T10 Arg2:T9	
+T11	Premise 961 1045	Alternative Finanzierungsquellen könnten vielleicht Werbung oder ein Abonnement sein
+R7	supports Arg1:T11 Arg2:T9	
+T12	Claim 1061 1129	würde ich noch empfehlen dein Canvas Modell einheitlich zu gestalten
+T13	Premise 1130 1192	Durchgehend mit oder ohne Bullet Points  einheitliche Abstände
+R8	supports Arg1:T13 Arg2:T12	
+T14	Claim 1226 1277	Grundsätzlich finde ich die Idee, wie gesagt, super

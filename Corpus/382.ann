@@ -1,0 +1,34 @@
+T1	Claim 76 109	Die Idee ist klar und gut erklärt
+T2	Claim 111 124	Name ist cool
+T3	Claim 126 176	Ich würde gern die Lösung für mich selbst benutzen
+T4	Premise 178 225	Revenue streams sind auch im Text ziemlich klar
+R1	supports Arg1:T4 Arg2:T1	
+T5	Claim 228 292	Du hast der Business Model Canvas gut verstanden und gut benutzt
+T6	Premise 294 377	Es gibt viele verschieden Stichwörter, die auch aufs Postits benutzt werden könnten
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 475 573	Der Text fokussiert zu viel auf die Idee und nicht genug auf den anderen Teilen der Business Model
+T8	Premise 575 650	Wer sind die Partners, Resources, Channels, ... Was ist dein Cost Structure
+T9	Premise 652 680	Das sollte auch im Text sein
+R3	supports Arg1:T9 Arg2:T8	
+R4	supports Arg1:T8 Arg2:T7	
+T10	Claim 683 731	Value proposition im Canvas ist nicht klar genug
+T11	Premise 733 786	Vielleicht könntest du auch mehr Stichwörter benutzen
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 958 1131	Es sollte ein TextVersion der Business Model Canvas sein nicht nur eine Beschreibung der Idee aber du solltest auch ein Fokus auf Key Partners, Activities, Resourcen,  haben
+T13	Premise 1137 1262	Felht im Text Key Partners, Key Activities, Key Resources, Channels, Customer Segments, Cost Structure es kann auch kurz sein
+R6	supports Arg1:T13 Arg2:T12	
+T14	Premise 1274 1441	Statt Dann ist Drive2fun genau die richtige Anwendung für Sie!, schreib Drive2fun ist genau die richtige Anwendung für Geschäftsreisende, Ferienreisende mit wenig Zeit
+R7	supports Arg1:T14 Arg2:T13	
+T15	Claim 1447 1493	Was heisst Eintritt für Unternehmen in die App
+T16	Premise 1495 1553	Das ist interessant, du könntest etwas mehr dazu schreiben
+R8	supports Arg1:T16 Arg2:T15	
+T17	Claim 1585 1635	Key Activities  Machst du kein Sales und Marketing
+T18	Claim 1642 1691	Key Resources  Vielleicht könntest du IP addieren
+T19	Premise 1693 1732	Das ist eine wichtige Resource für Apps
+R9	supports Arg1:T19 Arg2:T18	
+T20	Claim 1738 1794	Value Proposition  du solltest mehr Stichwörter benutzen
+T21	Claim 1796 1857	Der erste Satz ist eine Beschreibung der App, nicht ein Value
+T22	Claim 1859 1939	Für deine Idee sehe ich auch time saving as value Newspaper selfreading function
+T23	Claim 1945 1972	Customer Relationships  gut
+T24	Claim 1977 1990	Channels  gut
+T25	Claim 1995 2042	Customer Segments  Sei ein bisschen mehr Präzis

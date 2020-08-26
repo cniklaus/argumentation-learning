@@ -1,0 +1,25 @@
+T1	Claim 23 121	Das Geschäftsmodell ist eine offene Plattform, die tatsächlich die Rolle eines Assistenten annimmt
+T2	Claim 133 196	sind die wesentlichen Grundzüge des WellBeing mitberücksichtigt
+T3	Premise 198 270	Das Konzept stellt eine klare Komplexitätsreduzierung für den Nutzer dar
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 275 345	dem Kunden die administrativen Hürden bei einer Reise minimiert werden
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 347 481	Der Kunde muss nicht mehr auf diversen Portalen einzelne Aspekte einer Reise buchen, sondern kann alles zentral auf Tripster erledigen
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 497 624	wird klar aufgezeigt wie Tripster als Knotenpunkt zwischen dem Kunden und den Anbietern diverser Reisedienstleistungen fungiert
+T7	Premise 632 685	nimmt Tripster die Rolle einer zentralen Plattform an
+R4	supports Arg1:T6 Arg2:T7	
+R5	supports Arg1:T7 Arg2:T2	
+T8	Claim 688 770	Der Canvas wurde stichwortartig ausgefüllt, ohne aber an Aussagekraft zu verlieren
+T9	Premise 772 865	Auf jede Komponente wird genau eingegangen und der Leser kann mühelos die Idee nachvollziehen
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 867 980	Am interessantesten finde ich, dass die Plattform an sich simpel funktioniert und auch durchaus realisierbar wäre
+T11	Claim 996 1033	ist die Ertragssystematik interessant
+T12	Premise 1038 1131	Bestandteile aus bereits existierenden Lösungen kombiniert wurde PremiumAccount, Werbeerträge
+R7	supports Arg1:T12 Arg2:T11	
+T13	Claim 1249 1317	ch finde, dass evtl. die Ertragsstruktur noch offene Fragen aufwirft
+T14	Premise 1319 1583	Beispielsweise wurde nicht berücksichtigt, ob die Werbung in der Plattform die Zufriedenheit der Kunden negativ beeinflussen könnte oder ob die Tatsache, dass die Werbeeinnahmen die Haupteinnahmequelle sind, sich negativ auf die Lösungsvorschläge auswirken könnten
+R8	supports Arg1:T14 Arg2:T13	
+T15	Premise 1585 1754	Erhält der Kunde sein individuelles Angebot anhand seiner tatsächlichen Bedürfnisse oder schlägt ihm Tripster bevorzugt Angebote vor, für die sie Werbeeinnahmen erhalten
+R9	supports Arg1:T15 Arg2:T14	
+T16	Claim 1788 1946	Eventuell könnte man die Plattform noch breiter gestalten in dem man beispielsweise weitere Angebote miteinbezieht Airbnb, zentrales Tool für VisaGesuche etc.

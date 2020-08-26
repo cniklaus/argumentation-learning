@@ -1,0 +1,11 @@
+T1	Claim 11 100	Die Geschäftsidee der MountFactor finde Ich insgesamt sehr interessant und potenzialreich
+T2	Claim 102 209	Eine der Stärke ist sicher, dass ein klares Ziel entwickelt wurde, die sich auf ein genaues Problem richtet
+T3	Claim 220 328	dank diese LockInVermeidung können Kunden viel mehr Produkte auswählen, die vorher nicht hinzuziehen könnten
+T4	Premise 330 374	Das ist sicher ein gutes Beitrag an Mehrwert
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 415 535	Ich nicht ganz gut verstehen könnte was die Kernkompetenz der Mountfactor ist und von wo eigentlich das Geschäft startet
+T6	Premise 537 613	Ist es das Produkt sich selbst oder die zentrale Verwaltung durch das System
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 656 813	Du solltest meiner Meinung nach nochmals deine Geschäftsidee durchschauen und ein klares Startpunkt finden, bei dem dein Geschäftsmodell sich dann verbreitet
+T8	Premise 815 989	Ich denke, dass wenn Du das erreichst, wird es für die Weiterentwicklung deiner Geschäftsidee einfacher sein, neue erfolgsversprechende Lösungsansätze bzw. Elemente zu finden
+R3	supports Arg1:T8 Arg2:T7	

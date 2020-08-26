@@ -1,0 +1,50 @@
+T1	Premise 181 188	Erfüllt
+T2	Premise 190 222	Inhalte abgeliefert und sinnvoll
+T3	Claim 52 167	Aufgabe Skizzieren Sie das für Ihr Geschäftsmodell zentrales Wertversprechen mit Hilfe des Value Proposition Canvas
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T1 Arg2:T3	
+T4	Premise 224 246	Gesamteindruck ist gut
+R3	supports Arg1:T4 Arg2:T3	
+T5	Premise 259 314	Die Beispiele bei den Pains unterstreichen die Relevanz
+R4	supports Arg1:T5 Arg2:T3	
+T6	Premise 317 376	ie Pains sind in sich gut verständnlich und nachvollziehbar
+R5	supports Arg1:T6 Arg2:T3	
+T7	Premise 378 489	Es wurden ebenfalls alle Dimensionen beschrieben und die einzelnen Elemente scheinen plausibel und verständlich
+R6	supports Arg1:T7 Arg2:T3	
+T8	Premise 491 542	Die Sätze sind korrekt geschrieben und ergeben Sinn
+R7	supports Arg1:T8 Arg2:T7	
+T9	Premise 544 590	Erwähnung des Market Maker Model finde ich gut
+R8	supports Arg1:T9 Arg2:T3	
+T10	Premise 592 666	Ein innovatives Konzept mit vielen Details und Funktionen wurde erschaffen
+R9	supports Arg1:T10 Arg2:T3	
+T11	Premise 668 740	Mehrmals sind bereits in dieser Aufgabe Wellbeing Ansätze berücksichtigt
+R10	supports Arg1:T11 Arg2:T3	
+T12	Claim 744 833	Schwäche/n Die Aktivitäten Jobs sind vorallem auf die entstehenden Bedürfnisse gerichetet
+T13	Premise 855 966	sollten diese eher aktuelle Aktivitäten Jobs der potenziellen Kunden sein Was macht der Kunde, sowieso heute...
+R11	supports Arg1:T13 Arg2:T12	
+T14	Premise 968 1017	Erst die Gains oder Pains adressieren Bedürfnisse
+R12	supports Arg1:T14 Arg2:T13	
+T15	Claim 1036 1152	Möglicherweise ein fokussiertes Vorgehen und nur auf die Beantwortung der Kernfrage der einzelnen Teile Bezug nehmen
+T16	Premise 1154 1217	Nicht zu viel umschreiben und in wiederholenden Sätzen erwähnen
+R13	supports Arg1:T16 Arg2:T15	
+T17	Premise 1219 1372	Die Methode zum CANVAS wäre, dass kurze prägnante Sätze oder Wörter Postit  strukturiert  bloss einmal und in konkreten Zusammenhängen geschrieben werden
+R14	supports Arg1:T17 Arg2:T16	
+T18	Claim 1438 1575	Eventuell können Pains und Pain Relievers sowie Gain und Gain Creators nacheinander aufgelistet und möglicherweise sogar verknüpft werden
+T19	Premise 1577 1685	Das erneute erwähnen von Pains in den Pain Relievers ist nicht nötig, wenn die Pain Relievers direkten Bezug
+R15	supports Arg1:T19 Arg2:T18	
+T20	Premise 1692 1742	nummeriert oder zumind. ordinal aufgelistet nehmen
+R16	supports Arg1:T20 Arg2:T19	
+T21	Claim 1744 1846	Die mehrfach verwendete Kollikation zeitliche Kosten oder ähnlich würde ich präzisieren oder weglassen
+T22	Claim 1850 1895	Aufgabe Ausformulierung der Value Proposition
+T23	Premise 1909 1922	Nicht erfüllt
+R17	supports Arg1:T23 Arg2:T22	
+T24	Premise 1927 1958	keine Ausformulierung vorhanden
+R18	supports Arg1:T24 Arg2:T23	
+T25	Premise 1962 2020	Stärke/n    Schwäche/n Ausformulierung wurde nicht gemacht
+R19	supports Arg1:T25 Arg2:T24	
+T26	Premise 2040 2146	In den Folien wurde eine ausformulierte Value Proposition gezeigt Beispiel für eine gute Value Proposition
+R20	supports Arg1:T26 Arg2:T22	
+T27	Premise 2148 2231	Diese und natürlich die anderen zu reviewenden Lösungen können als Grundlage dienen
+R21	supports Arg1:T27 Arg2:T26	
+T28	Premise 2233 2379	Inhalte sollten sein Problem benennen, quantifiziert, Benefits aufzeigen, beispielhafte Einsparung zeigen, Vorteile ggü Wettbewerbern aufzeigen...
+R22	supports Arg1:T28 Arg2:T27	

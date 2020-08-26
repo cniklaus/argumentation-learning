@@ -1,0 +1,28 @@
+T1	Claim 11 74	Dein Werteversprechen ist meiner Meinung nach sauber formuliert
+T2	Claim 75 126	Das Problem, welches deine Idee löst, wurde benannt
+T3	Claim 135 263	wurde der Nutzen hervorgehoben, man findet den Duft, welcher wirklich zum Individuum passt und fällt nicht auf eine Werbung rein
+T4	Claim 265 295	Die langwierige Suche entfällt
+T5	Claim 297 409	Der Wettbewerbsvorteil viel grösserer Kundennutzen gegenüber dem herkömmlichen Angebot ist ebenfalls aufgelistet
+T6	Premise 411 496	Gegenüber möglichen Imitatoren ist ein solcher Wettbewerbsvorteil jedoch verschwunden
+T7	Claim 498 596	Dann ist das Knowhow der Experten das einzige Kriterium, welches das Angebot differenzieren könnte
+R1	supports Arg1:T6 Arg2:T7	
+T8	Claim 598 638	Einsparungen werden ebenfalls aufgezeigt
+T9	Premise 643 716	man nicht aufgrund von Werbung ein überteuertes unpassendes Produkt kauft
+R2	supports Arg1:T9 Arg2:T8	
+T10	Claim 744 933	bei den Customer Jobs fehlt Was muss der Kunde auch bei deiner Lösung selbst erarbeiten wie werden die Vorlieben des Kunden von PerfuMe identifiziert Fragebogen ausfülllen, Beispiele zeigen
+T11	Premise 935 1004	Wie ist er in den Prozess der Eigenkompositioneserstellung integriert
+R3	supports Arg1:T11 Arg2:T10	
+T12	Claim 1008 1184	Gains Nicht nur das bessere Gefühl verhilft zu einem Gain, auch die Zeitersparnis, individuelle Beratung und das Sicherfühlen beim Kauf stellen meiner Meinung nach ein Gain dar
+T13	Claim 1187 1369	Product  Services War ich hier noch nicht ganz verstehe Kann der Kunde bei der Flaschengrösse, Branding, Flacon auch bei bestehendem Sortiment Gestaltungsmöglichkeiten geltend machen
+T14	Premise 1371 1424	Ist das bestehende Sortiment demnach selbstentwickelt
+T15	Premise 1426 1514	Ansonsten müsste man ja bestehende Parfume neu branden, was rechtlich problematisch wäre
+R4	supports Arg1:T15 Arg2:T14	
+R5	supports Arg1:T14 Arg2:T13	
+T16	Claim 1516 1607	Weiter stellt sich in dieser Sparte die Frage, wie man zur kundenspezifischen Auswahl kommt
+T17	Premise 1609 1702	Geschieht diese Selektion über eine Applikation, oder über individuelle Beratung mit Experten
+R6	supports Arg1:T17 Arg2:T16	
+T18	Claim 1704 1790	Gain Creators/Pain Relievers Hier musst du meiner Meinung nach etwas spezifischer sein
+T19	Premise 1792 1826	Wie genau werden die Gains kreiert
+R7	supports Arg1:T19 Arg2:T18	
+T20	Premise 1828 1986	Wieso ist das Einkaufserlebnis des Kunden verbessert, durch individuelle Beratung, durch Zeitersparnis, oder einzig allein durch den besseren Fit des Produkts
+R8	supports Arg1:T20 Arg2:T19	

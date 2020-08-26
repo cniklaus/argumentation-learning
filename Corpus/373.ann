@@ -1,0 +1,18 @@
+T1	Claim 13 82	Die Idee zum SBCA zeigt deutlich den well being Aspekt der Lösung auf
+T2	Claim 95 180	trifft die Idee genau den Nerv der Zeit und könnte für Unternehmen sehr wertvoll sein
+T3	Claim 186 244	Zum einen ist der Fliesstext insb. die Einleitung zu lange
+T4	Premise 246 292	Dieser könnte noch knackiger formuliert werden
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 293 377	Bezogen auf das Business Model Canvas scheint mir das Raster sehr dürftig ausgefüllt
+T6	Premise 379 429	Hier sollten nochmals Überlegungen getätigt werden
+T7	Premise 436 575	umfasst das Customer Segment nicht nur die Arbeitgeben, denn auch die Arbeitnehmer sind Kunden deren Bedürfnisse mit der App bedient werden
+R2	supports Arg1:T7 Arg2:T6	
+R3	supports Arg1:T6 Arg2:T5	
+T8	Claim 576 604	Die Lösung scheint mir B2B2C
+T9	Claim 616 664	sind auch die Key Partners dürftig ausformuliert
+T10	Premise 666 726	hier fehlen z.B. Architekten zur Erstellung der 3D Raumpläne
+R4	supports Arg1:T10 Arg2:T9	
+T11	Premise 727 834	Unter Umständen müsste auch überlegt werden, ob man nicht auch bereits bestehende Büromöbel nachrüsten kann
+R5	supports Arg1:T11 Arg2:T9	
+T12	Claim 835 1040	Customer Relationship scheint mir auch eindimensional, man hat schliesslich auch die Arbeitgeber als Kunden, die ggf. von Informationen profitieren können und für die das Feedback wertvoll sein könnte etc.
+T13	Claim 1040 1146	Generell eine gute Business Idee, die man in einem 2. Schritt noch wesentlich konkreter ausarbeiten müsste

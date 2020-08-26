@@ -1,0 +1,17 @@
+T1	Claim 71 124	Klient.io schafft tatsächlich Mehrwert für den Kunden
+T2	Premise 129 161	es ein reales Problem adressiert
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 164 226	Die Lösung unterstützt zudem die alltägliche Arbeit des Kunden
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 229 317	Nicht nur für den Kunden, sondern auch für dessen Kunden kann Mehrwert geschaffen werden
+T5	Claim 320 490	Der Value Proposition Canvas enthält alle notwendigen Punkte und vermittelt nachvollziehbar was der Kunde macht, wo seine Probleme liegen und wie ihm geholfen werden kann
+T6	Premise 586 724	Insbesondere Unternehmen mit häufigem Kundenkontakt haben in vielen Fällen bereits andere Wege gefunden ihre Kundenanfragen zu kombinieren
+T7	Premise 726 876	Bei der SBB muss beispielsweise bei jedem Kontakt die GA bzw. HalbtaxNummer angegeben werden, Krankenkassen und Banken benötigen Name und Geburtsdatum
+T8	Claim 879 989	Aufgrund des oben genannten Punktes könnte es möglicherweise schwierig sein zahlungsbereite Kunden zu gewinnen
+R3	supports Arg1:T7 Arg2:T6	
+R4	supports Arg1:T6 Arg2:T8	
+T9	Claim 993 1082	Je nach Umsetzung der Lösung könnte sie am Datenschutzbewusstsein der Endkunden scheitern
+T10	Claim 1227 1373	Um die Verwertung der Daten so effizient wie möglich zu gestalten, sollte überlegt werden, wie die Kundenanfragen sinnvoll gebündelt werden können
+T11	Premise 1380 1397	nach Themengebiet
+R5	supports Arg1:T11 Arg2:T10	
+T12	Claim 1399 1569	Die Lösung muss dem Endkunden klar vermitteln können wie Daten gesammelt und ausgewertet werden, um von der Dienstleistung des Kundenservices nicht verunsichert zu werden

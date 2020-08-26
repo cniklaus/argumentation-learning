@@ -1,0 +1,19 @@
+T1	Claim 13 57	Das Business Model ist so simpel wie logisch
+T2	Claim 59 200	Es handelt sich um ein Geschäftsmodell, das durchaus eine Verbesserung und Erleichterung sowohl für Nachfrager als auch Anbieter bringen kann
+T3	Claim 213 329	ist das Format einer MatchingPlattform bekannt und dürfte in der Programmierung kein zu grosses Hindernis darstellen
+T4	Claim 341 476	ist die Aufteilung der App in eine kostenlose sowie eine PremiumVersion eine gute Möglichkeit, verschiedene Kundensegmente anzusprechen
+T5	Claim 478 615	Die einfache modularische Zusammenstellung des Unternehmensauftritts in der App ist sicherlich für viele kleinere Unternehmen interessant
+T7	Premise 715 895	Der Weg von einer spezialisierten MatchingPlattform, bspw. nur für Reinigungskräfte oder Nachhilfestunden, hin zu einer Plattform mit generellen Angeboten stellt sich einfacher dar
+T6	Claim 618 713	Die Idee, eine MatchingPlattform für so gut wie alles anzubieten, halte ich für etwas schwierig
+R1	supports Arg1:T7 Arg2:T6	
+T8	Premise 907 1045	ist dem Leser des Business Model Canvas nicht eindeutig klar, wie Angebotsseite, Nachfrageseite, Nutzer und Anbieter genau aufgeteilt sind
+T9	Claim 1047 1128	Daher bietet sich eine Nachschärfung und eineindeutige Verwendung der Begriffe an
+R2	supports Arg1:T8 Arg2:T9	
+T10	Claim 1131 1213	Zusätzlich zu den Punkten 1 und 2 könnten die Channels noch etwas erweitert werden
+T11	Premise 1215 1270	Hier bietet sich die Hinzunahme einer Servicehotline an
+T12	Premise 1272 1335	Diese sollten auch für Anbieter und Nachfrager angeboten werden
+R3	supports Arg1:T12 Arg2:T10	
+R4	supports Arg1:T11 Arg2:T10	
+T13	Premise 1337 1376	Sozusagen eine B2B und eine B2C Hotline
+R5	supports Arg1:T13 Arg2:T12	
+T14	Claim 1378 1611	Bei den Revenuestreasm ist zusätzlich interessant, wie die einzelnen Transaktionen getätigt werden und welche Zahlsungsmöglichkeiten vorhanden sein werden, um Nachfragern und Anbietern möglichst simple Zahlungsmöglichkeiten zu bieten

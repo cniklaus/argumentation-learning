@@ -1,0 +1,12 @@
+T1	Claim 11 123	Insgesamt eine sehr stringente Bearbeitung der einzelnen Dimensionen mit verständlichen Aspekten und Sichtweisen
+T2	Premise 125 209	Insbesondere Gains, Products  Services und Gain Creator sind absolut nachvollziehbar
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 211 392	Der zweitletzte Punkt bei Customer Jobs ist in meinen Augen eher ein Pain des Kunden, dass sich das Einkaufen bei verschiedenen Produkten unterschiedlich verhält und weniger ein Job
+T4	Claim 399 517	der letzte Punkt bei Customer Jobs verstehe ich nicht ganz als Job, sondern eher als ein Zustand der Umwelt des Kunden
+T5	Claim 519 708	Bei den Pains bin ich beim zweiten Punkt nicht sicher, ob das ein wirklich real existierendes Problem des Kunden ist, oder eher auf eine mangelhafte Vorbereitung des Kunden schliessen lässt
+T6	Premise 710 768	Mit einem Einkaufszettel o.ä. wäre dies einfach zu beheben
+R2	supports Arg1:T6 Arg2:T5	
+T8	Claim 868 989	Der Wunsch nach Bewertung der Produkte, die man konsumiert, könnte vielleicht auch als ein Customer Job verstanden werden
+T7	Claim 991 1057	Alles in Allem in meinen Augen ein gutes Values Proposition Canvas
+T9	Premise 1059 1152	Ich bin nicht ganz sicher, ob zum Schluss eine ausformulierte Value Proposition folgen müsste
+R3	attacks Arg1:T9 Arg2:T7	

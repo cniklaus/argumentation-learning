@@ -1,0 +1,29 @@
+T1	Claim 11 98	Eine Stärke der Business Idee sehe ich in der Nachvollziehbarkeit der Value Proposition
+T2	Premise 100 179	Das heißt, die Idee löst ein allgemein bekanntes Problem von Frauen und Männern
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 181 384	Eine weitere Stärke sehe ich in dem Ansatz alles aus einer Hand zu liefern, indem Kalender, Wetter Daten und SensoringDaten gesammelt und verarbeitet werden, sowie zusätzlich InApp Käufe angeboten werden
+T4	Claim 386 480	usbaupotenzial sehe ich ich Rahmen des Business Canvas vor allem bei dem Punkt  Cost Structure
+T5	Premise 482 523	Dieser ist sehr oberflächig und generisch
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 550 606	Beachte Kosten für den Access zum AppStore/ Google Store
+T7	Premise 608 684	Etwas detaiilierte Aufdröselung des Punktes App auf dem neusten Stand halten
+T8	Premise 686 723	Können noch weitere Kosten auftauchen
+T9	Premise 725 754	Marketing, DataStorage Kosten
+R3	supports Arg1:T9 Arg2:T8	
+R4	supports Arg1:T8 Arg2:T6	
+R5	supports Arg1:T7 Arg2:T6	
+R6	supports Arg1:T6 Arg2:T5	
+T10	Claim 758 818	Unklarheiten im Punkt Key Partners sehe ich bei zwei Punkten
+T11	Premise 820 878	Was hat z.B. der Schlafzyklus mit meiner Outfitwahl zu tun
+T12	Premise 881 1000	Wie wird sichergestellt, dass zu jedem gescannten Kleidungsstück auch ein Bild und weitere Informationen vorhanden sind
+R7	supports Arg1:T11 Arg2:T10	
+R8	supports Arg1:T12 Arg2:T10	
+T13	Premise 1002 1041	Welche Partner muss ich dazu ansprechen
+R9	supports Arg1:T13 Arg2:T12	
+T14	Premise 1042 1145	Bei den Revenue Streams ist mir noch nicht ganz klar, wo außer bei den InApp Käufen der Umsatz herkommt
+T15	Claim 1147 1194	Heißt es keine oder kleine Zahlungsbereitschaft
+T16	Claim 1196 1262	Reichen die Zahlungen aus InApp Käufen aus um die Kosten zu decken
+T17	Claim 1267 1401	Hier würde ich nochmal genauer auf mögliche Umsatzströme eingehen und gegebenenfalls erwähnen ob Sie die Kosten voraussichtlich decken
+R10	supports Arg1:T14 Arg2:T17	
+R11	supports Arg1:T15 Arg2:T17	
+R12	supports Arg1:T16 Arg2:T17	

@@ -1,0 +1,16 @@
+T1	Claim 11 143	Die Customer Jobs sollten nur die jetzigen Aufgaben deiner Kunden beschreiben und nicht schon auf seine Probleme oder Ziele eingehen
+T2	Premise 145 222	Die Probleme der Kunden sollten nur in der Pains Kategorie beschrieben werden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 224 377	Wenn ich das richtig verstanden habe, sollte bei dir in Customer Jobs nur, Arbeitsplatzverteilung, Bürokostenminimierung, high work efficiency etc stehen
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 378 470	Du solltest auch noch einmal genauer unterscheiden zwischen Pain Relievers und Gain Creators
+T5	Premise 472 518	Gain creators sollten nicht auf Pains basieren
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 520 657	Wenn hoher Zeitaufwand derzeitig ein Pain ist und deine Lösung diesen Pain löst dann ist er ein Pain Reliever aber nicht ein Gain Creator
+R4	supports Arg1:T6 Arg2:T5	
+T7	Premise 659 713	Das gleiche zählt genau so für Gains und Gain Creators
+R5	supports Arg1:T7 Arg2:T4	
+T8	Claim 722 813	fände ich es einfacher zu lesen wenn deine Value Proposition in Stichpunkten aufgebaut wäre
+T9	Premise 823 910	kann man schneller und besser sehen wie z.b. die Pains und Pain Reliever zusammenhängen
+R6	supports Arg1:T9 Arg2:T8	
+T10	Claim 911 1019	In vollständigen Sätzen solltest du dann deine Value Proposition auch noch separat für die V2 ausformulieren

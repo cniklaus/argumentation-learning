@@ -1,0 +1,23 @@
+T1	Claim 77 195	Solche Lifestyle Produkte/Applikationen sind momentan sehr im Trend, daher lassen sich bestimmt genügend Nutzer finden
+T2	Claim 198 356	Mir gefällt die Kombination von der Auswertung des Nährstoffbestandes, der Empfehlung für eine bessere Ernährung und die Lieferung der Lebensmittel nach Hause
+T3	Premise 360 436	Durch diese Kombination werden viele schwerwiegende Customer Pains beseitigt
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 533 579	Es wurde keine Value Proposition ausformuliert
+T5	Claim 581 623	Unbedingt für die zweite Version erstellen
+R2	supports Arg1:T4 Arg2:T5	
+T6	Premise 625 689	Siehe Slides LE02 St. Galler House of digital business, Folie 24
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 1051 1157	Mich würde jedoch interessieren, ob eine Zusammenarbeit mit einem ganz bestimmten Einzelhändler vorschwebt
+T8	Premise 1159 1336	Es gibt zum Beispiel schon viele Detailhändler, die Lebensmittel online verschicken Hello Fresh, die gleichzeitig auch die Rezepte mitliefern, LeShop migros, Coop at Home, Farmy
+T9	Claim 1340 1433	Dies könnte man eventuell noch erwähnen, wobei das vor allem zu Key Partners im Canvas gehört
+R4	supports Arg1:T8 Arg2:T7	
+R5	supports Arg1:T7 Arg2:T9	
+T10	Claim 1446 1546	finde ich, dass die verschiedenen Dimensionen schon sehr gut und trotzdem knapp ausformuliert wurden
+T11	Premise 1548 1651	Es kann jedoch noch genauer darauf eingegangen werden, wie der Kunde seine Daten an die App übermittelt
+R6	attacks Arg1:T11 Arg2:T10	
+T12	Premise 1657 1749	Bluttests, die sich an das Smarphone anschliessen lassen und die Werte an die App übertragen
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 1751 1866	Wie kann er angeben, welche Ziele er erreichen möchte, damit die App das passende Ernährungsprogramm zusammenstellt
+R8	supports Arg1:T13 Arg2:T12	
+T14	Premise 1868 2014	Gibt es auch die Möglichkeit, mit einem Ernährungsberater der vermutlich Teil des Teams ist direkt in Kontakt zu treten, wenn es Spezialfälle gibt
+R9	supports Arg1:T14 Arg2:T11	

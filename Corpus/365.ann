@@ -1,0 +1,41 @@
+T1	Claim 11 53	Ich finde die Aufgabe wurde gut ausgeführt
+T2	Premise 55 202	Der Value Proposition Canvas wurde vollständig ausgefüllt und das Werteversprechen bzw. die Value Proposition wurde kurz und prägnant ausformuliert
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 204 280	Im Allgemeinen finde ich es sehr ausführlich, verständlich und übersichtlich
+R2	supports Arg1:T3 Arg2:T1	
+T4	Premise 283 335	Die Customer Jobs finde ich strukturiert beschrieben
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 357 506	könnte man die einzelnen Jobs vielleicht noch etwas ausführlicher erläutern und aufzeigen, was für Aufgaben oder Probleme der Kunde zu lösen versucht
+T6	Premise 522 606	Der Kunde benutzt Verkehrsmittel wie UBahn, Bus oder Zug um von A nach B zu gelangen
+T7	Premise 608 764	Hier würde ich zum Beispiel auch noch erwähnen, dass manchmal unterschiedliche Tickets für die verschiedenen Transportmittel im voraus gebucht werden müssen
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 768 819	Der Kunde parkt sein Auto auf bezahlten Parkplätzen
+T9	Premise 821 908	Dies per se ist ja noch keine Tätigkeit oder Problem, welches dem Kunden gegenübersteht
+R7	supports Arg1:T9 Arg2:T8	
+T10	Premise 917 1191	Die fünf Pains Unflexibel, wenn Tickets im Voraus gekauft werden, Wartezeiten vor Ticketautomaten, Unübersichtlichkeit der verschiedenen Zonen und Tarife, Barzahlung von Parkplätzen und Gefahr des Verlierens der physischen Tickets werden umfassend und verständlich dargelegt
+R8	supports Arg1:T10 Arg2:T1	
+T11	Premise 1194 1280	Gains Auch die Gewinne für den Kunden werden in meinen Augen übersichtlich aufgelistet
+R9	supports Arg1:T11 Arg2:T1	
+T12	Premise 1302 1449	Die verschiedenen Produkte und Services werden aufgelistet und es wird vollständig beschrieben welche unterschiedlichen Funktionen angeboten werden
+R10	supports Arg1:T12 Arg2:T1	
+T13	Premise 1458 1535	wird aufgezeigt wie damit die Durchführung der Customer Jobs unterstützt wird
+R11	supports Arg1:T13 Arg2:T12	
+T14	Claim 1537 1671	Hier konnte ich lediglich einen kleinen Rechtschreibfehler im dritten Absatz in der zweiten Zeile werden statt warden ausfindig machen
+T15	Premise 1674 1766	Pain Relievers Es wird eingehend beschrieben, dass die oben genannten Pains reduziert werden
+T16	Premise 1768 1950	Hier würde ich vielleicht noch zusätzlich ausführen, wie mit Ticketless der Pain Unübersichtlichkeit der verschiedenen Zonen und Tarife effektiv reduziert oder eliminiert werden kann
+R12	attacks Arg1:T16 Arg2:T15	
+R13	supports Arg1:T15 Arg2:T1	
+R4	attacks Arg1:T5 Arg2:T4	
+R6	supports Arg1:T6 Arg2:T5	
+R14	supports Arg1:T8 Arg2:T5	
+T17	Premise 1953 2051	Gain Creators In meinen Augen wird klar erläutert, wie Ticketless Kundengewinne ermöglichen könnte
+R15	supports Arg1:T17 Arg2:T1	
+T18	Claim 2053 2211	Zwei kleinere Rechtschreibfehler habe ich in der ersten beschriebene statt beschribene und in der zweitletzten Zeile die vor Ticketless kann gestrichen werden
+T19	Premise 2251 2295	wird das Werteversprechen sehr gut erläutert
+R16	supports Arg1:T19 Arg2:T1	
+T20	Premise 2297 2508	Das Kundenproblem wird benennt und es wird aufgezeigt wie Ticketless die momentane Situation bezüglich Transportmittel und Parking mit virtuellen Tickets per Smartphone Applikationen allenfalls verbessern könnte
+R17	supports Arg1:T20 Arg2:T19	
+T21	Premise 2516 2685	enthält die Value Proposition einen klar quantifizierbaren Nutzen Aufwand und Zeiteinsparungen bei Kunden sowie Serviceverbesserung bei Park und Transportmittelanbietern
+R18	supports Arg1:T21 Arg2:T19	
+T22	Premise 2697 2879	beschreibt das Werteversprechen, wie sich Ticketless als umfassende Lösung und nicht über mehrere Applikationen von den Wettbewerbern abhebt und es so als Plattform einzigartig macht
+R19	supports Arg1:T22 Arg2:T19	

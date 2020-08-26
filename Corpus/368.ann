@@ -1,0 +1,12 @@
+T1	Claim 20 199	Deine Geschäftsmodell Idee habe ich mir schon immer gewünscht Ich finde du hast das Modell sehr gut ausgefüllt und die einzelnen Punkte sehr verständlich und sorgfältig ausgeführt
+T2	Claim 215 281	Eventuell könntest du diese Sensorik Technik noch besser ausführen
+T3	Premise 283 309	Wie funktioniert die genau
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 311 343	Geschieht dies durch ein Armband
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 347 511	Dann bei den Gains handelt es sich um den Mehrwert, den du gewinnst, wenn du den Customer Job richtig machst und nicht, wenn du bereits deine Lösung eingesetzt hast
+T6	Claim 513 801	Daher denke ich kommen die Punkte Der Kunde spart Zeit und Energie, da er weder selbst zum Einzelhändler gehen, noch sich Rezepte einfallen lassen muss und Der Kunde lernt seinen Körper besser kennen und kann seinen Lebensstil und seine Ernährung daraufhin optimieren zu den Gain Creators
+R3	supports Arg1:T5 Arg2:T6	
+T7	Premise 806 858	diese durch deine Technologie ermöglicht worden sind
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 873 921	Gain und Gain Creators noch besser unterscheiden

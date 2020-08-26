@@ -1,0 +1,34 @@
+T1	Claim 70 192	Dein Geschäftsmodell entspricht dem Auftrag, eine WellbeingLösung zu entwickeln, die vorhandene Angebote nutzt und ergänzt
+T2	Claim 193 259	Das Geschäftsmodell ist gut verständlich und macht inhaltlich Sinn
+T3	Claim 261 323	u nutzt moderne Technologien wie NFC zur Umsetzung deiner Idee
+T4	Claim 324 371	Der Mehrwert Deiner Lösung ist klar ersichtlich
+T5	Claim 385 431	zeigst Du, wie Kosteneinsparungen möglich sind
+T6	Claim 525 563	Der Firmenname für Dein Geschäft fehlt
+T7	Claim 564 620	Du hast das Business Model Canvas mit Fliesstext befüllt
+T8	Premise 622 687	Die Idee dieses Instruments ist jedoch die Arbeit mit Stichworten
+R1	supports Arg1:T8 Arg2:T7	
+T9	Premise 689 768	Für einen besseren Überblick solltest Du die Informationen in Stichworte packen
+R2	supports Arg1:T9 Arg2:T8	
+T10	Premise 769 823	Die Revenue Streams sind nur oberflächlich beschrieben
+T11	Claim 845 926	solltest Du genauere Angaben machen über den Preis eines Abos oder eines Packages
+R3	supports Arg1:T10 Arg2:T11	
+T12	Premise 927 1034	Wenn ich Dein Modell richtig verstehe, wird im Hintergrund der kundenseitigen App ein eigenes CRM angeboten
+T13	Premise 1036 1082	Wieso sind Schlüsselpartner andere CRMAnbieter
+T14	Premise 1084 1135	Können diese ebenfalls mit der App verknüpft werden
+T15	Claim 1137 1184	Auf diesen Punkt musst Du noch genauer eingehen
+R4	supports Arg1:T12 Arg2:T13	
+R5	supports Arg1:T14 Arg2:T13	
+R6	supports Arg1:T13 Arg2:T15	
+T16	Claim 1185 1261	Du listet bei den Schlüsselressourcen Webdesigner und Servicemitarbeiter auf
+T17	Premise 1263 1342	Hierzu kommen nach meinem Verständnis noch Entwickler und die Plattform an sich
+T18	Claim 1343 1524	Der nachfolgende Satz ist nicht korrekt Mithilfe der NFCFunktion können die virtuellen Visitenkarten sofort mit neuen Kontakten ausgetauscht werden, ohne dass eine App notwendig ist
+R7	supports Arg1:T17 Arg2:T16	
+T19	Premise 1526 1605	Eine App wird immer nötig sein, um die NFCFunktion des Smartphones anzusprechen
+R8	supports Arg1:T19 Arg2:T18	
+T20	Premise 1607 1661	Vielleicht läuft sie jedoch als Prozess im Hintergrund
+R9	attacks Arg1:T20 Arg2:T19	
+T21	Claim 1802 1917	Die Überarbeitung solltest Du nutzen, um Dich noch einmal etwas genauer mit dem Geschäftsmodell auseinanderzusetzen
+T22	Premise 1919 1999	Einige Punkte siehe oben sind für einen Aussenstehenden noch nicht gänzlich klar
+T23	Premise 2001 2045	Diese solltest Du noch genauer dokumentieren
+R10	supports Arg1:T22 Arg2:T23	
+R11	supports Arg1:T23 Arg2:T21	

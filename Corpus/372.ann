@@ -1,0 +1,26 @@
+T1	Claim 326 436	In seinen Grundprinzipien istdie Appeine sehr interessante Idee, die ich sicher auch einmal ausprobieren würde
+T2	Claim 443 601	befriedigt sie das Bedürfnis vieler junger Leuten nach Spass undAction am Wochenendeund lässt den Arbeitsaufwand für die Planung solcher Trips klar minimieren
+T3	Claim 609 705	ist es ein Modell, welches sich mit demheutigen Trend von Social Media ganz klar verbinden lässt
+T4	Claim 709 833	Hinsichtlich Form des Value Proposition Canvas bleibt zu sagen, dass die Beschreibung der Value Propositiongut aufgebaut ist
+T5	Premise 838 952	mit der Analysedes Customer Jobs gestartet wird, welche wiederum in die drei Ausprägungen heruntergebrochen werden
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 957 1036	wird demLeser klar, welche drei Ebenen an Kundenbedürfnissenangesprochen werden
+R2	supports Arg1:T6 Arg2:T5	
+T7	Premise 1045 1117	bezüglich Inhalt deckt das Value Proposition Canvas  wichtige Aspekte ab
+R3	supports Arg1:T7 Arg2:T4	
+T8	Premise 1119 1197	Die Pains und Gains des Kundenfinde ich präzise und beinhalten relevante Infos
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1295 1462	Eine Schwäche sehe ich darin, dass aus der Value Proposition nicht genau hervorkommt, was genau der Mehrwert der Plattform zu den heutebereits bestehenden Angebotenist
+T10	Premise 1464 1694	Das hängt sicher einerseits damit zusammen, dass ich das Geschäftsmodell nicht lesen konnte, jedoch sollte meines Erachtens der Mehrwert im Vergleich zu www.surp.ch, google maps, tripadvisor oder den Smartbox klar definiert werden
+R5	attacks Arg1:T10 Arg2:T9	
+T11	Premise 1696 1804	Diesen Punkt würde ich bei Products  Servies weiter ausbauen, sowie bei den Pain Relievers und Gain Creators
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 1937 2169	Products  Services Wie bereits unter Punkt 2. erwähnt, sollte hier meines Erachtens das Produkt und seine Features nochmals detailliert erläutert werden, damit dann die Pain Relievers und Gain Creators genau verstanden werden können
+T13	Premise 2170 2236	Wie genau ist das Produkt aufgebaut, welche Features gibt es genau
+R7	supports Arg1:T13 Arg2:T12	
+T14	Claim 2244 2401	fände ich es wichtig, dass für eher konservative Menschen ein Feature Erfahrungsberichte aufgeschaltet wird oder eine Bewertungungsmöglichkeit eingebaut wird
+T15	Premise 2403 2456	Nichts ist authentischer als Bewertungen anderer User
+R8	supports Arg1:T15 Arg2:T14	
+T16	Claim 2461 2487	Fokus auf den Kundendienst
+T17	Premise 2488 2636	Wie funktioniert die App genau und wieist beispielsweise auch der Supportaufgebaut, fallses bei der Buchung und während der Reise etwas schief läuft
+R9	supports Arg1:T17 Arg2:T16	

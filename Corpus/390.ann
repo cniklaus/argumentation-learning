@@ -1,0 +1,31 @@
+T1	Premise 63 153	Das Geschäftsmodel finde ich sehr gut und detailliert im Business Model Canvas beschrieben
+T2	Premise 155 224	Alle wichtigen Elemente eines Geschäftsmodels sind komplett enthalten
+T3	Claim 226 235	Well done
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T1 Arg2:T3	
+T4	Claim 236 354	Im Beschrieb des Geschäftsmodels wird klar der Kundennutzen sowohl für den Patienten, wie auch für Ärzte hervorgehoben
+T5	Premise 355 508	Bei der Idee wird für mich ein wichtiges Kundenproblem gelöst, nämlich dass ich Zugang und Verfügbarkeit zu meinen Gesundheitsdaten habe egal wann und wo
+T6	Premise 510 697	Wenn zudem Rechnungen über das System an Versicherungen weitergeleitet werden können und Termine direkt vereinbart werden können bringt das mir bereits einen grossen zusätzlichen Mehrwert
+R3	supports Arg1:T5 Arg2:T4	
+R4	supports Arg1:T6 Arg2:T4	
+T7	Claim 699 826	Es ist ganz im Sinne einer Wellbeing Solution gestaltet und vereinfacht dem Kunden somit den Alltag durch digitale Technologien
+T8	Claim 836 1085	Beim Customer Problem wäre es schön aufzuzeigen, wie viel  an Ressourcen jährlich für administrative Aufwendungen in Spitälern verwendet wird oder mit einer Studie unterlegen, die besagt, dass x der Ärzte über administrative Aufwendungen klagen ect.
+T9	Claim 1085 1252	Nicht nur Ärzte, Krankenhäuser und Versicherungen sollten als Channel genutzt werden, sondern der Endkunde sollte direkt von mymed über Werbekanäle angesprochen werden
+T10	Premise 1254 1349	Kommt der Druck vom Kunden, so sind auch Ärzte eher bereit auf die neue Technologie umzusteigen
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1350 1473	Revenue Stream Meines Erachtens ist es unmöglich auf eine Effizienzsteigerung zu schliessen, die sich nur auf mymed bezieht
+T12	Claim 1483 1614	ist meines Erachtens ein Revenue Modell wie eine Subscription Lösung für den Kunden, Ärzte, Spitäler oder Versicherungen geeigneter
+R6	supports Arg1:T11 Arg2:T12	
+T13	Claim 1622 1715	könnten unterschiedliche Funktionalitäten zu unterschiedlichen Preisen angeboten werden Addon
+T14	Premise 1716 1832	Die digitale Patientenakte wird bereits vielseitig diskutiert und in anderen Ländern wie Dänemark bereits eingesetzt
+R7	supports Arg1:T14 Arg2:T13	
+T15	Claim 1834 1901	Was unterscheidet dein Service im vergleich zu bestehenden Lösungen
+T16	Claim 1930 2019	Zur Überarbeitung deiner Business Idee könntest Du Dir noch folgenden Überlegungen machen
+T17	Premise 2019 2146	Nochmals nach Reports und Beiträgen suchen, die das Customer Problem und den Mehrwert einer digitalen Patientenakte hervorheben
+R8	supports Arg1:T17 Arg2:T16	
+T18	Premise 2148 2211	Klar hervorheben was dich zu bestehenden Lösungen unterscheidet
+R9	supports Arg1:T18 Arg2:T16	
+T19	Premise 2212 2315	Revenue Modell überdenken und anpassen, vielleicht schauen wie bestehende Lösungen Einnahmen generieren
+T20	Premise 2324 2405	ardioSecureÜberlegen über welche Kanäle man den Endkunden direkt erreichen könnte
+R10	supports Arg1:T20 Arg2:T19	
+R11	supports Arg1:T19 Arg2:T16	

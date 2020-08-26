@@ -1,0 +1,25 @@
+T1	Claim 18 89	Problematik wurde richtig erkannt HackerAngriffe, Angst um eigene Daten
+T2	Claim 91 131	Konzept von Vreedom ist gut durchgedacht
+T3	Claim 132 195	Aktualität von Vreedom ist durch passenden Megatrends begründet
+T4	Claim 197 237	Gut durchgedachter Business Model Canvas
+T5	Claim 246 344	Allgemeine Aussage, dass die Daten über jegliches VPN Netzwerk sicher sind, ist nicht ganz korrekt
+T6	Premise 346 484	VPN Server weiss ja genau welche Daten verschickt werden, deswegen muss man als Nutzer davon ausgehen, dass VPN Provider sehr reliable ist
+R1	supports Arg1:T6 Arg2:T5	
+T7	Premise 486 561	Ich persönlich habe Angst, mich mit solchen Netzwerken wie Tor zu verbinden
+R2	supports Arg1:T7 Arg2:T5	
+T8	Premise 563 676	Die HackerAngriffe basieren ja meist auf Fehlverhalten von Nutzern und VPN hilft nicht gegen dieses Fehlverhalten
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 678 817	Solch eine Lösung könnte bei den Nutzern Gefühl der Scheinsicherheit erwecken, obwohl es vor herkömmlichen Viren keinen 100 Schutz verleiht
+R4	supports Arg1:T9 Arg2:T5	
+T10	Premise 819 980	Empfehlenswert zur Sicherheit und VPN ist z.B. folgende Beitrag auf Quorahttps//www.quora.com/WillusingaVPNpreventyoufromgettinghackedthroughyourcomputerandphone
+R5	supports Arg1:T10 Arg2:T5	
+T11	Claim 980 1138	Es ist nicht ganz verständlich, warum unbedingt ein Transmitter, wäre einfach ein gutes VPN App nicht besser und viel mehr im Sinne von Wellbeing nach Österle
+T12	Premise 1139 1149	LoginEffek
+R6	supports Arg1:T12 Arg2:T11	
+T13	Premise 1152 1171	Nicht Lockin Effekt
+R7	supports Arg1:T13 Arg2:T11	
+T14	Claim 1177 1266	An sich sieht man eine konsequente Vorgehensweise bei der Gestaltung des Geschäftsmodells
+T15	Premise 1268 1484	Ich würde jedoch etwas mehr begründen, warum eine Lösung durch Hardware besser als ein App ist vor allem da braucht man noch Partner und für die Nutzer es ist nicht besonders bequem, noch etwas in den Hosen zu tragen
+R8	attacks Arg1:T15 Arg2:T14	
+T16	Premise 1486 1559	Vor allem so eine HardwareLösung widerspricht etwas Megatrend Convenience
+R9	supports Arg1:T16 Arg2:T15	

@@ -1,0 +1,19 @@
+T1	Claim 11 76	Ich finde es super, dass du eine erklärende Grafik eingebaut hast
+T2	Premise 78 125	Das macht die Funktionsweise sofort viel klarer
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 128 432	Generell möchte ich dir den Tipp geben, etwas genauer das WellBeing Konzept herauszuarbeiten, d.h. konkrete Beispiele zu geben von welchen unterschiedlichen Anbietern mit viel Aufwand ich mir die Solution zusammen suchen musste und wie Vreedom mir das jetzt aus einer Hand als WellBeing Solution anbietet
+T4	Claim 435 639	Bei der Value Proposition würde ich die Formulierung etwas mehr aus Kundensicht angehen, d.h.   was bringt mir der Transmitter, was ich sonst nicht habe bzw. was ich mir sonst mühsamer zusammensuchen muss
+T5	Premise 642 701	welchen Value habe ich von einem hochwertigen Kundenservice
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 707 795	Bezüglich der Key Partners Sind McAfee und Norton nicht gerade eher Konkurrenten für uns
+T7	Claim 797 890	Vielleicht kannst du hier etwas genauer beschreiben, wie du dir die Zusammenarbeit vorstellst
+R3	supports Arg1:T6 Arg2:T7	
+T8	Premise 892 1032	v.a. langfristig  Positiv ist mir hier aufgefallen, dass Vreedom eine Assetlight Company sein soll und die Produktion der Hardware auslagert
+T9	Claim 1035 1081	Die Cost Structure finde ich soweit in Ordnung
+R4	supports Arg1:T8 Arg2:T9	
+T10	Premise 1083 1159	Vielleicht könntest du hier noch etwas auf die Kosten im Verhältnis eingehen
+R5	attacks Arg1:T10 Arg2:T9	
+T11	Premise 1166 1248	HardwareKosten gering vs. Kosten pro Software hoch durch Patente, Entwicklung etc.
+R6	supports Arg1:T11 Arg2:T10	
+T12	Claim 1250 1430	Sehr gut beim RevenueStream finde ich die Adjustability der Preis/Leistung um möglichst alle Zahlungsbereitschaften abzuschöpfen, sowie den Grundsatzgedanken des SubscriptionModels
+T13	Claim 1446 1488	bitte LogIn Effekt zu LockIn Effekt ändern

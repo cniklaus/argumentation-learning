@@ -1,0 +1,44 @@
+T1	Claim 69 119	Die Lösung bietet maximalen Komfort für den Kunden
+T2	Premise 121 197	Mit wenigen Klicks können Kurztrips gebucht werden ohne zusätzlichen Aufwand
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 218 233	Hotelvergleiche
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 235 278	App und Plattform schaffen nötige Mobilität
+R3	supports Arg1:T4 Arg2:T1	
+T5	Claim 280 503	Durch die kumulierte Anzahl Buchungen können Mengenrabatte bei Bahn und Hotels verhandelt werden, welche die Trips günstiger machen und die Vermittlungsgebühr einspielen können, so dass dem Kunden keine Mehrkosten entstehen
+T6	Claim 505 700	Die Social Option ist besonders interessant für vielbeschäftigte mit wenig Freunden und könnte beispielsweise auch Expats, die neu in der Schweiz leben und das Land kennen lernen wollen, anziehen
+T7	Claim 792 922	Veranstalterseite Gute Deals auszuhandeln könnte schwer werden, wenn nicht bekannt ist wie viele Kunden über das Wochenende kommen
+T8	Premise 924 1100	Spontaneität bedeutet für mich als Kunde, dass ich mich Freitag Abend für einen Wochenendtrip entscheiden kann, was die Planbarkeit auf Veranstalterseite nahezu unmöglich macht
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1124 1255	im Reisemarkt bereits eine sehr hohe Konkurrenz herrscht, wodurch die Etablierung einer weiteren Reiseseite schwierig werden könnte
+T10	Premise 1257 1318	Als gute Alternative fällt mir gerade z.B. Urlaubspiraten ein
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 1318 1403	Kundenseite Als Kunde möchte ich ungern einen Preis für ein schlechtes Produkt zahlen
+T12	Premise 1405 1606	Wenn ich mir selbst einen Wochenendtrip zusammenstelle und dieser unerfolgreich ist, ist das meine Schuld, ist dies durch einen Veranstalter passiert, ,werde ich von einer weiteren Buchung wohl absehen
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1614 1683	ist mir die Kostenzusammensetzung der Wochenende noch nicht ganz klar
+T14	Claim 1841 1991	Die erwähnte Feedbackseite sollte im Mittelpunkt stehen, um Kundenängste vor schlechten Wochenenden durch positive Meinungen anderer Kunden zu dämpfen
+T15	Claim 1991 2201	Die Social Optionsollte möglicherweise noch ausgebaut werden und z.B. Interessen, Geschlecht oder Altersgruppen abfragen, um zu vermeiden, dass sich die Vorstellungen innerhalb der Gruppe zu sehr differenzieren
+T16	Claim 2213 2314	zur Social Option würde ich anbieten, dass Trips auch für eine Gruppe >1 Person gebucht werden können
+T17	Premise 2316 2576	Paaren und Freunden wird dadurch die Möglichkeit geboten das Getaway zusammen zu geniessen.Um sicherzustellen, dass die Kunden für die jeweiligen Abenteuer gut ausgerüstet sind, könnte man überlegen Packempfehlungen einige Tage/Stunden im Voraus zu verschicken
+R7	supports Arg1:T17 Arg2:T16	
+T18	Premise 2578 2640	Dies kann auch die Vorfreude auf den anstehenden Trip anheizen
+R8	supports Arg1:T18 Arg2:T17	
+T19	Premise 2644 2666	eine App verfügbar ist
+T20	Claim 2668 2752	würde ich es ermöglichen Zugtickets und Hotelbuchungen direkt über die App abzurufen
+R9	supports Arg1:T19 Arg2:T20	
+T21	Claim 2766 2852	Wie setzen sich die Kosten der Ausflüge zusammen und zu welchem Zeitpunkt wird bezahlt
+T22	Premise 2854 2893	Zahle ich für jedes Getaway gleich viel
+T23	Premise 2895 2951	Zahle ich mehr, wenn ich die zusätzlichen Angebote nutze
+T24	Premise 2953 2995	Bezahle ich im Hotel oder über die Website
+T25	Premise 2997 3024	Wie laufen Reklamationen ab
+T26	Premise 3025 3055	Wie werden die Trips kuratiert
+R10	supports Arg1:T22 Arg2:T21	
+R11	supports Arg1:T23 Arg2:T21	
+R12	supports Arg1:T24 Arg2:T21	
+T27	Premise 3058 3090	er stellt die Programme zusammen
+T28	Premise 3092 3132	Wer sucht Hotel und Aktivitäten zusammen
+R13	supports Arg1:T25 Arg2:T21	
+R14	supports Arg1:T26 Arg2:T21	
+R15	supports Arg1:T27 Arg2:T21	
+R16	supports Arg1:T28 Arg2:T21	

@@ -1,0 +1,21 @@
+T1	Premise 549 765	Die Unterhaltungs und Kommunikationsbranche nimmt in Zukunft tendenziell zu die heutigen Generationen werden technisch immer affiner, während die jungen, kommenden Generationen schon mit dieser Technologie aufwachsen
+T2	Claim 767 800	Die Branche ist somit gut gewählt
+R1	supports Arg1:T1 Arg2:T2	
+T3	Claim 803 847	Die KeyPartners sind gut und breit definiert
+T4	Claim 849 926	Die KeyActivities passen definitiv zu einem Serviceanbieter einer solchen App
+T5	Claim 928 1150	Der Grundnutzen der App, sprich die Value Proposition, beschreibt die im ersten Teil der Aufgabe geschilderte Geschäftsidee gut und ergänzt diese mit dem Kernnutzen hohen Unterhaltungswert und Pflege von sozialen Kontakten
+T6	Claim 1152 1232	Auch die Customer Relationships und Channels scheinen durchdacht und gut gewählt
+T7	Claim 1234 1315	Die definierten Revenue Streams machen in Rahmen der Geschäftsidee definitiv Sinn
+T8	Premise 1365 1459	Eine grosse Thematik die sich im Rahmen dieser Lösung eröffnet ist die Sicherheit der Anwender
+T9	Premise 1461 1575	Jegliche Art der Ablenkung im Strassenverkehr wird mit einer Zunahme der Gefahr von Unfällen in Verbindung gesetzt
+T10	Claim 1577 1816	Hier ist es umso wichtiger zu betonen, warum die App genau kein Sicherheitsrisiko darstellt Sprachsteuerung, TexttoSpeech,  liest die App sogar aus der Zeitung vor wird u.U. mehr als Sicherheitsrisiko, anstatt als risikofreies Tool gesehen
+R2	supports Arg1:T9 Arg2:T8	
+R3	supports Arg1:T8 Arg2:T10	
+T11	Premise 1823 1925	indem ein Vergleich zur Telefonie oder der Vergleich handson vs. handsfree Anwendung herangezogen wird
+R4	supports Arg1:T11 Arg2:T10	
+T12	Claim 1928 2007	Eine andere Schwäche deiner Lösung, meiner Meinung nach, ist die Cost Structure
+T13	Premise 2009 2169	In dieser beziehst du dich lediglich auf eine allgemeine, nicht klar zugeordnete Kostenauflistung. Interessant wäre der Vergleich der Kosten zwischen den Phasen
+T14	Premise 2176 2501	könntest du die Kosten zwischen der Entwicklungsphase RD Kosten, Kosten die aus Partnerschaften entstehen, etc., der Einführungsphase ServerKosten, Werbekosten, etc. und der Wachstumsphase Dienstleistungskosten, weitere RDKosten, Unterhaltungskosten unterscheiden, um dein Geschäftsmodell weiter zu beschreiben und definieren
+R5	supports Arg1:T14 Arg2:T13	
+R6	supports Arg1:T13 Arg2:T12	
+T15	Claim 2644 2693	Insgesamt ist deine Idee und die Ausarbeitung top

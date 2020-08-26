@@ -1,0 +1,35 @@
+T1	Claim 315 667	Die Lösung bietet dem Kunden alles aus einer Hand, indem sämtliche relevanten Aspekte des Umzuges in dieser vereint werden, von einer Auflistung möglicher Umzugsunternehmen  Putzinstitute, über die Kontaktstellen der verschiedenen Ämter bis hin zur Unterstützung in der Thematik bezüglich der Organisation von Kommunikation, Strom und Wasserlieferanten
+T2	Claim 716 785	Die Stärke der Geschäftsidee liegt eindeutig in deren Einzigartigkeit
+T3	Premise 787 878	Jede/r Student/in kann sich mit grosser Wahrscheinlichkeit mit dieser Lösung identifizieren
+T4	Premise 879 1025	Ein Umzug bedeutet Wissens und Erfahrungsmangel bei den meisten Leuten, stellt einen extremen Zeitaufwand dar und wir oftmals als mühsam empfunden
+T5	Claim 1027 1060	Die Branche ist somit gut gewählt
+R1	supports Arg1:T3 Arg2:T5	
+R2	supports Arg1:T4 Arg2:T3	
+T6	Claim 1063 1107	Die KeyPartners sind gut und breit definiert
+T7	Claim 1109 1179	Die KeyActivities passen definitiv zu einem Serviceanbieter dieser Art
+T8	Claim 1181 1486	Der Grundnutzen der Internetplattform, sprich die Value Proposition, beschreibt die im ersten Teil der Aufgabe geschilderte Geschäftsidee gut und ergänzt diese mit einer Differenzierung zwischen den Customer Segments Endkunden und Umzugslösungsanbieter, welche einen Nutzen aus der Plattform ziehen können
+T9	Claim 1493 1573	die Customer Relationships und Channels scheinen durchdacht  gut gewählt zu sein
+T10	Claim 1575 1671	Die Differenzierung zwischen Endkunde und Umzugslösungsanbieter verdeutlicht das Geschäftsmodell
+T11	Claim 1673 1812	Die Cost Structure ist klar definiert und mach Sinn, wobei hier zwischen den Kosten in den verschiedenen Phasen differenziert werden könnte
+T12	Claim 1863 1936	ine Schwäche deiner Lösung, meiner Meinung nach, sind die Revenue Streams
+T13	Premise 1939 2062	s ist u.U. nicht die beste Wahl, dass die Umzugslösungsanbieter eine Gebühr für die Präsenz auf der Plattform zahlen sollen
+R3	supports Arg1:T13 Arg2:T12	
+T14	Premise 2064 2123	Diese Gebühr wirkt als Hemmschwelle gegenüber den Anbietern
+T15	Premise 2128 2212	in diesem Fall zuerst Kosten entstehen, bevor überhaupt Umsatz generiert werden kann
+R5	supports Arg1:T15 Arg2:T14	
+T16	Premise 2214 2293	Resultat wäre somit, dass die Anbieter gar nicht erst auf der Plattform agieren
+R4	supports Arg1:T14 Arg2:T16	
+R6	supports Arg1:T16 Arg2:T13	
+T17	Premise 2295 2335	Das wäre der Todesstoss für simplemoving
+R7	supports Arg1:T17 Arg2:T13	
+T18	Premise 2337 2437	Stattdessen würde ich dir eine PayperKlickLösung i.V.m. einer Provision für simplemoving vorschlagen
+R8	supports Arg1:T18 Arg2:T13	
+T19	Premise 2439 2592	Die PayperKlickMethode garantiert dem Anbieter, auch wenn schlussendlich nicht bei im gebucht wird, einen Werbeeffekt, den dieser monetär begleichen muss
+R9	supports Arg1:T19 Arg2:T18	
+T20	Premise 2594 2717	Mithilfe der Provision verdient simplemoving schlussendlich weiter Umsatz und kann damit v.a. die anfallenden Kosten decken
+R10	supports Arg1:T20 Arg2:T19	
+T21	Claim 2719 2809	Werbeanzeigen zusätzlich zu Verkaufen macht Sinn, sollte aber mit Vorsicht genossen werden
+T22	Premise 2816 2841	in Hinblick auf AdBlocker
+R11	supports Arg1:T22 Arg2:T21	
+T23	Claim 2946 3014	Achte nur darauf, dass du die Revenue Streams an dein Modell anpasst
+T24	Claim 3016 3061	Insgesamt ist deine Idee und Ausarbeitung top

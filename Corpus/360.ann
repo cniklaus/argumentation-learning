@@ -1,0 +1,38 @@
+T1	Claim 14 112	Das Value Proposition Canvas gibt einen umfassenden Einblick in das Werteversprechen von Klient.io
+T2	Premise 114 273	Es lassen sich zwar noch einige kleinere Tweaks anbringen um das VPC etwas prägnanter zu gestalten, es ist aber wenig zusätzlicher Informationsbedarf vorhanden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 288 347	sollten einige Dimensionen noch prägnanter gestaltet werden
+T4	Premise 349 406	Die Details findest du unter Punkt 3.3.a Werteversprechen
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 406 549	Das Produkt und der Nutzen des Produktes sind klar erkennbar, Potential sehe ich aber bei den folgenden 2 PunktenKunde ist nicht klar definiert
+T6	Premise 551 659	An was für Unternehmen richtet sich denn Klient.io genaueres Kundenprofil/ Kundencharakterisierung erstellen
+T7	Premise 660 697	Was ist einzigartig an deinem Angebot
+T8	Premise 699 739	Das sollte auf den Punkt gebracht werden
+T9	Premise 741 812	Nimm doch das Beispiel aus den Vorlesungsfolien zur Handb Customer Jobs
+R3	supports Arg1:T6 Arg2:T8	
+R4	supports Arg1:T7 Arg2:T8	
+R5	supports Arg1:T8 Arg2:T5	
+T10	Premise 812 916	Die Customer Jobs sind ein bisschen WischiWaschi, versuch doch, die noch etwas prägnanter zu formulieren
+R6	supports Arg1:T9 Arg2:T10	
+R7	supports Arg1:T10 Arg2:T8	
+T11	Premise 918 1153	Du bringst auch immer wieder ähnliche Punkte, welche sich gut zusammenfassen liessen um die Liste etwas zu kürzen das Ziel wäre ja eigentlich, dass für jeden Job ein PostIt auf dem Canvas Platz hat, so prägnat muss das formuliert seinc
+R8	supports Arg1:T11 Arg2:T10	
+T12	Claim 1154 1282	PainsCustomer Management ist kein Pain, das ist einfach eine Aufgabe im Unternehmen, die Pains sind das was du danach auflistest
+T13	Premise 1290 1372	Die Gains überschneiden sich noch ein bisschen mit den Customer Jobs und den Pains
+T14	Claim 1374 1403	Versuche das klar abzugrenzen
+R9	supports Arg1:T13 Arg2:T14	
+T15	Premise 1410 1544	kann einzigartiger Kundensupport respektive guter Kundensupport usw. nicht beides sein, für mich ist das bei den Customer Jobs zuhause
+R10	supports Arg1:T15 Arg2:T14	
+T16	Premise 1547 1742	Gains wären vielleicht auch ein verbessertes Upselling oder ähnliches weil man auch die Community Posts etc. des Kunden auswerten kann und so sieht, welche offenen Bedürfnisse noch vorhanden sind
+R11	supports Arg1:T16 Arg2:T14	
+T17	Claim 1745 1861	Products  ServicesPunkt 3 in deiner Listegeht für mich schon fast eher in die Gain Creators oder Pain Relievers rein
+T18	Premise 1863 1925	Das ist ja keine Beschreibung des Produkts sondern des Nutzens
+R12	supports Arg1:T18 Arg2:T17	
+T19	Premise 1926 2007	Macht Klient.io selber Kundenbetreuung oder stellst du nur das Tool zur Verfügung
+R13	supports Arg1:T19 Arg2:T18	
+T20	Claim 2008 2179	Die ganze Beschreibung greift auch wieder sehr weit, versuche doch, das auf die zentralen Aspekte des Produktes zu reduzieren denk an die PostIts die du anbringen müsstest
+T21	Claim 2182 2246	Gain CreatorsAuch hier wieder die Abgrenzung von Pains und Gains
+T22	Premise 2248 2381	Wenn du klar abgegrenzte Pains und Gains definiert hast, kannst du basierend auf denen die Pain Relievers und Gain Creators bestimmen
+R14	supports Arg1:T22 Arg2:T21	
+T23	Premise 2383 2493	Dabei solltest du keinen Reliever/ Creator haben, der nicht klar durch eine Pain oder einen Gain gestützt wird
+R15	supports Arg1:T23 Arg2:T21	

@@ -1,0 +1,17 @@
+T1	Claim 11 207	Was mir an deinem Geschäftsmodell gefällt ist, dass du von vorhandenen Kundenbedürfnissen viele Logins beim OnlineShopping, Alternativsuche etc. ausgegangen bist und so eine Lösung erarbeitet hast
+T2	Claim 219 305	ist dein Business Model Canvas klar und deutlich ausgefüllt und somit gut verständlich
+T3	Claim 362 433	Im Revenue Stream würde ich die Gewinnbeteiligung der Partner weglassen
+T4	Premise 438 513	sie dadurch höhere Kosten hätten und somit höhere Preise anschlagen müssten
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 515 704	Mein Vorschlag wäre, ähnlich wie bei der GoogleSuche, dass Partner gewisse Beträge zahlen können, um bei der Alternativsuche oder allgemeinen Suche zuoberst in den Ergebnissen zu erscheinen
+R2	supports Arg1:T5 Arg2:T3	
+T6	Premise 706 759	Klassische Werbung können sie dann ebenfalls schalten
+R3	supports Arg1:T6 Arg2:T5	
+T7	Claim 770 937	fehlen bei der Cost Structure während der Wachstumsphase die Marketingkosten, die meiner Meinung nach nicht zu unterschätzen sind, sowie die Kosten der Rechtsabteilung
+T8	Premise 942 1004	viele Verträge mit vielen Partnern abgeschlossen werden müssen
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 1021 1081	würde ich mich anfangs nur auf ein Kundensegment fokussieren
+T10	Premise 1083 1175	Wichtig ist, dass möglichst viele und bestenfalls alle Partner eines Segments vertreten sind
+T11	Premise 1180 1244	die Suche sonst keine zufriedenstellenden Resultate liefern kann
+R5	supports Arg1:T11 Arg2:T10	
+R6	supports Arg1:T10 Arg2:T9	

@@ -1,0 +1,15 @@
+T1	Claim 11 94	Die Grundstruktur deiner Idee finde Ich sehr gut erklärt und weckt sofort Interesse
+T2	Claim 96 220	Ich finde vor allem sehr erfolgversprechend die WinWinSituation die sich zwischen den Lebensmittelhändler und Kunden kreiert
+T3	Premise 222 345	Einerseits mit den Daten über Produkte, Einkäufe und Bewertungen und anderseits diese neue Erlebnis mit virtuelle Bedienung
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 347 443	In diese Art und Weise gibt es eine Erleichterung des Einkaufsprozess und das ist am wichtigsten
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 445 514	Man sieht das Du direkt von einer Konsumentenperspektive gedacht hast
+T6	Claim 582 687	ist die Idee, dass jede zusätzliche Funktionalität kostenpflichtig ist eher für den Kunde nicht praktisch
+T7	Premise 689 877	Ich sehe die Möglichkeit die Funktionalität nach Module aber/oder auch die Möglichkeit die App in verschiedene Preispanne Basic, Plus, Premium beispielweise anzubieten benutzerfreundlicher
+R3	supports Arg1:T7 Arg2:T6	
+T8	Claim 919 990	Überlege dich noch Mals mit welche Partner dein Geschäft starten willst
+T9	Premise 992 1131	Lohnst sich es vielleicht mit Anbieter wie Coop und Migros anstatt kleiner wie Aldi anzufangen, auch wenn sie schwieriger zu verwalten sind
+R4	supports Arg1:T9 Arg2:T8	
+T10	Premise 1133 1266	Migros und Coop haben in der Schweiz die grössten Marktanteile und sind sehr beliebte Firmen innerhalb der schweizerische Bevölkerung
+R5	supports Arg1:T10 Arg2:T8	

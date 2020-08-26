@@ -1,0 +1,11 @@
+T1	Claim 11 85	Sehr gute Geschäftsmodellbeschreibung attraktiv formuliert und präsentiert
+T2	Claim 87 234	Rein optisch würde es sich beim Canvas anbieten, eine tabellarische Auflistung der Stichwörter zu wählen, um die Übersichtlichkeit zu gewährleisten
+T3	Claim 247 409	wäre eine Farblegende hilfreich, um die einzelnen Themen den verschiedenen Anspruchsgruppen zuordnen zu können, wenn mit Farben zur Unterscheidung gearbeitet wird
+T4	Claim 411 476	Das free in der Value Proposition erschliesst sich mir nicht ganz
+T5	Premise 481 524	das Angebot ja durchaus kostenpflichtig ist
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 527 674	eim Revenue Stream ist der Value, für den der Kunde bereit ist zu zahlen, nicht ganz ersichtlich, auch wenn er sich durchaus aus dem Kontext ergibt
+T7	Claim 676 816	Was eine kostenintensive Aufgabe darstellen und somit in Cost Structure Eingang finden könnte, ist die Resourcenplanung erster Belieferungen
+T8	Premise 821 915	überschüssige Lieferung dank der RealtimeFunktion vermutlich kein Ziel dieser Idee sein dürfte
+R2	supports Arg1:T8 Arg2:T7	
+T9	Claim 924 1015	könnten Marketingaktivitäten unabhängig von direkten SalesAktivitäten eigens genannt werden

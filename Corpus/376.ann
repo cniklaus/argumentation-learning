@@ -1,0 +1,23 @@
+T1	Claim 20 165	Ich finde bei dir erkennt man sehr schön, dass du verstanden hast dass die Value Proposition Canvas als zwei getrennte Bereiche aufzugliedern ist
+T2	Premise 167 271	Zum einen beschreibst zu zuerst die Kundenseite, und dann die Value Map, wo du das Wertangebot ausführst
+T3	Premise 273 314	Diese zwei Bereiche hast du klar getrennt
+R2	supports Arg1:T3 Arg2:T1	
+R1	supports Arg1:T2 Arg2:T3	
+T4	Claim 317 386	Du hast die Fragen bei jedem Unterpunkt ganz nach Vorlage beantwortet
+T5	Claim 403 499	Nicht schlecht wäre es gewesen, eine Untergliederung in die einzelnen Kundensegmente vorzunehmen
+T6	Premise 501 621	Gelten die Customer Jobs zB. für alle Kunden gleich, Amateure, Profifotografen, Einsteiger, Sparer, Early Adopters, etc.
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 623 682	Schwierig weil ich ja das GesamtBusiness Modell nicht kenne
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 684 831	Man kann außerdem eine Einteilung in Funktionale Jobs, Soziale Jobs, und Emotionales Grundbedürfnis vornehmen und sie je dem Kundensegment zuweisen
+R5	supports Arg1:T8 Arg2:T5	
+T9	Claim 858 939	Zum einen fände ich es gut wenn du mehr auf das Element Customer Segment eingehst
+T10	Premise 944 1063	sich hier ja noch verschiedene andere Pains, Gains etc. bzw. in verschiedenen Formen und Ausprägungen hervortun könnten
+R6	supports Arg1:T10 Arg2:T9	
+T11	Claim 1066 1145	Bei Gain Creators bist du außerdem auf alle Gains eingegangen außer Kombination
+T12	Premise 1146 1231	Durch exotische Kombinationen an Werkzeugen können originelle Bilder gestaltet werden
+R7	supports Arg1:T12 Arg2:T11	
+T13	Premise 1233 1339	In Anlehnung an die customer jobs zB. emotionales Grundbedürfnis dass man stolz auf die eigenen Bilder ist
+T14	Claim 1341 1420	würde ich diesen Gain auch noch bei den Gain Creators in geeigneter Form listen
+R8	supports Arg1:T13 Arg2:T14	
+T15	Claim 1421 1458	Alles in allem eine gute Ausarbeitung

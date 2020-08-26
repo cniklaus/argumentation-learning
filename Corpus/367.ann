@@ -1,0 +1,16 @@
+T1	Claim 11 58	Grundsätzlich ist das Konzept gut ausgearbeitet
+T2	Premise 60 166	Zu jedem Pain wurde ein Reliever, zu jedem Gain ein Creator und zu jedem Customer Job ein Product gefunden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 168 304	Bei den Unterpunkten in Customer Job bin ich mir nicht ganz sicher, ob die tatsächlich hierhin gehören oder doch nicht eher zu den Gains
+T4	Claim 309 408	Das gleich von der Nährstoffanalyse durchgehend bis zum Einkauf alles abgedeckt wird überzeugt mich
+T5	Premise 410 443	Damit wird viel Arbeit abgenommen
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 445 529	Der nächste Schritt wäre dann nur noch, dass das Essen gleich fertig zugestellt wird
+R3	supports Arg1:T6 Arg2:T4	
+T7	Claim 537 616	Was aber noch etwas Fragen aufwirft, ist wie diese Sensorik genau aussehen soll
+T8	Premise 618 710	Wird die auch mitgeliefert oder sind das Dinge, die der Kunde bereits besitzt etwa wearables
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 712 882	Damit würde sich für ihn evtl. der Nutzen noch dahin erhöhen, dass er diese wieder / weiter verwenden kann und würde Partnerschaften mit den Herstellern davon ermöglichen
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 899 1085	sollte es noch erlaubt werden, seine Nährstoffe und damit seinen Fortschritt über die Zeit zu protokollieren, auszuwerten und/oder mit Freunden / Ärzten / Krankenversicherungen zu teilen
+T11	Claim 1090 1296	Die Assistenzfunktion könnte noch dahin ausgebaut werden, dass noch mehr als nur Essensvorschläge gemacht werden, sondern in Zusammenarbeit mit Partnern auch noch Sporttrainingsprogramme oä angeboten werden

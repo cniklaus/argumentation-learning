@@ -1,0 +1,8 @@
+T1	Claim 90 228	Ich finde die Business Idee generell sehr zeitgemäss, du hast den Tatbestand sehr schön in deiner Geschäftsmodell Beschreibung beschrieben
+T2	Claim 230 349	Die Strukturierung der Beschreibung ist dir auch gelungen, erst Tatbestand,dann Problem und dann die Lösung präsentiert
+T3	Claim 351 560	Hingegen sehe ich einige Schwächen bei der Vollautomatisierung, es ist gut dass der Assistent die Bestellungen abnimmt, aber wer macht dem Dienstleistungsunternehmen die Tür auf sobald die Bestellung raus sind
+T4	Premise 562 793	Hier könnte man eventuell eine weitere Hardwarekomponente zum Produktbündel hinzufügen, sprich eine automatisiertes Türschloss was erkennt sobald der Dienstleister vor der Tür steht, damit die Tür sich automatisch von selbst öffnet
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 851 1142	zum Revenue Streams, hier rist die Rede von, die Nutzer sind bereit Geld für mehr Freizeit zu zahlen, hingegen ist das nicht relevant für den Revenue Stream es ist nice to know, aber generiert im Endeffekt keine Einnahmen, besser ist nur die handfesten, stichfesten Geldeinnahmen aufzulisten
+T6	Premise 1149 1205	Einnahmen für Hardware, Kommission für Vermittlung.. etc
+R2	supports Arg1:T6 Arg2:T5	

@@ -1,0 +1,12 @@
+T1	Claim 11 131	Ich bin mir nicht ganz sicher, ob das Value Proposition Statement zu erstellen so tatsächlich auch noch erforderlich war
+T2	Premise 133 218	Jedenfalls ist es aber nett als Einführung jemanden der das Produkt noch nicht kannte
+R1	attacks Arg1:T2 Arg2:T1	
+T3	Claim 222 302	Jedenfalls beweist der Autor darin aber ein Händchen für flotte Marketingsprüche
+T4	Premise 304 373	Falls es mit MBI nicht klappen sollte sehe ich da eine rosige Zukunft
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 378 554	Eigentlich konnte für jeden Job/Gain/Pain auch ein jeweiliges Gegenstück gefunden werden, ausser für Pain Powerless / unproductive, wo ich den Reliever nicht klar zuordnen kann
+T6	Claim 560 672	Das Produkt ist zwar an sich interessant, aber ich bin mir unsicher, ob es tatsächlich eine WellBeing Lösung ist
+T7	Premise 674 837	Inwiefern das Produkt tatsächlich eine Assistenzfunktion hat, die proaktiv Sachen vorschlägt und den Benutzer unterstützt resp. dient ist nicht ganz offensichtlich
+R3	supports Arg1:T7 Arg2:T6	
+T8	Premise 839 977	Eventuell kann noch eine Funktion hinzugefügt werden, die dem Konsumenten am Vorabend Vorschläge für Bestellungen am nächsten Morgen macht
+R4	supports Arg1:T8 Arg2:T7	

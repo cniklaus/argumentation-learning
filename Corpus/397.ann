@@ -1,0 +1,17 @@
+T1	Claim 73 197	Die Lösung richtet sich nach dem Ansatz von Oesterle und Senger 2011 und will eine unterstützende Serviceleistung darstellen
+T2	Premise 199 313	Kunden werden bei einem mühsamen Prozess begleitet, indem der Service vor allem bei der Entscheidungsfindung hilft
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 415 474	Die einzelnen Bestandteile sind relativ ungenau beschrieben
+T4	Claim 476 527	hier sollten die einzelnen Punkte ausgeführt werden
+R2	supports Arg1:T3 Arg2:T4	
+T5	Premise 529 666	So sind die Gains zu allgemein formuliert, besser wäre es hier zu erwähnen, dass die Kunden ein passendes Outfit wollen, Zeit sparen, ...
+R3	supports Arg1:T5 Arg2:T3	
+T6	Premise 670 810	Es ist ausserdem nicht klar, ob die Outfitvorschläge auf den Kleiderschrank des Kunden basieren, welcher diesen zunächst digitalisieren muss
+R4	supports Arg1:T6 Arg2:T3	
+T7	Claim 961 1051	Die Ausformulierung der Value Proposition fehlt, was die Beurteilung der Aufgabe erschwert
+T8	Claim 1053 1179	Die gesamte Analyse ist generell zu knapp geraten, es muss viel spezifischer auf die Bedürfnisse des Kunden eingegangen werden
+T9	Claim 1185 1366	Um die Kunden ein wenig mehr in den Prozess zu involvieren, sollte für Kunden die Möglichkeit bestehen, generelle Präferenzen Angeben zu können und die Vorschläge bewerten zu können
+T10	Premise 1368 1528	So kann auch der Logarithmus, welcher hinter dem Service steckt Annahme stetig angepasst werden, sodass mit der Zeit immer bessere Vorschläge präsentiert werden
+R5	supports Arg1:T10 Arg2:T9	
+T11	Premise 1530 1659	Eine weitere Möglichkeit würde darin bestehen, dass es modebegeisterten Kunden offensteht, ihre Outfits in Social Media zu teilen
+R6	supports Arg1:T11 Arg2:T9	
