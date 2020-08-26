@@ -1,0 +1,13 @@
+T1	Claim 78 90	Wirklich gut
+T2	Claim 166 224	Vor allem Punkte 4 und 5 des Prozesses sind sehr generisch
+T3	Claim 284 332	Vielleicht kannst du das noch etwas detaillieren
+T4	Premise 226 282	Was heißt z.B. genau Steuerung und Modifizierung der App
+R2	supports Arg1:T4 Arg2:T3	
+T5	Claim 337 389	Bilder sehen aufwendig aus und sind gut verständlich
+T6	Claim 393 459	Versuche ruhig weniger Text einzubringen und mehr Bilder zu zeigen
+T7	Claim 466 510	versuche die Geschichte bildlich zu erklären
+T8	Premise 512 550	wir sollen ja ein Storyboard erstellen
+R1	supports Arg1:T8 Arg2:T7	
+T9	Claim 555 597	Das Werteversprechen kommt deutlich hervor
+T10	Premise 604 699	ohne dein Business Model Canvas zu kennen, kann ich nachvollziehen was dein Wertversprechen ist
+R3	supports Arg1:T10 Arg2:T9	

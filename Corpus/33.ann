@@ -1,0 +1,26 @@
+T1	Claim 31 60	Interessantes Produkt gewählt
+T2	Claim 60 164	Der User Journey wurde detailliert und gut verständlich dargestellt und enthält alle wesentlichen Phasen
+T3	Claim 165 279	Zum Produkt zwei sehr interessante Persona gewählt, welche unterschiedliche Betrachtungen im User Journey zulassen
+T4	Premise 281 357	Besonders interessant hierbei die unterschiedlich User Stories zu betrachten
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 475 560	würde es Sinn machen die User Story bei Funktionsweise in App prüfen zu unterscheiden
+T6	Premise 384 473	bei Gertrud davon ausgegangen wird, dass sie bei neuen Technologien Unterstützung braucht
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 785 892	Eher würde ich davon ausgehen, dass man Gertrud darauf aufmerksam macht und es ihr dann auch gleich erklärt
+T8	Premise 567 683	bei Funktionsweise evaluieren stellt sich die Frage ob hierbei von einer gleichen User Story ausgegangen werden kann
+T9	Premise 685 783	Dass Gertrud wirklich selbst neue Funktionen prüft, würde ich aufgrund der Persona Def. bezweifeln
+R3	supports Arg1:T9 Arg2:T8	
+R4	supports Arg1:T8 Arg2:T7	
+T10	Claim 893 967	Für die Suche nach Anbieter würden sich zwei eigene User Stories empfehlen
+T11	Premise 972 1046	es hierbei um eine andere Sache geht als noch bei der Suche nach Smart Hub
+R5	supports Arg1:T11 Arg2:T10	
+T12	Premise 1048 1174	Bei der Suche nach Anbieter wäre beispielsweise eher die Nähe des Ladens als auch die Fachkompetenz des Personals von belangen
+R6	supports Arg1:T12 Arg2:T10	
+T13	Premise 1176 1243	Auch der Kauf des Produktes würde dann eine eigene User Story haben
+R7	supports Arg1:T13 Arg2:T12	
+T14	Claim 1270 1335	Die Installation der App ist, meiner Meinung nach, kein Value Gap
+T15	Premise 1340 1435	es zur Benutzung des BeOne Smart Hubs nötig ist diese auf dem Smartphone/Tablet zu installieren
+T16	Premise 1443 1479	wäre es eine traditionelle Aktivität
+R8	supports Arg1:T15 Arg2:T16	
+R9	supports Arg1:T16 Arg2:T14	
+T17	Claim 1482 1626	Bei der Überarbeitung sollte auf die User Stories geachtet werden und nochmals überdacht werden wo sie sich unterscheiden und wo sie gleich sind

@@ -1,0 +1,36 @@
+T1	Claim 10 73	Sorgfältig und aufwändig erarbeitete Lösung zur Problemstellung
+T2	Premise 75 165	Dieses Beispiel ist klar das am sorgfältigsten bearbeitete der drei, die ich erhalten habe
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 320 378	Persona 1 Michaela ist gut gewählt und passend beschrieben
+T4	Claim 380 424	Persona 2 dagegen weist einige Schwächen auf
+T5	Premise 426 496	Dieses Persona bietet viel Interpretationsspielraum für den Betrachter
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 510 586	Persona 2 besser fassbar zu machen, wäre die Beschreibung nur eines Partners
+R3	supports Arg1:T6 Arg2:T4	
+T7	Premise 593 810	Martin, der bald heiratet, sportlich ist aber nicht tanzen kann Die Initiative für den Tanzkurs kommt mit grosser Wahrscheinlichkeit nur von einem der Partner, wodurch damit auch dieser Tatsache Rechnung getragen wird
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 814 871	Der User Journey Cycle wirkt vollständig und gut überlegt
+T9	Premise 873 979	hierbei gilt gleichzeitig zu bedenken, dass die Kategorie Ja, aber könnte besser sein nicht zielführend is
+T10	Premise 987 1054	diese Aussage weist direkt darauf hin, dass es einen Value Gap gibt
+R6	supports Arg1:T10 Arg2:T9	
+T11	Claim 1064 1101	wäre mein Vorschlag, die Kategorie Ja
+T12	Premise 1108 1127	kann man verbessern
+R7	attacks Arg1:T12 Arg2:T11	
+R5	attacks Arg1:T8 Arg2:T9	
+R8	supports Arg1:T9 Arg2:T11	
+T13	Claim 1148 1184	den konkreten Value Gap darzustellen
+T14	Premise 1186 1317	Dadurch wird klar ersichtlich, was denn noch verbessert werden kann, wodurch wir mitten in der ursprünglichen Aufgabenstellung sind
+R9	supports Arg1:T14 Arg2:T13	
+T15	Premise 1321 1474	Die Slides pro Phase sind ausführlich beschrieben, aber wegen der unterhaltsamen Beschreibung ergeben sich Schwächen in Bezug auf die geforderten Inhalte
+T16	Premise 1476 1523	Die klare Struktur von Was ist mein Ziel/Wunsch
+T17	Premise 1528 1613	einen entsprechenden Nutzen zu erreichen geht durch die gewählte Darstellung verloren
+T18	Premise 1628 1661	kann die Bezahlung genannt werden
+T19	Premise 1663 1780	Die Beschreibungen geben keine Auskunft darüber, wieso die Personas den Tanzkurs mit z.B. mit Paymit bezahlen möchten
+R12	supports Arg1:T19 Arg2:T18	
+R13	supports Arg1:T18 Arg2:T17	
+T20	Claim 1790 1940	sollen in der Revision, die Aussagen zu den Aktivitäten der einzelnen Personas stärker nach dem ursprünglich vorgegebenen Template strukturiert werden
+R10	supports Arg1:T15 Arg2:T20	
+R11	supports Arg1:T16 Arg2:T15	
+R14	supports Arg1:T17 Arg2:T15	
+T21	Premise 1942 2071	Wirkt dadurch zwar langweiliger, erhält aber wichtige Informationen, welche für die nachfolgende Aufgabe von Relevanz sein können
+R15	supports Arg1:T21 Arg2:T20	

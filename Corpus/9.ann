@@ -1,0 +1,20 @@
+T1	Claim 19 43	Wirklich eine tolle Idee
+T4	Premise 317 393	BMC wird beschrieben, dass LivePrice die Produkte selbst packt und versendet
+T6	Claim 638 805	Wäre es nicht vielleicht sinnvoll, wenn die Kunden nur über LivePrice bestellen und die Ware dann letztendlich von dem anderen Shop direkt an den Kunden geschickt wird
+T9	Claim 1037 1117	In der Version 2 würde ich wie in 2 beschrieben nochmals die Logistik überdenken
+T13	Premise 1370 1472	Chatbots sind leider noch nicht so weit, dass sie völlig autonom die Kundenanfragen beantworten können
+T2	Premise 61 301	es nicht nur ein BrowserAddOn ist, der anzeigt, wo es günstiger ist. Sondern dass man die Produkte auch über LivePrice gebündelt alle kaufen kann, ohne dass man sich auf allen verschiedenen OnlineShops anmelden und seine Daten eingeben muss
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 558 636	müsste der Kunde aber doppelt so lange auf sein Paket warten wie normalerweise
+T5	Premise 426 551	LivePrice die Produkte zunächst bei dem Anbieter bestellt, der dieses am günstigen anbietet um es dann in ein Paket zu packen
+R2	supports Arg1:T5 Arg2:T3	
+R3	supports Arg1:T4 Arg2:T5	
+T7	Premise 815 947	spart sich LivePrice das sehr mühsame Logistikgeschäft und kann dann lediglich eine Provisionsgebühr von den anderen Shops verlangen
+T8	Premise 957 1011	bleiben die Kosten auch in einem überschaubaren Rahmen
+R4	supports Arg1:T7 Arg2:T8	
+R5	supports Arg1:T8 Arg2:T6	
+T12	Claim 1326 1368	würde ich nochmals über das CRM nachdenken
+T14	Premise 1268 1324	heutzutage Geschäftsmodelle immer nutzerzentrierter sind
+R7	supports Arg1:T14 Arg2:T12	
+T10	Claim 1129 1221	würde ich nochmals darauf eingehen, was genaue die Vorteile einer PremiumMitgliedschaft sind
+R6	supports Arg1:T13 Arg2:T12	

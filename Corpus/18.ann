@@ -1,0 +1,33 @@
+T1	Claim 9 161	Im Allgmeinen ist die Arbeit schön und übersichtlich gegliedert, die Texte sind ausführlich geschrieben und es wird auf die einzelnen Punkte eingegangen
+T2	Premise 206 283	Zu Punkt 5Von mir aus gesehen fehlen hier die identifizierten Geschäftsfelder
+T3	Premise 285 374	Im Beispiel Tabelle 26 am Ende des Texts von Oesterle sind diese nicht einzeln aufgeführt
+T4	Premise 379 451	nur ein einzelnes, bereits identifiziertes Geschäftsfeld betrachtet wird
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 453 567	Wir sollen aber, so wie ich das verstehe, für das gesamte Unternehmen die einzelnen Geschäftsfelder identifizieren
+R3	supports Arg1:T5 Arg2:T3	
+T6	Claim 577 822	würde ich bei Punkt 5. wie am Anfang im Text von Oesterle Kapitel 2.1.1 bis Tabelle 23 beschrieben in einem 2. Schritt aus den Gliederungskriterien Marktleistung, Kundensegmente, Standorte die einzelnen Geschäftsfelder des Unternehmens herleiten
+R1	supports Arg1:T3 Arg2:T2	
+R4	supports Arg1:T2 Arg2:T6	
+T7	Claim 824 909	Zu den Kundensegmente Wie so genau diese beiden Kategorien und nicht zB demographisch
+T8	Claim 911 978	Wieso müssen diese 2 Kundengruppen unterschiedlich behandelt werden
+T9	Premise 980 1087	Ich nehme an, aufgrund des Revenuestreams resp. gerechtfertigten Betreungs/Supportaufwand je nach Kategorie
+R5	attacks Arg1:T9 Arg2:T8	
+T10	Claim 1266 1324	Beim Punkt 6 soweit alles verständlich und nachvollziehbar
+T11	Claim 1325 1380	Bei Punkt 7Die Marktleistung würde ich anders aufteilen
+T12	Claim 1382 1713	Anstelle in einem Fliesstext zu repetieren, was bereits weiter oben gennnant wurde, würd ich, da man sich als Platform versteht, die Markteleistung aufteilen Kunden Self Scanning ProduktauswahlKaufentscheidZahlung Lieferanten Kundeninformation evtl noch mehr Services wie Auswertungen dieser Daten oder Targeting bestimmter Gruppen
+T13	Claim 1714 1829	Bei den Kritische Erfolgsfaktoren stimme ich soweit überein, aber sie decken nur ab was für den Kunden relevant ist
+T14	Premise 1831 1955	was ist für die Lieferanten relevant, die die Daten zur Verfügung stellen und dafür mit Kundeninformationen beliefert werden
+R6	supports Arg1:T14 Arg2:T13	
+T15	Claim 1962 2002	in Punkt 7, 8  9 alles gut so wie es ist
+T16	Claim 2014 2170	Die SWOT Analyse finde ich gut, insb. dass erkannt wurde, dass die App immer mit dem Internet verbunden sein muss und als Gefahr die verschiedenen Standards
+T17	Claim 2173 2376	ls Schwäche würde ich vielleicht noch anfügen, dass die Grossverteiler bereits eigene Programme zur Gewinnung von Kundendaten haben Cumulus, Supercard,... und dafür nicht zwingend auf uns angewiesen sind
+T18	Claim 2377 2428	Punkt 11Ich empfinde die Basisstrategie überzeugend
+T19	Premise 2430 2529	Den Punkt unserer App sollten nicht auf den OnlineEinkauf angewendet werden verstehe ich nicht ganz
+T20	Premise 2531 2568	Was ist mit angewendet werden gemeint
+R7	supports Arg1:T20 Arg2:T19	
+T21	Claim 2570 2612	Sollte evtl noch etwas verdeutlicht werden
+R8	supports Arg1:T19 Arg2:T21	
+T22	Claim 2613 2759	Bei der Preispolitik könnte man noch ausführen, wie hoch resp. wieviel höher als anderer Lösungen der Preis für die Plus und Pro Version sein soll
+T23	Claim 2761 2786	Vertreibspolitik passt so
+T24	Claim 2787 2857	Zu 12Bei den Massnahmen wurde der Fokus auf die richtigen Dinge gelegt
+T25	Claim 2870 2971	bezweifle ich, dass der Punkt Einführung bestimmte Standards von uns gemacht/durchgesetzt werden kann

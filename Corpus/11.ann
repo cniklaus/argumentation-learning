@@ -1,0 +1,27 @@
+T1	Claim 69 117	Das Konzept des Kundenprozesses wurde verstanden
+T2	Premise 125 213	die einzelnen Prozessschritte ausgehend vom zentralen Kundenbedürfnis beschrieben werden
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 324 416	Es wird der Prozess der Applikation ShareChain vor, während und nach der Nutzung beschrieben
+T4	Premise 215 322	Die Durchführung eines Projektes ohne notwendige Werkzeuge Schritt 1 ist dabei das zentrale Kundenbedürfnis
+R2	supports Arg1:T4 Arg2:T2	
+R3	supports Arg1:T3 Arg2:T4	
+T5	Claim 418 517	Mit den verständlichen Grafiken im Storyboard wird der Prozess optisch schön dargestellt und klarer
+T6	Claim 613 730	Im Vergleich zu den anderen mir zugeordneten Einreichungen sind die Beschreibungen der einzelnen Schritte etwas knapp
+T7	Claim 744 816	fehlt meiner Meinung nach eine grafische Darstellung des Kundenprozesses
+T8	Premise 818 911	Auf Seite 2 wurden die 6 Schritte lediglich aufgelistet, jedoch nicht als Prozess dargestellt
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 983 1201	Ich würde die einzelnen Schritte grafisch als Prozess darstellen, indem den jeweiligen Schritten ein passender Titel verabreicht wird und diese dann in die grünen jetzt noch leeren Prozessdarstellungen eingefügt werden
+T10	Premise 1204 1359	Der Prozess könnte beispielsweise so dargestellt werden 1 Neues Projekt > 2 Suche nach Equipment in App > 3 Abschluss Mietvertrag > 4 Abholung > 5 Rückgabe
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 1361 1481	Ich hätte als zweiten Schritt im Kundenprozess vielleicht noch einen Schritt Suche nach notwendigen Werkzeugen eingefügt
+T12	Premise 1483 1577	Nach dem Kundenbedürfnis ist für mich der Schritt der Suche nach einer Lösung ziemlich wichtig
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1585 1648	ist die App ShareChain jedoch nur eine Alternative unter vielen
+T14	Claim 1802 1884	müsste der Kundenprozess vielleicht auch noch den Schritt Registrierung beinhalten
+T15	Premise 1889 1974	sich die Nutzer vermutlich zuerst registrieren müssen, um die App verwenden zu können
+R7	supports Arg1:T15 Arg2:T14	
+T16	Premise 1650 1795	Der Kunde könnte sich beispielsweise auch für einen Kaufvertrag entscheiden oder das entsprechende Gerät bei einem Freund oder Nachbar ausleihen.
+R8	supports Arg1:T16 Arg2:T13	
+T17	Claim 1987 2095	würde ich vorschlagen, dass die einzelnen Prozessschritte noch ein bisschen ausführlicher beschrieben werden
+T18	Premise 2097 2153	Nur ein Satz pro Prozessschritt finde ich ziemlich knapp
+R9	supports Arg1:T18 Arg2:T17	

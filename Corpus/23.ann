@@ -1,0 +1,26 @@
+T1	Claim 100 186	ich finde du hast den Prozess sehr klar, elegant und so einfach wie möglich modelliert
+T2	Claim 188 220	Deine Lösung überzeugt mich sehr
+T3	Premise 232 294	die Darstellung der Optionen nach den Gateways gefällt mir gut
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 612 743	Im Pool der Plattform, nach dem ersten Gateway bei der Ablehnung der Kreditnehmer, fehlt mir ein Ende des Prozesses ein EndeZeichen
+T5	Claim 745 869	Denn wird die Kreditanfrage abgelehnt, endet hier der Prozess bereits, dies sollte meiner Meinung auch so dargestellt werden
+T6	Claim 957 1004	analog im Pool der Plattform auch noch einfügen
+T7	Premise 872 954	Im Pool der Kreditnehmer hast du das Ende nach der Kreditabsage auch eingezeichnet
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 1298 1323	Ich denke dies ist falsch
+T9	Premise 1163 1296	Das Nachrichtensignal an dieser Stelle ist kein Ende des Prozesses, sondern ein Zwischenereignis doppelte Linie und nicht fette Linie
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 1009 1099	Im Pool der Anleger, fügst du nach der Beteiligungszusage ein EndeSignal mit Nachricht ein
+T11	Premise 1101 1161	Danach fährst du fort mit der Aufgabe Überweisung Geldbetrag
+R4	supports Arg1:T10 Arg2:T9	
+R5	supports Arg1:T11 Arg2:T9	
+T12	Claim 1326 1387	Nach der Beteiligungsabsage fehlt mir hingegen ein EndeSignal
+T13	Premise 1389 1479	Entscheidet sich der Anleger nicht am Kredit zu beteiligen, endet hier der Prozess bereits
+R6	supports Arg1:T13 Arg2:T12	
+T14	Claim 1734 1765	finde ich deine Lösung sehr gut
+T15	Premise 1767 1866	ich würde dir empfehlen, die unter 2. aufgeführten Punkte, in der Version2 deiner Lösung einzubauen
+R7	attacks Arg1:T15 Arg2:T14	
+T16	Premise 1879 1964	Den Zeitraum von 2 Wochen kann man meiner Meinung nach in allen drei Pools einbringen
+R8	attacks Arg1:T16 Arg2:T14	
+T17	Premise 1967 2163	Kreditnehmer muss 2 Wochen auf den Bescheid warten / die Plattform gewährt den Anlegern 2 Wochen Zeit zum Sammeln des Betrages und die Anleger haben zwei Wochen Zeit den Betrag zusammen zu bringen
+R9	supports Arg1:T17 Arg2:T16	

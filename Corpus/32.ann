@@ -1,0 +1,20 @@
+T1	Claim 29 115	Die politische Einstellung gehört meines Erachtens nicht in die Kategorie Personalität
+T2	Claim 117 150	Ansonsten sehr klar und stringent
+T3	Premise 162 224	die Bio bei Janik Müller vielleicht etwas kurz ausgefallen ist
+R1	attacks Arg1:T3 Arg2:T2	
+T4	Claim 390 458	Der User Journey Cycle ist für mich verständlich und nachvollziehbar
+T5	Claim 529 620	Der Kaufprozess gehört genau zwischen die Pre und During Phase nicht davor und nicht danach
+T6	Premise 622 706	Suche nach Beweis von Nachhaltigkeit ist an sich kein Value Gap, sondern ein Prozess
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 708 799	Vermutlich ist es besser von Plattform oder Online Shop für nachhaltige Beanies zu sprechen
+T8	Claim 801 877	Gleich verhält es sich bei Suche nach Informationen, wo Baum gepflanzt wurde
+T9	Premise 880 982	Informationen zum Ort, wo Bäume gepflanzt werden aus AnbieterPerspektive, nicht Konsumentenperspektive
+R3	supports Arg1:T9 Arg2:T8	
+T10	Premise 984 1033	Es sind eher zu wenige Value Gaps gefunden worden
+T11	Premise 1045 1151	in der Postphase könnte ich mir weitere Hilfestellungen zu den Themen Recycling, Upselling etc. vorstellen
+T12	Claim 1153 1242	Hier wäre also zu überprüfen, ob man den User Journey nicht noch weiter anreichern könnte
+R4	supports Arg1:T10 Arg2:T12	
+R5	supports Arg1:T11 Arg2:T10	
+T13	Claim 1244 1335	Auf den Slides 57 wurde das Template hinsichtlich der Value Gaps nicht genau berücksichtigt
+T14	Premise 1337 1425	Der Customer Journey für Value Gaps sollte mit Persona A wünscht sich eingeleitet werden
+R6	supports Arg1:T14 Arg2:T13	

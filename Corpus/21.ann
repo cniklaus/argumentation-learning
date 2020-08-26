@@ -1,0 +1,10 @@
+T1	Claim 17 120	Ich finde du hast die Aufgabe sicherlich gut gelöst und das Prinzip des e3 Modells definitiv verstanden
+T2	Claim 289 331	ich würde noch Geld für Projekt hinzufügen
+T3	Premise 123 288	Teil 2  Beziehung zwischen Geldgeber und CrowdfundingPlattform Aufgabe a Ich denke du hast hier den Geldfluss nicht berücksichtigt sondern nur die Prozentuale Abgabe
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 334 560	Beziehung zwischen Band und CrowdfundingPlattform Aufgabe a Ich würde hier noch einbringen, dass die Band der CFPlattform ja auch die Idee gibt für eine solche CD und dass sie nicht nur den Zugang sondern effektiv Geld bekommt
+T5	Premise 765 799	der Kapitalfluss hier nicht stimmt
+T6	Premise 563 742	Beziehung zwischen Geldgeber und Band Aufgabe a Wenn man Crowdfunding betrachtet ist es ja so, dass das Kapital an die CF Plattform geht und diese es weiterleitet an den Initiator
+T7	Claim 801 850	Ich würde eher sagen sie bekommen Kundenloyalität
+R2	supports Arg1:T6 Arg2:T5	
+R3	supports Arg1:T5 Arg2:T7	

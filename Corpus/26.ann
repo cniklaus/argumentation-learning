@@ -1,0 +1,31 @@
+T1	Claim 89 209	hast du die Akteure sowie die Wertflüsse zwischen den verschiedenen Akteuren logisch und stimmig gewählt bzw. modelliert
+T2	Claim 211 349	Ich finde, dass die Geschäftsmodellidee, welche du modelliert hast mit deinem Modellierungsvorschlag verständlich nahvollzogen werden kann
+T3	Premise 357 446	hast du mehrere Szenario Paths definiert und aufgezeigt, welche durch das Szenario führen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Premise 1184 1327	du in deinem Modellierungsvorschlag das Prinzip der Reziprozität, worauf sich die e3 Value Methode stützt, noch nicht konsequent angewandt hast
+T5	Premise 1329 1614	Das ökonomische Prinzip der Reziprozität verlangt einen gegenseitigen Austausch von wertvollen Objekten wie bspw. Ware gegen Geld. Für die 3e Value Methode bedeutet das, das ein Value Interface immer zweigt, was ein Akteur bereits ist zu geben im Austausch für ein anderes Value Object
+T6	Premise 1640 1721	gibt es Beschriftungen der Value Objects, welche du noch treffender wählen kannst
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 1728 1813	die 3e Value Methode die Schaffung und der Austausch von wertvollen Gütern analysiert
+R4	supports Arg1:T7 Arg2:T6	
+T8	Premise 1831 1884	es um den ökonomischen Wert geht, der angeschaut wird
+R5	supports Arg1:T8 Arg2:T7	
+T9	Claim 1903 2099	ist es wichtig, dass die Value Objects dementsprechend wertvoll bezeichnet werden um so das modellierte Geschäftsmodell auch auf seine Machbarkeit ökonomisch und technisch hin überprüfen zu können
+R2	supports Arg1:T4 Arg2:T9	
+T10	Premise 2101 2316	Das ist das Ziel der 3e Value Methode ein Wertenetz zu modellieren, in welchem Akteure Produkte, Dienstleistungen, Informationen etc. austauschen, um sodann die eCommerce Idee auf Mehrwerte hin analysieren zu können
+R6	supports Arg1:T10 Arg2:T4	
+T11	Claim 2440 2662	Ich empfehle dir bei der Überarbeitung das ökonomische Prinzip der Reziprozität, worauf die e3 Value Methode basiert, konsequent anzuwenden, sodass kein Value Interface mit nur einem Austausch in eine Richtung mehr besteht
+T12	Claim 2664 2798	Wenn keine gegenseitige Austauschbeziehung zwischen zwei Akteuren definiert werden kann, rate ich dir, das Value Interface wegzulassen
+T13	Premise 2800 2962	Ich persönlich habe lange nachgedacht und keine wechselseitige Austauschbeziehung mit wertvollen Gütern zwischen den beiden Plattformen für mich definieren können
+R7	supports Arg1:T13 Arg2:T12	
+T14	Premise 2964 3107	Besteht zwischen den beiden Plattformen Facebook und Kickstarter wirklich einen Austausch bzw. Konsum von wertvollen Gütern in beide Richtungen
+R8	supports Arg1:T14 Arg2:T13	
+T15	Claim 3135 3474	du bei der Überarbeitung das Value Object Nutzung zwischen Initiator und der Crowdfunding Plattform sowie zwischen der Crowdfunding Plattform und dem Geldgeber entweder ersetzen oder zusätzlich mit dem Value Object Zugang zu Geldgebern bzw. Zugang zu Investitionsmöglichkeiten oder Zugang zu innovativen Geschäftsmodellen ergänzen könntest
+T16	Premise 3495 3722	die Nutzung meiner Meinung nach noch nicht der zentrale ökonomische Wert ausdrückt, welcher der Initiator und der Geldgeber haben möchten, damit sie bereit sind einen prozentuale Abgabe für die Nutzung der Plattform zu bezahlen
+R9	supports Arg1:T16 Arg2:T15	
+T17	Claim 3748 3802	hört der Szenario Path nicht beim Kunden Initiator auf
+T18	Claim 3804 3927	Er beginnt dort mit dem Start Stimulus, welcher das Bedürfnis darstellt und das hast du auch vollkommen korrekt dargestellt
+T19	Premise 3961 4056	er beim Geldgeber endet, da hier der Ursprung des Bedürfnisses das Kapital bereit gestellt wird
+R10	supports Arg1:T19 Arg2:T17	
+T20	Premise 4058 4290	Meine Überlegungen stützen sich auf das Beispiel in den Vorlesungsfolien, wo der Szenario Path beim Hersteller aufhört, auch wenn das gewünschte Gut am Ende beim Kunden landet, welcher mit seinem Bedürfnis den Start Stimulus auslöst
+R11	supports Arg1:T20 Arg2:T19	

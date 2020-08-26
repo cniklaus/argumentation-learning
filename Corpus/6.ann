@@ -1,0 +1,17 @@
+T1	Claim 9 152	Prinzipiell eine gute Idee, einfache und notwendige Aktivitäten im Alltag per App und on demand, sprich zu jeder Zeit und überall, zu bestellen
+T6	Premise 883 1019	oder dass gar Dumpinglöhne weil sich Ausländer auf diese Jobs bewerben wie bspw. in Grenzgebieten der Schweiz möglich ist bezahlt werden
+T7	Premise 1021 1267	Die App müsste dafür Sicherheitsfeatures einbauen wie bspw. die Definition von Mindestlöhnen je nach Branche oder Tätigkeit oder eine After Sales Service in Form von der Gestaltung eines Arbeitsvertrages, um dem einen Riegel vorschieben zu können
+T8	Claim 1268 1413	Darauf sollte sicherlich einen Fokus bei der Überarbeitung gelegt werden und zusätzlich auch noch die Ausformulierung im Detail angeschaut werden
+R4	supports Arg1:T6 Arg2:T7	
+T2	Premise 154 439	So entsteht eine Dienstleistung, welche auf der einen Seite das Bedürfnis nach Komfort oder mehr Zeit erfüllt und auf der anderen Seite Arbeiten für Personen schaffen, welche gerne ein zusätzliches Taschengeld oder aber möglicherweise auch ihren Lebensunterhalt damit verdienen möchten
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 521 639	würde die App diese verschiedenen Plattformen vereinen und vor allem Nachfrage und Angebot direkt sowie live verbinden
+T10	Premise 455 519	heute sehr viele Seiten kleinanzeigen, anibis, tutti.ch bestehen
+R2	supports Arg1:T10 Arg2:T3	
+T4	Premise 651 784	besteht bei dieser Idee noch eine Gefahr und zwar, wird nicht ganz klar, wer den Preis bestimmt und wer diesen wie zu akzeptieren hat
+T5	Premise 786 857	Mit der App läuft man Gefahr, dass Schwarzarbeit dadurch gefördert wird
+R3	supports Arg1:T4 Arg2:T5	
+R5	supports Arg1:T5 Arg2:T7	
+R6	supports Arg1:T7 Arg2:T8	
+T9	Premise 1418 1581	dort suggeriert wird, dass Houzemate alles übernimmt für den Leser hört sich das wie eine Art Roboter an, was es ja nicht ist und daher etwas unklar formuliert ist
+R7	supports Arg1:T9 Arg2:T8	

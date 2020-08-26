@@ -1,0 +1,56 @@
+T1	Claim 11 183	Eine erste grosse Stärke des eingereichten Geschäftsmodells ist das Aufgreifen von hochrelevanten Markt und Konsumtrends und deren Integration in die eigene WellbeingLösung
+T2	Premise 185 359	Bereits im ersten Satz wird die Entwicklung in Richtung IoT genannt und gibt einem Geschäftsmodell, welches diese Entwicklung auszunutzen versucht, bereits erste Legitimation
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 361 514	Danach schreibt der Verfasser über die zunehmende Relevanz der ServiceOrientierung und stützt seine Idee somit auf einem weiteren hochrelevanten Trend ab
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 515 638	Eine weitere Stärke ist, dass das Erfordernis eines WellBeingLösungsansatzes meiner Meinung nach ziemlich gut erfüllt wurde
+T5	Premise 640 749	Dies insbesondere durch die Integration vieler verschiedener Anbieter, Produktkategorien und Dienstleistungen
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 751 961	Es werden wie in der Aufgabenstellung gefordert, vorhandene Angebote genutzt und auf der vorgeschlagenen Plattform auf eine innovative Weise zusammengefasst, so dass sie dem Kunden wie aus einer Hand erscheinen
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 964 1101	Eine zu nennende Schwäche ist, dass einzelne Aussagen zu vage formuliert sind und beim Leser deswegen zu viele Fragezeichen offen bleiben
+T8	Premise 1123 1332	Das Ziel der Anwendung ist einerseits den steigenden Dienstleistungsansprüchen der Konsumenten gerecht zu werden und andererseits den unterschiedlichen Anbietern dabei zu helfen, ihre Überkapazitäten abzubauen
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 1334 1410	Fragen die sich da stellen sind Welche Dienstleistungsansprüche sind gemeint
+R6	supports Arg1:T9 Arg2:T8	
+T10	Premise 1412 1467	Wie soll die Plattform dieses Ansprüchen gerecht werden
+R7	supports Arg1:T10 Arg2:T8	
+T11	Premise 1469 1504	Welche Überkapazitäten sind gemeint
+R8	supports Arg1:T11 Arg2:T8	
+T12	Premise 1506 1575	Warum wird davon ausgegangen, das alle Anbieter Überkapazitäten haben
+T13	Premise 1576 1758	Mobilitätsanbieter wie Hauslieferdienste, Privatpersonen oder auch herkömmliche Taxifahrer können das Angebot entweder annehmen oder ein Gegenangebot mit angepassten Preis offerieren
+T14	Premise 1760 1871	Was wäre der Vorteil einer solchen Anwendung gegenüber anderen Anbietern von Fahrdienstleistungen wie z.B. Uber
+T15	Premise 1873 1953	Wieso werden Hauslieferdienste als Beispiel für einen Mobilitätsanbieter genannt
+T16	Premise 1954 2075	Der Kunde kann über GoOn bei jedem Produkt angeben ob es innert kurzer, mittlerer oder langer Frist bei ihm ankommen muss
+T17	Premise 2079 2183	Wieso sollte sich der Kunde dafür entscheiden ein Produkt erst in der langen Frist geliefert zu bekommen
+R13	supports Arg1:T17 Arg2:T16	
+T18	Premise 2185 2265	Dies ist meiner Meinung im Widerspruch zu den Trends sameday und nextdaydelivery
+R9	supports Arg1:T13 Arg2:T12	
+R10	supports Arg1:T14 Arg2:T13	
+R11	supports Arg1:T16 Arg2:T18	
+R12	supports Arg1:T15 Arg2:T7	
+R14	supports Arg1:T12 Arg2:T7	
+T19	Claim 2266 2375	Eine weitere Schwäche ist, dass der BMC teilweise nicht im Einklang zur Freitextbeschreibung ausgefüllt wurde
+T20	Premise 2397 2549	In der Spalte Customer Segments werden als Kunden nur Mobilitätsanbieter und Detailhändler genannt, obwohl im Text auch Hauslieferdienste erwähnt wurden
+R15	supports Arg1:T20 Arg2:T19	
+T21	Premise 2551 2666	Zudem müssten als Kunden zusätzlich noch die Käufer der angebotenen Produkte und Dienstleistungen aufgeführt werden
+T22	Premise 2667 2759	Bei den Channels werden die App und die im Text erwähnte responsive Website nicht aufgeführt
+R16	supports Arg1:T22 Arg2:T19	
+R17	supports Arg1:T21 Arg2:T19	
+T23	Claim 2761 2884	Bei der Bearbeitung sollte primär darauf geachtet werden, dass die anfangs genannten vagen Formulierungen präzisiert werden
+T24	Premise 2886 3083	So könnten zum Beispiel konkrete Beispiele für Unternehmen und/oder Branchen aufgeführt werden, welche mit Überkapazitäten zu kämpfen haben, wie z.B. Pizzakuriere zwischen den üblichen Essenszeiten
+R19	supports Arg1:T24 Arg2:T23	
+T25	Premise 3085 3287	Zudem könnte dann für ein besseres Verständnis ein möglicher Vorschlag aufgeführt werden, wie Anreize so gesetzt werden könnten, dass sich die Nachfrage auf dieses temporäre Überangebot abstimmten lässt
+R18	supports Arg1:T25 Arg2:T23	
+T26	Premise 3289 3376	So könnten beispielsweise tiefere Preise zu unüblichen Essenszeiten kommuniziert werden
+R20	supports Arg1:T26 Arg2:T25	
+T27	Premise 3377 3474	Zudem sollte der BMC an einigen Stellen durch im Freitext enthaltene Informationen ergänzt werden
+R21	supports Arg1:T27 Arg2:T23	
+T28	Premise 3476 3548	Bei Channels müsste die App und die responsive Website aufgeführt werden
+R22	supports Arg1:T28 Arg2:T23	
+T29	Premise 3550 3646	Bei Customer Segments müssen zusätzlich Hauslieferdienste im Bereich der Anbieter erwähnt werden
+R23	supports Arg1:T29 Arg2:T23	
+T30	Premise 3648 3766	Zudem muss die andere Seite der Vermittlungsplattform, also die Empfänger der angebotenen Leistungen aufgeführt werden
+R24	supports Arg1:T30 Arg2:T23	
+T31	Premise 3768 3856	Bei Cost Structure wäre unter Umständen noch die notwendige IT Infrastruktur nennenswert
+R25	supports Arg1:T31 Arg2:T23	

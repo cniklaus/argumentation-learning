@@ -1,0 +1,59 @@
+T1	Claim 18 60	Die Value Proposition ist sehr gut gemacht
+T2	Premise 62 153	Sie ist kurz und prägnant formuliert und die Vorteile bzw. der Nutzen ist gut hervorgehoben
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 155 222	Als Kunde hätte ich nach dem Lesen Lust, das Produkt auszuprobieren
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 236 305	Der Value Proposition Canvas ist dafür leider sehr schwach ausgefüllt
+T5	Premise 307 393	Die Punkte sind viel zu wenig ausgearbeitet und viel zu wenig beschrieben bzw. erklärt
+R3	supports Arg1:T5 Arg2:T4	
+T6	Premise 395 452	Die Customer Jobs sollten viel genauer beschrieben werden
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 714 787	Ein Gain sollte sein Wie fühlt sich der Kunde, wenn der Job erfüllt wurde
+T8	Premise 602 712	Der Punkt, der bei dir erwähnt ist, ist viel eher ein Gain Creator durch das Produkt und nicht ein reiner Gain
+R5	supports Arg1:T8 Arg2:T7	
+T9	Premise 794 879	wenn er online etwas Schönes gefunden hat und das gekauft hat, wie fühlt er sich dann
+R6	supports Arg1:T9 Arg2:T7	
+T10	Premise 881 941	Was wünscht er sich in Verbindung mit der Erfüllung des Jobs
+R7	supports Arg1:T10 Arg2:T7	
+T11	Premise 943 1107	Ziel deines Produktes ist es dann, dieses Gain besser oder schneller zu erfüllen bzw. ganz allgemein die Wünsche des Kunden überhaupt zu adressieren und zu erfüllen
+R8	supports Arg1:T11 Arg2:T7	
+T12	Premise 1110 1170	Das Produkt, wie du es beschreibst, gibt es so ähnlich schon
+T13	Premise 1172 1254	Mit comparis.ch gibt es dies bereits für nichtMode Produkte, Dienstleistungen etc.
+T14	Premise 1255 1321	Dein Produkt ergänzt die Kategorien quasi noch um den Bereich Mode
+T15	Claim 1352 1409	wirkt die Idee weniger innovativ und auch weniger kreativ
+R9	supports Arg1:T12 Arg2:T15	
+R10	supports Arg1:T13 Arg2:T12	
+R11	attacks Arg1:T14 Arg2:T12	
+T16	Claim 1411 1481	Es wirkt leider, als hättest du wenig Zeit für die Aufgabe aufgewendet
+R12	supports Arg1:T12 Arg2:T16	
+T17	Claim 1522 1628	Ich würde mich noch mehr mit dem Produkt auseinandersetzen und versuchen, die Kundenbedürfnisse abzubilden
+T18	Claim 1636 1714	würde ich ganze Sätze schreiben, da es professioneller und vollständiger wirkt
+T19	Claim 1718 2007	Bei den Customer Jobs würde ich einen Ablauf aufschreiben, welche Jobs der Kunde bisher ohne dein Produkt erfüllen muss, sprich Auf eine OnlineSeite gehen und das entsprechende Kleidungsstück suchen, dann den nächsten Tab öffnen und dort das gleiche Kleidungsstück suchen, vergleichen, usw
+T20	Premise 2009 2109	Das stellt den Aufwand, der bisher geleistet werden muss, um Preise von Mode zu vergleichen, gut dar
+R13	supports Arg1:T20 Arg2:T19	
+T21	Premise 2121 2318	vermittelt es dem Leser den sense of urgency, sodass er merkt, wie mühsam der Ablauf vorher war und dass man da ja eigentlich wirklich etwas machen müsste, um es zu verbessern bzw. zu beschleunigen
+R14	supports Arg1:T21 Arg2:T20	
+T22	Claim 2320 2541	 Bei den Gains würde ich wie bereits erwähnt, den jetzigen Punkt streichen und stattdessen mehr auf das Gefühl eingehen, welches der Kunde bei Erfüllung des Kundenbedürfnisses Mode zum günstigsten Preis einkaufen verspürt
+T23	Premise 2553 2629	wären Zufriedenheit, dass er das günstigste Angebot im Internet gefunden hat
+R15	supports Arg1:T23 Arg2:T22	
+T24	Premise 2632 2679	tolz, dass man es geschafft hat, Geld zu sparen
+R16	supports Arg1:T24 Arg2:T22	
+T25	Premise 2681 2835	Gesteigertes Wohlbefinden, wenn man Komplimente für ein neues Kleidungsstück bekommt und man insgeheim weiss, dass man dafür aber nur so wenig gezahlt hat
+R17	supports Arg1:T25 Arg2:T22	
+T26	Claim 2842 2885	Wichtig ist, sich in den Kunden einzufühlen
+T27	Premise 2890 2935	kannst du inhaltlich noch viel mehr schreiben
+R18	supports Arg1:T27 Arg2:T26	
+T28	Claim 2938 3041	Die Pain Relievers und Gain Creators sollten noch viel mehr inhaltlich gefüllt und ausformuliert werden
+T29	Premise 3051 3153	wird das Produkt erneut angepriesen bzw. die Value Proposition lässt sich in den beiden Punkten finden
+R19	supports Arg1:T29 Arg2:T28	
+T30	Claim 3213 3298	es sollte damit das Werteversprechen des Produktes gut herausgearbeitet werden können
+T31	Premise 3155 3199	Es ist immerhin ein Value Proposition Canvas
+T32	Claim 3300 3353	Das kommt bei dir aber bisher nicht so wirklich durch
+T33	Premise 3355 3452	Ich würde die Pains noch mehr den Pain Relievers und die Gains den Gain Creators gegenüberstellen
+T34	Premise 3470 3579	eine Ausformulierung, mit welchen Features des Produkts welches Pain ersetzt und damit zum Pain Reliever wird
+R20	supports Arg1:T31 Arg2:T30	
+T35	Premise 3581 3705	Dasselbe gilt für die Gains Welche Features des Produkts führen zu den vorher genannten Gains bzw. guten Gefühlen des Kunden
+T36	Claim 3740 3797	Beide Punkte können also noch besser ausformuliert werden
+R21	supports Arg1:T35 Arg2:T36	
+R22	supports Arg1:T34 Arg2:T36	
+R23	supports Arg1:T33 Arg2:T36	

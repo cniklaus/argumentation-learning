@@ -1,0 +1,27 @@
+T1	Premise 70 127	Die Lösung des Kommilitonen ist kurz und knapp modelliert
+T2	Claim 129 160	Das finde ich grundsätzlich gut
+T3	Premise 165 298	so wirklich der Fokus auf das Wesentliche gesetzt werden kann, obgleich man an der Übersichtlichkeit des Modells noch arbeiten könnte
+R1	supports Arg1:T1 Arg2:T2	
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 306 482	finde ich gut, dass die Aktivitäten immer im gleichen Stil beschrieben sind, sprich alle Aktivitäten wurden indirekt formuliert und das einheitlich über das ganze Modell hinweg
+T5	Premise 621 696	an ein paar Stellen die Regeln der BPMN 2.0 nicht richtig angewendet wurden
+T6	Claim 698 820	Dieser Fehler im Syntax, obgleich das Modell semantisch korrekt ist, zeigt auf, dass das Modell grammatikalisch Falsch ist
+R3	supports Arg1:T5 Arg2:T6	
+T7	Claim 872 924	man sollte hier die Regeln im Modell besser anwenden
+T8	Premise 941 1021	müssen Aktivitäten immer einen eingehenden und einen ausgehenden Konnektor haben
+R4	supports Arg1:T8 Arg2:T7	
+T9	Premise 1037 1118	die Aktivität Automatisierte Vorprüfung der Daten braucht einen eingehenden Pfeil
+R5	supports Arg1:T9 Arg2:T8	
+T10	Premise 1120 1171	Der Nachrichtenfluss gilt dabei nicht als Konnektor
+R6	supports Arg1:T10 Arg2:T7	
+T11	Claim 1270 1338	Dort braucht es ein zusammenführendes Gateway parallel oder exklusiv
+T12	Premise 1198 1268	am Schluss die Verbindung der beiden Aktivitäten wieder in einem Pfeil
+R7	supports Arg1:T12 Arg2:T11	
+T13	Claim 1484 1555	Bei der Überarbeitung der Lösung würde ich die Pools breiter darstellen
+T14	Premise 1557 1649	Es bringt enorm viel für die Lesefreundlichkeit, wenn es nicht so gequetscht modelliert wird
+R8	supports Arg1:T14 Arg2:T13	
+T15	Premise 1651 1695	Das wäre vor allem am Schluss sehr hilfreich
+R9	supports Arg1:T15 Arg2:T14	
+T16	Claim 1707 1815	würde ich darauf schauen, dass die einzelnen Elemente innerhalb einer Lane auf einer Linie modelliert werden
+T17	Premise 1817 1876	Das bringt zusätzlichen Nutzen bezüglich Lesefreundlichkeit
+R10	supports Arg1:T17 Arg2:T16	

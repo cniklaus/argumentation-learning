@@ -1,0 +1,7 @@
+T1	Claim 12 64	Fehlerfreie Darstellung der Actors und Value Objects
+T2	Claim 66 112	Benennungen sind ebenfalls stimmig und logisch
+T3	Claim 114 158	Für mich kein Darstellungsfehler ersichtlich
+T4	Claim 164 204	Lediglich den Scenraio Path vermisse ich
+T5	Premise 206 279	Dieser rote Faden mit Start und EndStimilus, siehe dazu Gordjin Figure 1.
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 284 367	Scenario Path einfügen und schon ist die Aufgabe aus meiner Sicht fehlerfrei gelöst

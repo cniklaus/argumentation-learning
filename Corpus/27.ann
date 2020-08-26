@@ -1,0 +1,14 @@
+T1	Claim 32 85	Die vorliegende Lösung ist eine sehr fortgeschrittene
+T2	Claim 87 206	Formal wie auch in Bezug auf die Logik, macht die Prozessmodellierung Sinn und ist weitgehend übersichtlich dargestellt
+T3	Claim 280 304	Es fehlt das StartSymbol
+T4	Claim 306 367	Eine Schwäche sind die abschliessenden Aufgaben des Prozesses
+T5	Premise 369 429	Es fehlen an einigen Stellen letzte Aufgaben und EndeSymbole
+R1	supports Arg1:T5 Arg2:T4	
+T6	Claim 431 480	Das Beginnen der 2 Wochen wurde zu früh initiiert
+T7	Premise 482 536	Dies geschieht erst nach der Freischaltung der Anfrage
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 538 611	Zeiten sind in diesem Beispiel nicht mit Anfang und Ende zu signalisieren
+T9	Claim 613 648	Es fehlen einige NachrichtenSymbole
+T10	Claim 772 898	Der Prozessschritt Informationen anfordern wird automatisiert ausgeführt, dies sollte als Serviceaufgabe gekennzeichnet werden
+T11	Claim 900 1095	Nachdem die Kreditanfrage versendet wurde und für die Beteiligung eine Absage erteilt wurde, sollte der Kreditnehmer die Aufgabe Absage einsehen mit anschliessendem EndeSymbol den Prozess beenden
+T12	Claim 1097 1253	Der letzte Schritt vom Prozess im Falle der Zusage könnte beim Kreditnehmer mit Bescheid einsehen/erhalten aufhören bevor schliesslich das Symbol Ende folgt

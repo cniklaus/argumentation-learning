@@ -1,0 +1,12 @@
+T1	Claim 20 53	Die Aufgabe wurde sehr gut gelöst
+T2	Premise 55 93	Die Templates wurden sauber angewendet
+T3	Premise 95 217	Die einzelnen User Stories sind gut beschrieben und sehr einleuchtend und die Value Gaps sind breit und gut erkannt worden
+R1	supports Arg1:T2 Arg2:T1	
+R2	supports Arg1:T3 Arg2:T2	
+T4	Claim 262 443	Die Personas sind sehr pragmatisch beschrieben und könnten würden durch eine buntere Darstellung Verwendung von vollständigen Sätzen in Biographie lebhafter und realistischer wirken
+T5	Claim 445 488	Der Kern der Person ausreichend umschrieben
+T6	Premise 490 571	ein Bild könnte hinzugefügt werden um ebenfalls die Person lebhafter darzustellen
+R3	attacks Arg1:T6 Arg2:T5	
+T7	Claim 572 605	Die User Stories sind gut gewählt
+T8	Premise 607 707	hier fehlt jedoch noch eine klare Visualisierung wo sich die User Stories der Personas unterscheiden
+R4	attacks Arg1:T8 Arg2:T7	

@@ -1,0 +1,2 @@
+review89
+1  Fehlerfreie Darstellung der Actors und Value Objects. Benennungen sind ebenfalls stimmig und logisch. Für mich kein Darstellungsfehler ersichtlich.  2  Lediglich den Scenraio Path vermisse ich. Dieser rote Faden mit Start und EndStimilus, siehe dazu Gordjin Figure 1.  3  Scenario Path einfügen und schon ist die Aufgabe aus meiner Sicht fehlerfrei gelöst.

@@ -1,0 +1,9 @@
+T1	Claim 9 299	PurchApp klingt sehr interessant und ich hätte mir gewünscht, du hättest vielleicht am Schluss nochmal die Value Proposition / Business Model Beschreibung reingehaut, also ist jetzt nicht dein Fehler sondern vielleicht eher des Systems, aber ich hätte einfach gern noch mehr darüber gewusst
+T2	Claim 306 382	ansonsten war die Geschäftsfeldbeschreibung so weit auch gut nachvollziehbar
+T3	Premise 383 429	Du sagst ja es gibt nicht wirklich Mitbewerber
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 431 570	Vielleicht könntest du noch etwas genauer beschreiben, wie sich das gewählte Geschäftsfeld denn von exisitierenden Marketinglösungen abhebt
+T5	Claim 571 755	Interessant wäre auch ob du vorhast PurchApp sofort weltweit zu launchen, oder ob du mit einem ersten Zielmarkt zB DACH anfängst und dann allmählich den Rollout in andere Länder machst
+T6	Claim 766 845	sehr gute Geschäftsfeldbeschreibung und vor allem die SWOT hat mir gut gefallen
+T7	Premise 847 896	man merkt dass viel Arbeit hinter der Idee steckt
+R2	supports Arg1:T7 Arg2:T6	

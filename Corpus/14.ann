@@ -1,0 +1,37 @@
+T1	Claim 69 132	Generell empfinde ich die GeschäftsmodellIdee als sehr gelungen
+T2	Premise 134 263	Der Kundenprozess enthält wichtige Schritte, welche das Unternehmen zusammen mit den Kunden zur Lösung seines Problems durchführt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 280 363	wird beschrieben wie der Kunde entscheidende Push Notifikationen auf die App kriegt
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 366 455	Auch das Storyboard in Kombination mit dem Kundenprozess finde ich sehr schön dargestellt
+R3	supports Arg1:T4 Arg2:T1	
+T5	Premise 457 482	Es ist sehr übersichtlich
+R4	supports Arg1:T5 Arg2:T4	
+T6	Premise 487 598	zuerst sinnvolle Bilder die Situationen visuell darstellen und gleich unterhalb des Bildes eine Erklärung folgt
+R5	supports Arg1:T6 Arg2:T5	
+T7	Premise 616 691	wurde das Problem der Kunden besonders schön in Bild 1 mit Text dargestellt
+R6	supports Arg1:T7 Arg2:T6	
+T8	Premise 693 825	Erstens gibt es eine Informationsflut an Produkten und Dienstleistungen verschiedener Anbieter, welche viele Konsumenten überfordern
+R7	supports Arg1:T8 Arg2:T7	
+T9	Premise 834 929	bestehen bei Personen Budgetbeschränkungen, beziehungsweise man möchte bei den Kosten einsparen
+R8	supports Arg1:T9 Arg2:T7	
+T10	Claim 932 1042	Besonders gelungen finde ich die Möglichkeit für den Kunden, bei PurchApp das persönliche Profil zu bearbeiten
+T11	Premise 1044 1205	Damit kann der Kunde das für ihn erstellte Profil anpassen und somit werden zusätzliche Daten verändernde Bedürfnisse des Konsumenten durch PurchApp festgehalten
+R9	supports Arg1:T11 Arg2:T10	
+T12	Claim 1303 1437	2.1 Schritt Nr. 5 Datenanalyse und Reaktion durch gezielte Marketingmassnahmen würde ich nicht als Teil des Kundenprozesses bezeichnen
+T13	Premise 1439 1533	Dieser Schritt wird nämlich nur vom Unternehmen durchgeführt und nicht durch den Kunden selbst
+R10	supports Arg1:T13 Arg2:T12	
+T14	Premise 1537 1688	Laut Definition von Kundenprozess enthält dieser nämlich alle Aktivitäten, welche der Kunde mit einem Unternehmen zur Lösung seines Problems durchführt
+R11	supports Arg1:T14 Arg2:T13	
+T15	Claim 1732 1843	Ich würde einen weiteren Schritt im Kundenprozess einfügen Die Möglichkeit für den Kunden ein Feedback zu geben
+T16	Premise 1845 1903	Damit könnte die Datenanalyse erheblich erleichtert werden
+R12	supports Arg1:T16 Arg2:T15	
+T17	Claim 2095 2247	Ich würde den Schritt Nr. 5 Datenanalyse und Reaktion durch gezielte Marketingmassnahmen nicht als Teil des Kundenprozesses ansehen und somit rausnehmen
+T18	Claim 2255 2356	Als weiteren Schritt im Kundenprozess würde ich eine Feedbackmöglichkeit für den Konsumenten einbauen
+T19	Claim 2373 2486	könnte man daran denken, dass bei jedem Angebot auf dem App ein grüner Smiley und ein roter Smiley angezeigt wird
+T20	Premise 2488 2549	Der Kunde kann somit freiwillig einer dieser Button anklicken
+R13	supports Arg1:T20 Arg2:T19	
+T21	Premise 2557 2654	erkennt PurchApp unmittelbar, welche Angebote der Kunde okay findet und welche er schlecht findet
+R14	supports Arg1:T21 Arg2:T20	
+T22	Premise 2656 2786	Dieses simple Feedback erleichtert eine Datenanalyse und das zugestellte Angebot für den Kunden kann sehr schnell angepasst werden
+R15	supports Arg1:T22 Arg2:T18	

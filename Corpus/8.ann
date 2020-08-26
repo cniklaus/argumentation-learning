@@ -1,0 +1,54 @@
+T1	Claim 69 149	Im Customer Jobs werden die Bedürfnisse bzw. Aufgaben des Kunden gut beschrieben
+T2	Premise 151 197	Jeder reist gerne unkompliziert und stressfrei
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 199 259	Man möchte Informationen über gute Restaurants erhalten usw.
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 261 324	Die Pains werden ebenfalls sinnvoll aufgelistet und sind kausal
+T6	Claim 427 484	Die Gains sind soweit ebenfalls logisch ausgewählt worden
+T7	Claim 643 708	Dadurch erhält man schnell einen Überblick über die Geschäftsidee
+T8	Premise 543 641	Unter Products  Services wird kurz und knapp erklärt, was genau durch das Unternehmen gemacht wird
+R4	supports Arg1:T8 Arg2:T7	
+T9	Claim 711 818	Die Pain Relievers und Gain Creators nehmen einen klaren Bezug zu den vormals erwähnten Pains und Gains ein
+T10	Premise 820 938	So besteht beispielsweise der Pain, dass eine Planung sehr zeitintensiv ist, jedoch durch den Service erleichtert wird
+R5	supports Arg1:T10 Arg2:T9	
+T11	Claim 940 1029	Besonders Spannend finde ich die Tatstache, dass mit einem PremiumAngebot gearbeitet wird
+T12	Premise 1031 1140	Besonders Konsumenten mit hohem Einkommen, welche geschäftlich unterwegs sind, könnten daran Interesse zeigen
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1143 1221	Gesamthaft wir die Geschäftsidee auf ein wellbeing für den Kunden ausgerichtet
+T14	Premise 1223 1360	Die Organisation einer Reise kann ziemlich stressig sein und daher gibt es sicherlich Potential in diesem Bereich Konsumenten zu gewinnen
+R7	supports Arg1:T14 Arg2:T13	
+T15	Premise 1458 1532	Es gibt auch viele Menschen, welche sehr gerne spontan und flexibel reisen
+T17	Claim 1651 1708	Wäre vorteilhaft eine solche Gruppe ebenfalls einzubinden
+R9	supports Arg1:T15 Arg2:T17	
+T18	Claim 1878 1925	Koordinationsaufwand könnte unterschätzt werden
+T20	Premise 2070 2162	Es müssten extrem viele Partnerschaften aufgebaut werden, um Information schnell zu erhalten
+T25	Claim 3328 3383	Das Angebot der Website/Apps tönt sehr vielversprechend
+T26	Premise 3385 3449	jedoch könnte in der Umsetzung viele Herausforderungen auftreten
+R15	attacks Arg1:T26 Arg2:T25	
+T28	Premise 3546 3658	Möglicherweise ist es nur möglich auf die Insel zu kommen, indem man Vorort nach einem Wassertransport nachfragt
+T5	Premise 339 424	eine übersichtliche Planung eines Reiseablaufs kann sehr mühsam und zeitintensiv sein
+R3	supports Arg1:T5 Arg2:T4	
+T16	Premise 1549 1649	Backpacker gehen oft in ein Land ohne sich vorher grossartig über einen Reiseplan Gedanken zu machen
+R8	supports Arg1:T16 Arg2:T15	
+T30	Claim 1725 1875	Nicht einen massgeschneiderten Reiseablaufplan ins Zentrum der Geschäftsidee stellen, sondern z.B Informationen über Restaurants, Bars und Aktivitäten
+T19	Premise 1937 2068	es wäre relativ schwierig für die unterschiedlichen Reiserouten von Kunden ständig, allfällige Ausfälle und Veränderungen zu melden
+R10	supports Arg1:T19 Arg2:T18	
+R11	supports Arg1:T20 Arg2:T19	
+T31	Claim 2217 2288	Realistisch planen, welche Informationen für den Kunden erhältlich sind
+T32	Premise 2305 2459	Flugdaten werden in Echtzeit geliefert inkl. Kurzfristige Veränderungen und für lokale Busfahrten werden einfach die standardisierten Fahrzeiten angezeigt
+R19	supports Arg1:T32 Arg2:T31	
+T33	Claim 2616 2647	Nische finden und dort ausbauen
+T34	Claim 2664 2747	nur auf Familien konzentrieren, welche nicht flexible Entscheidungen treffen können
+T22	Claim 3059 3155	Familien Und anschliessend gewisse Pains und Gains bzw. Pain Relievers und Gain Creator anpassen
+T23	Claim 3204 3246	müsste man sich irgendwie abgrenzen können
+T35	Claim 3160 3202	es bereits beispielsweise TripAdvisor gibt
+R12	supports Arg1:T35 Arg2:T23	
+T21	Claim 2954 3044	würde ich beim Products  Services mich auf eine bestimmter Typ von Reisenden konzentrieren
+T36	Premise 2894 2952	Um sich von bereits bestehenden Player abgrenzen zu können
+R13	supports Arg1:T36 Arg2:T21	
+T24	Claim 3255 3326	würde ebenfalls die Limits eines Reiseplans realistisch niederschreiben
+T27	Premise 3466 3544	plane ich eine Reise von Zürich auf eine kleine, unbekannte Insel nach Italien
+R14	supports Arg1:T27 Arg2:T28	
+T29	Premise 3666 3725	würde mir diese Information im versprochenen Service fehlen
+R16	supports Arg1:T28 Arg2:T29	
+R17	supports Arg1:T29 Arg2:T26	

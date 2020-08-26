@@ -1,0 +1,42 @@
+T1	Claim 96 147	Die Aufgabe wurde sauber und vollständig erarbeitet
+T2	Premise 149 234	Ich finde die Lösung ist gut verständlich und alle Teilaufgaben sorgfältig durchdacht
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 236 278	Overall finde ich die Lösung sehr gelungen
+T4	Claim 475 736	Bei der qualitativen Beschreibung Kunden, hast du zwar deine Kunden in zwei Segmente unterteilt. Mir fehlen jedoch die Merkmale, die kennzeichnen, weshalb ein Kunde zur Premiumversion /Grundversion tendiert und welche Art von Kunden weshalb welche Lösung wählen
+T5	Claim 796 843	Für Visituell wären dies wichtige Informationen
+T6	Premise 738 794	Was sind für Unternehmen Gründe welche Version zu wählen
+R2	supports Arg1:T6 Arg2:T5	
+T7	Claim 878 983	ich sehe auch die physischen Visitenkarten und Unternehmen wie LinkedIn und Xing als grösste Konkurrenten
+T8	Premise 985 1138	Weitere wichtige Mitbewerber sind meiner Meinung nach aber auch beispielsweise Outlook, oder andere Emailprogramme, welche Kontaktinformationen speichern
+T9	Claim 1140 1184	Diese würde ich an dieser Stelle integrieren
+R3	supports Arg1:T8 Arg2:T9	
+T10	Claim 1187 1268	Lieferanten  wie du selber schreibst, hat Visituell keine klassischen Lieferanten
+T11	Premise 1270 1368	Die von dir aufgezählten Unternehmen und Überlegungen gehören für mich eher zu Visituells Partnern
+T12	Claim 1370 1453	Dies ist vielleicht ein Detail, aber vielleicht möchtest du den Begriff auswechseln
+R4	supports Arg1:T11 Arg2:T12	
+T13	Claim 1456 1641	Kritische Erfolgsfaktoren  Du erwähnst es selber auch einwenig, aber ich finde der ganze Big DataGedanke ist für Visituell ein wichtiges Thema, sobald die kritische Masse erreicht wurde
+T14	Claim 1704 1736	Dies würde ich noch mehr betonen
+T15	Premise 1643 1702	Die Sicherheit bei der Datenspeicherung scheint mir zentral
+R5	supports Arg1:T15 Arg2:T14	
+T16	Claim 1753 1792	Ich finde deine SWOT Analyse macht Sinn
+T17	Premise 1794 1898	Bezüglich der Konkurrenten stimmt es zwar, dass du vielleicht anzahlmässig nicht viele Konkurrenten hast
+R6	supports Arg1:T17 Arg2:T16	
+T18	Premise 1900 2003	ich finde jedoch, dass du sehr starke Konkurrenten hast, welche bereits seit Jahren im Markt tätig sind
+R7	attacks Arg1:T18 Arg2:T16	
+T19	Premise 2005 2097	Dies ist meiner Meinung nach ein zentraler Punkt, den du bei den Gefahren aufführen solltest
+R8	supports Arg1:T19 Arg2:T18	
+T20	Premise 2228 2299	wäre es wichtig, dass dein Service auch am Computer genutzt werden kann
+T21	Premise 2184 2216	deine Kunden ja Unternehmen sind
+T22	Claim 2301 2359	Diese wichtige Möglichkeit kommt mir zu wenig zum Ausdruck
+R9	supports Arg1:T21 Arg2:T20	
+R10	supports Arg1:T20 Arg2:T22	
+T23	Claim 2708 2754	Eventuell kannst du hier etwas präziser werden
+T24	Premise 2362 2602	Massnahmen  ich verstehe nicht was du mit folgendem Satz aussagen möchtest Marketingkampagne auf Kanälen, die diese Personen in Unternehmen ansprechen, welche über Dinge wie Visitenkarten entscheiden bzw. den Entscheider beeinflussen können
+T25	Premise 2604 2706	Ich denke die Kernaussage steckt in diesem Satz, aber ich kann nicht herauslesen was du sagen möchtest
+R11	supports Arg1:T24 Arg2:T23	
+R12	supports Arg1:T25 Arg2:T23	
+T26	Claim 3146 3187	finde ich, deine Lösung gut ausgearbeitet
+T27	Premise 3248 3345	Worauf du dich generell noch mehr achten könntest, ist wie du das Geschäft aktiv am Laufen hältst
+R13	attacks Arg1:T27 Arg2:T26	
+T28	Premise 3347 3549	Die Kunden passen vermutlich schon regelmässig ihre digitalen Visitenkarten an, aber grosse / viele weitere Möglichkeiten für den Ausbau der Beziehung Crosselling, Upselling kann ich noch nicht erkennen
+R14	supports Arg1:T28 Arg2:T27	

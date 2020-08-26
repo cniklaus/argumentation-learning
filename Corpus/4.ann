@@ -1,0 +1,40 @@
+T2	Premise 9 105	Die Idee ist im Grundsatz klar Eine App, welche alles im Haushalt automatisiert, was möglich ist
+T3	Claim 281 438	Die Komplexität, welche durch verschiedene bestehende Angebote, Anbieter und Preispläne entsteht, kann durch eine zentrale Steuerung stark verkleinert werden
+T4	Premise 440 519	Es wird wahrscheinlich immer mehr Services auch im Bezug auf den Haushalt geben
+T6	Premise 586 780	Es gibt verschiedenste Haushaltsaufgaben, welche grossen Informationsaufwand oder Koordinationsaufwand mit sich bringen  insbesondere wenn man diese durch ServiceAnbieter erledigen lassen möchte
+T8	Premise 876 1036	Dazu gehören bspw. BabySitter finden, Nachhilfe, Haustierbetreuung, Blumen/PflanzenService während Ferien, Fahrzeug in die Reparatur bringen/von dort holen, etc
+T9	Premise 1038 1177	Der textbasierte 24/7 Kundenservice ist insbesondere dann eine super Sache, wenn es um Reparaturarbeiten geht wie bspw. ein Wasserrohrbruch
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1243 1384	Mit einem Preis für die Subscription Basisprodukt wird eine zusätzliche Einstiegsbarriere geschaffen, welche potenzielle Nutzer nehmen müssen
+T11	Claim 1386 1531	Es würde sich hier insbesondere zu Beginn des Projektes lohnen, die ServiceProvider per Auftragsquote  oder Auftragspauschale zur Kasse zu bitten
+T14	Premise 1727 1792	Menschen haben häufig Vorlieben für Dinge, die sie bereits kennen
+T15	Premise 1794 1975	So weiss ich aus Erfahrung, dass man sich bei Handwerkern gerne jene aussucht, von denen man schon Gutes gehört  oder mit welchen man im Idealfall schon gute Erfahrungen gemacht hat
+R8	supports Arg1:T15 Arg2:T14	
+T16	Premise 1977 2103	Es ist mir nicht klar, wie dies über die genannte App passieren würde  vor allem wenn das geografische Einzugsgebiet gross ist
+T17	Claim 2190 2266	Ich würde hier versuchen, alternative Wege der Monetarisierung einzubeziehen
+T18	Premise 2506 2706	Bei einer weiteren Ausarbeitung würde ich vorschlagen, eine gratisVersion für GrundFunktionen vorschlagen und die entsprechenden Kosten wo immer möglich auf die entsprechenden ServiceAnbieter abwälzen
+R10	supports Arg1:T18 Arg2:T17	
+T19	Premise 2708 2843	Dies würde meiner Meinung nach eine höhere Akzeptanz bei potenziellen Nutzern schaffen, was wiederum mehr Wert für die Provider schafft
+R11	supports Arg1:T19 Arg2:T18	
+T22	Premise 2980 3093	Der Kunde kann Anbieter wählen, welchen er bereits vertraut und auf jene verzichten, welche er nicht haben möchte
+T23	Premise 3095 3213	Houzemate ist ab diesem Punkt nicht mehr verantwortlich für die Qualität des Services  und dies verringert den Aufwand
+T24	Claim 3487 3620	Die Bereiche, welche für die spezifische Zielgruppe den meisten Nutzen bietet, besonders gut umsetzen und als PremiumPakete verkaufen
+T1	Claim 112 218	dies eine gesuchte ConvenienceLösung für Personen mit Vollzeitpensum sein kann, ist leicht nachvollziehbar
+R1	supports Arg1:T2 Arg2:T1	
+T5	Claim 534 584	ist der Zeitpunkt und die Stossrichtig gut gewählt
+R2	supports Arg1:T4 Arg2:T5	
+T7	Claim 798 874	es diese Aufgaben sind, welche den Mehrwert dieser Plattform herausstreichen
+R3	supports Arg1:T6 Arg2:T7	
+R4	supports Arg1:T8 Arg2:T7	
+T12	Premise 1619 1725	Dies ist vor allem wahr, wenn wir von einer multinationalen oder gar weltweit nutzbaren Plattform sprechen
+R6	supports Arg1:T14 Arg2:T12	
+T13	Claim 1533 1617	Es ist mir nicht klar, wie dem Kunden gute Dienstleistungen garantiert werden können
+R7	supports Arg1:T12 Arg2:T13	
+R9	supports Arg1:T16 Arg2:T15	
+T20	Premise 2283 2499	Werbung/Erstnennung von Anbietern, eine WettbewerbSparte hinzufügen  bei welcher Dritte gegen Entgelt ein Gewinnspiel schalten können, Partnerschaftsverträge mit Dritten WaschmittelProduzenten als Exklusivlieferanten
+R12	supports Arg1:T20 Arg2:T17	
+T21	Claim 2851 2929	wäre aus meiner Sicht Transparenz bezüglich des genauen Providers sehr wichtig
+R13	supports Arg1:T22 Arg2:T21	
+R14	supports Arg1:T23 Arg2:T21	
+T25	Claim 3214 3310	Ich würde einen sehr starken Fokus auf jene Services legen, die man als Zusätze hinzukaufen kann
+T26	Claim 3312 3480	Diese würde ich insbesondere in Bereichen sehen, in denen es noch keine kostenlosen Alternativen gibt, der Koordinationsaufwand gross ist, oder der Service noch neu ist

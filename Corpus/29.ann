@@ -1,0 +1,18 @@
+T1	Claim 70 137	Die Methodik wurde richtig angewandt und dementsprechend verstanden
+T2	Claim 139 181	Das Modell ist sauber und klar dargestellt
+T3	Claim 479 527	Bei einer Überarbeitung sollte man dies anpassen
+T4	Premise 418 477	In der hier ausgearbeiteten Version ist dies nicht der Fall
+R1	supports Arg1:T4 Arg2:T3	
+T5	Premise 278 416	Soweit ich bestehende Crowdfunding Plattformen richtig nachvollzogen habe, fließt in der Regel das Kapital über die Crowdfunding Plattform
+R2	supports Arg1:T5 Arg2:T4	
+T6	Claim 1106 1310	Bei der Überarbeitung würde es sich sicherlich lohnen das Geschäftsmodell einer Crowdfunding Plattform nochmals genauer zu betrachten, um zu verstehen, wie die Flüsse von Gütern funktionieren Kapitalfluss
+T7	Claim 859 961	der Prozess dann auch nicht beim Online Marketer endet, sondern durch ihn durch hin zum Geldgeber geht
+T8	Premise 750 840	Bei dieser Ausarbeitung wurde Facebook als Zuspieler der Crowdfunding Plattform verstanden
+R3	supports Arg1:T8 Arg2:T7	
+T9	Premise 581 697	die Online Werbeplattform in der Aufgabenstellung Facebook ebenfalls ein Marketmaker zwischen Band und Geldgeber ist
+T10	Premise 699 748	Quasi eine Alternative zur Crowdfunding Plattform
+R4	supports Arg1:T9 Arg2:T10	
+R5	supports Arg1:T10 Arg2:T8	
+T11	Claim 1313 1412	Hinsichtlich der Aufgabe B würde ich nochmals empfehlen, die Aufgabenstellung erneut zu analysieren
+T12	Premise 1431 1457	gibt es dort Nachholbedarf
+R6	supports Arg1:T12 Arg2:T11	

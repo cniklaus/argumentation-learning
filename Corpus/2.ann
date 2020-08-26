@@ -1,0 +1,18 @@
+T1	Claim 9 74	Das Geschäftsmodell von Nutreno erscheint mir sehr gut durchdacht
+T4	Premise 228 334	Nutreno nutzt diese und liefert dem Kunden eine äusserst bequeme Lösung für die Zubereitung von Mahlzeiten
+T5	Premise 336 465	dank der Blutanalyse massgeschneidert auf den Kunden  dank Präferenzangaben auch personalisiert auf die geschmacklichen Vorlieben
+R3	supports Arg1:T5 Arg2:T4	
+T6	Claim 467 535	Dies trifft meiner Meinung nach genau das Ziel einer WellBeingLösung
+R4	supports Arg1:T4 Arg2:T6	
+T7	Premise 537 615	Der HeimLieferService macht das Leben des Kunden zusätzlich bequem und einfach
+R5	supports Arg1:T7 Arg2:T6	
+T8	Premise 617 676	Auch macht das RevenueModell in diesem Geschäftsmodell Sinn
+R6	supports Arg1:T8 Arg2:T1	
+T9	Premise 678 823	durch das Freemium Modell werden die Kunden zunächst neugierig gemacht und danach bei Gefallen dazu verleitet, auf das Premium Modell umzusteigen
+R7	supports Arg1:T9 Arg2:T8	
+T13	Claim 1163 1281	bei solchen Gesundheitsdaten wird es sicherlich einige Skeptiker geben, die zögern, bevor sie sich diese App anschauen
+T14	Claim 1284 1390	Es gibt sicherlich Menschen, die es nicht mögen oder gar nicht dazu fähig sind, sich selber Blut zu nehmen
+T2	Premise 94 151	der Autor sich auf bereits bestehende Technologien beruft
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 168 226	in der DiabetesForschung bereits ähnliche verwendet werden
+R2	supports Arg1:T3 Arg2:T2	

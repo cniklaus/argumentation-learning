@@ -1,0 +1,25 @@
+T1	Claim 68 207	Die Einstiegsfolie mit der Vorstellung des Produktes bringt den Vorteil, dass man die User Journey besser verstehen und nachvollziehen kann
+T2	Claim 218 324	positiv sind die gewählten Persona, welche sehr unterschiedliche Bedürfnisse und Voraussetzungen aufweisen
+T3	Premise 325 422	Die Notwendigkeit nach Unterstützung der Person Gertrud Grandma wird eventuell etwas unterschätzt
+R1	attacks Arg1:T3 Arg2:T2	
+T4	Claim 424 482	Folie 3Syntaxfehler in einer User Story der Person Gertrud
+T5	Claim 582 656	Die Namen der Persona beinhalten Implikationen zu Persönlichkeitsmerkmalen
+T6	Claim 670 759	Die Verwendung des Begriffes Programmierfähigkeiten scheint unpassend bei den Tech Skills
+T7	Claim 914 982	Ich würde dir empfehlen, richtige Namen für die Persona zu verwenden
+T8	Premise 984 1087	Namen, welche Implikationen zu Persönlichkeitsmerkmalen enthalten sind an dieser Stelle nicht notwendig
+R2	supports Arg1:T8 Arg2:T7	
+T9	Premise 1089 1199	Die Informationen zu den Persönlichkeiten folgen ja unter Motivation / Ziele / Frustrationen / Biographie etc.
+T10	Premise 1199 1291	Unter Programmierfähigkeit verstehe ich die Fähigkeit, welche man als Programmierer aufweist
+T11	Premise 1293 1370	Diese müsste man einteilen in PHP backend oder html / css frontend Kenntnisse
+R3	supports Arg1:T9 Arg2:T10	
+T12	Premise 1395 1443	hier nicht diese Art von Kenntnissen gemeint ist
+T13	Claim 1451 1526	würde ich die Verwendung eines anderen Begriffes an dieser Stelle empfehlen
+R4	supports Arg1:T10 Arg2:T11	
+R5	supports Arg1:T12 Arg2:T13	
+R6	attacks Arg1:T11 Arg2:T12	
+T14	Premise 1602 1748	Eine 71jährige Person, braucht wahrscheinlich nicht bloss bei der Installation Folie 3 Unterstützung, sondern auch bei den nachfolgenden Schritten
+T15	Claim 1750 1854	Ich würde dir empfehlen in den User Stories bzw. value gaps der Person Gertrud stärker darauf einzugehen
+R7	supports Arg1:T14 Arg2:T15	
+T16	Claim 1940 1964	Dies müsste man anpassen
+T17	Premise 1855 1938	In einem Satz wurde zunächst die 3. Person sie und dann die 1. Person ich verwendet
+R8	supports Arg1:T17 Arg2:T16	

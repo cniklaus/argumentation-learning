@@ -1,0 +1,21 @@
+T1	Claim 184 279	Die Prozessillustrationen sind hübsch, zweckdienlich und selbsterklärend  genau so soll es sein
+T2	Claim 285 387	gefällt mir, dass der ganze Prozess, der zur Verwendung von LivePrice führt, auch noch abgebildet wird
+T3	Claim 389 588	Grundsätzlich würde ich aber vorschlagen, dass auf keinen Fall ein separates Programm heruntergeladen und installiert werde sollte, sondern LivePrice als eine Website oder BrowserPlugin laufen sollte
+T4	Premise 596 712	wird Entwicklungskosten gespart Entwicklen für Windows 7,8,10, Macs und die Adaptions resp. Nutzungshürden reduziert
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 713 844	Bei Kundenprozess würde ich vorschlagen, dass die Überschriften der einzelnen Schritte noch in die grünen Pfeile eingetragen werden
+T6	Claim 874 965	Überschrift in 3. 3. ebenfalls unterstreichen und KomplExität  E kleinZu den Illustrationen
+T7	Claim 965 1092	Der Schritt, dass die Ware beim Kauf in einen Einkaufswagen bei LivePrice gelegt wird fehlt resp. ist nicht wirklich abgebildet
+T8	Claim 1094 1191	Auch könnte man im Bild 5 deutlicher machen, dass der Kauf selber durch LivePrice ausgeführt wird
+T9	Claim 1192 1388	Aufklärung über die Lieferkonditionen Preis, Liefertermine, Zustellung und Rückgabekonditionen der einzelnen Shops beim Kauf und nach Erhalt der Ware nochmals insb zur Rückgabe wären wünschenswert
+T10	Premise 1393 1451	dies bei einigen Shops schnell unübersichtlich werden kann
+R2	supports Arg1:T10 Arg2:T9	
+T11	Premise 1453 1579	Aus eigener Erfahrung kann ich sagen, dass es praktisch wäre, nach Erhalt noch einen Reminder mit Rücksendefristen zu erhalten
+R3	supports Arg1:T11 Arg2:T10	
+T12	Premise 1581 1715	Dies ist gerade wichtig wenn man aus verschiedenen Shops mit unterschiedlichen Konditionen wer zahlt Rücksendung? und Fristen einkauft
+R4	supports Arg1:T12 Arg2:T11	
+T13	Premise 1717 1765	Damit würde LivePrice auch noch etwas assistiver
+R5	supports Arg1:T13 Arg2:T11	
+T14	Claim 1767 1856	Dies wäre dann aber evtl. ein neuer Schritt während dem Shopping und nach Erhalt der Ware
+T15	Claim 1857 2009	Zur Verdeutlichung der einzelnen vordergenannten Punkte sollte evtl. der einzelne Schritt Online Shopping in einige einzelne Schritte aufgeteilte werden
+T16	Claim 2034 2159	Finden  bessere Vorschläge  Klick  in den Warenkorb von LivePrice  Kauf / Bezahlen mit Übersicht der Konditionen  Bestätigung

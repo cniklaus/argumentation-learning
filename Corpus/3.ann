@@ -1,0 +1,66 @@
+T2	Claim 269 376	bisher kein dominanter player der brickandmortar ins digitale Zeitalter befördert Multibillion Dollar Markt
+T3	Claim 501 573	Die VPs, Relationships, Channels etc. unterscheiden sich daher erheblich
+T4	Premise 439 499	Du bedienst mit deiner Lösung zwei Märkte twosided market BM
+R1	supports Arg1:T4 Arg2:T3	
+T5	Claim 575 666	Es gibt extra ein BMC für TwoSided Markets, das halte ich aber für unübersichtlich  unnötig
+T8	Claim 788 886	Richtet sich an alle stationären Einzelhändler > Ich glaube dass ist für den Anfang zu umfangreich
+T13	Premise 1343 1458	Du müsstest in den Shops nicht Hardware installieren, sondern könntest ihnen einfach eine App zur Verfügung stellen
+T14	Premise 1469 1541	Kunde muss GPS aktivieren, nicht ganz so genau aber immernoch sehr genau
+T18	Claim 1943 2035	Der relevante, recurring revenue kommt mit der Nutzung der Platform PPC, Comission Fees etc.
+T19	Claim 2037 2145	Grundsätzlich würd es mMn Sinn machen, dass der Store für jede Werbemessage an einen geeigneten Kunden zahlt
+T24	Claim 2442 2507	die Daten monetarisieren das ebenfalls als Key Resource aufnehmen
+T25	Premise 2509 2549	Manche Kunden sind wertvoller als andere
+R11	supports Arg1:T25 Arg2:T24	
+T27	Premise 2728 2912	Marketingmessage an Kunde A der zweimal die Woche Schuhe im Wert von average 500 CHF kauft sollte teurer sein als die Message an Kunde B der einmal im Jahr Birkenstock für 30 CHF kauft
+T28	Claim 2914 3072	Natürlich müssen diese Tatsachen dann auch getrackt werden e.g. Conversion Rates Channels > Unterteilen im BMC in b2c  b2b. b2c Shoppingbegeisterte Individuen
+T29	Claim 3074 3170	Online mMn besonders Influencer e.g. Instagram, Modeblogs, Tumblr etc. b2b mMn richtig getroffen
+T30	Claim 3172 3196	Verbände richtig erkannt
+T31	Premise 3198 3210	ganz wichtig
+R14	supports Arg1:T31 Arg2:T30	
+T32	Premise 3212 3226	aber schwierig
+R15	attacks Arg1:T32 Arg2:T30	
+T33	Claim 3255 3328	Customer Segments Bessere Unterscheidung zwischen wenigen  viele Filialen
+T34	Premise 3330 3384	Große Ketten haben alle solche Apps Migros, Macys etc.
+T35	Premise 3385 3427	ABER PlatformLösung erlaubt Unabhängigkeit
+T36	Premise 3429 3483	Kunde will nicht für jeden Store in der Stadt eine App
+R18	supports Arg1:T34 Arg2:T33	
+R16	attacks Arg1:T35 Arg2:T34	
+R17	supports Arg1:T36 Arg2:T35	
+T37	Claim 3625 3657	Wo launchen? > mMn nicht Schweiz
+T38	Premise 3659 3725	da Markt viel zu klein. TechnologieadaptionsBereitschaft zu gering
+R19	supports Arg1:T38 Arg2:T37	
+T39	Claim 3727 3766	Ab in die USA damit oder zumindest DACH
+T40	Claim 3908 3950	Hier nochmal Coole Idee, gut ausgearbeitet
+T41	Premise 3769 3805	Value Propositions Stark rückläufige
+T42	Premise 3814 3844	ist keine VP, sondern ein Fact
+R20	supports Arg1:T42 Arg2:T41	
+R21	supports Arg1:T41 Arg2:T39	
+T1	Claim 29 130	erfüllt mMn die wichtigsten Punkte gute  sehr durchdachte Idee klarer customer need auf beiden Seiden
+T43	Premise 131 240	b2b Panik, Umsatzeinbussen, starke Online Konkurrenz, wenig Knowhow, angebot, dass direkt revenuerelevant ist
+R22	supports Arg1:T43 Arg2:T1	
+T6	Premise 891 1013	verschiedene Einzelhändler komplett andere Kunden  Marketingstrategien fahren e.g. Kleider vs. Lebensmittel vs. Luxusuhren
+T7	Premise 1079 1156	mit einer konsequenten   konsistent Marketingstrategie gewinnen both b2c  b2b
+T9	Claim 1302 1333	könnte einfaches GPS ausreichen
+T10	Premise 1271 1300	es mehr um Kundenacquise geht
+R2	supports Arg1:T10 Arg2:T9	
+R3	supports Arg1:T13 Arg2:T9	
+R4	attacks Arg1:T14 Arg2:T9	
+T11	Premise 1728 1806	Der Wert der Lösung steigt auf b2cSeite mit der Anzahl an teilnehmenden Stores
+T12	Premise 1812 1853	man will nicht fünf unterschiedliche Apps
+R5	supports Arg1:T12 Arg2:T11	
+T15	Claim 1861 1941	sollten das onboarding von Stores für diese so einfach  günstig wie möglich sein
+R6	supports Arg1:T11 Arg2:T15	
+T16	Premise 2147 2175	Das ist einfach zu verkaufen
+T17	Premise 2179 2228	idealerweise direkt revenuerelevant für den Store
+R7	supports Arg1:T17 Arg2:T16	
+R8	supports Arg1:T16 Arg2:T19	
+T20	Premise 2551 2567	GoShop weiss das
+T21	Premise 2572 2726	es die Marketingmessages tracken kann und darauf aufbauend die Conversion Rates > verschiedene Preise für verschiedene Kunden mit verschiedenen Interessen
+R9	supports Arg1:T21 Arg2:T20	
+R10	supports Arg1:T20 Arg2:T25	
+R12	supports Arg1:T27 Arg2:T25	
+T22	Claim 2280 2406	würde ich auch auf eine Nutzungsgebür verzichten Ausnahme in Form von FreemiumModellen e.g. more branded messages, positioning
+T23	Premise 2230 2261	Hier geht es um Netzwerkeffekte
+R13	supports Arg1:T23 Arg2:T22	
+T26	Claim 1015 1073	Ich würde mit einem vorher  analysiertem vertical anfangen
+R23	supports Arg1:T7 Arg2:T26	

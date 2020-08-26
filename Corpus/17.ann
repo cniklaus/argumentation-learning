@@ -1,0 +1,32 @@
+T1	Claim 16 137	Deine Beschreibung hat durch alle Punkte einen in sich geschlossenen roten Faden und ist wirklich sehr angenehm zum Lesen
+T2	Premise 139 289	Du hast deine Gründe für die App immer mit sehr rational hinterlegten Argumentationen beschrieben, was die Standhaftigkeit deines Ansatzes unterstützt
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 307 490	bei der Beschreibung der Mitbewerber finde ich es sehr schön, dass du nebst den Vorteilen der Mitbewerber auch vorgehoben hast, wie die Differenzierungsmerkmale von Visituell aussehen
+R2	supports Arg1:T3 Arg2:T2	
+T4	Premise 492 570	Damit hast du jegliche Angriffsmöglichkeiten aus Wettbewerbersicht immunisiert
+R3	supports Arg1:T4 Arg2:T3	
+T5	Claim 576 636	Mir gefallen auch deine detailliert beschriebenen Massnahmen
+T6	Premise 638 734	bis jetzt habe ich nur stichwortartige Beschreibungen dazu gesehen, deshalb Wirklich gut gemacht
+R4	supports Arg1:T6 Arg2:T5	
+T7	Claim 741 841	ist der Inhalt der Massnahmen deutlich ansprechend und wird deine Basisstrategie unterstützen können
+T8	Claim 861 952	Du hast bei der Geschäftsfeldabgrenzung noch die Beschreibung der Vertriebskanäle vergessen
+T9	Premise 954 1067	Auch wenn das nur in diesem Falle die Online Plattform wäre, würde ich es dennoch vollständigkeitshalber erwähnen
+R5	supports Arg1:T9 Arg2:T8	
+T10	Claim 1396 1476	Vielleicht findest du hier einen besseren Begriff, der diese Schwäche hervorhebt
+T11	Premise 1072 1204	Bei deiner SWOT Analyse ist mir noch nicht ganz klar, weshalb du die Grösse deines Unternehmens als eine Schwäche identifiziert hast
+T12	Premise 1206 1394	Ich nehme an du meinst damit wohl eher die bisher kurze Lebensdauer deines Unternehmens, welches dir noch keine Netzwerkeffekte ermöglicht hat, bzw. diese nicht einfach möglich gemacht hat
+R6	attacks Arg1:T12 Arg2:T11	
+R7	supports Arg1:T11 Arg2:T10	
+T13	Premise 1486 1545	hätte ich unter Chancen nicht wenige Konkurrenten angegeben
+T14	Premise 1550 1642	Mitbewerber wie Linkedin ganz klar starke Konkurrenten sind, die nicht zu unterschätzen sind
+T15	Claim 1644 1680	Diesen Punkt würde ich rausstreichen
+R8	supports Arg1:T13 Arg2:T15	
+R9	supports Arg1:T14 Arg2:T13	
+T16	Claim 1685 1771	Bei deiner Ausschreibung der Basisstrategie fehlt mir noch der genaue Bezug zum Kunden
+T17	Premise 1773 1904	Zwar sagst du, du willst der Standard für Kontaktaustausch im Geschäftsleben sein, dennoch wird hier der Kunde nicht direkt erwähnt
+R10	supports Arg1:T17 Arg2:T16	
+T18	Claim 1948 1990	Vertriebskanäle müssen noch erwähnt werden
+T19	Claim 1995 2186	Bei der SWOT Analyse noch die Schwäche Grösse anpassen und mit einem Begriff ersetzen, der mehr der bis jetzt kurzen Lebensdauer des Unternehmens entspricht, statt der Grösse des Unternehmens
+T20	Claim 2191 2281	Den Punkt bei SWOT unter Chancen wenig Konkurrenten aus der obigen Begründung wegstreichen
+T21	Claim 2287 2408	Versuche zudem noch den Kunden mehr in deiner Basisstrategie hervorzuheben und ihn deutlich in den Mittelpunkt zu stellen
+T22	Claim 2414 2480	Ansonsten wirklich gute Arbeit und ein gut ausgearbeitetes Konzept

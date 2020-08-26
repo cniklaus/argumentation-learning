@@ -1,0 +1,21 @@
+T1	Claim 68 103	Dein Lösungsansatz ist ganzheitlich
+T2	Premise 104 218	Alle verlangten Elemente zurGeschäftsfeldbeschreibung wurden abgehandelt und machen einen gutdurchdachten Eindruck
+R1	supports Arg1:T2 Arg2:T1	
+T3	Premise 219 342	Deine Geschäftsfeldbeschreibung ist in sich stimmig dieverschiedenen Elemente harmonisieren, sprich widersprechen sichnicht
+R2	supports Arg1:T3 Arg2:T1	
+T4	Claim 343 468	Ich finde Deinen Segmentierungsansatz über das KriteriumHäufigkeit sowie die Art und Weise der Nutzung interessant undpassend
+T5	Claim 581 672	sollten alle Kernkompetenzen in irgendeinerForm in der SWOTAnalyse unter Stärken auftauchen
+T6	Premise 674 739	Dies ist beiDeinem Lösungsvorschlag jedoch nicht überall der Fall
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 746 880	sollteder selbstlernende Algorithmus unbedingt als Stärke erwähnt werden,da diesem grosse Bedeutung für den Unternehmenserfolg zukommt
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 881 1060	Bei der Preispolitik gibst Du konkrete Preise für die verschiedenenZielgruppen an. Das finde ich an sich gut, aber Du solltest DeinePreispolitik zusätzlich noch im Markt einordnen
+T9	Claim 1062 1144	Mich als Leserinteressiert, ob diese Preise in der Branche eher hoch oder tiefsind
+T10	Claim 1151 1228	noch konkreter differenzierst Du dein Angebot über denPreis oder die Qualität
+T11	Claim 1229 1352	Unter Vertriebspolitik nennst Du Diverse Onlinekanäle. Dies istzu allgemein gehalten und sollte genauer spezifiziert werden
+T12	Premise 1354 1383	Wasist alles darin beinhaltet
+R5	supports Arg1:T12 Arg2:T11	
+T13	Premise 1385 1422	Website, Blogs, Online Community, ...
+R6	supports Arg1:T13 Arg2:T12	
+T14	Claim 1488 1556	Der Lösungsansatz ist bereits jetzt gut durchdacht und sehrumfassend
+T15	Claim 1558 1664	Durch die Auseinandersetzung mit den obigenVerbesserungsvorschlägen kann der Ansatz noch abgerundet werden

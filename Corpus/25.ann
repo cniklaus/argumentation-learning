@@ -1,0 +1,21 @@
+T1	Claim 21 112	Der Prozessablauf der Kreditvergabe auf einer PeertoPeer Plattform wurde logisch modelliert
+T2	Claim 114 186	Das Prinzip der BPMNModellierung wurde verstanden und korrekt angewendet
+T3	Claim 189 259	Die Modellierung ist übersichtlich und der Ablauf absolut einleuchtend
+T4	Claim 262 362	Die Vorgehensweise mit Sequenz und Nachrichtenfluss wurde verstanden und im Modell korrekt umgesetzt
+T5	Premise 405 481	du die PeertoPeer Plattform in 2 Lanes Anleger und Plattform eingeteilt hast
+R1	supports Arg1:T5 Arg2:T4	
+T6	Premise 484 581	Die Akteure wurden richtig erkannt und gut in die Gruppen Kunde, Plattform und Anleger eingeteilt
+R2	supports Arg1:T6 Arg2:T4	
+T7	Premise 584 664	Die verschiedenen Symbole wurden in den Prozess eingebaut und richtig verstanden
+R3	supports Arg1:T7 Arg2:T4	
+T8	Claim 680 777	Immer wenn es zu einer Entscheidung kommt, solltest du ein Databased exclusive XOR gateway wählen
+T9	Premise 906 997	When merging, it awaits one incoming branch to complete before triggering the outgoing flow
+T10	Claim 779 904	Ein X in der Raute  à When splitting, it routes the sequence flow to exactly one of the outgoing branches based on conditions
+R4	supports Arg1:T9 Arg2:T10	
+T11	Premise 1192 1289	Zwischen Freischaltung Kreditanfrage und Registrierung Zusage, würde ich den Sequenzfluss löschen
+T12	Premise 1292 1381	Bei den Akteuren im Prozessablauf, würde ich die Gruppe Kunde ersetzen durch Kreditnehmer
+T13	Claim 1442 1477	der Prozess wurde sauber modelliert
+R5	attacks Arg1:T12 Arg2:T13	
+R6	attacks Arg1:T11 Arg2:T13	
+T14	Premise 1000 1189	Das heisst, zwischen Vorprüfung und Bonitätsprüfung, Informieren über Kreditanfrage und Zusage Kredit, Registrierung Zusagen und Betrag erreicht, solltest du jeweils dieses Zeichen benutzen
+R7	attacks Arg1:T14 Arg2:T13	

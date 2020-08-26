@@ -1,0 +1,18 @@
+T1	Claim 17 59	Sehr interessante Value Gaps identifiziert
+T2	Claim 59 116	Bestehende Aktivitäten im User Cycle sehr gut beschrieben
+T3	Claim 116 142	Sehr interessantes Produkt
+T4	Premise 153 251	Die Personas sollen konkrete Personen darstellen und nicht einen Querschnitt verschiedener Profile
+T5	Claim 253 291	Dies gilt es zu verbessern siehe unten
+R1	supports Arg1:T4 Arg2:T5	
+T6	Claim 869 951	Die Anpassung des User Cycles in Pre, During und Post muss noch vorgenommen werden
+T7	Premise 326 419	stellt der DuringProzess den Prozess der Leistungsnutzung und nicht des Leistungserwerbes dar
+R2	supports Arg1:T7 Arg2:T6	
+T8	Claim 454 486	Bitte die Personas spezifizieren
+T9	Premise 487 530	Inhaltlich sind die Personas bereit passend
+R3	attacks Arg1:T9 Arg2:T8	
+T10	Premise 537 620	Christian Müller sollte jedoch nur ein Alter und einen Beruf haben auch Franz Meier
+R4	supports Arg1:T10 Arg2:T8	
+T11	Premise 620 716	Activities des User Cycles anpassen, so dass During Aktivitäten in der PrePhase platziert werden
+R5	supports Arg1:T11 Arg2:T6	
+T12	Claim 729 817	können in der PostPhase noch Social Media Aspekte mit aufgenommen werden siehe Runtastic
+T13	Claim 833 867	finde ich die Abgabe sehr gelungen

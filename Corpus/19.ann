@@ -1,0 +1,55 @@
+T1	Claim 67 240	Ich finde der Kommilitone hat seine Aufgabe gut erfüllt, alle wesentlichen Punkte der Geschäftsfeldbeschreibung sind abgedeckt und die Inhalte machen Sinn und sind stringent
+T2	Claim 242 291	Besonders gut gefällt mir die Geschäftsmodellidee
+T3	Premise 293 522	Ich finde sie persönlich sehr innovativ und es greift einen wichtigen Trend auf, dass auf der einen Seite Marketinbudgets immer mehr gekürtz werden, auf der anderen Seite aber Kunden stehen, welche individuelle Angebote verlangen
+R1	supports Arg1:T3 Arg2:T2	
+T4	Claim 524 583	Mit dieser Lösung werden zwei Fliegen auf einmal geschlagen
+T5	Claim 658 699	ich persönlich sehe ein grosses Potenzial
+T6	Claim 701 756	Besonders gefällt mir auch der Innovationsgrad der Idee
+T7	Claim 849 992	Qualitative Beschreibung Hier noch präzisieren, wieso eben gerade die App/Web Entwickler sowie DetektionsystemEntwickler Lieferanten darstellen
+T8	Claim 996 1086	Qualitative Beschreibung Marktleistung Hier herrscht meiner Meinung nach ein durcheinander
+T9	Premise 1086 1138	wie ist das genau zu verstehen mit dem Einzelhändler
+R2	supports Arg1:T9 Arg2:T8	
+T10	Premise 1141 1244	Inwiefern ist der einfache Zugang zu seinen persönlichen Daten eine Marktleistung für den Einzelhändler
+R3	supports Arg1:T10 Arg2:T9	
+T11	Premise 1247 1293	ei der Kundendatenbank ist die nachvollziehbar
+T12	Claim 1295 1432	Hier klar unterteilen zwischen Marktleistung für Kundensegment private Kunden sowie für Kundensegmet institutionelle Kunden Einzelhändler
+R4	supports Arg1:T11 Arg2:T8	
+T13	Claim 1436 1582	SWOTAnalyse Stärken Ich habe das Gefühlt, dass hier einfach die kritischen Erfolgsfaktoren 11 übernommen wurde, dies muss aber nicht der Fall sein
+T14	Claim 1584 1644	Dass die Kernkompetenzn auch erwähnt ist, mach durchaus Sinn
+T15	Premise 1646 1765	Erfolsfaktoren sind Faktoren welche erfüllt werden sollten, müssen aber per se keine Stärke des Unternehmens darstellen
+T16	Claim 1767 1889	Hier sollte man sich nochmals kritisch überlegen welche Fähigkeiten der von Purchapp wirklich genau eine Stärke darstellen
+R5	supports Arg1:T15 Arg2:T16	
+T17	Claim 2032 2134	Abgrenzung des Geschäftsfeldes Marktleistung Hier würde ich die Beschreibung noch detaillierter machen
+T18	Premise 2135 2280	mit Angebot von kundenspezifischen und integrierten Marketinglösungen  ist nicht genau nachvollziehbar, was diese Dienstleistung genau beinhaltet
+T19	Premise 2287 2319	es ist sehr generisch formuliert
+R7	supports Arg1:T19 Arg2:T17	
+R6	supports Arg1:T18 Arg2:T19	
+T20	Premise 2321 2525	Allenfalls könnte man hier schreiben Angebot von kundenspezifischen und integrierten Marketinglösungen in Form von Rabatten und Sonderangeboten, die der Einzelhandelskunde per Notification über App erhält
+R8	supports Arg1:T20 Arg2:T17	
+T21	Claim 2533 2650	würde ich Kunden DatenbankSammlung zu Kundendatenbank Data Analyzing Plattform für Einzelhändler, Marketer und Werber
+T22	Claim 2655 2725	Abgrenzung des Geschäftsfeldes Kundensegment Marken zu Marketer ändern
+T23	Claim 2728 2976	KurzCharakteristika ihres Unternehmens Hier würde ich nach dem ersten Satz nicht direkt zum Angebot für Einzelhändler, Marketer, .. wechseln, sondern zuerst die Dienstleistung für den Einzelhandelskunden beschreiben, wie dies in Satz 3 gemacht wird
+T24	Claim 2978 3010	Also Satz 3 als Satz 2 schreiben
+T25	Claim 3012 3206	Beim letzten Satz würde ich betreffend der Zielbeschreibung noch präzisieren bzw. klarer unterscheiden, was das Ziel jeweils für den Einzelhandelskunden ist und was für das Segment Einzelhändler
+T26	Claim 3219 3431	für den Einzelhandelskunden Die App hat zum Ziel einerseits für den Einzelhandelskunden die bestmöglichen Kaufmöglichkeiten zu finden, welche basierend auf dem individuellen Kaufverhalten sowie Vorlieben basieren
+T27	Premise 3433 3585	Andererseits setzt sich PurchApp zum Ziel, für Einzelhändler, durch die Data Analyzing zielkundenspezifischere Marketingsmassnahmen entwickeln zu können
+R9	attacks Arg1:T27 Arg2:T26	
+T28	Claim 3590 3728	Qualitative Beschreibung Kunden Hier würde ich die Unterscheidung machen zwischen privaten Kunden und institutionelle Kunden Einzelhändler
+T29	Claim 3734 3923	Qualitative Beschreibung Umwelt/Technologie Ich finde den zweiten Satz irrelevant für Purchapp und sehe keinen Zusammenhang zwischen ökologischer Sicht und den Dienstleistungen von Purchapp
+T30	Premise 3925 4113	Mit Umwelt ist nicht per se die Ökologie in diesem Zusammenhang gemeint sondern die Unternehmensumwelt  also alle relevanten Trends, die das Geschäftsmodell von Purchapp beinflussen können
+R10	supports Arg1:T30 Arg2:T29	
+T31	Premise 4119 4340	könnte man hier erwähnen, dass Kunden immer individueller angesprochen werden wollen oder das klassische Marketingbudgets aufgrund der Möglichkeit von preisgünstigerer Werbung über Social Media immer mehr reduziert werden
+R11	supports Arg1:T31 Arg2:T30	
+T32	Claim 4345 4483	Kritischer Erfolgsfaktoren Hier würde ich nicht die Verfügbarkeit als kritischen Erfolgsfaktor nennen, sondern die Zuverlässigkeit der App
+T33	Premise 4485 4556	durch Zuverlässigkeit werden die Angebote schlussendlich auch verfügbar
+R12	supports Arg1:T33 Arg2:T32	
+T34	Claim 4561 4743	Kernkompetenzen Hoch individualiserte und integrierte Marketinglösung ist per se keine Kernkomeptenz sondern die Generierung von individualisierten und integrierten Marketinglösungen
+T35	Claim 4751 4845	sollte der Aufbau und Pflege der Platform eine Kernkompetenz sein, nicht die Plattform an sich
+T36	Premise 4849 4979	Swot Analyse Gefahren Hier wird die Vorwärtsintegration erähnt, allerdings ist dies sonst nirgend in der ganzen Arbeit ersichtlich
+T37	Claim 4981 5059	hier allenfalls die Vorwartsintegration noch unter Umwelt/technologie erwähnen
+R13	supports Arg1:T36 Arg2:T37	
+T38	Claim 5062 5265	Massnahmen Langfristige Vereinbarungen mit Einzelhändler, Marken und Werber aushandeln finde ich ein wenig aus der Luft gegriffen, hier noch präzisieren wieso diese Massnahme genau lanciert werden sollte
+T39	Premise 5273 5408	sollte man bei den Massnahmen immer auch Massnahmen integrieren, welche die Schwächen und Gefahren in der SWOTAnalyse mitigieren können
+R14	supports Arg1:T39 Arg2:T38	
+T40	Premise 5415 5520	könnte man durch Akquise von DataExperten die Komplexität bei der Verwaltung der Datenanalysen reduzieren
+R15	supports Arg1:T40 Arg2:T39	

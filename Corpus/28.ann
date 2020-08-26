@@ -1,0 +1,20 @@
+T1	Claim 10 54	Aufgabenteil A finde ich hervorragend gelöst
+T2	Claim 104 179	bei Teil B habe ich dann zwei, drei Sachen die ich etwas anders sehe als du
+T3	Premise 187 425	Teilweise gehen deine Value Exchanges nicht zu den Value Ports sondern setzen an den Value Interfaces an Ich würde die Gebühr noch ergänzen um Kapital, um etwas genauer anzuzeigen dass die Gebühr mit dem erhaltenen Kapital in Abhängigkeit
+R1	attacks Arg1:T3 Arg2:T1	
+T4	Claim 505 567	es macht so also für die Band keinen Sinn Werbung darzustellen
+T5	Premise 572 596	diese nicht gesehen wird
+R2	supports Arg1:T5 Arg2:T4	
+T6	Premise 438 459	Wer sieht die Werbung
+R3	supports Arg1:T6 Arg2:T5	
+T7	Premise 599 633	Bitte die Facebook Nutzer ergänzen
+T8	Premise 634 718	In der Aufgabenstellung steht, dass der Initiator Werbung macht, nicht die Plattform
+T9	Premise 720 825	Die Value Exchanges zwischen Crowdfunding Plattform und Online Marketer sind für mich deshalb nicht nötig
+R4	supports Arg1:T8 Arg2:T7	
+T10	Premise 828 990	rundsätzlich geht es bei der Aufgabe B ja darum, dass man auf Facebook Werbung schaltet und die Facebook User das sehen  egal ob diese auch investieren oder nicht
+T11	Premise 992 1079	Ich sehe deshalb nicht ganz, was die Crowdfunding Plattform dabei für eine Rolle spielt
+R6	supports Arg1:T10 Arg2:T11	
+T12	Claim 1081 1221	Diese würde ich ganz weglassen und nur die Interaktion zwischen User, Facebook und Initiator aufzeigen, wie in der Aufgabenstellung verlangt
+R7	supports Arg1:T11 Arg2:T12	
+R5	supports Arg1:T7 Arg2:T9	
+R8	supports Arg1:T9 Arg2:T12	

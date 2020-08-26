@@ -1,0 +1,23 @@
+T1	Claim 26 60	Klar verständliches Geschäftsmodel
+T2	Premise 62 117	Es ist mir einmaligen Lesen verständlich, worum es geht
+R1	supports Arg1:T2 Arg2:T1	
+T3	Claim 126 168	Präzise ausgefülltes Business Model Canvas
+T4	Premise 170 235	Es sind alle notwendigen Punkte sauber und vollständig aufgeführt
+R2	supports Arg1:T4 Arg2:T3	
+T5	Premise 243 407	Schaffung eines Dienstes, welcher eine Vielzahl bestehender Dienstleistungen und Prozesse des eigenen Lebens digitalisiert und damit Standardisiert und Routinisiert
+T7	Premise 465 564	Die Technik unterstützt den Nutzer, anstatt dass dieser die Prozess selbst aufwendig betreiben muss
+T9	Claim 733 826	Bei Key Ressources hätte man ggf. noch die Mitarbeiter, besonders aus der IT, erwähnen müssen
+T11	Claim 966 1045	Es wären ggf. noch die Integration weiterer Produkte der Kunden möglich gewesen
+T12	Premise 1066 1175	Solche Dienste bieten eine nützliche Quelle verschiedenster Informationen zu Vorlieben veganer, nicht veganer
+R6	supports Arg1:T12 Arg2:T11	
+T13	Claim 1290 1384	Eine der Key Activities sollte meiner Meinung nach auch die Gewinnung von Neukunden darstellen
+T15	Premise 1448 1501	Ohne Nutzer ist eine Plattform wertlos Netzwerkeffekt
+T6	Claim 417 463	kann ein WellBeing beim Kunden erreicht werden
+R3	supports Arg1:T5 Arg2:T6	
+R4	supports Arg1:T7 Arg2:T6	
+T8	Claim 586 659	Das zu lösende Problem kann ggf. noch etwas stärker herausgestellt werden
+T10	Premise 831 909	diese eine essentiellen Grundbaustein für die Funktion des Dienstes darstellen
+R5	supports Arg1:T10 Arg2:T9	
+T14	Premise 1389 1446	diese essentiell für die Wertsteigerung der Plattform ist
+R7	supports Arg1:T14 Arg2:T13	
+R8	supports Arg1:T15 Arg2:T13	
